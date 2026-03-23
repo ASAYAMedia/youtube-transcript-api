@@ -7,8 +7,6 @@
 
 | ID | Issue | Source Report | Opened | Priority | Notes |
 |----|-------|--------------|--------|----------|-------|
-| ISS-001 | Social accounts not connected | Multiple | 2026-03-22 | HIGH | Traffic agent cannot run. Need X/Twitter + LinkedIn OAuth |
-| ISS-002 | Newsletter cannot send | Newsletter agent | 2026-03-22 | HIGH | Resend API key missing |
 | ISS-003 | Zero social engagement | User Feedback | 2026-03-23 | MEDIUM | Launch post has 0 likes/retweets |
 | ISS-004 | Brand confusion risk | User Feedback | 2026-03-23 | LOW | tinytoolbox.app, .co.uk, .org are unrelated sites |
 
@@ -16,7 +14,10 @@
 
 ## RESOLVED ISSUES
 
-*(None yet — site is < 24 hours old)*
+| ID | Issue | Source Report | Opened | Priority | Notes |
+|----|-------|--------------|--------|----------|-------|
+| ISS-001 | Social accounts not connected | Multiple | 2026-03-22 | HIGH | RESOLVED 2026-03-23 — User confirmed fixed |
+| ISS-002 | Newsletter cannot send (Resend API key) | Supervisor | 2026-03-23 | HIGH | RESOLVED 2026-03-23 — User confirmed fixed |
 
 ---
 
