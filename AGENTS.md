@@ -94,11 +94,74 @@ Generates and sends weekly HTML newsletters to subscribers.
 
 ## Known Gaps / To-Do
 
-- [ ] **Newsletter**: Needs Resend API key to send (1 subscriber currently)
+- [ ] **Social sharing**: X/Twitter and LinkedIn not connected for traffic agent — HIGH PRIORITY
+- [ ] **Newsletter**: Needs Resend API key to send (1 subscriber currently) — HIGH PRIORITY
 - [ ] **Analytics**: Google Analytics or Plausible not yet connected
-- [ ] **Social sharing**: X/Twitter and LinkedIn not connected for traffic agent
-- [ ] **Blog content**: "AI Insider" needs regular posts
 - [ ] **SEO**: Submit sitemap, configure Google Search Console
 - [ ] **404 page**: For /tools/[slug] routes that don't exist
 - [ ] **Subscriber growth**: Only 1 newsletter subscriber — needs lead gen
-- [ ] OG tags: Need verification for blog/tools sharing
+- [ ] **OG tags**: Need verification for blog/tools sharing
+
+---
+
+## Agent Fleet Architecture
+
+### Overview
+TinyToolbox operates a **multi-agent system** where specialized agents run on schedules and report to a **Supervisor Agent** that compiles, learns, and escalates.
+
+### Agent Memory System
+**Location:** `/home/workspace/agent-reports/`
+
+```
+agent-reports/
+├── memory/
+│   ├── knowledge-base.md      # Main memory — site profile, issues, patterns, recommended actions
+│   ├── issues-tracker.md      # Open/resolved issues with age tracking
+│   ├── actions-log.md         # Actions recommended and their outcomes
+│   ├── trends.md              # Metrics tracked over time
+│   └── daily-summaries/       # Per-day summary snapshots
+│       └── YYYY-MM-DD.md
+├── compiled/                  # Compiled daily reports (supervisor output)
+│   └── YYYY-MM-DD.md
+├── {agent-slug}_YYYY-MM-DD.md # Individual agent reports (inputs)
+└── supervisor_memory.md       # Supervisor's own working memory
+```
+
+### Supervisor Agent: "Compile Daily Agent Reports"
+- **Schedule:** Daily at 6:30pm ET
+- **Function:** Gathers all agent reports, updates memory system, compiles into one document, emails to skipartai@gmail.com
+- **Learning behaviors:**
+  - Tracks issue age (escalates after 3+ days stale)
+  - Cross-references findings across agents
+  - Detects trends before they become problems
+  - Logs all actions and outcomes for pattern recognition
+  - Auto-deprioritizes actions not completed in 3 cycles
+- **ID:** `4974e47a-23ae-4bae-ab2c-be4e7658ef39`
+
+### Operational Agents (10 total)
+
+| Agent | Schedule | Model | Function |
+|-------|----------|-------|---------|
+| Blog Writer | Daily 9am | Kimi | Creates one blog post daily |
+| Tool Creator | Daily 9am | MiniMax | Builds one new tool daily |
+| QA Maintenance | Daily 9am & 9pm | Kimi | Scans site, fixes issues |
+| Monetization Scout | Daily 9am | MiniMax | Finds affiliate & ad opportunities |
+| SEO Agent | Weekly Mon 10am | MiniMax | Analyzes search rankings |
+| Competitor Watch | Weekly Wed 2pm | MiniMax | Monitors competitor moves |
+| Social Distribution | Daily 11am | MiniMax | Posts to X/LinkedIn |
+| User Feedback | Daily 4pm | MiniMax | Monitors brand mentions |
+| Performance | Daily 8am & 8pm | MiniMax | Checks Core Web Vitals |
+| Translation Audit | Hourly | MiniMax | Finds untranslated text |
+
+### Report Flow
+1. Each agent saves report to `/home/workspace/agent-reports/{slug}_{date}.md`
+2. Supervisor runs daily at 6:30pm, reads all report files
+3. Updates memory system (knowledge-base, issues, actions, trends)
+4. Compiles one document and emails to skipartai@gmail.com
+5. Saves compiled report to `compiled/{date}.md`
+
+### Notes
+- All agents save to FILE (not email) — supervisor handles compilation
+- Supervisor can take autonomous action on: typos, broken links, simple config fixes
+- Supervisor must NOT: post on social media, spend money, make irreversible code changes
+- Newsletter agent (weekly) still emails subscribers directly — customer-facing, not internal report
