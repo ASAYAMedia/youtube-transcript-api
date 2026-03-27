@@ -1,0 +1,15 @@
+# Pin Image Generation Instructions
+Pin ID: coin-flipper-4
+Tool: Coin Flipper
+Category: Fun
+
+PROMPT:
+Pinterest pin for "Coin Flipper" Fun tool. Dark modern aesthetic with gradient accents. Clean typography "Free Coin Flipper — Try It Now" on black background. Glass morphism card style. Minimalist tech design. No text in image itself, just UI mockup. Category color: purple/blue.
+
+DESIGN NOTES:
+- Dimensions: 1000x1500px (2:3 ratio)
+- Style: Dark modern, glass morphism
+- Background: Deep black with subtle gradient
+- Text overlay area: Center 40%
+- Brand: tinytoolbox.co (watermark corner)
+- Colors: Match Fun category

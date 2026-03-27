@@ -1,0 +1,5 @@
+{
+  "tier1": ["gradient-generator", "glassmorphism-generator", "password-generator", "qr-code-generator", "color-palette", "json-formatter", "cron-generator", "box-shadow-generator", "meta-tag-generator", "sitemap-generator"],
+  "tier2": ["fancy-font", "cursive-text", "vaporwave", "upside-down", "temperature-converter", "currency-converter", "bmi-calculator", "tip-calculator", "loan-calculator", "mortgage-calculator", "tax-calculator"],
+  "tier3": []
+}

@@ -1,0 +1,15 @@
+# Pin Image Generation Instructions
+Pin ID: spin-wheel-2
+Tool: Spin the Wheel
+Category: Fun
+
+PROMPT:
+Pinterest pin for "Spin the Wheel" Fun tool. Dark modern aesthetic with gradient accents. Clean typography "Stop [Problem] — Try Free Fun" on black background. Glass morphism card style. Minimalist tech design. No text in image itself, just UI mockup. Category color: purple/blue.
+
+DESIGN NOTES:
+- Dimensions: 1000x1500px (2:3 ratio)
+- Style: Dark modern, glass morphism
+- Background: Deep black with subtle gradient
+- Text overlay area: Center 40%
+- Brand: tinytoolbox.co (watermark corner)
+- Colors: Match Fun category
