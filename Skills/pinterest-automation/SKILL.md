@@ -9,87 +9,108 @@ allowed-tools: Bash,Read,Write,WebSearch,GenerateImage
 
 # Pinterest Automation Skill
 
-## Overview
-
-Pinterest = lowest competition, fastest organic growth for tool sites. This skill turns 431 TinyToolbox tools into a traffic engine.
-
-## Traffic Strategy
-
-| Method | Daily Earnings | Competition |
-|--------|---------------|-------------|
-| Pinterest Affiliate | $200-800/day | Very Low |
-| Faceless YouTube | $500-5000/day | Medium |
-| AI Content Repurposing | $100-300/day | Low |
-
-**Why Pinterest for TinyToolbox:**
-- 431 tools = 1000+ pin opportunities (3-5 pins per tool)
-- Visual tools rank in Google Images
-- Each pin = permanent traffic asset
-- Developer/designer audience active on Pinterest
-
-## Pin Format Strategy
-
-### Dimensions
-- Standard: 1000x1500px (2:3) — best organic reach
-- Story: 1080x1920px (9:16) — Idea Pins
-
-### Title Formulas
-- "Free [Tool Name] — [Benefit] in Seconds"
-- "[Number] [Category] Tools You Need [Year]"
-- "Stop [Pain Point] — Try This Free Tool"
-- "The Only [Category] Tool You'll Ever Need"
-
-### Description Template
-[Hook] + [Benefit] + [CTA] + [Hashtags 3-5]
-
-## Directory Structure
-
-```
-Skills/pinterest-automation/
-├── SKILL.md
-├── scripts/
-│   ├── generate-pins.ts
-│   ├── generate-pin-image.ts
-│   └── post-to-pinterest.ts
-├── assets/
-│   └── pin-templates/
-├── output/
-│   ├── pins/
-│   └── scheduled/
-└── data/
-    └── tool-priority.json
-```
-
-## Priority Tool Queue
-
-**Tier 1** (5 pins each): color-tools, gradient-generator, glassmorphism-generator, password-generator, qr-code-generator
-
-**Tier 2** (3 pins each): seo-tools, converters, finance calculators, text generators
-
-**Tier 3** (1-2 pins each): Everything else
-
-## Commands
+## Quick Start (5 Minutes)
 
 ```bash
-# Generate pins
 cd /home/workspace/Skills/pinterest-automation/scripts
-bun generate-pins.ts --count 10 --priority high
 
-# Generate specific tool
-bun generate-pin-image.ts --tool gradient-generator
+# Step 1: Generate pin metadata
+bun generate-pins.ts --count 10
 
-# Post to Pinterest
-bun post-to-pinterest.ts --pin output/pins/gradient-1.png
+# Step 2: List pins ready to post
+bun browser-poster.ts --list
+
+# Step 3: Get posting details for a pin
+bun browser-poster.ts --pin gradient-generator-1
+
+# Step 4: Open Pinterest and post (manual)
+# Follow the printed guide or run saved script
+bash output/logs/post-gradient-generator-1.sh
 ```
 
-## API Setup
+## Browser Automation Mode
 
-1. Create Pinterest Business Account at business.pinterest.com
-2. Apply for API at developers.pinterest.com
-3. Or use browser automation via agent-browser
+Since Pinterest API requires a refreshed token (current one expired 401), use browser mode:
 
-## Success Metrics
+**Manual Posting (Fastest):**
+```bash
+# Get all details for a pin
+bun browser-poster.ts --pin gradient-generator-1
 
-- Target: 100 pins posted in first month
-- Target: 1000 monthly clicks to tinytoolbox.co by month 3
-- Track: Repins, clicks, outbound traffic
+# Output shows:
+#   - Title (optimized)
+#   - Description (with hashtags)
+#   - Link (to tool)
+#   - Board recommendation
+
+# Then manually:
+# 1. Visit https://www.pinterest.com/pin-builder/
+# 2. Copy/paste from output above
+# 3. Add image from OG tags or upload
+# 4. Publish
+```
+
+**Batch Mode:**
+```bash
+# Generate 50 pins for top tools
+for tool in gradient-generator glassmorphism-generator color-palette password-generator qr-code-generator; do
+  bun generate-pins.ts --tool $tool --count 3
+done
+```
+
+## API Mode (When Token Refreshed)
+
+```bash
+# Test connection
+PINTEREST_API_KEY="your_token" bun post-to-pinterest.ts --test
+
+# Post to specific board
+bun post-to-pinterest.ts --post-board "Developer Tools" --limit 3
+
+# Auto-post scheduled pins
+bun post-to-pinterest.ts --scheduled --limit 10
+```
+
+## Why Pinterest for TinyToolbox
+
+| Factor | Pinterest | Instagram | Twitter |
+|--------|-----------|-----------|----------|
+| Organic Reach | **High** | Low | Low |
+| Tool Discovery | **Excellent** | Poor | Poor |
+| Click-through | **Strong** | Weak | Medium |
+| Competition | **Low** for dev tools | High | High |
+| Content Lifespan | **Years** | Hours | Minutes |
+
+## Pin Strategy
+
+**Top Performing Tool Categories:**
+1. **Color/Design** — gradient, palette, glassmorphism
+2. **SEO** — meta tags, sitemap, OG preview
+3. **Converters** — image, PDF, color
+4. **Generators** — passwords, QR codes, logos
+5. **Finance** — calculators, mortgage, crypto
+
+**Pin Titles That Convert:**
+- "Free [Tool] — [Result] in Seconds"
+- "[Number] Best [Category] Tools [Year]"
+- "Stop [Pain Point] — Free Tool Inside"
+- "UX Designers: This Changes Everything"
+
+## Current Status
+
+| Metric | Value |
+|--------|-------|
+| Tools Registered | 431 |
+| Pins Generated | ~100+ |
+| Boards Needed | ~10-14 |
+| API Status | 401 (needs refresh) |
+| Browser Mode | ✅ Ready |
+
+## Next Steps
+
+1. **Generate 50 pins** for Tier 1 tools
+2. **Create Pinterest account** if not exists
+3. **Set up boards** matching tool categories
+4. **Post 3-5 pins daily** for 30 days
+
+Track results in `/home/workspace/pinterest-traffic.md`

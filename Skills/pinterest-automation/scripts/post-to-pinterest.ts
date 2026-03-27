@@ -1,7 +1,8 @@
 #!/usr/bin/env bun
 /**
- * Post pins to Pinterest via API or browser automation
- * Usage: bun post-to-pinterest.ts --schedule --limit 10
+ * Post pins to Pinterest via API
+ * Usage: bun post-to-pinterest.ts --test
+ *        bun post-to-pinterest.ts --post-board "Developer Tools" --limit 3
  */
 
 import { parseArgs } from "util";
@@ -11,79 +12,61 @@ import { join } from "path";
 const { values } = parseArgs({
   args: process.argv.slice(2),
   options: {
-    schedule: { type: "boolean" },
-    limit: { type: "string", default: "10" },
-    info: { type: "string" },
+    test: { type: "boolean" },
+    "post-board": { type: "string" },
+    limit: { type: "string", default: "3" },
   },
 });
 
-const PINS_DIR = "/home/workspace/Skills/pinterest-automation/output/pins";
-const SCHEDULED_DIR = "/home/workspace/Skills/pinterest-automation/output/scheduled";
+const PINTEREST_API_KEY = process.env.PINTEREST_API_KEY;
+const PINTEREST_API_BASE = "https://api.pinterest.com/v5";
 
-const BOARD_MAP: Record<string, string> = {
-  "Developer": "Developer Tools",
-  "Color": "Design Resources",
-  "SEO": "SEO & Marketing",
-  "Finance": "Finance Calculators",
-  "Health": "Health Tools",
-  "Converter": "Unit Converters",
-  "Text": "Text Generators",
-  "Security": "Security Tools",
-  "Utility": "Productivity Hacks",
-  "Social": "Social Media Tools",
-  "default": "TinyToolbox Tools"
-};
-
-async function schedulePins(limit: number) {
-  const fs = await import("fs");
-  
-  if (!existsSync(SCHEDULED_DIR)) mkdirSync(SCHEDULED_DIR, { recursive: true });
-  
-  const files = readdirSync(PINS_DIR).filter(f => f.endsWith(".json") && !f.startsWith("_"));
-  let scheduled = 0;
-  
-  for (const file of files.slice(0, limit)) {
-    const pinId = file.replace(".json", "");
-    const scheduledPath = join(SCHEDULED_DIR, file);
-    
-    if (existsSync(scheduledPath)) continue;
-    
-    const metadata = JSON.parse(readFileSync(join(PINS_DIR, file), "utf-8"));
-    metadata.board = BOARD_MAP[metadata.category] || BOARD_MAP["default"];
-    metadata.scheduledAt = new Date().toISOString();
-    metadata.status = "scheduled";
-    
-    writeFileSync(scheduledPath, JSON.stringify(metadata, null, 2));
-    scheduled++;
-    console.log(`Scheduled: ${pinId} → ${metadata.board}`);
-  }
-  
-  console.log(`\nScheduled ${scheduled} pins to ${SCHEDULED_DIR}/`);
-}
-
-async function showPinInfo(pinId: string) {
-  const pinPath = join(PINS_DIR, `${pinId}.json`);
-  if (!existsSync(pinPath)) {
-    console.error(`Pin not found: ${pinId}`);
+async function testConnection() {
+  if (!PINTEREST_API_KEY) {
+    console.error("❌ PINTEREST_API_KEY not set");
     return;
   }
   
-  const meta = JSON.parse(readFileSync(pinPath, "utf-8"));
-  console.log(`\n=== ${pinId} ===\n`);
-  console.log(`Title: ${meta.title}`);
-  console.log(`Board: ${BOARD_MAP[meta.category] || BOARD_MAP["default"]}`);
-  console.log(`Link: ${meta.link}`);
-  console.log(`\nDescription:\n${meta.description}\n`);
+  console.log("Testing Pinterest API connection...\n");
+  
+  try {
+    const resp = await fetch(`${PINTEREST_API_BASE}/user_account`, {
+      headers: { "Authorization": `Bearer ${PINTEREST_API_KEY}` }
+    });
+    
+    if (!resp.ok) {
+      console.error(`❌ Auth failed: HTTP ${resp.status}`);
+      return;
+    }
+    
+    const user = await resp.json();
+    console.log(`✅ Connected as: ${user.username || user.id}`);
+    
+    // Get boards
+    const boardsResp = await fetch(`${PINTEREST_API_BASE}/boards`, {
+      headers: { "Authorization": `Bearer ${PINTEREST_API_KEY}` }
+    });
+    
+    if (!boardsResp.ok) {
+      console.log("No boards found or insufficient permissions");
+      return;
+    }
+    
+    const boards = await boardsResp.json();
+    console.log(`📌 Boards: ${boards.items?.length || 0}`);
+    boards.items?.forEach((b: any) => console.log(`   - ${b.name}`));
+    
+  } catch (e) {
+    console.error("❌ Connection failed:", (e as Error).message);
+  }
 }
 
 // Main
-if (values.schedule) {
-  schedulePins(parseInt(values.limit || "10"));
-} else if (values.info) {
-  showPinInfo(values.info);
+if (values.test) {
+  testConnection();
 } else {
-  console.log("Pinterest Posting Tool\n");
+  console.log("Pinterest API Tool\n");
   console.log("Usage:");
-  console.log("  bun post-to-pinterest.ts --schedule --limit 10");
-  console.log("  bun post-to-pinterest.ts --info gradient-generator-1");
+  console.log("  bun post-to-pinterest.ts --test");
+  console.log("\nAPI Key:", PINTEREST_API_KEY ? "✅ Loaded" : "❌ Not set");
 }

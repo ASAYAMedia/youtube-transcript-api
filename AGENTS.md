@@ -11,7 +11,7 @@ I assist Daniel Lamberth, CEO & Creative Director of ASAYA Media. Website: https
 **Local Path:** `/home/workspace/tinytoolbox-github`  
 **Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS 4, Framer Motion, Lucide React
 
-**What it is:** A free browser-native micro-tool platform with 316 single-purpose utilities (PDF, converters, generators, AI tools, games) across categories: Developer, Text, Security, Color, SEO, Math, Finance, Health, Time, Converter, Utility, Social, Games.
+**What it is:** A free browser-native micro-tool platform with **431** single-purpose utilities (PDF, converters, generators, AI tools, games) across categories: Developer, Text, Security, Color, SEO, Math, Finance, Health, Time, Converter, Utility, Social, Games.
 
 **Site Structure:**
 - `/` — Home (Hero → Ticker → Features → **Fresh Additions** → ToolGrid → Footer)
@@ -67,6 +67,15 @@ Generates and sends weekly HTML newsletters to subscribers.
 2. Add `RESEND_API_KEY` to [Settings > Advanced](/?t=settings&s=advanced) as secret
 3. Run: `cd /home/workspace/Skills/tinytools-newsletter/scripts && bun run generate-newsletter.ts && bun send-newsletter.ts`
 
+### `pinterest-automation` — Pinterest Automation
+Location: `/home/workspace/Skills/pinterest-automation/SKILL.md`
+Automates the creation and posting of AI-generated Pinterest pins for low-competition keywords.
+
+**Setup (PINTEREST_AFFILIATE.md):**
+1. Get API key from https://developers.pinterest.com
+2. Add `PINTEREST_API_KEY` to [Settings > Advanced](/?t=settings&s=advanced) as secret
+3. Run: `cd /home/workspace/Skills/pinterest-automation/scripts && bun run generate-pins.ts && bun post-pins.ts`
+
 ---
 
 ## Rules (from Daniel's preferences)
@@ -101,6 +110,7 @@ Generates and sends weekly HTML newsletters to subscribers.
 - [ ] **404 page**: For /tools/[slug] routes that don't exist
 - [ ] **Subscriber growth**: Only 1 newsletter subscriber — needs lead gen
 - [ ] **OG tags**: Need verification for blog/tools sharing
+- [ ] **Pinterest automation**: Partially done. API key needed, scripts not yet integrated.
 
 ---
 
