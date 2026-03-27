@@ -72,3 +72,16 @@
 ---
 
 *Updated by Supervisor Agent after each compile cycle*
+
+---
+
+## 2026-03-27 MONETIZATION SCOUT ADDITIONS
+
+| ID | Action | Recommended By | Created | Status | Notes |
+|----|--------|---------------|---------|--------|-------|
+| ACT-021 | Apply to DigitalOcean Affiliate Program | Monetization Scout | 2026-03-27 | Pending | $200/sale, dev tools audience — P0 |
+| ACT-022 | Apply to Ezoic Ad Network | Monetization Scout | 2026-03-27 | Pending | $5–15 RPM, replaces/augments AdSense — P1 |
+| ACT-023 | Apply to Taskade Affiliate Program | Monetization Scout | 2026-03-27 | Pending | 20% recurring lifetime — AI/productivity tools |
+| ACT-024 | Apply to ConvertKit Affiliate Program | Monetization Scout | 2026-03-27 | Pending | 30% first year recurring — newsletter audience |
+| ACT-025 | Apply to Notion Partner Program | Monetization Scout | 2026-03-27 | Pending | 20% recurring — productivity audience |
+| ACT-026 | Apply to Monetag Ad Network | Monetetag Scout | 2026-03-27 | Pending | No minimum, backup to Ezoic |

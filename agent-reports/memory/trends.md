@@ -9,6 +9,18 @@
 |------|-------------|-----|-----|-----|------|-------|
 | 2026-03-23 | ~65–75 | ~2.5–3.5s | ~50–100ms | ~0.05–0.15 | 838ms | First measurement — TTFB good, canvas animations a risk factor |
 | 2026-03-24 | ~72–78 | ~2.0–2.5s | ~50–80ms | ~0.08–0.15 | 318ms | TTFB cut 62%, blocking scripts eliminated, preconnect hints added. Score improved +7-13 pts |
+| 2026-03-27 AM | Mobile Perf 96 / Desktop Perf 45 ⚠️ | Mobile: NO_LCP 🚨 / Desktop: 1.1s | Mobile: NO_LCP 🚨 / Desktop: 780ms | Mobile: 0.0 / Desktop: 0.707 🚨 | — | **SEVERE REGRESSION** — Desktop Perf dropped ~27 pts to 45. Mobile LCP broken (NO_LCP). Accessibility dropped to 73 (contrast issues). Desktop CLS at 0.707 (vs threshold 0.25). |
+
+---
+
+## Core Web Vital Thresholds (Google)
+
+| Vital | Good | Needs Improvement | Poor |
+|-------|------|------------------|------|
+| LCP | ≤2.5s | 2.5s–4s | >4s |
+| FID | ≤100ms | 100–300ms | >300ms |
+| CLS | ≤0.1 | 0.1–0.25 | >0.25 |
+| FCP | ≤1.8s | 1.8–3s | >3s |
 
 ---
 
@@ -93,4 +105,4 @@
 
 ---
 
-*Updated by Supervisor Agent after each compile cycle*
+*Updated by Performance Agent after each check run*
