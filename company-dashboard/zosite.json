@@ -1,0 +1,15 @@
+{
+  "name": "company-dashboard",
+  "local_port": 50388,
+  "entrypoint": "bun run dev",
+  "publish": {
+    "label": "company-dashboard",
+    "type": "http",
+    "entrypoint": "bun run prod",
+    "published_port": 55833,
+    "env": {
+      "NODE_ENV": "production",
+      "ZO_CLIENT_IDENTITY_TOKEN": "none"
+    }
+  }
+}
