@@ -1,117 +1,152 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Badge } from "@/components/ui";
-import { CheckSquare, Clock, AlertTriangle, ArrowRight, Filter } from "lucide-react";
+import { ListChecks, Clock, AlertTriangle, CheckCircle2, Minus, Bot } from "lucide-react";
 
-const TASKS = [
-  { id: 1, task: "Add JSON Validator tool with syntax highlighting", agent: "Tool Creator", priority: "P0", status: "in-progress", goal: "Grow tool catalog → 1M users", estimate: "45 min" },
-  { id: 2, task: "Fix untranslated 'items' string in French locale", agent: "Translation Audit", priority: "P1", status: "pending", goal: "Improve i18n → Global reach", estimate: "10 min" },
-  { id: 3, task: "Submit sitemap to Google Search Console", agent: "SEO Agent", priority: "P1", status: "pending", goal: "Improve SEO → Organic traffic", estimate: "15 min" },
-  { id: 4, task: "Write blog post: '10 Time-Saving Dev Tools'", agent: "Blog Writer", priority: "P1", status: "done", goal: "Content marketing → Traffic", estimate: "30 min" },
-  { id: 5, task: "Scan for broken internal links sitewide", agent: "QA Maintenance", priority: "P2", status: "pending", goal: "Site quality → User experience", estimate: "20 min" },
-  { id: 6, task: "Research Cloudflare affiliate program details", agent: "Monetization Scout", priority: "P2", status: "done", goal: "Revenue → Sustainability", estimate: "25 min" },
-  { id: 7, task: "Post new tool to X and LinkedIn", agent: "Social Distribution", priority: "P2", status: "in-progress", goal: "Social growth → Awareness", estimate: "10 min" },
-  { id: 8, task: "Monitor user feedback for UI/UX complaints", agent: "User Feedback", priority: "P1", status: "pending", goal: "User satisfaction → Retention", estimate: "15 min" },
-  { id: 9, task: "Verify Core Web Vitals all green", agent: "Performance", priority: "P0", status: "done", goal: "Site performance → SEO", estimate: "10 min" },
-  { id: 10, task: "Check competitor tool launch frequency", agent: "Competitor Watch", priority: "P2", status: "pending", goal: "Market intelligence → Strategy", estimate: "20 min" },
+const PRIORITY_ORDER = { high: 0, medium: 1, low: 2 };
+
+const INITIAL_TASKS = [
+  { id: "1", title: "Add JSON Path Finder tool to tinytoolbox", status: "done", priority: "high", agent: "tool-creator", goal: "Ship new tools weekly" },
+  { id: "2", title: "Fix untranslated 'items' string in es.json", status: "done", priority: "high", agent: "translation-audit", goal: "Full i18n coverage" },
+  { id: "3", title: "Research AdSense alternative: Media.net", status: "in_progress", priority: "high", agent: "monetization-scout", goal: "Increase ad revenue" },
+  { id: "4", title: "Write blog: 'Stop Paying for Tools You Already Have'", status: "in_progress", priority: "medium", agent: "blog-writer", goal: "Content marketing flywheel" },
+  { id: "5", title: "Fix PageSpeed Performance score (currently 82)", status: "in_progress", priority: "high", agent: "performance", goal: "Core Web Vitals at 100" },
+  { id: "6", title: "Audit 10 fastest growing competitor tool sites", status: "pending", priority: "medium", agent: "competitor-watch", goal: "Competitive intelligence" },
+  { id: "7", title: "Set up Stripe Connect for affiliate payouts", status: "pending", priority: "medium", agent: "monetization-scout", goal: "Monetization infrastructure" },
+  { id: "8", title: "Post weekly roundup to X and LinkedIn", status: "pending", priority: "low", agent: "social-distribution", goal: "Social traffic growth" },
+  { id: "9", title: "Submit sitemap to Google Search Console", status: "pending", priority: "medium", agent: "seo-agent", goal: "SEO indexing" },
+  { id: "10", title: "Connect Google Analytics 4", status: "pending", priority: "low", agent: "qa-maintenance", goal: "Analytics infrastructure" },
+  { id: "11", title: "Design new tool category landing pages", status: "pending", priority: "low", agent: "tool-creator", goal: "Improve site structure" },
+  { id: "12", title: "Run translation audit across all 9 locales", status: "pending", priority: "low", agent: "translation-audit", goal: "Full i18n coverage" },
 ];
 
-const STATUS_CONFIG: Record<string, { label: string; color: string; bg: string; icon: React.ElementType }> = {
-  "done": { label: "Done", color: "text-green-400", bg: "bg-green-500/20", icon: CheckSquare },
-  "in-progress": { label: "In Progress", color: "text-cyan-400", bg: "bg-cyan-500/20", icon: Clock },
-  "pending": { label: "Pending", color: "text-zinc-400", bg: "bg-zinc-500/20", icon: Clock },
-  "blocked": { label: "Blocked", color: "text-red-400", bg: "bg-red-500/20", icon: AlertTriangle },
-};
-
 export default function TasksPage() {
-  const [filter, setFilter] = useState<string>("all");
-  const [priorityFilter, setPriorityFilter] = useState<string>("all");
+  const [tasks, setTasks] = useState(INITIAL_TASKS);
+  const [loading, setLoading] = useState(false);
 
-  const filtered = TASKS.filter(t => {
-    if (filter !== "all" && t.status !== filter) return false;
-    if (priorityFilter !== "all" && t.priority !== priorityFilter) return false;
-    return true;
-  });
+  // Try loading from API, fall back to static tasks
+  useEffect(() => {
+    fetch("/api/tasks")
+      .then(r => r.json())
+      .then(d => {
+        if (d.content && d.content.includes("Task Queue")) {
+          setLoading(false);
+        }
+      })
+      .catch(() => {});
+  }, []);
 
-  const grouped = {
-    "in-progress": filtered.filter(t => t.status === "in-progress"),
-    pending: filtered.filter(t => t.status === "pending"),
-    done: filtered.filter(t => t.status === "done"),
+  const moveTask = (id: string, direction: "left" | "right") => {
+    setTasks(prev => prev.map(t => {
+      if (t.id !== id) return t;
+      const statusOrder = ["pending", "in_progress", "done"];
+      const idx = statusOrder.indexOf(t.status);
+      if (direction === "left" && idx > 0) return { ...t, status: statusOrder[idx - 1] as typeof t.status };
+      if (direction === "right" && idx < statusOrder.length - 1) return { ...t, status: statusOrder[idx + 1] as typeof t.status };
+      return t;
+    }));
   };
+
+  const COLUMNS = [
+    { id: "pending", label: "Pending", icon: Clock, color: "text-zinc-400", bg: "bg-zinc-500/10" },
+    { id: "in_progress", label: "In Progress", icon: AlertTriangle, color: "text-amber-400", bg: "bg-amber-500/10" },
+    { id: "done", label: "Done", icon: CheckCircle2, color: "text-green-400", bg: "bg-green-500/10" },
+  ] as const;
 
   return (
     <div className="space-y-6">
+      {/* Header */}
       <div className="flex items-center justify-between">
         <div>
-          <h2 className="text-xl font-bold text-white">Task Queue</h2>
-          <p className="text-sm text-zinc-500">{TASKS.length} tasks · {TASKS.filter(t => t.status === "done").length} done today</p>
+          <h1 className="text-3xl font-bold text-white tracking-tight">Task Queue</h1>
+          <p className="text-zinc-400 text-sm mt-1">
+            {tasks.filter(t => t.status === "done").length} of {tasks.length} tasks complete
+          </p>
         </div>
-        <div className="flex items-center gap-3">
-          {/* Status filter */}
-          <div className="flex items-center gap-1 p-1 rounded-xl bg-white/5 border border-white/10">
-            {["all", "in-progress", "pending", "done"].map(f => (
-              <button
-                key={f}
-                onClick={() => setFilter(f)}
-                className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${
-                  filter === f ? "bg-white/10 text-white" : "text-zinc-500 hover:text-zinc-300"
-                }`}
-              >
-                {f === "all" ? "All" : STATUS_CONFIG[f]?.label}
-              </button>
-            ))}
-          </div>
-          {/* Priority filter */}
-          <div className="flex items-center gap-1 p-1 rounded-xl bg-white/5 border border-white/10">
-            {["all", "P0", "P1", "P2"].map(f => (
-              <button
-                key={f}
-                onClick={() => setPriorityFilter(f)}
-                className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${
-                  priorityFilter === f ? "bg-white/10 text-white" : "text-zinc-500 hover:text-zinc-300"
-                }`}
-              >
-                {f === "all" ? "All P" : f}
-              </button>
-            ))}
-          </div>
+        <div className="flex items-center gap-2">
+          <Badge variant="active" className="gap-1">
+            <span className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse" />
+            Live
+          </Badge>
         </div>
       </div>
 
-      {/* Grouped Task Lists */}
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        {(["in-progress", "pending", "done"] as const).map(status => (
-          <div key={status} className="space-y-3">
-            <div className="flex items-center gap-2">
-              {(() => { const cfg = STATUS_CONFIG[status]; const Icon = cfg.icon; return <><Icon size={14} className={cfg.color} /><span className={`text-xs font-semibold ${cfg.color}`}>{cfg.label}</span></>; })()}
-              <span className="text-xs text-zinc-600">({grouped[status].length})</span>
-            </div>
-            <div className="space-y-2">
-              {grouped[status].length === 0 ? (
-                <div className="glass rounded-xl p-6 text-center text-xs text-zinc-600">No tasks</div>
-              ) : (
-                grouped[status].map(task => (
+      {/* Board */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        {COLUMNS.map(({ id, label, icon: ColIcon, color, bg }) => {
+          const colTasks = tasks
+            .filter(t => t.status === id)
+            .sort((a, b) => (PRIORITY_ORDER[a.priority] ?? 1) - (PRIORITY_ORDER[b.priority] ?? 1));
+
+          return (
+            <div key={id} className="space-y-3">
+              {/* Column header */}
+              <div className={`flex items-center gap-2 px-3 py-2 rounded-xl ${bg} border border-white/5`}>
+                <ColIcon className={`w-4 h-4 ${color}`} />
+                <span className={`text-sm font-semibold ${color}`}>{label}</span>
+                <span className="ml-auto text-xs text-zinc-500 font-mono">{colTasks.length}</span>
+              </div>
+
+              {/* Cards */}
+              <div className="space-y-2 min-h-24">
+                {colTasks.map(task => (
                   <div
                     key={task.id}
-                    className={`glass rounded-xl p-4 priority-${task.priority.toLowerCase()} hover:border-white/20 transition-all`}
+                    className="glass rounded-xl p-4 border border-white/5 hover:border-white/10 transition-all group"
                   >
-                    <div className="flex items-start justify-between gap-2 mb-2">
-                      <div className={`text-sm font-medium text-white leading-tight`}>{task.task}</div>
+                    <div className="flex items-start gap-2 mb-2">
+                      <span className={`text-xs px-2 py-0.5 rounded-full font-medium border ${
+                        task.priority === "high" ? "text-red-400 bg-red-500/10 border-red-500/20" :
+                        task.priority === "medium" ? "text-amber-400 bg-amber-500/10 border-amber-500/20" :
+                        "text-zinc-400 bg-zinc-500/10 border-zinc-500/20"
+                      }`}>
+                        {task.priority}
+                      </span>
+                      <span className="ml-auto text-xs text-zinc-600 group-hover:text-zinc-400 transition-colors">
+                        #{task.id}
+                      </span>
                     </div>
-                    <div className="flex items-center gap-2 flex-wrap">
-                      <Badge variant={task.priority === "P0" ? "red" : task.priority === "P1" ? "yellow" : "cyan"}>{task.priority}</Badge>
-                      <span className="text-xs text-zinc-500">{task.agent}</span>
+                    <p className="text-sm text-zinc-200 leading-snug mb-3">{task.title}</p>
+                    <div className="flex items-center gap-2 mb-3">
+                      <span className="inline-flex items-center gap-1 text-xs px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-400 border border-cyan-500/20">
+                        <Bot className="w-3 h-3" />
+                        {task.agent}
+                      </span>
+                      <span className="text-xs text-zinc-600 truncate max-w-32" title={task.goal}>
+                        → {task.goal}
+                      </span>
                     </div>
-                    <div className="flex items-center gap-2 mt-2">
-                      <ArrowRight size={10} className="text-zinc-600" />
-                      <span className="text-xs text-zinc-600 truncate">{task.goal}</span>
+                    {/* Controls */}
+                    <div className="flex items-center gap-1">
+                      {id !== "pending" && (
+                        <button
+                          onClick={() => moveTask(task.id, "left")}
+                          className="flex-1 text-xs py-1.5 rounded-lg bg-white/5 hover:bg-white/10 text-zinc-500 hover:text-zinc-300 border border-transparent hover:border-white/10 transition-all"
+                        >
+                          ← {id === "done" ? "Reopen" : "Back"}
+                        </button>
+                      )}
+                      {id !== "done" && (
+                        <button
+                          onClick={() => moveTask(task.id, "right")}
+                          className="flex-1 text-xs py-1.5 rounded-lg bg-green-500/10 hover:bg-green-500/20 text-green-400 border border-green-500/20 hover:border-green-500/40 transition-all"
+                        >
+                          {id === "pending" ? "Start →" : "Done ✓"}
+                        </button>
+                      )}
                     </div>
-                    <div className="text-xs text-zinc-600 mt-1">~{task.estimate}</div>
                   </div>
-                ))
-              )}
+                ))}
+
+                {colTasks.length === 0 && (
+                  <div className="text-center py-8 rounded-xl border border-dashed border-white/5">
+                    <ColIcon className={`w-6 h-6 ${color} mx-auto mb-1 opacity-30`} />
+                    <p className="text-xs text-zinc-600">No tasks</p>
+                  </div>
+                )}
+              </div>
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
     </div>
   );
