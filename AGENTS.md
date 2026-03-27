@@ -266,7 +266,11 @@ agent-reports/
 - Supervisor must NOT: post on social media, spend money, make irreversible code changes
 - Newsletter agent (weekly) still emails subscribers directly — customer-facing, not internal report
 
-## gstack Principles
+## Operating System (gstack + Superpowers)
+
+Two frameworks integrated into one disciplined workflow:
+
+### gstack Principles (Foundation)
 
 > Based on Garry Tan's gstack system (https://github.com/garrytan/gstack) — 50k stars, MIT license. Study these. Live them.
 
@@ -320,3 +324,64 @@ The best tools solve your own problem. The specificity of a real problem beats t
 - **Parallel sprints:** Multiple features in flight simultaneously, each with structured process
 - **Review before shipping:** /review catches bugs that pass CI but blow up in production
 - **QA with regression tests:** Every bug fix generates a test that prevents recurrence
+
+### Superpowers Methodology (Workflow Discipline)
+
+> From obra/superpowers (https://github.com/obra/superpowers) — 116k stars, MIT. Jesse Vincent / Prime Radiant. The core insight: agents MUST NOT jump straight into code. They must think first.
+
+#### The Iron Law (Non-Negotiable)
+```
+NO PRODUCTION CODE WITHOUT A FAILING TEST FIRST
+```
+Write code before tests → delete it and start over with TDD. No exceptions.
+
+#### The Mandatory Skill Sequence (for every creative work)
+
+**BEFORE ANY IMPLEMENTATION — even "simple" stuff:**
+
+1. **brainstorming** — Activates before writing code. Refines rough ideas through questions, explores alternatives, presents design in sections for validation. Saves design document. **MANDATORY — do NOT skip for any request, no matter how simple it seems.**
+   - Check project context first (files, docs, recent commits)
+   - Ask clarifying questions ONE AT A TIME
+   - Propose 2-3 approaches with tradeoffs + recommendation
+   - Present design in digestible sections, get approval after each
+   - Write design doc to `docs/superpowers/specs/YYYY-MM-DD-<topic>-design.md`
+   - Spec self-review: placeholder scan, internal consistency, scope check, ambiguity check
+   - User reviews spec before proceeding
+   - ONLY THEN → invoke writing-plans skill
+
+2. **writing-plans** — Activates with approved design. Breaks work into bite-sized tasks (2-5 minutes each). Every task has exact file paths, complete code, verification steps.
+   - Bite-sized = one action per step: write failing test → run it → write minimal code → run test → commit
+   - No placeholders ever. No "TBD", no "TODO", no "implement later", no "similar to Task N"
+   - File structure mapping before task decomposition
+   - Plan document MUST start with agent handoff header
+
+3. **subagent-driven-development** OR **executing-plans** — Dispatches fresh subagent per task with two-stage review (spec compliance, then code quality), or executes in batches with human checkpoints.
+   - Two-stage review: (1) Does it match the spec? (2) Is the code quality good?
+   - Critical issues block progress
+
+4. **test-driven-development** — Enforces RED-GREEN-REFACTOR cycle:
+   - RED: Write failing test. Watch it fail for the RIGHT reason.
+   - GREEN: Minimal code to pass. Nothing more.
+   - REFACTOR: Clean up, keep tests green.
+   - Delete code written before tests. Period.
+
+5. **requesting-code-review** — Activates between tasks. Reviews against plan, reports issues by severity. Critical issues block progress.
+
+6. **finishing-a-development-branch** — Activates when tasks complete. Verifies tests, presents options (merge/PR/keep/discard), cleans up worktree.
+
+#### Anti-Pattern: "This Is Too Simple To Need A Design"
+Every project goes through this process. A todo list, a single-function utility, a config change — all of them. "Simple" projects are where unexamined assumptions cause the most wasted work. The design can be short, but you MUST present it and get approval.
+
+#### Key Superpowers Principles to Live By
+- **YAGNI ruthlessly** — Remove unnecessary features from all designs
+- **Systematic over ad-hoc** — Process over guessing
+- **Evidence over claims** — Verify before declaring success
+- **Complexity reduction** — Simplicity as primary goal
+- **Design for isolation** — Each unit: one clear purpose, well-defined interface, testable independently
+- **Smaller files > larger files** — When a file grows large, it's doing too much. Split it.
+
+#### How Superpowers Integrates With gstack
+- gstack says: "Boil the lake" — Superpowers says: "Here's the exact procedure to boil it properly"
+- gstack says: "Search before building" — Superpowers says: "Check context first in brainstorming"
+- gstack says: "Do the complete thing" — Superpowers says: "RED-GREEN-REFACTOR, no shortcuts"
+- Together: creative freedom within disciplined process

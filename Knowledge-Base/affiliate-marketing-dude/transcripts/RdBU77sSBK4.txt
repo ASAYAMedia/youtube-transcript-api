@@ -1,0 +1,291 @@
+[0:00](https://youtube.com/watch?v=RdBU77sSBK4&t=0s)
+
+What if you could use Manis AI to take an affiliate offer and turn it into tons of different landing pages designed to make you money? Yep, that's right. Today, we're going to show you live as I take an affiliate offer, extract all of the little nuances that'll get us traffic and money and turn those into pages that we can put on our website in a couple of seconds. And boom, we're ready to go get traffic and make money. And I'm going to show you how all of this works in a super straightforward way. We're actually going to take a domain, get all the tools, get all the pages, and upload them for you right here, right now with nothing left out so that by the end of this video, you can duplicate what you see for your own affiliate offer, get some traffic, and hopefully make some money. And since we're basing all of this on the offer sales page, this is going to convert like crazy. So, if you're excited to learn how to use Manis AI to extract tons of profitable ideas from any affiliate offer and then turn those into high converting landing pages, well then
+
+---
+
+[1:00](https://youtube.com/watch?v=RdBU77sSBK4&t=60s)
+
+smash the like button. Let's dive in the computer and build the site live. [music] All right, so let's go ahead and dive in. Manis is perfect at creating bulk landing pages, bulk text files, and pretty much anything at scale. It works really, really well. We can even make Pinterest pins and the whole nine yards. And today, what we're going to do is we're going to talk about how to use this to make custom landing pages for whatever affiliate offer you're looking at. So, in this example, we're going to take a domain that I already own about how to get your Xback, which is based on a ClickBank offer that pays really well. We can see that some of the offers pay anywhere from $30 up to about $46 commission. So, that's what we're going to make when we get a sale. So, obviously, we want to build stuff that's going to get us lots of sales. Now, last week I went through and talked to you about the method of the one-s sentence extractor where we went through and we took one sentence from a landing page and extracted all the different things that that landing page or sales page
+
+---
+
+[2:02](https://youtube.com/watch?v=RdBU77sSBK4&t=122s)
+
+promised to the user. So, think about it like this. If we were to go through and sell something like this coffee pot, we're not just selling a coffee pot. We're selling, okay, you get time in the morning. Maybe it wakes you up. Maybe it brews it stronger. Maybe it saves you money. What we're doing is we're extracting all the different things from it that are going to sell it. So instead of having one long sales page, we're going to have lots of little squeeze pages and landing pages that sell that same thing. Now, after you watch this training, I highly recommend that you watch this. I will put this in the description so that you can follow along and see everything. Now, what we're going to do is we're going to go through and run the extraction engine from that training. Again, watch that one to learn how this works. What we're going to do is go over here to our chat GBT. I use chat GBT for this because it's a lot faster. Now, when we use chat GBT, I can actually put several different landing pages or sales pages into the chat GBT and extract all of the angles since I'm promoting this as a niche. It doesn't
+
+---
+
+[3:02](https://youtube.com/watch?v=RdBU77sSBK4&t=182s)
+
+really matter which one we use. Just make sure that the sales product actually delivers on the promise. We don't want to go through and, you know, say that it's going to include this one thing and it doesn't. So, very important. So, what we're going to do is we're going to take this X Factor guide, which is the one over here that shows, okay, yes, this pays us Xactor pays $46 per sale and it's on ClickBank, so it's pretty easy to run. What we're going to do is we're going to say, dissect this landing pages and get all the ideas and angles of information I can use to promote it. What we're doing here is we're trying to get the angles of information. Much like if you were to say, okay, here's how to, you know, start a business or whatever. There's lots of different points to starting a business. There's lots of different things. You don't just go out there and start a business. Much in the same way, you don't just get your ex back. You have to do all this stuff and and you know, woo her back or whatever it is that you need to do. So, what we're doing is we're extracting all of this from the sales page so that we can get a lay of the land and say, "Okay, what are
+
+---
+
+[4:03](https://youtube.com/watch?v=RdBU77sSBK4&t=243s)
+
+we going to do that we can actually promote this?" Now, when we do this, it's super important because what we're going to do is we're going to make like little info pages that give quick tips. We're going to promote them and they're all going to lead to the same page, which is selling the product. So, going through here like this, we're going to do the extractor and then we're going to look at the different types of squeeze pages, landing pages, and sales pages. When we talk about these, first of all, a landing page is all of the above. A landing page is quite simply any page that someone lands on from wherever you're getting traffic. So if you put something on social media, they go to your page. Even if it's a sales page, that's still a landing page. If it's an opt-in, still an landing page. So understanding that's key. The different types of landing pages is where we're going to get into the intricacies and make more money. First of all, we have a lead magnet page. This is where we go through and give something away in exchange for their email and their name, right? So that we can email them over and over. So maybe I have like a checklist on how to get your ex back or
+
+---
+
+[5:04](https://youtube.com/watch?v=RdBU77sSBK4&t=304s)
+
+a PDF that you can fill out and see where you went wrong in the first place. A cheat sheet or calculator template swipe file or whatever it is. This is where we are building a mailing list. Sometimes we will want to do this, sometimes we won't. Sometimes you'll just test the market and then get a mailing list later. Or you could do a quizunnel squeeze where you're going through and asking them questions like, okay, why did she say she left? What did she say she didn't like? Did she find someone else? was their infidelity or whatever it is that broke up the couple in the first place and where we'd go through and promote that offer. You can also do a webinar registration, a challenge funnel where it's like take the challenge and text her back in 3 days or whatever it is. Free tool where we can offer a free tool maybe you know a list of things they can text or a generator like oh put the problem put her name and what her favorite flower is and send her flowers or whatever, right? some kind of tool that we can use, a content upgrade, a discount, survey, squeeze, and more. These are all the
+
+---
+
+[6:05](https://youtube.com/watch?v=RdBU77sSBK4&t=365s)
+
+different times. Now, what we're going to use is what's called a splash page. We can get into a mailing list later. We're going to do the splash page, and then we can we can change them from there. When we look at this, we have a splash page that's going to warm our traffic. So, if I get people on social media and I'm like, "Hey, these are the top 10 reasons your girlfriend's going to leave or left." That's going to warm the traffic. Then they come to the page and it says, "Well, here's the top 10 reasons," right? So, you tease them on social media and then you get them into the page and say, "Okay, here's the big deep dive on how they work." What we can do with a splash page is redirect that traffic immediately to the ClickBank offer. Often what this will look like is a list of things that you promised from the social media or the video or whatever it is and then they click the button to go to the affiliate link. Very simple. Okay. What it does is it primes the pump so that we can get traffic from other places. Because if I go through and I say, "Oh, hey, you know what? If your girlfriend cheated on you or whatever, go to this page." Okay. Well,
+
+---
+
+[7:07](https://youtube.com/watch?v=RdBU77sSBK4&t=427s)
+
+this is just about getting the girlfriend back, which basically undoes everything I did to get them there. If I did all this work around infidelity and how to get them back and then I bring them here, this isn't going to it's not going to be congruent with my message. So, we would want a congruent message. That's why we're going to use Manis to build these out based on the extraction of that offer page. So, it's all based on things that are in the offer so that when I sell it, I'm ready to go. And it's all based on things people are actually looking at. Very, very important. Now, going through here, we can see the other pages like this one has a picture, different things like that. So, what we're going to do here is we're going to take our extractor and we're going to go over to Manis and we're going to start building these out. Okay. Now, the squeeze page, if we got into that, you would capture an email, which can still work. I can go through and have all the different things people would need, like, oh, after infidelity, here's what to do. After she leaves, here's what to do. If she thinks your job isn't good enough, here's what you do. All of these things, we can build a
+
+---
+
+[8:08](https://youtube.com/watch?v=RdBU77sSBK4&t=488s)
+
+mailing list. All of the different pages that we create are going to have one focus, and that focus is to make us money, whether it's within mailing list or whether it's with just the offer. I've done both of these. I've made millions of dollars over the year with splash pages, squeeze pages, and different things like that. Now, when we go through here, it's very important to remember that even though I've made a lot of money with this, and even though this is something that seems very straightforward, the results are not typical, implied, or guaranteed. So, while I've made a lot of money and lots of other affiliates make a lot of money, most people trying to make money online make nothing. So, look at this like a business. Always focus on ethics and good things, especially when dealing with sensitive topics like we're doing here. Now, what we're going to do is first step one, the offer content extraction. We're going to go through, we're going to extract all the angles. You can see here I literally went through and I have over a hundred different pains and hope hooks like she said it's over, but it's not. How to get her back. She's dating someone else.
+
+---
+
+[9:10](https://youtube.com/watch?v=RdBU77sSBK4&t=550s)
+
+Read this first. All of these are the different angles that we can go through to get people into this product. So instead of like, oh hey, did your ex leave? Here's how to get them back. Now we got lots of content, lots of pages we can use. This is super important. So what we're going to do is we're going to extract the offer. Right? Like that. Then we are going to turn those into hooks. I like to use chat GPT for this first as well because what's going to happen is when you use Manis, it's going to be a little bit slow and it's going to go too deep. It's almost like having Einstein teach you how to tie your shoe, right? You're not going to do that. All right, you're going to have have Einstein, you know, build your time machine, whereas we'll have ChatGpt tie our shoe for us. So, we're going to go through with ChatGpt, right? Like this. We can just go on the same one here and we'll say now turn each of these into a hook for a social media post for people who want their relationship
+
+---
+
+[10:13](https://youtube.com/watch?v=RdBU77sSBK4&t=613s)
+
+back. Boom. And it'll go through and it'll do that. Now, once we go through, we're looking for something that's going to be a showstopper that's not just boring run-of-the-mill information. So, we have all of these here blocked. That doesn't mean you're out of the game. A lot of stuff here. Okay. So, we're going to take all of these, right? Like this. And we will go through and wait for all of these to be done. And then what we're going to do is we're going to put these in Manis. And we're going to have very, very specific instructions on what we do. If I have a logo, I would put that in there and have it as our logo. However, having a logo and a header actually makes conversion not as good. So, we're going to go without in this example. So, what I'm going to do over here is I'm going to go over to Manis and I'm going to say, "I am promoting a program about how to get your ex back after a breakup. I want to create landing pages that are infottorial
+
+---
+
+[11:15](https://youtube.com/watch?v=RdBU77sSBK4&t=675s)
+
+style that answer the question of the person coming in. They will be coming in from these hooks. We'll put those in there. Now, very important there. We go through and we look at how we're gonna make these. So, we got the offer extraction. We got the hook angle. Now, we're going to do the content page creation. We're going to make the offer pages, the opt-in pages, txt info files. This is super important. PHP redirection engine files sounds really complicated. It's actually not. We're going to build it all here, show you how it works, and then we're going to go through and upload them and show you how they work. Now, going through here, what we want to do is have Manis start creating these pages. So I can go through and say let's do HTML pages one squeeze page with an Aweber form.
+
+---
+
+[12:15](https://youtube.com/watch?v=RdBU77sSBK4&t=735s)
+
+Thank you page leads to this is super important. Pay very close attention because what we're going to do is we're going to use this domain over here. Right like this. And I'm going to say over here, I'm going to say help getting back together slashthanks.php question mark uh let's do page or let's do question mark info equals and then we can have like whatever the name of the thing is name of page here. Okay, so that would have like the name of the page. You'll see why this is important in just a minute. So, first we have one squeeze page with an Aweber and then we'll do also one splash page leading to the affiliate offer directly
+
+---
+
+[13:16](https://youtube.com/watch?v=RdBU77sSBK4&t=796s)
+
+and the and both let's say directly and both pages will have info that helps the person with the hook they came in from. Easy white background center table text direct response style. And then what this is going to do is it's going to build up. Now, very important here. What we're going to do is we're going to give it this prompt, which is going to inject like all of the the privacy policies and stuff like that. So, we'll do this here and we could say all of them might must have this. All pages need compliance on them. You can make pages with links and disclosures. And what we're doing here
+
+---
+
+[14:18](https://youtube.com/watch?v=RdBU77sSBK4&t=858s)
+
+is we're literally building the whole site. So now we have this here and we can say let's get our list. So let's say we'll just take number one and we'll give it an example. She said it's over but it's not. Okay. So we would go through and we're going to say manis. Okay. So we have pages leads to that and let's see. So that here example and we'll do the example right like this and it might need a number system because of that but it might get it. We'll see here. So there we have that. And there we go. One splash page. And this will all make sense in a minute. And both pages will have the info here. Great. Wonderful. Let's do start with the first three and
+
+---
+
+[15:18](https://youtube.com/watch?v=RdBU77sSBK4&t=918s)
+
+I'll and then prompt for the rest and then this will give us the first three and it should understand what's going on and then we'll make that engine that actually does all the work for us which is going to be really cool. So now we have I'll read your hooks file then build the first three landing page set squeeze page thank you page and splash. Okay, cool. Okay, so here's the first three. Let's see how it works. Redirects to that there. Splash paid lead directly to the affiliate offer. Okay. And I can make the affiliate offer like since I have my domain, I'll just call it like go or something. So it' be my domain.com/go. Simple. Okay. Now we have shared compliance. So there'll be a pack of pages that are compliant like the, you know, about us, thank you, all of that. Then let's see what else it makes. So now it's got the wide research. So it's going to go through get us an affiliate earnings cookie DMCA. Great. So it does all of this. Now again remember Mannis
+
+---
+
+[16:18](https://youtube.com/watch?v=RdBU77sSBK4&t=978s)
+
+is not a lawyer but it is it it's going to do a pretty good job. It's better than having nothing. So it'll go through and it'll get all that info for you in a very straightforward way. Might take a while. It is one of the slower AIs, but it's going to do a lot of stuff. So going through here, we're going to see what this comes up with. And there we go. We got four pages done. And what we're waiting for is the first example. And you can see what these look like here. It's got the little HTML content terms, all of this. So this is our bulk pack of things to upload. And then, you know, you can edit them as you go along. This makes it very easy to edit. And Manis will actually do that. Like if I wanted to do a second pass and say, now make them all have a popup, it would do that. Very, very simple. Okay. So, now let's go through I think I don't think that'll do anything other than closing it here. And then what we're going to do is we're going to upload these on the site. So, what I have here is the domain here. And then if I wanted to say here's our affiliate link. We'll say go. And
+
+---
+
+[17:20](https://youtube.com/watch?v=RdBU77sSBK4&t=1040s)
+
+it'll even make a redirect for you. Like I could go through and say make the redirect on go or even like go.php. I could say make this the redirect. And then I just go get my ClickBank link and I'm ready to go. And I'll show you what this looks like in real time because it'll actually build it out so you could see. And let's see. That offer was for I believe that one was the relationship X factor. Okay. So, we'll go through and again, I'm not commenting on the quality of these offers. We're just showing you how to promote. I don't know the offer. I've never ran it, never read it. But if I was going to promote it and it was legit, this is what I do. So we'll do X factor right over here and we'll just get that link from ClickBank and then I can say in Manis um important anytime there is an affiliate link please use this and make the page go dot
+
+---
+
+[18:22](https://youtube.com/watch?v=RdBU77sSBK4&t=1102s)
+
+let's do lowercase go.php. If you do have an uppercase there it will mess it up. So very important that we add that and we'll just say make it link to this here. So we'll do my affiliate nickname. Copy. And if you want, you can even have like a tracker. So if I put, you know, this is from my manice pages or whatever, you can put that in there. I'm not going to do that yet. You can do that later. Um, and then we're going to go through and say a redirect to. And then there's our redirect. Okay. So now we have all this. It's got our pages. Okay. So there it goes. I think seems like it's going a little faster now. Uh legal generated JSON file. So now it's going to have those on it. And then it should have the whole batch of pages. You could see what it looks like here. So it's got like a little Amazon disclaimer and everything like that if you're using Amazon.
+
+---
+
+[19:24](https://youtube.com/watch?v=RdBU77sSBK4&t=1164s)
+
+And then let's see how we're doing here. Now saving eight legal pages into HTML. This will take a few steps. Okay, now it's going through and it's starting to create the pages. So it's got squeeze, thank you, splash, and it might have misunderstood me. It might be making a thank you page for each one, which is okay, but it's going to get to be kind of a pain like once we start to edit it because you'll have to edit like a bunch of different pages. What we're going to try to do is use the PHP example where it will actually call that file. That took about 12 minutes for it to finish these pages. And we can see here it has the three pages and the structure. Very important that we look at the file structure. We can see that it has file hook one/squeeze hook two/squeeze. I really don't want this structure. So what I'm going to do is I'm going to go through here. I'm going to tab that down because I do want this stuff. And then I'm going to say important. All files must be in the same folder.
+
+---
+
+[20:29](https://youtube.com/watch?v=RdBU77sSBK4&t=1229s)
+
+Let's make it like uh let's say let's make it we could either do like one or we can have like blocked or something like that. Let's make it shorter versions of the file name. i.e. blocked would equal blocked. So that'll that'll work there. So instead of that there, so hook squeeze, we're going to have blocked.html then blocked squeeze. We could call blocked opt right like that. And then we can say important all thank you pages are the same except
+
+---
+
+[21:34](https://youtube.com/watch?v=RdBU77sSBK4&t=1294s)
+
+it has the question mark equals or question mark page equals blocked or whatever the page name was without the HTML or whatever important thank you is PHP. Okay. So that way what we're going to do is we're going to have it call that info. And this is going to be important for later because what it's going to do is it's going to be universal for everything. So now we have that hook. We're not going to have that. So all in the same folder. Good. Make it shorter version of the file name instead of this. Do that block.html blocked opt. Good. Let's see. And then we'll say and make the page go good. Now make these three again. And we'll come back. It'll probably take a couple minutes for these. But it's very important we do this because of file structure. What I
+
+---
+
+[22:35](https://youtube.com/watch?v=RdBU77sSBK4&t=1355s)
+
+don't want is I don't want my my folders to just have tons of folders, right? So here, if we did it their way, there's going to be hook one, hook two, hook three, all the way up to a hundred. And in order to edit the pages, I would have to go in there and edit each individual one, which is a complete pain. Now, we could have it be like hook one, hook two, hook three, but I I like the idea of having like blocked because that would look better when I link to it. So, going through here, let's see what this is coming up with. And then it should do a pretty good job of ironing these out. And the cool thing about this is every one we're making is based on info tutorials, which means it's going to go through and be something people actually want. So instead of just a squeeze page that's like put your name in email or read this thing, it's going to be read this thing about what to do if the girl blocks you, what to do if she doesn't like you anymore, whatever it is based on those hooks. So everything's going to fit in a very, very precise way. Important to note, we're not so much
+
+---
+
+[23:35](https://youtube.com/watch?v=RdBU77sSBK4&t=1415s)
+
+looking for SEO traffic like I'm not looking to rank on Google. It might rank if it does, yay, great, wonderful. But I'm actually looking for it to promote for other stuff because now I can go through and I can make a video about the hook. I can make a landing. I can make a an article about the hook or whatever. And going through this is a 100 pieces of content that's going to promote 100 different pages that's going to promote the ClickBank offer that makes me money. This is how you build an ecosystem around an offer. And this is how you go through and create it at bulk. So I don't have to go through and make a bunch of different landing pages like in the old days. So now we're going through and we're seeing what this looks like. Create a flat folder structure. Good. We have reads page equals from URL and all eight legal pages. Great. And then let's see what else we have. Earnings disclaimer. Looks like it's rebuilding some of those pages there. Um it might have had those in like different folders which we don't want. We want it all in one clean folder structure. This is
+
+---
+
+[24:37](https://youtube.com/watch?v=RdBU77sSBK4&t=1477s)
+
+going to save you a lot of time and headache later. Now, when we go through, it has a contact page for obviously contacting. But when we go through and start to edit these and make content for them, it's going to be very, very systematic. And when we have it, you can make each hook have different tips. I can go through and say, "Now, give me 10 tips for each hook." Make each tip a aha moment. that they will want to learn more about and it'll go through and it'll take those and start spinning them and making them work in a very very good way. Again, this is about understanding the market, thinking about what they would want. Reversal, do the opposite of what feels natural. Power shift, stop giving emotional leverage. So, this is something where I can start posting this and get people that are interested and this will stop the scroll, get them in, and then they're going to go to the page, which is okay. Now you have the info on the page about this. Very
+
+---
+
+[25:38](https://youtube.com/watch?v=RdBU77sSBK4&t=1538s)
+
+important. So going through here, we can see how Manis is doing. It's a little bit slow today, but we will see. There we go. So now we have build the hook. She's over.HTML. She's over opt.h. Good. It totally understood what I wanted. This is this is fantastic. And I think it has the thank you page all the same there. And what's going to happen is like within a couple hours, we're going to have a full powerhouse site that I can go and promote, which is great. Like this stuff used to take months to build. Now we can do this in like a matter of hours or something. So let's see how this goes. Build hook one. And we'll come back when these are done. Okay. So now we can see it took about five and a half 5 minutes and 45 seconds to create all this. We have all these different pages here. And then it should create a zip file which we can view the folders. So here's our opt-in page and we should be able to see what these look like. Let's download it and then I'll
+
+---
+
+[26:39](https://youtube.com/watch?v=RdBU77sSBK4&t=1599s)
+
+open it here just to see what they look like. So we have affiliate disclosure at the top. Good. She's with someone else. Don't panic. Read this first. This is cool. Got the optin ready to go. They should be able to opt in. And let's see if it actually had the name. So, I would need to have my Aweber username. So, I could say important add my Aweber username or whatever it is. Now, going through here, we can see the other ones we have. Um, let's say she's over or blocked. Let's do the blocked one. So, we'll just download that. See what that one looks like. So, this is the splash page, which is designed not to get the email. This is just designed to get them over to the offer. She blocked you. Here's what it really means and more importantly what your next move should be. Pretty cool, right? Then we have show me the system. This is leading to go.php which should be in our folder here. So we should have go.php somewhere there. There it is. And we have thank you.php. Cool. So now going through here, we can
+
+---
+
+[27:41](https://youtube.com/watch?v=RdBU77sSBK4&t=1661s)
+
+test this out by just going ahead and downloading. Let's download the zip file here which has everything. Download. And then we'll go over to our C panel. We'll hit upload and we're just going to drag and drop the zip as it is here right there. And then we should see it on our C panel. This is basic web hosting stuff. If you want to learn about this, you can go to gohubsite.com. We have instructions on how to do all this. We're going to go ahead and extract right here. Extract files. Good. Wonderful. Now, they should all be here. Okay. We got to move them a little bit. So, we'll move them from site because I had an extra folder there. We'll just go ahead and select all, move, and we're just going to move them up to the root directory. Move files. Now, if we go to our domain, we should be able to see the files. Like right now, you can see there's nothing there. We reload. Now, we should have all those files. Hopefully, in a minute, that should show up. Let's do control shiftr to reload.
+
+---
+
+[28:43](https://youtube.com/watch?v=RdBU77sSBK4&t=1723s)
+
+It's probably caching, but we could go through and we could probably do like block.html html and see that right there should be right on the site. So there we go. We got helping back help gettingbackto together.com/block.html. If we click this, it should go to the ClickBank affiliate offer. Let's see if everything worked. It also has our disclosures and everything down there. Pretty cool. I mean, this is pretty solid. And then once we get this done with like a hundred different pages, we're off to the races. So there it goes, right? There's our affiliate link. It's going through. It's ready. Ready to go. We can also see um the different types of files there if we were to do over here blocked opt. So the opt-in one right like that. Cool. So there you go. Now what we're going to do next is we're going to go through and we're going to correct the errors and then we're going to run it on all of the files. So now what we'll do is we're going to say correct the AWeber form and use my list name. This is where you're going to put
+
+---
+
+[29:44](https://youtube.com/watch?v=RdBU77sSBK4&t=1784s)
+
+your list name. I'm going to put mine here just this is my sample one. And it'll go through and do all this. Then we will say then on the thank you page have it call a file they can see on the page from a txt file with the same name i.e. it shows. Let's do blocked.txt in the body of the thank you page. And the thank you page also has affiliate links and sales messages for the offer. So now it'll go through and do this and we can run it and have it correct it or we can go through knowing what we want and have it do more. We can even say each page
+
+---
+
+[30:45](https://youtube.com/watch?v=RdBU77sSBK4&t=1845s)
+
+should also have an inline popup saying wait don't go get your free Xback checklist and go to checklist.html or something like that. Okay, very simple. Now proceed with all the other pages. Now while I'm doing this, I'm going to take all these pages here. Okay, so we have all of the pages here. What I'm going to do next is I'm actually going to open a new manis and we're going to create all the txt files as well. Okay, so we'll go through like this. We have our manis. We'll say proceed with the other pages. All 100 hooks into the pages. Also important have a giant index.html
+
+---
+
+[31:50](https://youtube.com/watch?v=RdBU77sSBK4&t=1910s)
+
+page linking to everything including links to the txt files. This is going to be just for me, but we might use it later. So now we'll go through like that and we'll go ahead and enter a new manus. So I'll go ahead and open in a new tab here. I think I can do new task. Let's see. We might have to open another manace over here. Menace right like this. Okay. So, what I'm going to do now is I'm going to say I want to turn each of these into a little helpful report for the people looking to get their ex back. Report should be named a short version of the the hook i.e.
+
+---
+
+[32:51](https://youtube.com/watch?v=RdBU77sSBK4&t=1971s)
+
+blocked.txt all in one folder please with an index of all files. Okay, html for the index. Now what's going to happen is we're going to go through we have that big list. Then I'm going to give it the sample of this here. So hook one would be like this. So, this would be make people want more hook. Okay, so here we go. Hook one. She said it's over, but it's not. So, we'll go like this. And I think it was this one here. Here is an example outline to make for the first for them. Boom. There's our outline. Good. but expand on it with specific tips, please. So, these are going to be
+
+---
+
+[33:53](https://youtube.com/watch?v=RdBU77sSBK4&t=2033s)
+
+like our little giveaways. Okay. So, now we're going to go through like this. This one will probably be a lot faster than the actual HTML PHP creation, but we'll see how it all works and then we'll come back. We'll upload it and show you exactly how all this fits together. Then we can go through and have Mannis start creating the the posts for social media, the pins for Pinterest, the Instagram, the videos, all of the nine yards that make this thing work. Then we go through and just literally get people interested, put this content in front of people who would want this content, and then they go in, buy the things, everything. Let's see what we have over here. This one's going to take a while. So, we have 100 hooks. Good. So, it's going to go through and create all these. We'll come back when it's done and we'll show you how it works. We'll upload it, build the site, and then you can check it out and use this on your own. All right, so let's go ahead and take a look at what we have here. This one batch of files took about an hour to create. And then we had some txt files, and I had it working on some
+
+---
+
+[34:53](https://youtube.com/watch?v=RdBU77sSBK4&t=2093s)
+
+Pinterest pins, but they weren't that great, so I'll probably run them again. If you want to see how I make Pinterest pins, check out the video in the description where we use Manis to create bulk images. Now, going through here, let's take a look at what these files look like just to get an idea of what's going on. We have a whole bunch of different files here. And I think this actually created the .txt files within this folder. So, let's go ahead and download this. And we're going to extract the zip file right on our computer here, just so we could see what's in this entire file before we upload it. So, we'll just do like this. Extract right there. And let's see. So, we have a whole bunch of files. Looks like quite a few. It looks like it did do the txt files as well. So, we have aftermath of a breakup can feel like a whirlwind. So, we do have those. That's pretty cool. Looks like it created all of those. Looks like a total of 313 files, which is about right. That
+
+---
+
+[35:54](https://youtube.com/watch?v=RdBU77sSBK4&t=2154s)
+
+would be 100 opt-in files, 100 landing page files, and 100 txt files. and they are all named correctly. So, it should all work properly. Now, let's go ahead and test this out. What we're going to do here is we're going to go back to our server. This is regular cPanel server. We're going to delete everything except CGI and well-known. So, we'll just go ahead and do delete this here. Confirm. And then we'll just delete all of this stuff. It should have it in the new file setup. So, we'll just let's just do select all and then unselect these. delete all of these. And boom. There we go. Now we should be able to go ahead and go to the upload file here. Get the big zip file as it was right there. Boom. And then reload. Extract right there. And boom. Looks like it's good. It does have site two. So we'll have to do
+
+---
+
+[36:56](https://youtube.com/watch?v=RdBU77sSBK4&t=2216s)
+
+again. We'll have to do like this. Select all. move and we'll just move them out of sight too. Right, like that. Now, I don't think it had an index file. Let's see if it had any index file here. Uh, let's see. I N I in index. So, it does have an index file. Let's take a look at what this looks like over here. So, we should be able to go to our main site right here. And let's do index.html. app looks like it's caching on the GoDaddy page. So, let's try over here. Give me one second. We'll just turn on Firefox over here. Sometimes a different browser will help. So, we'll just pull this up in a different browser here. So, we got right like this. And this is just because I I just changed the name servers on this. So, we should have this here slash. And let's see, get rid of that.
+
+---
+
+[37:58](https://youtube.com/watch?v=RdBU77sSBK4&t=2278s)
+
+Okay, let's see what we got here. Looks like it's caching. So, we can actually go at the host level and turn caching off. I don't know why InMotion insists on having so much caching, but apparently they do. So, we'll just turn that off. Let me go into InMotion, show you how we do that. And again, when you're editing files on the fly, sometimes you will need to turn off the caching. That way, you could see what's actually showing up here. And let me see here. Right over here. And okay, let's go to our main server here. So, we'll just go into our hosting, right? Like this. And we should be able to just type in cache cache cache manager. And then what we do with cache manager is we're just going to go ahead and go to our site. So, we'll find this site which is I believe it was called
+
+---
+
+[38:58](https://youtube.com/watch?v=RdBU77sSBK4&t=2338s)
+
+get your ex back or something like that. How to get your ex back. So, we'll look for helping getting back together. That was it. So, we're going to do help getting back together. We're going to do options. Select option no caching. Turn off caching. Save. That should fix it. Hopefully, we'll see if it if it does here. If that fixes it, we should be able to just go right here and see the index file. index.html. There we go. Okay. So, now we have our master site list. This is all the files. So, we have our splash page, opt-in, thank you, and the txt. Pretty cool. So, now the opt-in page should work. There we have your confirm. Now, check your email. And see how this here is pulling that txt in. That's what we wanted. And then it has get the full system which leads to our affiliate offer here. Boom. We are in business. So now we have this full-on site with all of these pages that we can go and promote which is looking pretty cool. So we have right
+
+---
+
+[39:59](https://youtube.com/watch?v=RdBU77sSBK4&t=2399s)
+
+like this. Boom. Okay. Affiliate redirect, thank you page, free checklist. So it has a checklist here. That's pretty cool, right? Show me the full system. So, what we have here is a bunch of different things that we can promote based on files that were found in the sales letter of this product. So, now I could go through and be like, "Oh, let's get the TXT file here. Maybe I could post this on social media or have some other stuff." Or I could even turn this into an image, which is pretty cool. So going through here looking at what this looks like we can see we went through built up all these pages. So we did the offer content and extraction. We have the hook angle creation where we created the different angles. We had the content page creation. Now very important here that we run down and again thinking about this cover to cover this only took about an hour to create. We have our offer pages, our opt-in pages, text info
+
+---
+
+[40:59](https://youtube.com/watch?v=RdBU77sSBK4&t=2459s)
+
+files, PHP re redirection engine files. What does that mean? That means that after they opt in, they are actually going to get the file that they're looking for. And again, it looks like it's caching here. Let's go back to the main page right here. There we go. So, what'll happen here is when they go optin, so no contact works, this should all flow together. So, we'll put in an email and then it should go to my Aweber. Add them to the list. And let's see. So, that looks like it does have a little error in that, which could just be the list name or something. Um, or it could be the email. Just depends on how you do it. But then when it goes to the thank you, these thank yous by nature of this here, this is what's telling it to go to that specific page. Right? So, super simple, super easy. Um, it has our exit popup. It has our affiliate links and the whole nine yards. This is looking pretty good. And then, of
+
+---
+
+[41:59](https://youtube.com/watch?v=RdBU77sSBK4&t=2519s)
+
+course, noticing that this here is what makes this TXT show up. So, if I delete that, see how it has content coming soon. That's what's controlling it. So now we have this entire ecosystem ready to go, ready to build. And Google should pick up some of these these listings here. I would say let's turn this into like a better page. Maybe go through and have like just the splash pages. So I could go through and make an index based on that. Um, and that would be pretty simple. All I would have to do is give it the index file and say create this in a good way that has tips or something like that. Then once I go even further, I could go through and just take all the txt files, turn those into um images for social media, like this one here. Check the comments to get your ex back. I would link to that in the social content and then boom, there we go. Also going through and noticing that what we did isn't just create a bunch of junk pages.
+
+---
+
+[43:00](https://youtube.com/watch?v=RdBU77sSBK4&t=2580s)
+
+What we did is we created an entire site around things that people are wondering, like you don't win her back by chasing. Okay. Well, what does that mean? Well, we have all these tips here and then we can go to our thank you or our txt and see exactly what the tips are. This is where we start to build value and start to build a site around what people want. Now, of course, I would want to go through and make this even better, build it up even more. But this is a good starting point where I can go through and start building it out, right? I could still go through and start promoting this stuff because now I have the pages that provide the value. And what a lot of people talk about with affiliate marketing and making money online is providing value, but they never talk about what that looks like at scale, right? You'd think value is like a 10-hour webinar teaching everything where value could be something very simple like a one phrase helping someone text to get their ex back or something like that. Starting to look at this is very important. And then of course
+
+---
+
+[44:01](https://youtube.com/watch?v=RdBU77sSBK4&t=2641s)
+
+looking at your thank you pages as well and looking at, okay, what's the value? no contact, ultimate strategy, something like that. I could go through and start putting these into make an infographic about this, right? So, I could go through with Manis and say, make an info graphic summary of this content. Pinterest pin size. I use Pinterest pin size because that works on Facebook and Instagram as well. And then I could go through and and say start with the hook of she something like when no contact doesn't work or something like that. Obviously making sure that it's good content. Obviously you want to make sure you know it's giving good advice but going through and say start with the hook of when no content doesn't work or when no context doesn't work or something like that. Let's pick a different one. Let's see here. Your
+
+---
+
+[45:02](https://youtube.com/watch?v=RdBU77sSBK4&t=2702s)
+
+situation, what you need right now. So, I would go through and get a different one here. Let's say we wanted, let's say, before you send that text, right? So, I could take this, find that link, find that .txt file, and then go through and make the Pinterest pin about it. And then obviously that's going to go through and promote the content, right? So, it's it's natural. It's something that works really really well. And we could just build this out so that people would want it. So, now we have this. Let's see what it looks like. And then you can even go out there and and put the content in other places like forums or something like that, wherever it would be helpful because now what I have is a full-on helpful site that's ready to go. And what I'll do is I'll go ahead and leave this up so you can see it. Um you we'll have the link in the comments over at uh joinmarcus.com. You can find the link for that. We're also having a class where we're going to talk about how to
+
+---
+
+[46:03](https://youtube.com/watch?v=RdBU77sSBK4&t=2763s)
+
+do offer profit extraction and promote affiliate offers in a very strategic way. You could find that also at joinmarkets.com. But then what you're going to do upload test create your dynamic index. This is your dynamic index here. We could go through and make a more dynamic index where it would find new files and index them when you make them. However, I think this is this is a pretty good start. I mean, we don't really need that unless we're going to add more and then Manis can add to the page static without being uh dynamic. So, now going through Pinterest graphic there. Uh we could make videos based on this as well or we could go through and say let's go back to our main one. We'll do um landing pages. Let's say now create a list of content or keywords around all of this. And it would go
+
+---
+
+[47:04](https://youtube.com/watch?v=RdBU77sSBK4&t=2824s)
+
+through and get that list of keywords and stuff and then you know you build and grow from there. But this is a good way to start creating things that really help. So before you text your ex, five steps to reach out the right way. Learn more in the description now saying affiliate dude, but we would put our website in there um as well. And then I you could say, you know, put a picture of a couple on there or something. What you want to do is make systematic content that's really going to work and think about where that value would be and add that in everything, right? So if I could go through and make content and say, well, what would this be? Maybe I'll make it for men or for women or for people who just got out of a breakup or people with infidelity or people who fight too much or whatever it is. I can make a very specific angle. And this works for any market where you could go through and make a lot of good content based on that sales letter. That's why it's so important to go through and extract the value from the sales letter and now
+
+---
+
+[48:05](https://youtube.com/watch?v=RdBU77sSBK4&t=2885s)
+
+you're making content based on that. So, they're going to go in and be like, "Oh, hey, this can be salvaged. Oh, I read the one on salvaged. Now I'm here. Now I'm more likely to buy." This is stuff where you're making that content with the explicit purpose of selling the offer. So, if you want to go through and do that, you can see how that works. In the description, we have some more videos. You can go over to joinarcus.com, check out the class we're going to have about offerprofit extraction. This is a very systematic approach to taking an offer, looking at what kinds of helpful content we can make around that offer, building the site around it using something like Manis or you can even use WordPress if you want and then making everything funnel into one point. As you can see here, this is going to work really well for building a mailing list where um you can have the mailing list files like this and then boom, that's just going to funnel people into the mailing list. Now, I would go through and see why that mailing list isn't working. It probably has to do with the
+
+---
+
+[49:06](https://youtube.com/watch?v=RdBU77sSBK4&t=2946s)
+
+list name. There it is. There. It's probably something to do with that or the form ID. I'm guessing the form ID is probably where the issue is. So, you know, we can fix that up and and go from there. Cool thing about it is you could throw all these files at Manis and it'll fix that form ID on all of them in one go. So, that's something that would work really well. again, making those pins, making that content, and funneling people to the valuable post. That is how this works. So, hopefully you guys enjoyed this. Check out the videos in the description. I have one on Pinterest pins, one on how to extract the value that we did a couple days ago, and check out joinmarcus.com for that class. And I'll see you in the next video.

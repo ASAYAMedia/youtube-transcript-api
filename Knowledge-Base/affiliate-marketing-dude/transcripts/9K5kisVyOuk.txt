@@ -1,0 +1,123 @@
+[0:00](https://youtube.com/watch?v=9K5kisVyOuk&t=0s)
+
+The SEO industry has been on fire with news of Google's new update, the number 100 update. But what does this mean for us as content creators, bloggers, affiliate marketers, and people who run websites trying to get traffic and make money? Well, actually, it's a lot. And this update is going to affect the industry in a major way. And if you want to make money online, yeah, this includes you. So, in today's video, I'm going to show you what this update means, how you can use it to actually profit, and some things that you need to do right now before this takes full effect. These are things that I've already started doing for my websites and businesses. And yes, this data is going to be worth a lot in the future. So, pay close attention because today we're diving in to the Google number 100 update. Come on, let's go to work. [Music]
+
+---
+
+[1:04](https://youtube.com/watch?v=9K5kisVyOuk&t=64s)
+
+All right, so first of all, what is this update and how does it affect us? Well, a lot of us SEO and bloggers and people like that use tools like AHFs to see where websites rank for certain terms. So, right here we could see this one ranks number 10.5, 13.3, and on and on we go. Now, one of the more valuable things that we can look at is keywords that rank not that good, like this one here. It ranks number 108 for venture capital investment, which is a pretty solid term. Or this one, best passive income book. And we can see that these words, while they don't get that much traffic, we could see that we have a ranking for them. So, we can actually build and grow. This is valuable to SEOs. It's valuable to people who want traffic from Google and people that are bloggers. So what happens here is Google is taking away the and number equals 100. What this would do is it would actually limit the amount of search results to the 100 on one page. Which means a tool like ahrefs, seamrush or any other keyword tool can take that
+
+---
+
+[2:06](https://youtube.com/watch?v=9K5kisVyOuk&t=126s)
+
+page and figure out oh these are the top 100 ranking sites for this keyword. That's how they get this data. Very important. And what you can see here is when this is added to a string, right? If we were to go in here and put and 100 equals at the end of this, what you'll notice here is this term, how much is this pension worth? You can see we just keep going and going past number 10, 14, and on and on we go. Now, we will see that at one point it'll actually time out and say, "Hey, you know, there's really only 129 results that we think are relevant for this. If you want to see the rest of them, here you go. All right. This was the first thing we saw Google do. Then what happens is they were actually taking away the and 100. So when you used to do and 100, it would show all 100. Now it goes through and shows like two pages worth of results. So the data cannot be shared with these SEO companies and these these tools. So that was a big deal. And this happened
+
+---
+
+[3:06](https://youtube.com/watch?v=9K5kisVyOuk&t=186s)
+
+on September 10 to 12 where what they're basically doing is saying here at Google, our competitive intelligence is no longer democratized. Like you can't really see it or scrape it as it were, which web scraping in the age of AI, this is getting into a very gray area, more gray than it was before. But what's happening is you have all these AI bots that are scraping the web for all kinds of things. And I have a little hunch that Google is doing this for several reasons. one because their data is valuable and they know that and they can make more money with it and also because they're watching out for competitor AI search engines because if all their data is out there and they're sharing who searches what and who ranks for what then it's kind of like a field day where AI can just go in and get whatever they want. So here, let's give a timeline and show how this affects you and what it means for you, what you need to do now, and what this means for the future, which if we can always predict what's happening in the future, there's a lot of opportunity and business stuff we can get into where we can actually make money. September 10 to 12, we saw the
+
+---
+
+[4:08](https://youtube.com/watch?v=9K5kisVyOuk&t=248s)
+
+initial disruption and testing phase where we started to see this go away. This is where you start to see like a lot of things being lost where if you were to go through and look at one of my results, we are seeing that there's a major major shakeup that's going on where it looks like a lot of terms are lost, but they're actually not. And I think I have one here. Let me just type in this site and I'll show you the example on my affiliate marketing dude site, which we don't do a whole lot of SEO on. Um, but it does get a lot of traffic. So, that's pretty cool, right? So this one here you can see like um for affiliate marketing MC lost. You could see this one here sniper warf salary lost. And what's happening is they're not actually lost. If you Google them you will see yes we do in fact rank for some of these terms where you could see okay like different terms of of worths and stuff like that and we do in fact have the rankings. One of the ones that I saw recently was for the GoDaddy stuff where it said that we actually lost but we didn't. it it still does show up,
+
+---
+
+[5:09](https://youtube.com/watch?v=9K5kisVyOuk&t=309s)
+
+which is important because then we can go through and see, okay, GoDaddy appraisal, this is saying lost. I think we're top 20, top 30 for this one. So, going through here, you'll see that it isn't actually lost, which means there's a discrepancy in what data they're getting from Google and how they're looking at it. You can see we're like number 10 or 12 or something like that right there. So, what we're seeing is a bunch of lost things, which is big because if this data goes away, then, you know, there's a trillion dollar industry behind all of this data. Google powers so much stuff, it's not even funny. And and whether it'll come back or not, I kind of think it will in some way, shape, or form. whether semrush and ahfs have to actually pay for it and then the keyword tool cost is going to skyrocket which means yeah you know now the little guy's going to have a harder time doing this which ergo there is an opportunity to help the little guy with data I'm going to show you in just a little bit and when you do that there's a lot of money involved as well but again remember this is a business I'm just giving you ideas most people trying
+
+---
+
+[6:09](https://youtube.com/watch?v=9K5kisVyOuk&t=369s)
+
+to quote unquote make money online make nothing next we saw on September 14th the full depreciation and industry confirmation of yes This actually happened. Then people noticed in their Google search console a lot of anomalies like oh where did my rankings go? Where did my traffic go? Impressions down by like 40%. Why? Because one there wasn't a lot of bot searching and two you know now they're not seeing the data of people looking past page 30 or whatever. So what happens is the use of this URL parameter is not something we formally support. This is what Google said on September 21th, just a couple of days ago. 21st, not 21, right? My brain's all over the place because this news is big. We can see that Semrush came out and it said there's a significant operational impact. Our tool was built to scale seamlessly and reassured customers that the metrics would still be there for top 10 and 20 results, but the rest is like up in the air. AHS I think had a more upfront approach where they're like hey
+
+---
+
+[7:11](https://youtube.com/watch?v=9K5kisVyOuk&t=431s)
+
+we don't know what's going on but we're gonna roll with it and it signaled that ranking and deep rankings now a significant challenge. So a lot of people are saying it's huge. What this means is a sudden and massive cost escalation. Now I tried running in Manis to see if it would do a similar keyword report. I basically gave it some keywords I ranked for and said see if my site ranks for these. And it did say true on some of them, but some of them I know we do have that it didn't say true on. So, it wasn't reliable. I can't use AI as a reliable what do I rank for type engine. One, because ahs is looking at tons of data and seeing where I rank based on their keywords rather than based on a URL. If I give Manis a URL, they're not going to know what keywords to rank for. However, there are different prompts and things I will give you that'll help with this stuff um in a very very important way. So, what happens is you're going to have a big cost escalation, which means keyword
+
+---
+
+[8:11](https://youtube.com/watch?v=9K5kisVyOuk&t=491s)
+
+tools are going to get more expensive. The data is going to be more expensive. So, those who can afford the keyword tools and use that to get clients and help them with their data. That's going to be a big commodity. Now, the user experience, uh you'll be forced to view only the default number, usually 10, right? We saw that SEO research workflows, which means again for Google, it's going to be more page loads. But for SEO research workflows, you're going to see SEO that are relying on this data. Now, it's going to change, which is going to be different. Third party tools are going to be affected. Scraping and automation. I think that's what they're trying to get rid of here. Now, what do we do with this? How what does this mean for us? If the keyword tools get more expensive or we can't get the data or we can't see competitive data, what does that mean? Well, now let's talk about what to do now and the big opportunity. First of all, bot impressions is something people look at where they're like, "Okay, the bots are inflating our impressions. We're not getting traffic. Airgo, it's not that great." So, here's some things that I'm doing right now on many of my websites.
+
+---
+
+[9:14](https://youtube.com/watch?v=9K5kisVyOuk&t=554s)
+
+What I've done in light of this news is I've actually installed a real-time visitor tracker. This is a tracker that I have for over at BlogProfit Network. Um, I'll have some links where you can get it later, but what this does is it tracks at the page level. So, you can see the pages people are coming in on. This shows the pages and it shows what search engine they're coming in from. So, you could see like claude, you could see chat GBT, different things like that. So, the first thing I would do right now is get some kind of tracker. Okay. Before that, we have number one, which is save current full keyword report. So, what you would want to do is go to your favorite keyword tool, download the latest report today of all the rankings you have up to 100. That way, you can see where you can improve. That way, if it goes away in the future, you have that saved report. Very important. And what you would do is you just go look at your report here, right? Like this, and then just export that to
+
+---
+
+[10:17](https://youtube.com/watch?v=9K5kisVyOuk&t=617s)
+
+Excel or whatever. And what I would do is I would get several of them and get them in the peaks of your site. Like I'd get one here where I was getting a bunch of keywords. I'd get one here. That way you know what you can improve on and then you can manually kind of watch the ones you want. Because if I go through here and look at volume, I can see, okay, yeah, you know, cat memes. Apparently I rank for cat memes. Um, I rank for Hedra AI. A lot of other stuff that I rank for that I might not have known. I want to get this report so that I could be like, "Okay, here's 1300 keywords that I could improve on." And we would want to do this for any website that we own and also some other stuff I'm going to go through as well. So, number one, save your current full keyword reports. You can run these through AI. I did a video yesterday where we talked about how to run them through Notebook LM, which is fantastic. Watch that video in the description after you get your reports. There are some free keyword tools out there that will allow you to see what you rank. I think uh Moz has one I believe also um there's another company the Hoth might
+
+---
+
+[11:19](https://youtube.com/watch?v=9K5kisVyOuk&t=679s)
+
+have a few and it'll show you your rankings. There's some cheap ones where you can get your rankings. They're not as reliable but they will show you something because it's better to have this data now than something else. And I'll put a list of the words uh over at aiprofitscoop.com or a list of the the tools rather. Okay. So, good stuff there. That way you're prepared. Second, what we're going to do, as I showed you, get an on onsite page tracker. You can use the one at Blogprofit Network. It's very easy. This is going to show you where your people are. One of the things I like to do on my sites is have a live tracker. So, I could see what pages people are on. So, like right here, I could see, okay, what pages are people on on my site right now? Where did they come from? Super important, right? You go in here and be like, okay, where' they come from? and it'll show you in real time what pages are actually working. And usually that's an indicator. Hey, I'm getting Google traffic or traffic from somewhere. And sometimes you'll even see question mark UTM equals chatgpt. You'll know it came
+
+---
+
+[12:21](https://youtube.com/watch?v=9K5kisVyOuk&t=741s)
+
+from chat GPT. And you can kind of deduce what's going on. So in the future, I'll give you a little tip. I'll give you the prompts that I'm going to use for it in the future. What you can do is you can go through and take a page like this and you can run this page through uh Notebook LM or something like that. Um, notebook LM is actually fantastic for keyword research. I'm surprised not that many people are talking about it. What I can do is I can create a new notebook and I can just put in my URL right here like this. And then I can go through and I can say based on this page, what keywords would it rank for? and it'll go through and give me the keywords because it's kind of like, you know, it's going to know how SEO works and it'll know, oh, hey, you have these keywords on your site. These are the most probable ones this would rank for. And then you can optimize for human, which is where Google's going is optimizing for human. And you could get a mind map and stuff like that and visualize your data. So, we could see here appraisal tool, the value
+
+---
+
+[13:22](https://youtube.com/watch?v=9K5kisVyOuk&t=802s)
+
+estimator. So, there's quite a few. and I know from my keyword reports that yeah, this this is solid, right? Then I can go through and and get a mind map on it. It'll probably show me different things that I can do and it'll help me expand as well. So that's one of the keys. That's why you want your data right now. And that's why you want to watch what's happening on the tracker because I could go through and say, "Hey, this is ranking for um Tik Tok video length." I actually found out we now have like I think a top three ranking for this word. Uh which is fantastic. And now I know I can actually um build this up and grow it. And I think there was another word we have a top three on, but this one we are actually showing somewhere. And and now that I know that I can build and grow and I can go through and run that through the tool and say, okay, uh what what would I rank for for this? And then when you get the mind map, it'll show you different keywords as well. So this is super important. We want to look at this. And again, remember this doesn't mean the keyword data is going to go
+
+---
+
+[14:24](https://youtube.com/watch?v=9K5kisVyOuk&t=864s)
+
+away. So if I go to keyword explorer up here, I can still go in and type these in, right? So I could do GoDaddy estimator, GoDaddy appraisal and stuff like that. And then boom, that'll show me these. And I can kind of deduce from there. Okay, where do I rank? Let's go check on Google. That's where I could probably have an AI go and, you know, figure out where I rank for the words I want. This is where we're going to get into a different part of the industry. Now, in addition to a live tracker or even a site page tracker like the one at blogprofit network, um, it's part of our program at blogprofitwork.com. We have a bunch of AI tools and stuff for bloggers and website owners that I mean they're by custom tools and we give them to our students over there. Check it out at blogprofitnetwork.com as the sign says back there. Now, um, next what I'm going to do, and I've already started doing, is save as many competitor competitor keyword reports as you can. Get a secondary hard drive.
+
+---
+
+[15:25](https://youtube.com/watch?v=9K5kisVyOuk&t=925s)
+
+Start saving as much of this stuff as you can. This is what I do. I have all bunch of computers around here where I save a bunch of data on niches that I'm interested in and big profitable niches so that I could go in and understand, okay, what do these guys rank for? How can I help? Um, there's a video over at apiprofitscoop.com if you search the notes where I talked about Colgate. I think it was, they have a marketing strategy on Colgate, which is really good. And we dissected that because that works in any niche and whoever is on their content team over there. Brilliant. Next up, what we're going to look at, there's a big opportunity for this data. That's why I think we need to start saving it. So like if you are helping limousine company owners start getting a bunch of different things like that where you could go through and be like okay I have the data now I can help you with that and that data is going to be valuable if used properly. Okay so who is this going to affect? SEO, local SEO, that's why I mentioned the the limo
+
+---
+
+[16:25](https://youtube.com/watch?v=9K5kisVyOuk&t=985s)
+
+example and stuff like that. Agencies are going to be affected, content strategist, rank tracking services, this is going to be huge. AI tools and more. This is going to affect literally everyone. And if we can take a look at this, not as I mean, yeah, it is kind of bad news. I like using my AHFs and my other keyword tools. However, there's always a s silver lining. Every time something has happened in business, I go into panic mode. I remember in 2021, I was freaked out about stuff and I went into panic mode, but actually what it did is it made my business bigger than ever. Um, all the updates that people are like, "Oh, it's the death of SEO. It's a death of this." That just means it's time for us to grow and pivot. Time for us to find that opportunity that's missing. Can you provide info to a certain niche? Can I get keyword reports and analyze things and provide that? Can I help with everyone else? Because you're not the only one affected by this. It's a huge industry, which means huge opportunity.
+
+---
+
+[17:26](https://youtube.com/watch?v=9K5kisVyOuk&t=1046s)
+
+So, these are the things you want to do. This is going to go through and and really get us in there looking at where it's going to redefine success. We're shifting from vanity metrics of, oh, here's all the things I rank for. Yay, good. Which again, like we do a lot of domain buying. This will affect domain buying, which I think is going to make a lot of the people who aren't willing to do the work out of the race, which means we can get domains cheaper that are better. And again, I'm going through with all my 2,000 3,000 domains. I'm getting reports on them so I see what they rank for as of today, so I know what I can improve for later or I could give that to someone when I go to sell the domain. Super important. We're going to look at the difference between conversions and revenue and just vanity numbers because at the end of the day, this is about business. How many customers, how many sales, what is it driving to my business? Clicks and engaged traffic. This is big. Like I see people all over Facebook right now where they're like, "Go viral. Get 20 million visitors in a minute or whatever their
+
+---
+
+[18:28](https://youtube.com/watch?v=9K5kisVyOuk&t=1108s)
+
+spiel is." And you know, they're sitting there begging people to buy their product because those 20 million views don't equate to sales. Focus on sales. Focus on marketing. Focus on what works. Focus on Yes. If I could do one keyword really well, that can work. A lot of people are focusing on bulk. What if I focus on one really good like that GoDaddy ranking? There's always five or 10 people on my site from that ranking. Always without fail. Okay. Does that equate into traffic? Yes, it does. Does it equate into sales? Is it clicks? Are people going deeper on my site or are they just looking at one thing? Very important. Also, looking at click-through rate, we're going to get a cleaner metric in the Google Search Console, which is going to provide more accurate measures and show us what's going on. The primacy of top 20 is the new focus for keyword strategy as per Google. I'm going to go through because I want those old data. So, what I'm doing is I'm pulling data from as many sites as I can, from as many different reports as I can, from keywords, all of
+
+---
+
+[19:31](https://youtube.com/watch?v=9K5kisVyOuk&t=1171s)
+
+these things, because I want to be able to use that in the future. And that's where this goes. I am I mean, the amount of two terabyte hard drives that I've filled up with info on this stuff is crazy. We have two terabytes on our main SSDs and then we have like big giant ones other places. And you know they fill up because I save stuff because that is valuable later. It's almost like you know programming AI, right? That's why they have those big servers because they have all that data that program the AI and now what if I can have my own data that that people are going to want in the future. This is key. This is absolutely key. And if you understand that, smash the like button. Check out the videos in the description about more stuff. More specifically, watch yesterday's video um as well. Very important. Go to apiprofitscoop.com for the notes and some tips and the plug-in info and all the tools and things like that that I mentioned. We'll have lists and links and stuff over there. But definitely keep an eye on this. This is going to change the industry. If you
+
+---
+
+[20:31](https://youtube.com/watch?v=9K5kisVyOuk&t=1231s)
+
+want more videos like this, type more news videos as a comment below. Smash the like button and I'll see you in the next training.

@@ -1,0 +1,214 @@
+
+[0:00](https://youtube.com/watch?v=VgCGunCV8q4&t=0s)
+
+What if you could create super fast content with AI that sounds completely human, looks like a human wrote it, and actually appeals to the humans reading it? Well, we got a doozy for you today because we're talking about Microsoft Copilot Pages. This is something they just came out with that's going to help you create content like crazy. Instead of going out there and talking to a chatbot and copying and pasting and figuring out your outlines and everything like that, Copilot Pages actually does this all in line for you. So, if you're excited to make human sounding content that passes the plagiarism test and creates good stuff that actually makes people buy, interact, and do the stuff that makes you money, smash a like button. Let's dive in the computer and go to work. [music] All right. So, a lot of you guys are already familiar with the copilot browser feature here that shows up in Edge where you can actually go through and create a summary of a page or talk to it in line while you're actually on a website or web page or anything like
+
+---
+
+[1:01](https://youtube.com/watch?v=VgCGunCV8q4&t=61s)
+
+that, which is really cool. This is something that's revolutionary where it's kind of like a mini version of an agent where it's browsing the web with you. And that's a whole idea of co-pilot is actually being there working with you like a co-pilot, right? It does the driving for you and does all the stuff and looks at what you look at much like a co-pilot in an airplane would, which is really cool. So now we see this and we see how powerful it is because it can actually synthesize or look at the data on multiple pages. Now with the other co-pilot, which is this one here, which is the co-pilot with pages and everything like that, this is the actual co-pilot that is installed on Windows, which you could see down here and also in your taskbar and everything like that. When we go through here and look at this, you can actually see that this is a standalone product that's using chat GPT. I think they use some of anthropics uh AI and stuff like that as well. Now, when we go through here, this is super important because what we're used to is going to something like chat GBT and if I was to go and ask it to create an article, I would say, you
+
+---
+
+[2:01](https://youtube.com/watch?v=VgCGunCV8q4&t=121s)
+
+know, let's let's make an article about the 50year mortgage. Okay? And I'll show you why this is important in a minute. When we go through here and make an article like this, it's going to go through and give us different blocks and create the article. Now, if we go through and use Copilot pages, it's a completely different experience because much like the internet browser version over here where it's going in the Copilot Edge browser thing, what's happening is now we have this box here that's actually interacting with the article we're creating. So, if I go over here and I do create a new page, this is actually going to go through and toggle back and forth. So, it's almost like I'm working with it where I could say, "Hey, you know what? Add a part about this." Where here, if I say in chat GBT, now add some news about what Trump is saying on the 50-year mortgage on this or something like that. it's going to go
+
+---
+
+[3:02](https://youtube.com/watch?v=VgCGunCV8q4&t=182s)
+
+through and it's going to add to it where now it's going to add on the bottom and I have to copy and paste and kind of work it through and everything like that where with the co-pilot pages what's happening is it builds alongside with me. So if I go through here wait for it to be done and now we'll go through and say now add some some info on Trump or whatever he says about it. Now same kind of thing here. If I was to go in and start the page by saying, "Tell me about the 50-year mortgage," it's going to go through in this box and start creating. Watch how this works. It's very, very simple. So, now I have the overview. And notice how much faster that is than chat GBT. I mean, it was like night and day. Now, it's going through. It's showing us what the original article looks like. And it looks pretty good. I mean according to this it has smart financial innovation or debt trap in in disguise understanding the 50-year mortgage pros cons and what you need to know. So this one isn't trained on the way I like
+
+---
+
+[4:04](https://youtube.com/watch?v=VgCGunCV8q4&t=244s)
+
+things a little bit more sensationalized whereas chat GPT is. So that's one downside. However, if I go through what happens is I can apply different things and prompts to this. So if I click apply revision, what happens is it creates the page much like in Microsoft Word or something like that. And I can go through and say now add a table of what top people including Trump is saying about the 50year mortgage. And I'll show you why this is important as well. Because what we want to do is we want to do human in the mix marketing or human in the mix creation where we're using AI alongside a human rather than just hey chat GBT make this thing post it on my blog and then boom there we go. Now one of the things I really like here is it actually went through and said okay let's remove the conclusion and let's go through and apply this revision which is going to have the table of exactly what they want. Super cool. Now, we're going to apply this.
+
+---
+
+[5:05](https://youtube.com/watch?v=VgCGunCV8q4&t=305s)
+
+And you can see it's adding to that article. I did notice that this this does have some trouble with like tables and stuff like that, which is fine. We can format that later. This is kind of for just going through and and fixing it up. And then we can do the second pass as well. And you could see you can edit right in here as well. Now I can go through and say now let's have a comparison of 15 30 and 50year and what it would look like on a 300k loan. Um and this will put that in there as well. So what we're doing is we're working alongside it instead of having to copy and paste and compile. I can actually do this very very fast. Now, one of the other benefits is this works as a standalone. So, like I could go through and have AI here and copy and paste things and say, "Oh, hey, put this part. Let's talk about this or something like that." And what this will do is it'll start to think different and much faster. I could
+
+---
+
+[6:07](https://youtube.com/watch?v=VgCGunCV8q4&t=367s)
+
+go through and get a really good article in just, you know, maybe 20, 30 minutes, whereas before with AI, it might take a lot longer. Now, I'm also noticing that this one does really well with passing plagiarism. So, it's not like just copying and pasting stuff like a lot of AI does. It's actually going through and and creating something completely new, which is good. And you could see no copied text, which is fantastic. Like like zero. You can't get better than that in terms of plagiarism. Now, as we go through, let's look at some of the other stuff this does. Simple terms, this is inline editing. Copilot can modify the text inside the page exactly where it lives. not in chat, not as a copy and paste snippet, but directly into your document. This is important. Now, we can highlight text directly inside the page. And Copilot lets us do inline options like rewrite, expand, or whatever it is. So, if I go here and I'm like, okay, let's do um an expansion of this. And what'll happen is I think switching to code kind of changes it. or
+
+---
+
+[7:09](https://youtube.com/watch?v=VgCGunCV8q4&t=429s)
+
+you can ask a question about it or something like that which will help you in line which is super super important. Whereas before you're taking a lot of time doing little busy work and when you're doing you know like let's say you work a full job and you don't have time to write two or three articles a day. Well now you do. And this will go through and it'll help you out in a very specific way. So we could have it rewrite, shorten, expand, change the tone, make it more professional, fix the grammar, simplify all of that stuff. Now, Copilot also goes through and it will it will give you recommendations. What would you add to this article, right? And then you can even go through and click this button, which you can do export, which is really cool. You could do it in Excel, PowerPoint, and it kind of ties into all of the Microsoft platforms or or tools or whatever it is. I think softwares is the word I'm looking for. And then we could go through and say now and also add the comparison. And I think it didn't add
+
+---
+
+[8:11](https://youtube.com/watch?v=VgCGunCV8q4&t=491s)
+
+it. Let's see if it did. 50-year what you consider. Here's our breakdown conclusion. Okay. So here's the comparison. So here's our table. Looks good. 50-year. Again, it does have a little bit of trouble with the um with the formatting there. Okay. Let's see if it switched it there. Accept revision. Nice. So now we have this is looking really good. And you can see we're boosting this up from, you know, just a starting little article like you get with chat GPT into something bigger where it's going through. And we can add this. So we got 5% plagiarism. That's a little high for me. I like to be under 3%. So let's rerun it now that it's bigger. And we can also get a word count. I don't know if it's giving us a word count here. I think this might give us one. Let's put it in Word and see. And we could probably have it do it in
+
+---
+
+[9:12](https://youtube.com/watch?v=VgCGunCV8q4&t=552s)
+
+the um Copilot as well, but let's open a new Word to see. Usually Grammarly will give you a word count. I don't know why it's not, but we'll see here. Okay. So, if I go in here and have my blank document, write like this. Okay. So, we are at 15 almost 1,600 words. So, that's looking pretty good. Um, we can even go in and say, "What else would you add to this?" So, let's open up the co-pilot here. What else would be helpful in this article? And then what you're going to see is this is going to help you do things fast, which speed is the key to making money in my opinion. A lot of things that I've done have had to do with getting to the market really quick when something really big comes out. And case in point, let's say we wanted to tackle something about this 50-year mortgage, which is all over the news right now. A lot of people are talking about it. What you're seeing is a lot of people are searching for it. The competition isn't terribly bad. What you're going to see is that
+
+---
+
+[10:12](https://youtube.com/watch?v=VgCGunCV8q4&t=612s)
+
+there's a lot of news articles about it. So, like, let's say you were a mortgage broker or even an affiliate marketer that does mortgage stuff. You're going to see that yes, these are things that people are uh looking up right now. It is news stuff. Even if we were to go to Google, we're probably going to see a lot of news there as well. Yep. Right on the top. A lot of news stuff. And it's 14 hours, 19 45 minutes ago. So looking at that is really cool. And here's a good angle like tax savings. Let's let's add something there in our article about that. But what we're seeing is if I was to create a really good press release or article, this is something that could work really good. I could turn it into a video. All kinds of stuff. So let's go through and add to this. Let's say add this. and a section on tax savings if it'll make it worth it. So, there's a good angle there that could work. I didn't even think about that. The tax savings could make it worth it. Like, especially if you're doing like a 50-year mortgage on a rental would be pretty cool. Um, I don't know if they allow that, but, you know,
+
+---
+
+[11:12](https://youtube.com/watch?v=VgCGunCV8q4&t=672s)
+
+that would be a good way to to get positive cash flow. But, at any rate, going through here and looking at Copilot can edit entire sections as we're seeing here. Yes. You see how it's editing this entire section here? And we'll just apply the revision. You can see what it looks like here. And it's got all the quotes. Views the 50-year mortgage as a reasonable option. Critiques the idea. Generational debt. I think for me, I mean, let me know what you think of the 50-year mortgage as a comment below. Uh for me, I think it could be good if used properly, but to the vast majority of people that it's being marketed to, I think it could be a trap. Um, but I mean it could help. I think in the long run it it has pros and cons. Um, yeah. So, looking at that, we we got all that stuff there. Frequently asked questions. Now, we're getting this a little bit bigger. So, now we are at let's see what the word count's at now. Not that word count is the beall endall, but it does help to have a good article.
+
+---
+
+[12:13](https://youtube.com/watch?v=VgCGunCV8q4&t=733s)
+
+Looks like we're at the same word, a little bit more about 30 more words added there. So, now we're going through and we're building this up and and looking at it and saying, "Okay, yes, people are searching for this. Now, I could get an article out in a couple hours once I get good, maybe even maybe even less." And then check it out. I could even go through and make a 50-year mortgage calculator, right? And maybe make something where it's a comparison, 1550, look at the rates, benefits, when it's most used. So, those are things that can work. Good. Let's do can you add a mortgage calculator to this it with 50-year with 50-year option. Let's see if it'll actually add a calculator in there. I don't know if it will. I think this might just be a text tool. Um but I can I can add that later because if I do this as a blog post, what I like about this is I can copy and paste straight from this into my WordPress. So, if I go into my WordPress, let's see if it takes the formatting. If it does, that's going to
+
+---
+
+[13:14](https://youtube.com/watch?v=VgCGunCV8q4&t=794s)
+
+be night and day different because now I could just go and and be like, "Okay, here's my here's my post. Done deal." So, we're going to add this as a post. Let's apply the revision. See if it had a calculator. Not seeing it. It does have the loan amount differences here and conclusion. Okay. So, let's apply this revision. See if it has a calculator on it. Okay. And check our word count again. But this is something where we could go through and I'm going to show you some examples of little codes and tips and prompts you can use when you have this as well. So now we are at we were at 1592 words. Let's throw it in Grammarly again. See how we're doing. I'm just going to do a new one in Grammarly just to check. So we're at almost 2,000 words now. And again, these are good things, right? Like it's not like we're going through and we're making junk content. That's the problem
+
+---
+
+[14:14](https://youtube.com/watch?v=VgCGunCV8q4&t=854s)
+
+with a lot of AI is a lot of it's just junk content regurgitated, not thought out. What this is doing is it's allowing us to create alongside the AI, which is really cool. So now we have it in here. We got 2,000 words. If I was to go and post it as visual, let's see if it keeps the formatting. It does. It keeps the formatting. It keeps the tables. This is fantastic. This is a gamecher for doing blogging because I don't even have to go back and forth. Like if I'm using dual monitors, I can have this on one monitor and boom, boom, boom, copy and paste here. I could probably I could probably bust out seven blog posts a day, maybe less if I'm I'm spending more time on them. But if it's simple stuff, I can do this fairly quickly. Just have my Grammarly open, copy and paste them in here, get your titles going. I mean, boom, there you go. and let's see what it actually looks like when we post it. So, now we have understanding the 50-year mortgage pros and cons. It's being a little slow, but we'll
+
+---
+
+[15:15](https://youtube.com/watch?v=VgCGunCV8q4&t=915s)
+
+we'll There we go. Okay. So, here we have uh what is a 50-year? So, it actually when I copy and paste from chat GBT, it is not this nice looking. So, this actually does a really really good job. It didn't have the calculator, but it does have the the breakdowns, which is cool. I could go to a different AI and create a calculator. I think that would work good. But again, we're seeing, okay, so 6% plagiarism. I would want to go through and see if it actually is. What you're looking for is like, are these pages about mortgages or is it like come up compared terms? That's not I mean, you know how many sites say come up with compared shorter terms or something like that? That's not really a big deal. So, you know, you want to look at that and that's why you want a human in the mix because going through I can make it better. I can think different. I can ask questions that other people don't know how to ask, which is really cool. And you could see like this 50-year mortgage is this is trending right now. I could get traffic for this
+
+---
+
+[16:15](https://youtube.com/watch?v=VgCGunCV8q4&t=975s)
+
+literally super fast. Again, remember this is a business. The results are not typical, implied, or guaranteed. You don't know what we're going to make. Most people make nothing. But if we understand and we start to say, "Oh, this is a business. Maybe I can generate some leads or something like that. Very, very important. Now, going through even more, we can do drag and drop blocks where we can move blocks around. We can say, "Hey, you know, I want I want this part move to the top." Let's see if it does this. So, we'll do uh move this move this to the top as a Johnson box. If it'll actually make it a Johnson box, that would be really cool. Let's see if it does. And here we go. It looks like it's thinking. See how this works. It did. That's really cool. So, it did move it up to the top, I think. Let's Let's apply it and see. Apply.
+
+---
+
+[17:20](https://youtube.com/watch?v=VgCGunCV8q4&t=1040s)
+
+Okay. So, it added looks like it tried to. Okay. Not the greatest, but that's okay. That's what these tests are for, right? Pretty cool stuff. So, now we have that there and we can kind of walk it down. Let's do let's see what would happen if I went and looked at AI generated new sections appear in line. Add a summary at the bottom or let's just add it. Let's say add a Johnson box at the top with quick 50year mortgage pros, cons, and facts. If we can do that, that would be pretty cool because again, what we want to do is we want to look at the intent of why people are searching. And when you look at stuff like 50-year mortgage, you're going to see like pros and cons. That's what's in their mind. So, if that's right at top or Donald Trump 50-year mortgage, okay, what does he say about it? Um, different things like that. Super important. And again, it's not whatever way you lean politically. This is just about making
+
+---
+
+[18:21](https://youtube.com/watch?v=VgCGunCV8q4&t=1101s)
+
+good things that are in in the public mind, right? Like when people talk about it, there you go. So, it did put it at the very top. I would have liked it a little bit lower, which it looks like lower month. It looks like it did. It duplicated it. So, I would just copy from here down. But again, going through that's really cool. And then I can even go to Google and look at like people also ask and I can put this in there and say now let's make a people also ask section with questions based on what they would want to know. And then let's get into this a little deeper and see if it'll even add affiliate offer stuff. So, summaries, continue writing. How to edit inline? So, to edit inline, what we can do is copy and paste. So, click and drag over any sentence. Let's accept this here. Accept. And there's our There it goes. It added our people also asked. That's really good. Now, answer. I think we
+
+---
+
+[19:23](https://youtube.com/watch?v=VgCGunCV8q4&t=1163s)
+
+would want them to answer them. Now, put the answers under the people also ask. Okay. So, while it's doing that, let's see. You could see options like so inline action choose one co-pilot immediately generate. So if we do like this writing direction more tools voice typing so you can type with your voice that's kind of cool I think the revisions are here share message and prompt copy export accept revision. So now if we go like that, let's do ask. I think there's a way to have it ask in here. Oh, we got to ask it here. So let's see. Ask what does this line mean? Your page short guide consistently use term page. Okay, that confused it a bit.
+
+---
+
+[20:23](https://youtube.com/watch?v=VgCGunCV8q4&t=1223s)
+
+Um, copy and paste. I I think maybe we have to like drag and drop like this maybe. Okay. Well, that doesn't want to work. But we could go through and do rewrite or make concise change tone. These are little prompts that you can give it, which is pretty cool. And then, of course, you get the ability to accept, discard, or try another version. What I would do if I go along and I have something I like, is I would definitely download the whole thing. Let's see what downloads. If we do this export, uh, I want to see if it gets the entire thing. I mean, this would be nice if they put a save button in here, but they don't have it yet. So, copy and paste is fine. I think using this alongside WordPress is going to be the key. Um, and then we can go through once this is done. Looks like it's struggling with the PDF thing there. Oh, there it goes. So, now except revision. Okay. So, it did like a ton of revisions there.
+
+---
+
+[21:23](https://youtube.com/watch?v=VgCGunCV8q4&t=1283s)
+
+Let's see here. Looking pretty good. Now, let's go through and say now where would be good places and add them for apply for a 50year mortgage here. So, I would I would think about that as like my affiliate offer and also refi rates have dropped. Click here to see today's rate. So, I'm thinking about like where affiliate offers would go. And again, having this piece of content, if I was to go and look at mortgage affiliate programs, some of them pay $50, $100 a lead. I mean, I had one years ago that paid $7 on drop downs, right? They would just like say, "Oh, I owe this much. Here's how much my rate is." And they would just fill out the drop downs, and I got paid like seven bucks. That one did really well. Um,
+
+---
+
+[22:24](https://youtube.com/watch?v=VgCGunCV8q4&t=1344s)
+
+they have similar offers like that now, but you just have to check and see where they're at. Most mortgage offers are between $15 and $100 per lead. And again, that's just an application. You don't have to sell anything. So, this could be pretty lucrative. Again, it's a business. We're generating leads here, so keep that in mind. Mortgage calculator apply for a 50-year mortgage here. So, that's pretty good. You know, a little formatting. Refi rates have dropped. Refi rates. So, it did put them throughout, which looks pretty good. Definitely doing a good job. I think once they update this, it's going to get better and better and better. But using this with with your blog, it's going to be easy just to spot where those links are so that you can add them, which would be really, really easy to do. We can also go through and add anything else. Now add recent news about this in the article. And what'll happen is you can build something really good. We actually did a video in personality prompts last week where we went through and created this giant article in like
+
+---
+
+[23:26](https://youtube.com/watch?v=VgCGunCV8q4&t=1406s)
+
+an hour and a half and the output was outstanding and a lot of people were surprised at the kind of stuff we could get. That one was like a 20,000word article which is really really cool. And we can go through and build that kind of stuff in here just by going piece by piece by piece and understanding you know what would go on. Now you could go through and say now if I wanted to turn this into a book or whatever. Okay. So let's see. Quick factf facts. We got the affiliate links looking good. Calculator. It looks like it fixed the table there. Disadvantages. See, this is actually turning into a really good article for someone who would look up, you know, 50-year mortgages. This would be a fantastic thing to add. Then I could say, now if I wanted to turn this into a portion of a giant book or guide, 25,000 words or so on choosing the right mortgage
+
+---
+
+[24:27](https://youtube.com/watch?v=VgCGunCV8q4&t=1467s)
+
+to build wealth. Let's see if we could build that book. I don't know if it'll take like the 25,000word kind of deal. Introduction to mortgage and wealth. Okay, it is. [clears throat] It's building it over here. Do you want start creating? Yes. Yes. Start with outline. Now, what I'm going to do, I'm going to take this file, save, and I'm going to make sure I get a copy of this saved, whether it's on my blog, whatever it is. I'm going to save it somewhere, even in a Word file, right? Saving it in a Word file probably just as good. I just paste it in here and then I just save it so that I have a copy of it as is because I'll want to use that later. Or if you're checking them in grammar grammarly that saves them as well. So now let's go through uh yes let's say yes outline first or I did say start with outline. There we go. Boom. Outline. All right. So now we go through and we got that. Now how to ask Copilot to edit entire sections. You can scroll to the section. Copilot
+
+---
+
+[25:29](https://youtube.com/watch?v=VgCGunCV8q4&t=1529s)
+
+knows what's on your page as you type. And I could say something like rewrite the paragraph above, improve the last sentences, summarize, different things like that. The AI will modify it directly as you're seeing here, which is super super fast. And now it's it's making this the choose the right mortgage for your wealth. Now I can go through and say now write part one. And as you go through, the cool part about this is we can actually edit alongside. So if you see something you don't like or direction you want it to take, then we could go through. So let's do now write part one. And it should add part one in there. So we can kind of boom boom boom walk it down. And this is a strategy that I use all the time where we never leave the page. There's no switching, no pasting, no copying. It's just going to go through and create this for us. And I mean this is the kind of thing where in one day I could probably have a really good 20,000 25,000word article. Now when we go through and look
+
+---
+
+[26:29](https://youtube.com/watch?v=VgCGunCV8q4&t=1589s)
+
+at different things we can do um heading subheading bullet list. These are little codes you can use. And then when we get through we can even do like a content brief where we can say create a new page type topic and it say create outline. This will create the outline. This is something that you can start with if you're new, right? So, if I go through and I say uh new page. Okay. And the cool thing is it saves them all much like chat GPT does. Let's say make an outline on the bad parts of a 50year mortgage. Right? If I wanted to do a negative type article, I can do this. get the outline and then say now let's make it press release style with the goal of getting them to click to test my comparison calculator,
+
+---
+
+[27:29](https://youtube.com/watch?v=VgCGunCV8q4&t=1649s)
+
+right? And then it will go through and do that. And this is something that works really good. I have owned mortgage calculator websites and and done really well with them. So, this is a market that I know. And I mean, you could do this with anything. You could do it with dog training, marketer, whatever. And the cool thing is is you can give it ideas and then it'll build and grow. I mean, this is super quick. We've had students that have done really well with press releases. Again, remember this is a business. You could do a press release and lose money. Who knows, right? What we're doing is we're trying to look at things strategically like a business. Obviously, make sure that your press release is good if you're doing one and tie it with a new site. Like I could go through, I could build a site with this new mortgage comparison calculator. Boom. I can get traffic to it pretty quick by announcing here's this new site with the calculator. And we could see here hidden costs and things like that. That's really good. Even looking at this, I could see, okay, it got the hidden costs, which now I could use those as social media post and different things like that. And when you start to understand that this is writing alongside you, that's key. getting that
+
+---
+
+[28:29](https://youtube.com/watch?v=VgCGunCV8q4&t=1709s)
+
+that outline, getting that prompt that's like, "Okay, here's what this is going to build." Why does it work? It handles the formatting, headings, and rewrites and makes briefs clean and editable. I think what they're trying to do here with Copilot is give Notebook LM a run for its money because I have seen that you can upload files to this and you can even have it look at files that are in uh one drive, which personally I am the least big fan of one drive. I can't stand it. But maybe they'll have a good workaround for that. Now, we can also go through and do long form content, have it do SEO friendly stuff, write different paragraphs, highlight sections, and everything like that. We can also repurpose it. I could go through and say, "Okay, now that I have this, now make it 50 social media media tips with comments." I can add or something like, "Don't get a 50-year
+
+---
+
+[29:30](https://youtube.com/watch?v=VgCGunCV8q4&t=1770s)
+
+mortgage. Do this instead." Blank uh tips in comments or whatever, right? And we can go through and it'll have all that. But again, remember to save this as you go along cuz it is editing it in real time. And if I want to repurpose my content, I would want to save this and then have that repurposed one. Let's go ahead and throw this into Grammarly. See how this is working. And we can see here 50 social media tips. This is actually doing really good. Tips to share in your posts. This actually did a really good job. Remember knowledge is so it gave us the headlines. That's pretty solid. Let's go ahead and apply that. And again, saving this here. Let's see what that outline of the the negative for the 50-year mortgage did. Boom. Okay. So, it looks like it's like, I don't know, thousand words or 500 words or something like that. Not too bad. Now, we have the
+
+---
+
+[30:32](https://youtube.com/watch?v=VgCGunCV8q4&t=1832s)
+
+revision. Complications for estate planning, motivation to pay off early. Let's go ahead and apply the revision. So, we have tips to share in the posts. We can mix those up. We have quick facts. The average 50-year mortgage cost significantly more in interest. Equity builds. So, we could go through and have it make them like clickbaity or whatever we wanted to do. Oh, it did keep my it kept my original article in the press release. That's pretty cool. I'm I'm digging this. I think this is a tool we definitely definitely want to use. 4% plagiarism. That seems pretty on point. I would probably try to get it below three, but that's not too bad. So, going through here, we could see we are creating stuff that works. It is based on a trending topic. We can build it. Now, this is also going to remember your messaging in brand voice where you could go through and prompt it. Hey, extract the tone. Tell me the tone. Now, apply this to the document. So, the key to using this is going to be having prompts side by side. And I'm going to put over
+
+---
+
+[31:33](https://youtube.com/watch?v=VgCGunCV8q4&t=1893s)
+
+at AI Profit Scoop. I'll put some prompts for you. AIprofitscoop.com. I'll put some prompts for you for co-pilot in the notes of this video so that you can see, oh yeah, using these alongside I can use this one first, this one second. Boom. At the end of the day, I have something that works really good. Next, we can go through and repurpose it into blogs, carousels, podcasts, notes, video scripts, tweet threads, newsletters, and the whole nine yards. When we go through and do inline commands, we can do stuff like this or we can even have a giant command. Right? This is where we're going through and we're using AI alongside us to build something and and grow it. Multiplatform content creation where we can make a page, add things to it, make tables, maybe outlines, maybe a worksheet. Creating a worksheet would re be really good. Maybe I could go through and say, "Now, make a worksheet to help them find the best mortgage."
+
+---
+
+[32:33](https://youtube.com/watch?v=VgCGunCV8q4&t=1953s)
+
+Let's see how this does, cuz if I could get this ready to go, copy and paste, put it in a PDF, that's something I can use as a download, that would work really well. So, we'll go through and see how this does. um strategy outlines, messaging frameworks, and the key here is that we can create deliverables faster, which means I can get a PDF, a worksheet, a chart, a guide, a downloadable uh course or something like that very very fast. So, let's go through and see if it made our worksheet. I think we have to accept revision. And where is our worksheet? Okay, it doesn't look like it made a worksheet. Let's do let's do a new page and see if it'll do it as a standalone. Make a worksheet people can use to decide the best
+
+---
+
+[33:33](https://youtube.com/watch?v=VgCGunCV8q4&t=2013s)
+
+mortgage. interest only 15-year 30-year 50-year ACT reverse all of this. So now let's go through for building wealth. So let's go there and the for building wealth will help because then it gives the AI the direction of like oh I don't just want a cheap payment I want to build wealth over time. So now we can see here apply revision. Yes, this is exactly what we want. This is actually really cool. So now I have something that quick which I could now export to a PDF and bada bing bada boom brand it with my stuff. I am ready to go. And you can even see like I'll bet there's people searching for like mortgage worksheet. Let's see. Mortgage mortgage worksheet. And there are yeah like a 100 people. good traffic value there and schedules and stuff like that. So, there are people looking for this. Not a ton, but
+
+---
+
+[34:34](https://youtube.com/watch?v=VgCGunCV8q4&t=2074s)
+
+it is it's a highv value market. So, I can go through, I can make keyword lists. This is something that's going to help you really keep organized with your AI, which I think a lot of people struggle with. We can also use it to build and save reusable content systems, templates, frameworks, content formulas, reusable hooks, call to action, caption scripts, affiliate links, the whole nine yards. And then we can go through and make like little libraries and prompts and things like that to call into others editing client work. If you are out there and you're doing like, you know, Fiverr or your freelancer, this is going to make it a lot easier. Now, why is Copilot perfect for content strategies? You can brainstorm, draft, edit, and restructure. Eliminate copy and paste between documents, which is going to save a ton of time. And oftentimes when you save time, the give up rate is going to go away because like, okay, I'm creating in chat GBT. At the end of the day, what am I doing with it? Am I actually posting it? I'm actually using it. Is it giving me something that I can take to market right now? Get true inline rewriting like Notion, but
+
+---
+
+[35:36](https://youtube.com/watch?v=VgCGunCV8q4&t=2136s)
+
+faster. Reduce the time spent on outline, repurposing, and editing. Makes your workflow AI native, not AI add-on. This is key. AI add-on is where, you know, you're like, "Okay, now do this. Now do this." and you're compiling it where this is actually compiling it with rich text blockbased editing. This is key and the fact that it ties right into notebook LM, this is the kind of thing I can use to create notes on something very very very quickly and get that formatting which is amazing. So to get the prompts and the tips that we're using with co-pilot pages to make money online, check out aprofitscoop.com. Again, remember this is about building a business. It's about building things that work. We want to understand this and create things alongside AI that help people so that we can get paid. And if you like that, check out the videos in the description to learn more. The notes are over at apiprofitscoop.com. Smash the like button and I'll see you in the next training.

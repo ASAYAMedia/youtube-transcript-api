@@ -1,0 +1,111 @@
+0:00
+
+A couple of weeks ago, I made this video about how to make simple AI powered lead forms. One of my clients took me up on the idea, built a lead form for his tax accounting business, and made sales within a couple of weeks, something like $7,500 worth of sales. And he actually used a very straightforward process. And just yesterday, I saw this ad for Upwork on YouTube and this ad on Facebook for Fiverr. Both of these companies are using simple AI forms to pass values from one page to another so that they can use AI to create something custom and generate seemingly unlimited amounts of leads. So today we're going to take a look at those ads. We're going to take a look at the pages and show you exactly how they're using AI powered lead forms to generate tons of leads very very fast. And did I mention this makes the conversion rate go through the roof? Why? because now you have something custom where AI is going to help your customer and get them exactly what they
+
+
+
+1:02
+
+need before they fill out the lead form. This is super important. But before we get started, I want you to know that the results that my student had are not typical, implied, or guaranteed. In fact, the vast majority of people watching make money online videos, buying courses, and all of this stuff make nothing. So, take all of this with a grain of salt. This is about a business strategy, a solution, not about some pie in the sky idea that's going to make you rich just by watching videos and clicking a few buttons on AI. Yeah, we've all been there, done that. So, if you're tired of the junk and you're ready for real world strategies, smash that like button because today I'm going to show you exactly how to build AI powered lead forms, drive traffic to them, and get tons of leads on autopilot. Come on, let's go to work. [Music] All right. So, this is something I talked about in my last video where I talked about certain PHP codes that you
+
+
+
+2:02
+
+can use to make money where they're going to go through and actually pass variables and things like that. We're doing a very similar type thing here with AI, only we're using a lot more data and we're going through and sending it to AI. Again, this is something that's really cool because we can see that these big companies are using it and it works extremely well. Now, as someone who's generated leads online for almost 25 years, actually more than 25 years now for myself and various different companies, I can see the power of what this is going to do to your conversion rate and keeping people on your website. Usually what we do is we just have a web page where we're like, "Hey, put your name and email to get this free thing." And those who put their name and email get the free thing. The rest of them leave. Usually, you'll expect like a 30% conversion rate, maybe a 50% conversion rate with the right traffic and the best page. Now, using something that you're going to see here is a much better conversion rate, and it's a deeper lead, which means it'll lead to more sales, something more value, more expensive, a bigger product, right? Thinking about like, okay, let's
+
+
+
+3:03
+
+say you have someone who is a homeowner and they're worried about their electric bill. you can get certain data, have AI look at that data and say, "Oh, here's the best options. Here's the best things." Now, this is what we are seeing happen when we look at the ads on Fiverr, uh, on Facebook for Fiverr where we're going through and we're seeing all these different things and it's leading to pages like this. Why is this page important on Fiverr and this page important on Upwork? Well, very important because they're going through and generating a brief or a very simple type thing that's going to the next page. So, think about it as we are passing that data, getting information on the data and then going a step further. So, let's say something like I have a broken WordPress theme that doesn't work with Canva or something like that or something simple, right? What's going to happen is it's going to go through and generate a brief that you can then send to different people, thus making a lead. So, the brief is the
+
+
+
+4:05
+
+form. It's much like, you know, how when something happens, you hate calling. Like, last night our air conditioner went all crazy and my wife hates calling businesses. And so, what if instead you were like, "Okay, I'm going to type in what's going on. Air conditioner is leaking. It's not cooling. It's making this noise." Boom. The AI is like, "Oh, based on this, here's what's wrong. Here are the people that can help you or here's the type of specialist you need." Much like this here where it's like, "Okay, I have a broken WordPress theme that doesn't work in Canva. Generate brief." It's going to go through and hopefully if it works correctly, it'll actually generate the brief. Let's see if we can get this to work. All right. I have a WordPress plugin not working with Canva. Let's see if it wants to work here. and it goes through. Okay, so they're having trouble with theirs. Let's try the Upwork one. But it's going to go through and actually do this in a simple way. We can try it. Maybe get rid of this stuff. Let's see what happens if we just generate the brief here.
+
+
+
+5:06
+
+Or there we go. Let's try this. There it goes. So now you can see how it's going to work. It's going to have the brief. AI is going to create it and then we'll be able to just click the button and generate a lead. So what's happening is that it's actually passing this to the people who can do it. you hit send brief, it becomes a lead. Very simple, right? Whereas before it was like, okay, get a lead, then the lead has to sell it, then they need to get more data and different things like that. What this is doing is it's giving you the whole overview, much like we have here in Upwork. If I go through and say, "Here's what I need. The AI is going to go through, process the details, and then it's going to walk me through the lead process there." Now, I kind of like Fiverr's better because it's actually giving that whole step by step. And it'd be neat if it actually had like an estimated time frame or estimated price or something like that as well. But this is something that's very, very important and works really well. The core concept is using these AI tools as a 247 automated lead magnet. Why? Because we're going to bake in the value in the
+
+
+
+6:08
+
+tool. think the value is you're kind of getting a preliminary diagnostic of what is going on with your problem. Okay, here's the problem with my site, the problem with my resume, the problem with this, that, or the other. Looking at this and saying, okay, could we use this for like vibe coding? They have an AI resume builder that captures emails and job titles and then upsells them to the pro stuff, right? So, think like very simple version leading them to the expensive one or ways to save money on your electric bill. You put in all the stuff that is on your electric bill that's high. Boom. It'll deduct deduct what works and what doesn't. And it'll say, "Oh, you need solar or you need windows because your house is in the sun." Thinking about this stuff in a cool way and then saying, "Oh, send this to a window professional. Now you have a lead that's working good." On Upwork, it could be like, "Hire an expert, take a quiz, qualify lead, routes to sales." And you can see much like we did with the Fiverr one, it routes to sending the brief which is then going to go through
+
+
+
+7:09
+
+and you log in and boom, there you go. Very cool, very easy, very basic. Um, AI graders maybe like test your SEO score reveals the problems and then you can get the contact for like, hey, you want the SEO report, something like that. Key mechanics are value exchange. You're giving that tool in exchange for the data. Lead qualification. It also qualifies your leads, so you're getting a better lead. Like my tax accountant um client, again, remember, results not typical, implied, or guaranteed. He's a tax accountant. He has a business. It's not like you're going to make the same amount of money. Most people make nothing. This is about understanding a concept, generating leads. He qualified that lead by saying, "Oh, how much do you owe? What does this do? What does that do?" On and on we go. Automated lead nurturing. you get an instant follow-up where they're getting something of value right away, something of value instantly that is going to give them that instant like, oh, hey, I can trust this business. Very, very cool. Um, how to build and sell AI lead genen tools. Now, when you're building these,
+
+
+
+8:10
+
+what you're going to do is you're going to identify highv value gaps. If it's real estate, is there a mortgage calculator or like an offer generator or something like that? you're going to capture the budgets or the the offer or whatever it is they want. Or if it's like recruiting for businesses and and and getting a job, it could be like a salary benchmark tool. How much would you get paid if you move to Idaho or whatever it is right now? When we go through and build these with Gemini, we're going to do kind of like this. This is one that I'm actually working on here in this business where we're going to go through and it'll be like discover your perfect niche. How much do you want to earn? $1,000. What are my skills? Maybe I was a magician. I like to cook and I do math or whatever. Right? Then you can say, "How much time do you have per week? What's your biggest struggle?" Info overload. And what's going to happen is this tool is going to go through and generate the info while sending it in as a lead. Now, make sure you have the proper disclaimers, disclosures, privacy statements saying,
+
+
+
+9:11
+
+"Hey, this is how we use your data. This is where it's going to go. This is how to opt out." And then once it's done, it'll actually generate the report and they can go through and say, "Oh, do you want to work with Marcus to start this or get a free call based on your idea?" And thinking about this would work really well because maybe you have a local business and you're like, "Okay, they need this tool." Or maybe you want to get local business clients and you say, "Okay, what kind of traffic do you get now? What's your website? What are you doing? What are you spending?" And it'll analyze it for you using the AI. The key thing here is when you go through, make sure you tell the tool to use the AI API, right? AI API. So, we could say something like using the Gemini API I provide. It's going to be your API. You will pay when people use it. It's very cheap though. Okay. Apparently, it's just doing its own thing. So, let's do using the Gemini API provide. Please make a tool that will help
+
+
+
+10:13
+
+people understand their electric bill and why it's so high. They enter the amounts. Size of house is house facing sun average temperature ect. And then it'll go through and generate a lead. Then let's make it generate a report and lead form to get a custom solution from a pro something like that right and then it'll go through and it'll create this in a very simple way as it's creating it we can go through and look at it and say okay we can use like type form and open aai landbot other tools like this what I would do is I would just go through and use Gemini I think it's going to be fine fine. Um, Gemini
+
+
+
+11:14
+
+plus an autoresponder like you know Aweber or something like that should be just fine or you can even use like a other method for leads or something like that. Now the monetization models obviously the monetization is going to be the actual lead. We can get paid for leads in a really cool way using affiliate marketing. You can build these for businesses. It's actually a very straightforward process that works good. You can even sell pre-built tools on Fiverr and Upwork if you wanted to. People are looking for this. However, I would probably do it on my own. I think I can make more money that way. Why do AI lead tools work? First of all, scalability. You can go through, you can scale. It's going to help pre-ell the leads in a simple way. Hyperpersonalization, which is key. Think about it like a custom sales letter. Like, it's going to go through adapt my sales letter to whatever they want, which is fantastic. And this is something you can do where before we would do this with like PHP where we just say hi name or whatever. Now, it's going to go through and it's going to make your users feel understood and get help. Um, also it's going to capture
+
+
+
+12:16
+
+intent signals like what are the job titles, budgets, pain points, and it's something where it makes it fun for them to fill out a bigger form whereas before they might not want to. So, very cool. Now, when we get into this, we need to look at some ethical checks. First of all, be transparent. How are you going to use the data? How often are you going to email them? What is it for? Also, value first. Deliver genuine help before capturing leads. Don't spam. Use data to personalize outreach and then get them in. Don't look at like, you know, raw leads and stuff like that. We want to do something very ethical, very good. Only permissionbased marketing. That way we don't get any any issues. Now, a call to action you can do like with HubSpot. They say start with a free AI grader tool. That's for HubSpot's website grader. or bundle no code tools sell as a service on Upwork or you could say whatever it is like for our accountant client he went out there and was like oh get this free um you know
+
+
+
+13:17
+
+assessment or whatever it is when going through and looking at this we want to go through and look at the examples and see exactly how it's working basically the idea here is that AI lead tools turn passive websites into profit engines whether you're using them or selling them and using something like this is actually really cool I could say my average bill here is 500. House size, let's say 1,200 square ft. Is your home sunfacing? Yes. Average local temperature 85. We can even have AI figure that out. A number of occupants, let's say six. And average home age, 24. It'll go through and actually analyze the bill and give a custom idea of what's going on. And then it'll have the lead form at the bottom that's like, "Oh, hey, have a pro go over this with you." So, you could get your, you know, energy audit or whatever it is. And you can see here it gives you a little energy op uh audit here. Optimize thermostat, utilize ceiling fans, window coverings, on and on we go. Maybe we
+
+
+
+14:19
+
+could go through and see how it has a custom solution. Boom. There you go. This is very simple, very straightforward, and it's using AI. Now, remember, if we're using the AI API, we will pay for this. I would say that this one was probably a fraction of a penny to generate. I think all in all, with all my tools, I'm up to about $11 so far this month, which I got a lot of people using my tools, so it's not that much. Um, but again, there is that risk that, okay, what if a bazillion people use the tool? Well, let's cross that bridge when we get there and obviously check your stats daily to see what you're spending. But I think looking at this and understanding how these work is actually cool. You can even go through and build as you go and say now add a grade like A B C plus ECT and um make it visual. Let's see how this works. I'm thinking like a grade like okay if you scored an F you need to call the energy pro or whatever the solar guy or whatever it is. um something very cool and very easy
+
+
+
+15:22
+
+would work well and think about it like this is going to talk to your customers and really get them in. This is something anyone can use and you know you can go through and promote it in groups where it's like hey did you know that 40% of Florida homeowners have the wrong windows which makes their air conditioning bill a million dollars or whatever. Obviously, I'm making that up, but it would be something where you could go through and really, really focus on what works. Focusing on what works is absolutely the key. And once you understand, okay, we can go through and make this do pretty much whatever we want, obviously ethically and within reason and stuff like that, obviously disclose that it's AI. But going through here, you can see exactly what's going on. Uh, partially, let's do average local temperature 90. um occupants, age of home. There we go. And then it'll go through and it'll probably have that grade on there and you can kind of work through it. Add your little stuff. Add your logos or your clients logos if you're making these for clients. I think
+
+
+
+16:22
+
+that one of the big opportunities here is going to be building these for clients. So, I got an F here. There you go. Why did I get an F? Um attic stuff. Okay, cool. That's pretty good, right? And we can go through and say now let's make the form custom based on what they want. Like a checklist of what to fix and it sends it with the lead like get my custom audit and include these. Let's see how this works. What I'm thinking is like if we can get that custom audit like, oh, do you want them to talk about ventilation or or whatever? What do you want to talk about there? And that'll really get them thinking, really get them to the next level. So, let's see how this works.
+
+
+
+17:26
+
+You know, get this going. Okay. So, wait for that. And as we're waiting again, these notes will be available at aiprofitscoop.com. Also, if you have not yet joined AI profit scoop, go there and sign up because there's a lot of good stuff and it's still at the old price, which is pretty cool. So, you can go there and join that um and get all kinds of help with uh AI and how to profit with AI and everything like that. Uh which is great. Let's do this here. And this will go through. Um, and again, yeah, AI Profit Scoop has all kinds of good stuff. We're adding tools and different uh formats and and flows of business and things like that. All kinds of things that will help you make this work. So, let's go through and look at this. And there we go. Energy report F. And then get your custom audit, comprehensive energy, HVAC. Cool. So, they could include all that. We can even include the summary and stuff like that,
+
+
+
+18:26
+
+which is great. And this is something that generates leads like crazy. So, you could use it for your own business as I am doing with the one I'm creating for the what was it? The niche generator. There we go. The niche finder tool, which is cool. And I'm actually going to tie this into the available niches we have. So, they could be like, "Oh, here's a domain that's perfect for you." Very strategic stuff. Thinking about how you can make things easier, better, much like they did here with Fiverr and stuff like that, is a game changer. So, check out aprofitscoop.com. If you're not on the free list, join that. If you want to join the the big kahuna plan, which is like a whopping 53 cents a day, go to apiprofitscoop.com/home and you can sign up there. We have a call every Tuesday, every Friday, along with all kinds of tools to help you get started using AI to build a business. Thanks for watching. Smash the like button. Check out the videos in the description and I'll see you in the next training.

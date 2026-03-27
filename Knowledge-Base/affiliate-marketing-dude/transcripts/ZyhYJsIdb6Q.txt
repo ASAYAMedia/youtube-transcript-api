@@ -1,0 +1,178 @@
+0:00
+
+Less than 48 hours ago at Google IO, they exposed the idea of AI aenic search where basically a robot does all the searching for you. Wait a minute. What? Yeah, more about that in just a minute because I believe inadvertently they exposed an industry that is about to make trillions of dollars and those paying attention could make some serious money. More about that in just a minute. First, how does this whole thing work? Have you ever seen an ad like this or this pop up in your Facebook feed or maybe show up on a website? Or maybe you've come across a website that looks like this. Why in the world would these show up? And the answer is they make a lot of money. But what does this have to do with you, Google IO, and the future of online business and search? Well, I'm glad you asked because some of this is getting into the
+
+
+1:01
+
+realm of a scary area. A lot of people are asking, "What can we make AI do?" But not so much, should we be having AI do this in the first place? If you feel like AI is advancing too fast, and there's no regulation, let me know as a comment below so I know I'm not alone. Because whether you like it or not, AI is changing the way we live and breathe in the real world. Now, most of it is in this internet world, which Mark Zuckerberg thinks is reality, but some of it is leaking over into our physical world as well. And a lot of it is going to affect our economy very, very fast. I mean, let's face it, the online advertising industry makes like $25,000 a second. That's right. Every second since you've been watching this video, thousands of dollars is being spent on online ads. So, if AI is shaking up this market, what does that mean for you, and how can you get insanely rich? Well, friends, that's what this video is all about. I'm here
+
+
+2:01
+
+to show you how search works, how money is made online, and how you can get in the flow. So, I made you this little counter. This counter is showing how many searches are done on Google, how much the online ad revenue is making, how much Google's making, and more. We're going to leave this up for the remainder of the video so you can see in real time exactly how much money is at stake. How AI can help you get some of that money and what you need to do if you no longer just want to sit back and watch what AI is doing, but actually get involved and make money for yourself. Well, then smash a like button. Let's hop in the computer. I'll show you exactly how this works. some key takeaways from Google IO that most people weren't paying attention to, how they affect you, how they affect the online ecosystem of making money, and how we can use them to predict what's going to happen next so we can get paid. Come on, let's go to [Music] work. All right, so let's go ahead and
+
+
+3:02
+
+dive in. First of all, I want to explain this little counter here because I think it's very important. First of all, this is the global internet ad spend as per the estimates of all online ad spending. It's telling up per second. We also have the estimated Google search earnings. This is the amount they're making from search directly, not other properties, just search. Next, we have total amount of Google searches. You can see 13 million searches, almost 14 million since we started this counter. We also have zeroclick searches done on Google. What does this mean? Well, a lot of talk has been about the Google zero search game, which basically means that when you search something like how to stop mosquitoes in Google, you get an AI overview, which does not result in you actually going to a website. You just read the stuff, you get your info, and you're gone. There's a lot of zeroclick searches, and a lot of people are frustrated by this because it used to be back in the old day, I would provide a blog with information. Google would show that blog. You would click the blog, get
+
+
+4:02
+
+the information, and I'd be able to make money with ads and different things like this. Now, with zeroclick searches and AI search, this number is going up, which is affecting ad revenue for lots of people, although Google seems to be doing just fine. Now, we can also see how many Google searches are directly going to YouTube, how much Meta is earning, Facebook, and how much Amazon ads are earning as well. So, lots of stuff here. very important to look at. I think the numbers we want to pay attention to are the zeroclick searches because that's what we're paying attention to with a genenic search. In Google IO, they said, "Hey, a genic search is going to come out and it's going to search for you." Now, we saw that Sundar went through and talked about the mission of Google. That has always been their mission to organize the world's information and make it universally accessible and useful. Now, organizing the world's information and putting it in a box like this where it does not really give credit to where it came from, that's kind of a gray area.
+
+
+5:04
+
+We'll get into that in just a little bit. Some of the things we wanted to look at is the overall theme of search gravitating towards AI where we're using AI chat GPT rather than just old school Google searches. We can also see that they talked about different growth of the AI search engines where it's like okay people are using AI to the tune of 1.5 billion user satisfaction. They are saying that yes users are reporting a much better satisfaction rate with Google AI search. Now one of the things that they talked about was AI at the scale of human curiosity. This reminds me of back in the day when we watched the Wall-E movie where you had the guy who was in the cockpit talking to the co-pilot where he was like, "Hey, you know, tell me about dancing. Tell me about food. Tell me about gardening." And the AI was interacting with him. This was almost 15 almost 20 years ago now or 10 years ago or something like that. You do the math when the movie came out and now we are seeing that as a reality. AI overviews are driving
+
+
+6:07
+
+growth. This is important. This is going to shake up the ecosystem. Now, before we go any further, I want to show you like we know that Google in the last couple seconds has made like a million dollars or something crazy. I want to talk to you about where that comes from. Because over here, we saw the ads that look like this. And we talked about why did these ads why do these ads make any money? Why do they work? What's going on? Well, I want to show you something important. We could see here this one for reverse mortgages, one for car insuranceances, and one for retirees and different things like that. I want to show you what this looks like on the back end of Google because we see here, yes, if I was to search for like car insurance, right, like this. We can see that car insurance comes up. Surprisingly, no AI on this term. Why would that be? Well, I think because Google wants you to click the ads more than they want you to interact with AI. Why? Why would it be on this term? Whereas mosquitoes where like I could go
+
+
+7:07
+
+hire a local mosquito company or something like that. Why would this show AI at the top and this would not? Well, I'm going to show you here, right here, right now. You're going to get an aha moment that's going to make you understand search in a way you might not have seen before. All right. So, we have these ads here that lurk around on Facebook and websites and different things like that. You've seen them everywhere. But what is going on behind the scenes? How is Google making this obscene amount of money? Well, if we were to go to SpyFu like this and look up car insurance, you can see that over 173,000 people do what I just did by typing car insurance in here. So, this is like Google inventory. Their inventory isn't stocked shelves, it's searches. And what we're seeing is they have an inventory of about 173,000 searches a month just for the word car insurance. Now, other related words, almost a half a million searches a month. What is this inventory worth to
+
+
+8:08
+
+Google? Let me show you. If we scroll down here, we can see that on average $23 a click. What does that mean? That means if someone clicks an ad and goes to more ads about car insurance, those advertisers are saying on average, hey, that traffic's worth $23 a click. Now, when I say a click, what do I mean? That means a click. Like the ads on the site, if they're clicked on, boom, they are paying the money. Now, let's take a look at some others. If we were to take a look at like reverse mortgage, watch this one. We have this one. $22 a click. Very important. However, let's take a look at something else. Let's say stop mosquitoes. I'm going to copy this because I'm not even going to try to spell the word mosquitoes. I need AI to do that. So, if we do how to stop mosquitoes, you're going to see only 44 people search a month and it's like 63 cents a click. However, there's
+
+
+9:10
+
+something hidden here. If we were to do pest control or pest control near me, watch what happens. Now we're at $10 a click. However, it is the same thing. Maybe we're to do something like termite eggs like this. People are like, "What do termite eggs look like?" Well, they look like no money on Google is what they look like. However, if we do termite service, now we're going to get $16 a click. Now, what we're seeing is something important, and this is something people missed in Google IO. More about this in just a minute. We'll catch up. I'm getting a little excited here because we're going to have a big aha moment. Now, what we're seeing here is that with AI mode, searches are two to three times longer for early testers than just a regular Google query. So where I might type in how to stop mosquitoes, they might say how to get rid of mosquitoes inside the house naturally without chemicals or something like that. So this is what we're seeing
+
+
+10:11
+
+more with AI where like get rid of mosquitoes was the old way of searching. Now what's going to happen here is you're going to have AI predictive ad placement. This is big. Pay attention. There's trillions of dollars at stake here. Now, before we go any bigger, right? Trillions of dollars at stake. But the average person trying to make money online watching these videos makes nothing. Most people make nothing. I got to tell you that because this is a business, there's risk even though there's a lot of money. And it seems pretty simple. There's a thing, a few things we need to know. And one of them is that nothing's guaranteed. So, when we see $20 a click and all these big numbers, there's a lot of money at stake. Most people aren't getting it for whatever reason. I'm going to show you how it works so that you can understand this. Doesn't guarantee money, but it'll help you understand. So, what we're seeing is AI mode is shifting to longer searches. They did the example in Google IO where they talked about a search
+
+
+11:12
+
+which was something like instead of find a house or whatever, it was find me a house in Orlando that is $1.15 million on a lake with a granny house. This is something that's specific to me. I'm actually looking for a house in Orlando right now that is on a lake that has two properties so I can have my office and my home on the same property right now. My house, my other house, this is my office house. My other house is like 5 miles away and it's getting to be kind of a pain. I'd like to have it all on one and I'd like to live on a lake now doing this search. I've been doing this search for several months. I'm very picky about what I want and Google is saying that they are going to help me. AI is going to do the work for me and find all the info. I'm not seeing it. I looked at these results. Some weren't on a lake. Some didn't have a granny house. Some didn't have a big garage. Some of them didn't even make any sense. I actually had a better result going to Zillow. Okay, you can go through, you can do the search yourself. I think
+
+
+12:14
+
+Zillow is doing a better job. And and let's face it, most of the results here are from Zillow. So, are they trying to undercut the middleman? I don't know. You let me know what you think as a comment below. Because Zillow built their business on the backs of Google searches. Amazon built their business on the backs of Google searches. Now, Google was saying, "Okay, we want to give the information and make it accessible." However, it seems like they're gravitating towards we want to get all the information, make an AI that parses it for you, and we're going to feed you what we want. I don't know if that's true, but it does seem like, okay, the ads are winning, and our control is going away. Personally for me, I like doing the research. I love the AI tools, but I also like doing the research and understanding. In that example of the house search, I like doing the research. Okay, I think that's very important. Now, we can also see that Google, if you look at Google Trends, you can see what is searched
+
+
+13:14
+
+for. A lot of stuff is searched for. A lot of it is zero click search where they're going through like you can see here, zero click, we're up to almost 70 million, and we just started this video. So, we're seeing like, okay, yeah, there is a lot of stuff that's zero search like getting rid of mosquitoes or whatever. We can see that stuff. We can also see that Google AI Studio is a gamecher. Really, lots of stuff going on there. However, when we're looking at this, we want to understand mostly where search is going. That's what this video is about. If you understand where search is going, if you can predict it, if you can understand it, there is a ton of money at stake. As we showed you, these ads here are pointing to things that pay a lot of money. When you talk about like retirement homes or something like that, you can do retirement home. Lot of money because I mean, I don't know if you've ever put someone in a retirement home. It's a lot of money. But you can do like retirement home or uh something like that. Assisted living home. And you'll see
+
+
+14:14
+
+here that the ads go up quite a bit. You'll just have to find the right word. Assisted. I might have spelled it wrong. Um but you'll see that there's ads for a lot of things. And there are some that pay a lot of money. For example, I did a little search over here. I think it was this one where I did a search in Google saying, "Hey, find me the words that get a lot of money like legal services." Okay, for right now, if we were to do like car accident or or divorce lawyer near me, let's say we do divorce lawyer near me. Okay, now you're going to see some ads and different things like that and some, you know, things here. Now, if we were to go through and look this up and say Gemini, right, like this and say divorced lawyer near me, they're not going to have any ads. However, these ads put a lot of money. Okay, so this is going to go through. It's going to give me this stuff, which does in fact get rid of the ad revenue on Google. Same thing with chat GPT. Same thing with Perplexity. The ad revenue is to be
+
+
+15:15
+
+determined. Now, where I think this is going and where if you listen to the keynote, I think you'll see the same thing. It was going towards a more indepth process where you start with, hey, me and my wife are fighting all the time and then all of a sudden you're on this ad for divorce attorney. This is where I think it's going to head because what they want to do is predictive type search. This is where AI is going to change the world. And if we start to look at divorce lawyer near me, you're going to see now we're at $15 a click. Whereas like fight with wife or how much is spousal custody or whatever. How much how much is spousal support? We're going to have to spell this right. I am in fact the world's worst speller. How much is spousal support? This would be a zero clicker. Right. There you go. Here's how to here's how to calculate it. Now it isn't has deep dive in Google um Google
+
+
+16:17
+
+AI mode. Let's see what this says. It's tricky to say need this, need that. Okay. So, I think for me a better result would be a tool that would help them calculate it. Okay. That would be to me something that would be better than just a list or stuff like this. So, how much is spousal support? This is where Gemini really thrives for us marketers because I can say let's make a how much is spousal support calculator detailed please and this will actually go through and do this and this is something that we saw in Google IO where they were talking about I think I had notes down here which was the best UI for search. What is the best user interface for each search that they're doing? Is it a calculator? Is it a tool? Is it images? Is it a map? Is it a search type thing? What is it that we're looking for? And how is this going to work in a realworld way so that we can make money, build a site, give people
+
+
+17:18
+
+exactly what they want? This is super important and a lot of people are not paying attention to this. Pay attention to it. Next, we have another thing that Google revealed which is their search is going to go through have a future hub and and all these different things. First, they're saying they're going to have personal context. This is scary. I remember Sundarpachai said we're going to have this tie in with your personal stuff with your consent of course which is like basically we're going to track everything you do on Google and AI is now going to give you stuff for that. So if you search why am I fighting with my wife or how much is you know uh custody or spousal support or whatever. Now Google's going to be like oh hey I see that you're having a bad day. Is that cuz your wife's mean and you need to divorce her? Here's an attorney by the way. click the ad so we can get $20. I don't know if it's going to get that way, but having a personal context with a personal AI with an ad mechanism tied to it that makes hundreds of billions of dollars and is worth an estimated $2
+
+
+18:20
+
+trillion. This is getting into an interesting area. This is why ChatJippet, this is why MSN, this is why Perplexity, all these companies are getting ridiculous valuations because of the money behind the search and the intent and the manufacturing of intent that I've talked about on this channel many, many times where if you can manufacture intent like fighting with wife leads to having these divorce attorneys, now we're getting somewhere interesting and a gray ethical area where if the AI is programmed to make as much money as possible, could it actually talk you into divorcing your wife? Interesting. These are things where ethical stuff, it's kind of scary. Like for me, I'm 45, a little worried about things, but the money aspect is is big here. I think it's going to be huge. Will take jobs, but is there's a lot going on there. I think if we could focus on search, talk about the ethics
+
+
+19:21
+
+stuff later. I think this is really going to be a big deal. Now, looking at that, understanding the back end of Google is all of these searches from mosquito spray to a new hat to shoes to whatever it is. These ads are making money. If we were to go through and say, um, okay, here's our calculator, right? We can see our calculator. And this is the kind of thing you can make money with right now. Now, make the tool. And you can build these things all day, every day, and make money. This is what I do for a living. in addition to drinking lots of coffee. But we can go through and we can make this tool. Now, if I was to go through, I'm going to use Gemini for this. If I went through to Gemini and I said, "What search terms bring the most revenue to Google?" And I'm going to be using Gemini for this because Gemini is built with the Google platform in mind. So, I think it has a better understanding of search, the fan out capability and stuff like that. And I'm
+
+
+20:22
+
+going to show you a tip in just a minute that'll help you take your sites from like making a little bit to making a lot. This is super important. You got to pay attention. All right. So, we're going to make the tool there. We're going to get this. The next thing I want to go through is they're going to have deep research, analysis, and visualization where I could take my phone and walk around and it'll search stuff for me. This is going to lead to a vast gigantic amount more of Google searches because AI is now doing the search which might not be humans. But what we're going to do is we're going to look at what they call the query fan out technique. We're going to get to that in a second. First, let's see what our calculator looks like for this here. I think am I in the right one? Math and code. Yeah. Okay. Let's go to canvas. Now make it. Okay. So now it'll make it and we could see that there. Now, we can also go through and see what terms bring Google the most revenue. It'll give us that advice as well or that overview. Now, the query fanout technique. This is important. Let's open another Gemini.
+
+
+21:24
+
+I'm going to say, tell me about Google query fanout technique. Because this is Google and it's Gemini, it will understand this unlike any other other AI. If I was to tape that in here, let's see what this looks like. Let's see what it says for Google uh fan out. So query fanout is a fundamental technique used in large-scale distributed systems like Google to handle a massive number of search queries efficiently. What it's doing is looking at here is the query. Then we fan out. So guy mad at wife. Okay. Does he need like help? Let's give him the the hotline for get some help. Is he an alcoholic? Is he this? Are they just fighting too much? Do they need a divorce? Do we need to do this? It's going to go through and it's going to look at that and it's going to take it into different parts. This was known as longtail searches back in the day. A lot of us as SEO guys understand this. This is why SEO understanding is important more than ever in the age of AI. Parallel processing, it's going to go
+
+
+22:24
+
+through and process that. It's going to aggregate the results and give you the ranking and everything like that. Now, when we look at this, I'm going to say do a query fan out for um fight with or let's do let's do new car prices. Let's see what happens here. So, do a query fan out for new car prices and we'll see what that looks like while we're getting this other data here. Legal, insurance, loans, financial, healthcare. So we could see the ones that are paying Google a lot of money again like home services where you go through one of them was water damage. We actually had a guy here because this office had a leak. Water damage services. Okay. So this thing here we got $34 a click. That's the one of the biggest ones so far. And sometimes you'll go through in tomorrow's video we're going to have one that's $129 a click. Stay tuned for that. Back in the day, I I made a bad mistake of deleting a site that ranked
+
+
+23:26
+
+for all these terms and it was because it was before the ads were there, but I was getting a lot of traffic in that one. So, tomorrow's video is going to be a doozy. So, $34 a click in this one. Can I do a fan out and and figure out what they would want? So, new car prices for Honda CRV aggregation. It's going to show you, okay, MSRP, dealer invoice, current incentives. This is the fan out, right? Do you guys see it? Now visualize it as an image. Okay, let's see what it does here because if we can get the inside scoop of what Google's thinking, that would be key. And again, remember there's trillions at stake here. So, first we saw, yes, we're doing the fan out. Then we have aenic search, which is like the deep search where we're going to go through and find stuff like this. Okay. Then we have Google Deep Research, which is another tool that allows us to search like a hundred different sites at once. Okay, again, looking at that, where are the ads going to be? I want
+
+
+24:27
+
+you to think about this. When you're using AI tools, there's going to be ads at some point. It's natural because the product will be free. It'll have ads. We'll have all kinds of different things like that. So, we're going to go through and look at all this and understand where this is going to go. If you can predict where it's going, there's a lot of money at stake. So now we're going to go through take a look at this. So here's the query fan out. Okay. Dealer invoice incentives and rebates. Something about a chart there. Taxes and fees. Local inventory. Interesting. I didn't think about that one. I like that. MSRPs and trims, taxes and fees. Reviews and comparisons. So this is what a fan out would look like. Now think money with fanout. over at apiprofitscoop.com. I will create this for you with the numbers on it. We'll do a whole notes page on this. Valyri, if you're listening, this is what the notes are going to be about. But we can go through and we can see every step of the way with this fan out. There is money.
+
+
+25:30
+
+Watch this. We're going to go through and do new car prices. Understand this. Hopefully, if you guys are getting aha moments, let me know as a comment below. So, we got this one, 271. Now, let's go for MSRP car. Okay. Now, we got 149. Let's do extended warranty. I'll try to spell this right. I think it has one R or two. I don't know. Probably two. All right. Extended warranty. There we go. So, extended warranty. Now, we're at $12. All right. Now, let's do car loan. There we go. Car loan. Did I spell that right? Car refinance. One of these. Car refinance. $6. See how the fan out has the money in it? If you get it, smash a like button. Let me know if you understand this. This is how AI is going to work. This is how ads are going to work in the future.
+
+
+26:31
+
+Understanding this, making tools, making things that will help people will show up in AI. I just took a screenshot earlier. One of our sites is in fact showing up in AI. You can see here this guy came from chat GBT. This is one of the new sites that I built. Very cool, very important. Now, there's money here. So, understanding this car loan refinance, car loan, stuff like that. Fan out money, different trees with the money. Okay, understand it. This is what Google has known for years. This is what SEO guys like me have known for years. This is what we've been doing. And you can see all the top money-making ones. and we could get into them. Could I make something that would help with AI? Could I make a tool like the tool that this is supposed to make conceptual? Uh, let's see. Can you make the tool? I don't know why it's not making the tool. Let's try this again. And maybe we're in the wrong one. 2.5 flash should be. There's the personalization one, which I think is interesting. And let's see if we can make this tool. We might
+
+
+27:32
+
+need to go and have Google do or um chat GBT do it. I don't know why this is not working. I might be in the wrong one. Can Can you make the tool in HTML for my website? Because if I had this tool and I could help people understand this, that would be a way to get a lot of traffic. A lot of people are getting traffic this way and people are not paying attention to it. So, it looks like it's going to do Florida specific. So, I'm going to say now have a dropdown. Let's go in here. Now have a drop down for different states. And I can have like a car value calculator or something like that. And what you'll see this will make codes that I can get traffic to. And because it's leading to this backend that makes a lot of money, bada bing, bada bang, I'm ready to go. This is huge. When we're looking at that, we saw that at Google IO, they said it'll be able to get you an event tickets. Woohoo! Cute. It'll get me a
+
+
+28:32
+
+baseball ticket. Whatever. There's money there. But there was something more important that they said. AI will be able to book appointments for local services. I want to let you in on a little business here. If we were to go through and let's use one of these here. Let's say how big and how much do companies like Angie's list make? List 10. Watch this. Okay, you look at Angie's list. And again, if we were to go to our AHF's keyword tool, which is a keyword tool that I use for everything, and we type in Angie's list. Angie's list. There it is. It's just Angie. There we go. I was I was shooting a little too far on that one. So, angie.com right here. All right. 1.5 million keywords in Google getting them 3.5 million searches a month just from Google for a traffic value, drum roll
+
+
+29:35
+
+please, of 13 million a month from Google. So, like when AI takes this over, is this company going to be out of business or are they going to partner with them and then all the little blogs are out? We don't know. But I can see here that some of these like plumber near me that's worth like a million bucks a month. You got emergency plumbers. I have a site in that niche. I think ours might be emergency dentist. But all kinds of things like this. This is where money is made. This is stuff the gurus don't tell you about. And this is stuff that Google kind of like showed you like where AI is headed. So, what if they have all these people getting all this stuff? Now, I know for a fact Angie's List makes a lot more than 11 million a month, but let's take a look at what the estimate is over here. Angie's List, $1.28 billion. Most of it from or a lot of it from Google. You have Next Door, Yelp. Yelp was built on Google. All of these
+
+
+30:35
+
+companies were built on Google. Thumbtac started by people looking up local stuff and then they had their review engine 500 million. Are you guys seeing the amount of money at stake here with the changes in AI? What's going to happen is companies that are now relying on these other places are going to have to shift. The guy who's at the top of Google might not be at the top of AI Google. That's going to shift and the the different graduation of the money is going to shift. I think in the future we're going to see expensive traffic on paid ads and if we can get free traffic game over we win. And then understanding all this other stuff like query fan out and everything is a big deal. Now we can also see personal context, deep research, complex analysis, all this other stuff going on. They're saying that Google AI mode is more helpful with personalized suggestions. Again, will it know, oh, hey, last week your roof was leaking. Maybe you need to to do this. Maybe
+
+
+31:36
+
+it'll remind you. So maybe there'll be even more money. How can we understand this first? Start using it. Make tools. Make helpful stuff. Because right now you have the ability to make stuff like this, right? Date of marriage. I don't know 20 20 or 2000. When was I married? A long time ago. Something like that. Right? You could do all the math. Let's go like this. and and then you can calculate it which would be pretty cool. Making these things is key. For years that is what these lawyers were doing is how they got traffic and that's where these companies came in and it was like okay now we're going to be the middleman. Angie's a middleman. That's what they are. Middle lady, right? Very simple. And we're starting to see like these companies make a lot of money and if we can understand and provide good content or an AI tool or something like that, now you're going to see where this is going to be. So now we're seeing they want more assistance in searches which we're
+
+
+32:37
+
+seeing a change here, but we are seeing okay a lot of this is leading to different information that people would want. So doing this here you see you have you know different information or you can even do like let's say with the deep research I have been married 25 years got married in Cali now live in Florida make a lot of money how do I calculate I'm gonna say how much I'll have left because that's the better number um alimony or something like that, right? So now this is like a deeper research and we could go through and say in Florida alimony based on the judge's consideration. So it didn't really do the search for me. Let's try this in AI mode. See what happens here. So it's got 83 websites. It's got different links here. So if my calculator was here like this,
+
+
+33:40
+
+I could do really well. I mean, think about that. that is what they deem relevant. If mine was good, I boosted it up. I would show up there and that would get the click. Right? Out of all of these, I would do the calculator. That would be the one I would click. Tell me if you think you would type calculator click or something like that. I think that would be good. Now, we also have like these little links here that they link to which are also these sites. I would like to see more like a blue link. I think that would get more clicks. Don't know if that's Google's goal, but we can see a lot of changes here that are happening. Overall, understand where search is going and we can predict where the money is going to be. Right now, as it is, Google ain't struggling for searches. They're still getting lots and lots of searches. They're still making lots and lots of money. And blogs and websites that Google link to are still getting lots of traffic. So right now, what can you do to use AI to make something better for searches and think
+
+
+34:42
+
+about what's going to happen in the future? Where's the money at? How do I build it? How do I grow? This is a trillion dollar industry. Again, watching this video ain't going to make you any money. You got to go out there and understand how to build a business. Hopefully, you're getting it. Smash the like button. Type aha moment in the comments below. If you got an aha moment, hop on over to a profitscoop.com. We're gonna have notes from this video as well as those fanout things, some tools, some things that you can use to understand how this change is going to happen because it's going to happen. And if you're a member at apiprofitscoop.com, we're going to have webinars on this and teach you what's going on so you could be ahead of the curve and make money with AI and search. As you can see, since this video started, lots of money has been made on search, on AI, all different kinds of things like this. Lot of money being made. And if you can understand where all this is going, I think you're going to have a huge chance at making money in the future with AI where some people might be out of a job. That's going to
+
+
+35:42
+
+be a difficult place, but I want to protect myself and understand where this trend is going so that I can get in front of it and make money. Aiprofitscoop.com for the notes. Check out the videos in the description. Smash the like button. Thanks for watching and I'll see you in the next video.

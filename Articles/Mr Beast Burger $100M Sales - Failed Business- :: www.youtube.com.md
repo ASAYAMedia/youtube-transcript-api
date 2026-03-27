@@ -1,0 +1,81 @@
+---
+url: https://www.youtube.com/watch?v=rqIdW1iiK90
+---
+
+# Mr Beast Burger $100M Sales - Failed Business?
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rqIdW1iiK90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=rqIdW1iiK90&t=0s)
+
+Mr Beast Burger a hundred million dollars Mr Beast Burger can you go in there let's check this out I mean on the map it looks like there's a Mr Beast Burger [Music] is this the right place wait a minute what all right ladies and gentlemen welcome back that's right today we are talking about ghost kitchens Mr Beast Burgers how he sold over 100 million dollars worth of hamburgers in just two years plus what you can learn about how to make money online because not only are we gonna dive into this Digital World of Drop Shipping food but I'm also going to show you five ways that you can put money in your pocket and we're starting right now first let's define what a ghost kitchen or Cloud kitchen actually is if you were
+
+---
+
+[1:02](https://youtube.com/watch?v=rqIdW1iiK90&t=62s)
+
+to go over here to ubereats and type in Burger you're gonna find all different kinds of delivery food near you and if you were to search on Google for Mr Beast Burger you're going to see his main site right here where you can order food you're going to see several locations that are nearby your area but wait a minute delivery restaurant only that's interesting and we could see here there are tons of Mr Beast burger restaurants near me but is there actually a restaurant I can go to and get a burger from Mr Beast well not exactly you see a ghost kitchen is actually one random building that serves all kinds of foods for many different restaurants so yes this inconspicuous building here might serve you eggs and it might serve you hamburgers and even Kung Pao Chicken in fact when I type site colon ubereats.com and the address of my local Mr Beast Burger we can see that they serve some kind of breakfast
+
+---
+
+[2:02](https://youtube.com/watch?v=rqIdW1iiK90&t=122s)
+
+food 1-800 Burgers cheesy mac Munch up burgers and tons of other restaurants all from this one weird looking building Yep they're essentially making the food and Drop Shipping It On Demand and some of these ghost kitchens have like 12 different brands they work for and are making between 20 and 30 000 a month in profit and since these businesses have way less overhead no marketing expenses or anything like that it's way cheaper to open a ghost kitchen than an actual restaurant which is why these things are popping up all over the place and the way it works is actually pretty simple what's gonna happen is you're gonna have an influencer right like Mr Beast up here who is going to leverage his audience to sell food we see this happen all the time with Mariah Carey's cookies Guy Fieri's restaurant and countless others what they're doing is bypassing the advertising process because they already have a built-in audience so when people are saying that Mr Beast is
+
+---
+
+[3:03](https://youtube.com/watch?v=rqIdW1iiK90&t=183s)
+
+breaking records like McDonald's and stuff like that we need to take it with a grain of salt because Mr Beast took a while to get his audience now it wasn't the 20 years that McDonald's took but then again McDonald's didn't have the power of the internet so what happens is you have companies like virtual dining concept or next bite that approach these influencers who have a big audience they say how would you like to get about 30 percent of sales for your own custom food brands these companies then go out there and find the ghost kitchens that can prepare the food they give them the menu with the instructions on how to prepare the food the boxes and everything they need to deliver the food to you and since this is technically licensing and not an actual franchise all you need to get started is a kitchen and some of these Cloud kitchens or ghost kitchens are reporting a 500 a day profit from each influencer brand and no they didn't have to dip their toe in the million dollars it costs to start
+
+---
+
+[4:04](https://youtube.com/watch?v=rqIdW1iiK90&t=244s)
+
+franchises for other fast food restaurants the ghost kitchen then gets 30 percent and the remaining amount goes to the broker and if this shows us anything it's the power of influencer marketing in fact Mr B set a one day record for the amount of burgers sold in a single restaurant which is pretty impressive considering the amount of sales they get at places like Disneyland yet this influencer broke the record overnight and we're gonna talk about why in just a minute this part is super important because it's going to show you how to Leverage The Power of influencer marketing and a little trick called the drip launch more about that in just a minute but first let's talk about the five ways you can make money with the information you just learned about ghost kitchens wait a minute it's already 304. it's supposed to be here 11 minutes ago now the first and most obvious way to make money with what you just learned is to start a ghost kitchen now while other
+
+---
+
+[5:06](https://youtube.com/watch?v=rqIdW1iiK90&t=306s)
+
+restaurants are going to cost three hundred thousand dollars to start or more ghost kitchens can be started for twenty to sixty thousand dollars on the low end and 150 000 on the high end and since you don't need tables and seating or anything like that these can be set up in a breeze and from what I found the above average ghost kitchens are averaging between 20 and 30 000 a month across all their brands in profit so this could be pretty lucrative but again it's a lot of work and you're gonna have to find people to cook stuff all right let's see what we got here okay foreign a cookie Mr Beast Burger I think it's supposed to come in some kind of boxes but we didn't get that
+
+---
+
+[6:10](https://youtube.com/watch?v=rqIdW1iiK90&t=370s)
+
+we'll see it's definitely smashed Mr Beast Burger it's raw you donkey which brings us to money making method number two invest in companies in the ghost kitchen industry over the next few years we are going to see a huge spike in ghost kitchens Cloud kitchens and this entire business model and since those putting the most money in their pocket are those middlemen yeah those companies Bridging the Gap between the influencers and the kitchens these are going to be companies to keep your eyes on but for this method you have to have a lot of startup Capital which is why I really love method number three and that is to be a professional food reviewer this is something you can start for next to nothing and if you were to search Mr Beast burger reviews right like this you're going to see Yelp TripAdvisor but then you're gonna see something interesting YouTube YouTube Lifestyle blog honest brand reviews wait
+
+---
+
+[7:10](https://youtube.com/watch?v=rqIdW1iiK90&t=430s)
+
+a minute what's going on here as you can see here according to ahrefs millions of people every single month are looking for reviews of their favorite fast food you could quite simply eat the food review it blog about it or even start a YouTube channel like the report of the week who does this and now has close to 3 million subscribers this guy literally just wears suits eats fast food and gives it a review and the ways to get paid are through blog ads affiliate marketing and even YouTube ads some of these guys are making more money reviewing the food than the actual restaurants preparing it so this can be super lucrative and now money making method number four hold on a second now back to the video and what you could do here is make a blog or website or even YouTube channel about what's going on in the cloud kitchen industry we can see here tons of blogs about how to
+
+---
+
+[8:11](https://youtube.com/watch?v=rqIdW1iiK90&t=491s)
+
+start a ghost kitchen tons of YouTube videos about how to start a ghost kitchen and how these Cloud kitchens work not to mention the fact that hundreds of thousands of people each and every month are looking up different terms about how to start and run a ghost kitchen quite simply this is like the franchise boom that happened years ago online and many people got rich disclaimer though the results are not typical implied or guaranteed and the average person trying to make money online makes nothing but if you were to blog about how to start a ghost kitchen what's going to happen is you are going to trigger expensive ads for anything from how to start a website to Merchant accounts to kitchen equipment and more and if you were doing YouTube the same principle applies the more expensive the ads are the more money you're gonna get and it's actually quite simple all you're gonna do is find the keywords that have low or no competition in this column here using a tool like semrush ahrefs or even the Hoth free keyword
+
+---
+
+[9:12](https://youtube.com/watch?v=rqIdW1iiK90&t=552s)
+
+tool we are then going to create content about that keyword put it on our blog and make money when people click the ads you can also run affiliate offers ClickBank offers and offers direct to Merchant accounts and different things like that and some of the bloggers in this Niche are making upwards of twenty thousand dollars a month or more and now my favorite method number five as you probably noticed earlier there is a gap between the influencers and the money and some of these companies much like virtual dining concepts are Bridging the Gap between the influencer and the money and making a fortune and while you might not be able to land an influencer as big as Mr Beast there are hundreds of thousands of smaller influencers that you can help make money by gaining skills in monetization and it's actually pretty simple all you have to do is pair them with the right affiliate offer product to sell custom branding merchandise different ad methods you
+
+---
+
+[10:13](https://youtube.com/watch?v=rqIdW1iiK90&t=613s)
+
+name it the sky is a limit and now let's talk about the drip method I mentioned earlier that launches products and makes sales like crazy this is what is responsible for packing a mall full of Mr Beast fans and selling over a hundred million dollars worth of burgers first he went out there and did a tweet about the fact that he's going to start selling hamburgers then he did teasers in his video and on his channel then he created a launch video and if you've been in the internet marketing space for more than 10 minutes you probably recognize this from somewhere this is the same exact launch model I use on my website and tons of other marketers use on their websites and blogs and YouTube channels first you talk about a topic whether it's on Twitter Youtube blog your email list or whatever it is you hint at what's about to come next two you teach a little bit more about that topic or talk about that
+
+---
+
+[11:13](https://youtube.com/watch?v=rqIdW1iiK90&t=673s)
+
+topic even a little bit more if you're coming out with a new product you would say hey in January we got this new thing coming out you're going to want to have a look three you start talking about what the product actually is and four you set up a video demonstrating the product talking about it and closing the deal it's actually very simple yet very few marketers are doing this I remember going to video Summit a couple years ago and out of thousands of people there was only one marketer I talked to that was actually utilizing this method so going out there and finding influencers and helping them make more money is one of the biggest opportunities that's coming up over the next few years and if you want to learn more about any of these five methods check out the links in the description smash a like button and check out my other videos

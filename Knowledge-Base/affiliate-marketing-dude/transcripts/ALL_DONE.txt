@@ -1,0 +1,7 @@
+Transcript Extraction Complete
+================================
+Total videos: 449
+Total processed: 342
+No transcript: 90
+Failed: 107
+Timestamp: 2026-03-26 23:46:04

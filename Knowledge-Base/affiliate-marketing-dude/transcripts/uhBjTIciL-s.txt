@@ -1,0 +1,159 @@
+[0:00](https://youtube.com/watch?v=uhBjTIciL-s&t=0s)
+
+In today's video, we're going to be walking you through the process of turning AI news items into ideas that can generate money as a business. And you might be asking, how does this whole AI news money method work? I'm glad you asked because right here we have a list of different news items that just came out today. And one of those items is how chat GPT is now watermarking AI text. Maybe you've heard about this. If you have, let me know as a comment below because we're going to turn this simple news report into a full-fledged business. In fact, there are other businesses in this market getting traffic like crazy. Some of them to the tune of $139,000 a month or more. Now, you might be asking, Marcus, does that mean I'm going to watch this video, click a few buttons, and make $139,000 a month for doing nothing? And the answer is no. No, no, of course not. This is about actual businesses. It
+
+---
+
+[1:00](https://youtube.com/watch?v=uhBjTIciL-s&t=60s)
+
+takes work. It takes effort. And the average person watching make money videos makes nothing. Even when they try to set up businesses and do everything the gurus tell them, yeah, the vast majority still make nothing. So, we need to treat this like a business. And today, I'm going to show you how to take these news items, act super fast, and create a business that can generate leads and even money quicker than anything else I've ever seen. Why? Because they're piggybacking on things that are already being talked about, already gaining traction. I mean, think about this for a minute. If you had a way to save money on tariffs, do you think now would be a good time to talk about it? Of course it would, because it's in the news, people are talking about it and thinking about it. And effectively, you can create a business pretty quickly using that current news item. This happens all the time. Sometimes it's known as fad marketing where they go out there and tackle a fad like new genes or a skateboard or a new type of music. Sometimes it's news about a new product like different AI tools,
+
+---
+
+[2:02](https://youtube.com/watch?v=uhBjTIciL-s&t=122s)
+
+software or electric cars. And sometimes it could be something very expensive like changes in the mortgage market or house prices. All of these use current news to make lots of money. So today I'm going to take you to work with me. I'm going to show you how this works and we're going to set everything up live in front of you so you could see exactly how I take something from idea to market in less than an hour and how I use these to make money, what I expect, and what I'm really after. Hint, it's not sales. More about that in just a minute because today I'm going to show you how to use AI news and current events to build businesses that make money. Come on, let's go to work. Okay. So, what we're doing first is we're looking for news items that we can use and piggyback to make something of value that those people listening to that would want. It's very important that we don't do anything unethical. We don't sensationalize. We just basically
+
+---
+
+[3:02](https://youtube.com/watch?v=uhBjTIciL-s&t=182s)
+
+take the news, think about what it's going to help with. The example today is the news of the AI watermarks. A lot of stuff is has been going on lately about how AI has a watermark. It adds extra text. It adds different characters. And it basically gives away the fact that it's AI, which a lot of people for many years have been wondering, okay, how do we bypass AI generators or something like that? Now, what we're going to do is we are going to make something that these people would like based on the fact that they're actually interested in it because the news item is out there. If we were to sort these by date, you'll see it's it's fairly recent. This is an older one, so we can see that, hey, this news has been around for quite some time. So, it's something that's somewhat evergreen. I mean, obviously AI is going to change, but this is something that'll be around a while. We could see OpenAI won't watermark chat GBT because its users could get caught or whatever it is. All right, they're kind of changing their tune now, but we can see this is actually something very popular for those that use AI to make content. A lot of people are worried about this.
+
+---
+
+[4:03](https://youtube.com/watch?v=uhBjTIciL-s&t=243s)
+
+They're worried about deep fakes and misinformation and copyright, which is going crazy right now. I mean, you look at everything. AI is in every aspect of our life whether you know it or not. Somehow someway AI is touching the things that we consume. So looking at this, we want to go through and say, okay, well people that are out there making AI content and they don't want weird characters in it, can we make a tool that sanitizes the text or something like that? And that's the way I was thinking. So, I did a little bit of research here and I was like, okay, are there different text generators and text tools that people can use to reformat different text to get a different output? Because on looking into this niche, I actually found out that a lot of the watermarking wasn't actually watermarking at all. In fact, I went side by side with a text that I knew I wrote by hand and one that AI wrote, and I got pretty much the same results. both of them were flagged as AI even though I know for certain I created mine. So going through and looking at
+
+---
+
+[5:03](https://youtube.com/watch?v=uhBjTIciL-s&t=303s)
+
+this, what we would want to do is take a look at this market, see how big it is, and see what's going on. So first of all, we're going to go through and I went and asked ChatJBT to go through and find different sites that have text reformatter, formatterers, cleaners, all kinds of stuff like that. And what I did is I went out and found all the different sites that were about that. I ran them through my keyword tool to see, okay, is there actually traffic here? And we see there is. Grammarly is a huge business. We have uh Semrush and these others. And then we have these little tools down here that are doing like summaries and different text tools. Think about this in a very holistic type way. If we had a big list of domain names that had quotes around them, maybe there's a tool that removes quotes or a tool that removes the extra return or extra spaces or commas or different things like that. That's what we're doing here is making a very simple tool that would help people with their text to get it formatted different. This is something that I look at all the time when I'm doing AI generated text. We're
+
+---
+
+[6:06](https://youtube.com/watch?v=uhBjTIciL-s&t=366s)
+
+seeing that sometimes it will format it weird or it'll have extra words or something like that. And what we would want was something simple that would help them. So we could see here like article writer tools, text cleaners, um, tools a day, different things like that are actually getting a lot of traffic. Now looking at the one that Quillbot put up, this was put up in I think it was February and already it's getting an amazing amount of traffic for AI humanizer, people that want to make AI text sound more human. Now, this is a more robust code that would actually take an API. What we're going to do is we're going to make something very simple that people can use right away and then we'll lead them to the expensive tools with our affiliate links. Very simple. So let's go through let's take a look at some of the keywords that this one has. We have humanize AI AI text humanizer AI to human all this kind of stuff here. Okay. So this is very very important. You can see lots of people are searching for this and this is something that is in the news right now. So, it is being talked about. And of course, looking at
+
+---
+
+[7:07](https://youtube.com/watch?v=uhBjTIciL-s&t=427s)
+
+this example, they are the ones that have $139,000 a month worth of traffic value. Now, the traffic value, much like when you're looking at anything, that's not like a guarantee of what they're making. However, it is estimating right around 11 cents per visitor is the value. So, if I got a 1.2 million people at 11 cents, that's how they come up with that number. And that number is also coming from the keywords. So if you click on the keywords here, you will see that on average the the cost per click, I think we have to go for locations here, the cost per click is going to be around 11 cents. Some might be like zero, some might be higher. So looking at this, you can see the average. You can see exactly what's going on here and where they're getting their traffic, which is interesting because this one alone would probably be in the $40 to $50,000 per month range just for that one keyword. Now again, results not typical, implied, or guaranteed. There are people that get a million visitors to their site and make nothing. So we have to take this with a grain of salt.
+
+---
+
+[8:08](https://youtube.com/watch?v=uhBjTIciL-s&t=488s)
+
+We have to look at what the intent is of the people looking at it and what we want to do next. For me, I would want to use my tool to generate a mailing list of people that are making content with AI. Why? Because I know that that mailing list will be worth a lot of money because then I can email them tools, share ideas, and all kinds of things like that. Again, we are thinking of this like a business, not just some, oh, let's throw something up and you know, yay, we're going to get money. This is a very, very strategic business decision. Now, here's another site I found just to give you full contrast here. This one's not getting as much traffic, although it is valued at like over a dollar a click. And we could see what the keywords are like there. Again, it is for like AI text formatting, chat GPD converters, text formatterers, and different things like that. So, on looking at this news report, this is something I can use to build a mailing list fairly quickly. I can go out there, I could put information on Facebook, lead them back to the tool, I could do Google reports, I could do a press release about a new tool, all kinds of
+
+---
+
+[9:09](https://youtube.com/watch?v=uhBjTIciL-s&t=549s)
+
+different things that again are newsworthy, aren't being funny or, you know, weird in any way. We just want to go through and say, "Hey, if you're looking to change these characters in your text, this tool will do that." Very, very simple stuff. Now, what we're going to do is we are going to take our news and turn it into a tool or a giveaway. So, if I was doing this for like the solar power market and I found some new solar incentive that the government has or something like that, I could make a guide about the new solar incentive that'll save you money by re-roofing your house or whatever it is. Obviously, you're going to do the research. You're going to figure out what works where and everything like that. And then you tie it to the offer. In this example, I'm actually going to use AI to create a AI text sanitizer or changer or whatever it is, and I'm going to take this to market in a very simple way. Now, I went through and I also asked Gemini to do some research on various different things people want in this market. But the main idea is, yeah,
+
+---
+
+[10:09](https://youtube.com/watch?v=uhBjTIciL-s&t=609s)
+
+if they're looking for this stuff about, I think there's weird watermarks in AI text, how do I get rid of them? Then what we would want to do is say, okay, you could either rewrite it yourself. Here's a guide or create a tool that would do it for them or even a tool that would highlight the stuff that would be a known pattern. Very simple. Now, going through here, this is an example of one of the tools I made. Again, looking at it in a very, very strategic business way. isn't something that's going to get you rich overnight, but it could get you traffic and build a mailing list, which could build a business later. Again, we want to look at this very objectively. Now, on going through this, I actually went through and I found the domain name for $11.17. I bought it at GoDaddy, a textcleaner.com. This is designed to clean up text, make it easy, and everything like that. What we're going to do is we're actually going to go to bolt new and we are going to create these tools with AI. Then we're going to convert them, put them on our site, and work on getting traffic and then
+
+---
+
+[11:10](https://youtube.com/watch?v=uhBjTIciL-s&t=670s)
+
+monetizing. So, what we can do is we could say, let's make a tool where people can put in a bunch of text and it will highlight known AI type phrases. we can have a database of like 1,00 phrases or something like that. Okay, let's go through and see how it builds this. Now, if we were to go look at the other one that I started creating here, we started it out without having these options. I added these options later. And I'm actually going to get rid of this email one because I don't want that on there. So, we'll just have it remove that and it'll fix it. Now, what this is doing is it's making a tool that people can use with their AI text. They come over here, they're like, "Hey, I want to get rid of extra spaces or fix the line breaks or capitalize, remove punctuation, different things like that." And what they do is they put their text here and
+
+---
+
+[12:10](https://youtube.com/watch?v=uhBjTIciL-s&t=730s)
+
+then it spits out the other text form there. So, let's give it a little test here. I can go through and say now make an article about these characters and how AI uses them as a watermark. So now I'll have like a content that I could put up and probably get some traffic because people are looking this up right now. So we're going to create that content there and we're going to run it through and see how these tools work and then we're going to put them on our website. Then we drive traffic and I'm going to have like a spot for, hey, here's my guide on how to write AI text that actually helps people and gets ranked and all of that fancy stuff. So, we can see here it did remove that little email part there. That's good. And it's looking pretty good. So, let's take our text here. Strange characters in AI. There we go. We'll copy this here. We know this is for a fact AI. We're going to put this in the tool right here. And then we can actually sanitize it. So, notice how it took the spaces out. Okay, we could do
+
+---
+
+[13:12](https://youtube.com/watch?v=uhBjTIciL-s&t=792s)
+
+remove extra spaces. No. Fix line breaks. No. Remove HTML. Boom. Boom. Boom. And it'll allow you to do pretty much whatever you want, right? Super cool, super simple. Convert URLs to links. Hey, that's kind of cool. That's actually pretty helpful. Uh, get rid of the emojis or whatever. And then we can go through and I actually had the tool put little buttons on the bottom that are related to what they want. So, if you're checking your AI text here to see what's good and what's bad, checking plagiarism would be natural, right? So, I could link that to a Grammarly affiliate program and they pay lots of money or make it human. I can find a AI human text tool that has an affiliate program that I can link there or improve writing or summarize text or I can even link to my AI human writing business where I can sell articles or whatever it is. Very simple, very easy. Now I would go through once I have this done and we see that it is actually working. Now I can say please convert this to HTML for
+
+---
+
+[14:16](https://youtube.com/watch?v=uhBjTIciL-s&t=856s)
+
+my cPanelbased website. Now I'm using HTML because it's an easy code. I'm using cPanel so that it knows what the hosting is because most hosts are on cPanel. So, we'll go ahead and convert this like this, upload it to our site, and see how we can build from there. And then the idea would be maybe making a popup or something that we can get them in or maybe even like a banner ad up here that says, "Hey, you know, get my free guide on how to write AI content the right way so that you can make money or how to make money with AI content or something like that." What we're doing is we're building a business where we're going to get people in. I'm going to get that mailing list and then I'm going to make money with them. So, it's going to look like this, right? We're going to go through and we're going to build this business up saying, "Okay, the news item is AI watermark." Okay, AI that says I There we go. AI watermark. We're going to take that news right over
+
+---
+
+[15:17](https://youtube.com/watch?v=uhBjTIciL-s&t=917s)
+
+here and we're going to make our website about that. Our website is going to be the tool with the banner up here where they are going to join our mailing list. That mailing list is where I can go through and email them updates on whatever's going on in the AI text world or whatever yours is about. If it's about solar, it'd be solar. And think about it objectively like could I make a tool that shows how much that solar incentive would save these people. Stuff like that is where this is really, really going to work because we're tackling something that is in mind now. Very important. So now we can see it looks like it did actually convert it for us which is pretty cool. Now have a spot under the let's do this for a banner ad also one at bottom. Okay. So this will go through and it'll create the banner ad spots
+
+---
+
+[16:18](https://youtube.com/watch?v=uhBjTIciL-s&t=978s)
+
+just so it makes it easy because I don't know how to read code. This will help me see where the code is in there so that I could build this out. And then of course we can go back and see what our phrase detector is looking like. So we have two tools that would work really well. So let's go through and we'll take our AI generated text over here. We'll put it in the phrase detector. And here we go. So total words AI phrases detected very low phrase diversity. Okay. Now let's say now write the most AI type article ever that any AI detector would flag as AI and we'll go through and use this. Now I have a little hunch that this might not go to our database here which let's see compre comprehensive AI detector. Let's say where is the database and we'll see like this. Okay. And then we'll run this here which is our super super AI written content and
+
+---
+
+[17:21](https://youtube.com/watch?v=uhBjTIciL-s&t=1041s)
+
+we'll see if this actually flags because it may or may not lead to the database. Again, this is about building a business. It's not like you're going to set something up in two seconds and get rich or anything. What we're doing is we're trying to build something good that actually works. So, it is actually working. Hey, I'm pretty impressed. So, we see here it does have the phrases. It does highlight them, which is looking pretty good. And now add more to the database and spots for banner ads. And obviously for here, I would go and find an affiliate program for like an AI rewriter or humanizer or something like that. And those are big business. Like this is tying into something that's super super in in demand. like this is a lot of money here. Okay, so looking at that's really cool. We have our sanitizer here. Did it put the banner? Let's see. Don't see it yet. I don't see the banner. Let's see here. See if we can get that banner there. And then I would
+
+---
+
+[18:22](https://youtube.com/watch?v=uhBjTIciL-s&t=1102s)
+
+change all these links obviously to affiliate offers. I would also put an affiliate disclaimer under here, right? So add affiliate disclaimer and uh just do to the bottom under the buttons. Okay. And then what we're going to do is we're going to focus on getting traffic to this thing. And now we can see we have the the text one here working pretty good. Now let's go ahead now convert this to HTML for my website. And it should do that for us. And then once we're done, if it did everything right, sometimes it's not perfect out of the get-go. Like I see a lot of TS files here, which TSX, these are not what I want. There's an index html. So that's probably the one it's changing. That's why we're not seeing the update. So let's preview that. All right. So let's go ahead and take this one here. Looks like it is working. Got the disclaimer there. Okay. So now add
+
+---
+
+[19:25](https://youtube.com/watch?v=uhBjTIciL-s&t=1165s)
+
+banners and disclaimers to the HTML one. Let's see if it does this here. It should change it for us. And then we'll upload it. And then we'll talk about how to get traffic as well. So it is updating the index.html one right there. Preview. And we should have that there. So once we're done, we'll let this finish. We are going to go ahead and take these files. We're going to do export. Now, you could make these in chat GPT with the canvas. You can make them in Gemini. I find that Bolt and the tools like Lovable and uh what's the other one? Replet are good because they actually package all the files for you. And this one did a good job of having the advertisement there and everything. So, what we would do is we go right like this. When it's done, we're just going to click on export download and it'll download right here. Then what we're going to do is we're going to go to our web server which is this one here AI
+
+---
+
+[20:26](https://youtube.com/watch?v=uhBjTIciL-s&t=1226s)
+
+text cleaner and we are going to load it. So it's our C panel file manager. We're going to locate that one which is the AI text cleaner right here. Okay. Then what we're going to do is we're going to go ahead and hit upload and we're just going to drag and drop the file right here. Boom. And then we'll get our next one once it's done. And we'll do that. So on this one first I'm going to go through reload extract right like this and we can extract it to it'll probably do a project folder or something like that. We can move it later. So now we should have a project folder right in here which would be slash project and boom there we go. So now we have our AI tech sanitizer. We have our ad space here our ad space here which I can change. It tells you how to do it in that tool. Okay. So there is where I would have wait get your free guide on how to make AI text that actually works and makes you money or whatever it is. Okay, now let's test it. See if it
+
+---
+
+[21:27](https://youtube.com/watch?v=uhBjTIciL-s&t=1287s)
+
+works. We could see here our AI text and we'll put this in here. Let's do nothing. All right, like this. And we could see Okay, there we go. So if I wanted to remove empty lines, there we go. Remove punctuation. Cool. So this actually does pretty good. I like this tool. It's something that I would actually use and it's something that a lot of people do use. We see that some of these like humanize AI, there's a lot of people looking that up. AI text formatter, there's lots of people looking this stuff up. Huge, right? There's even LinkedIn if you wanted to go there and then tie into things that people use on LinkedIn. Very, very simple. Text formatter 800 a month. We have lots of others as well like AI text, AI to human, different things like that. Okay. So, our tool is going to be very helpful for people that are looking at this. Here's this one for text cleaner. And we can see that this one is more in line with what we're doing. Like a text cleaner, 1,700 searches a month, article writer tool, AI detecting, text purge,
+
+---
+
+[22:29](https://youtube.com/watch?v=uhBjTIciL-s&t=1349s)
+
+all kinds of stuff like this are very good tools that are geared at, okay, how can I help people write better with AI? Now, we did come up with a little error here. So, we'll just hit attempt fix right like this. And then it should build it, make it all fancy for us, ready to go. And again, traffic is there. So, we know that it's there. We know it's ready to go. What we're going to do next is we're going to go through and talk about how I would do the traffic methods on this. If I was going to drive people to this, I could do a press release about, hey, this new tool helps remove unwanted characters in AI text. Hey, this new tool helps you understand which which text is written by AI and which isn't or what kind of phrases or something like that. Very very important, very good. It is something people would want to use. The value is in the tool. That's what's going to build our business. And I could start out as an affiliate business, link people to other stuff, and then later I could add new tools, APIs, all kinds of
+
+---
+
+[23:30](https://youtube.com/watch?v=uhBjTIciL-s&t=1410s)
+
+stuff like that. Now, going through like this, let's see if this one's done. Doesn't look like it wanted to give us a preview, but it does look done. So, instead of using Python, I recommended use a John. This okay. Is there an index is my question. That's what I'm looking for here. Main.js. Where is the index.html? Let's see if it's in there. There it is. Okay, cool. I just wasn't seeing it. So now what we would do is we just export this, download it. We're going to do the same thing over here on our C panel. Just going to drag and drop it here. Boop. Right like that. And then we are going to extract it to a different folder because we don't want it to be project because that would be the same. So we'll go ahead and export or extract rather. And we'll just call this detector. Right like that. Okay, there we go. So it's under detector project. So, I could go here. I could do
+
+---
+
+[24:33](https://youtube.com/watch?v=uhBjTIciL-s&t=1473s)
+
+detector slash project, right? Like this. And now I have my tool, which is great. Let's double check, make sure that it does in fact work. Here's our obvious AI text. Put it in there. It's working. So, now within, you know, less than 20 minutes or 30 minutes or so, we actually have a tool we can start using. It's got a spot for the advertisement. We could put banner ads on it. We could put pop-up ads that, you know, obviously use an inline pop-up. nothing weird, something that's like, "Hey, you know, do you want to get my free guide on how to, you know, make human sounding AI text or something like that?" And what we're doing is we're using this news article to make a tool based on what's in people's minds already. And to get traffic, all I would need to do is go out there, make a video about how the tool works, make a Pinterest post, make Facebook posts about, hey, did you know that AI has these characters in it? What's the deal with the AI watermark stuff? And you can use AI to make content for this. Now make content
+
+---
+
+[25:34](https://youtube.com/watch?v=uhBjTIciL-s&t=1534s)
+
+listing the top 100 characters that AI uses that humans don't. Then you could go into the phrases. Now you're going to make content about the phrases and you're going to say, "Is your text AI?" Go to what's our site? Aitextcleaner.com to find out. This is something that's very cut and dry, very basic. You can make tools on literally anything. You can make a tariff calculator tool and talk about that. You can make tools about mortgage rates, house prices, all kinds of things like this. And I want you to know that this is a business. We are building something long-term. We're not setting this up like the gurus say, and you know, all that crazy stuff. This is something where we look at it objectively. Most people make nothing. However, I think if we build a business and stick to it and and keep going, I think you can actually start getting traction. And the goal is, hey, I want to get a couple people to try out the tool. Then maybe a few will opt in, then I can scale it up and build and grow
+
+---
+
+[26:36](https://youtube.com/watch?v=uhBjTIciL-s&t=1596s)
+
+from there. But if I can build a giant list of all the people that are using AI to create text content, that's worth money to me because then I can market to them later. So hopefully you like this objective report on how to take news items, turn them into businesses, and make money. Again, think of it like a business. Think about it objectively. Where is the traffic? How much is there? What am I going to make? And then you just build it out and watch what happens. And if it doesn't work the way you want right out of the get-go, which most things don't, you adjust. Find out where the people are. Find out how you can make it better, more usable. Different things like that will help you build and grow. So, if you enjoyed this video, smash a like button. Check out the videos in the description that talk more about how to build tools and websites and businesses in a practical way that you can use. Thanks again for watching and I'll see you in the next

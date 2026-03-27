@@ -1,0 +1,229 @@
+Today I'm going to show you step by step how to make money magnets in Google Gemini 2.5. It's actually very simple. It's something I talked about yesterday. Only in yesterday's video it was a live stream. I taught a lot of good stuff but it was all over the place. So I wanted to come back and show you how to make these step by step in a super easy way start to finish. So that's what we're going to be doing today. Now what is a money magnet? A money magnet is something that you can use to get people to your site or your affiliate offers or whatever it is that makes you money. You can also use these as lead magnets where you can have people put their name and email to use them and you can generate a list and make money that way. It's actually very easy. What we're going to be doing is creating little tools like this here. You're going to see if you were to go over to one of my websites right over here, you can see that I have this little buttons and these buttons bring up these toolbars that are on the side. Now, what I've done is I designed these to go on the side so that you can work alongside. So, if you're using chat GPT, you could come in here and say, "Oh, what prompt do I use? What do I do
+
+---
+
+
+
+here?" Or maybe you're over on Zillow calculating the price of a house. This would be something that sits on the sidebar, so you could work over here on the web and actually use that in a confined way. These are very cool. They have a very high perceived value, and they're very good at getting traffic. So, what we're going to be doing today is making these and showing you how to make money with them. It's actually very simple, very basic. We're going to use a market that everybody knows, the buying car market. So, you can see here, car deal finder gets like 2,300 searches a month. How to get the best deal for a new car, 700 a month. We could see other terms like financing, leasing, and different things like that. Even MSRP, which gets 70,000 searches a month. So, this is a very big market. There's lots of money in this market. As we can see over here on Spyu, the word car loan is going for $6.88 88 per click. That's just for one click. Now, again, that's not guaranteed or anything. That's just showing us, hey, this market has some money. If I get traffic in this market, chances are I can make some money. We
+
+---
+
+
+
+can also see that over on OfferVault, there's stuff like a VIN number checker offer that pays money, right? Like this. Some paying as much as $200 for a car loan refinance, $70 for some kind of vehicle car loan, $8, and on and on we go. So, there's a lot of money here. This is good. If I had a tool that helped people find the prices of cars or negotiate a car price or something like that, then I would have a money magnet. This would be a magnet to draw people into whatever I have. If I was able to make a video on this, I could go out there and make a video and say, "Here's how to use my new tool that is free that'll help you save money on your car." People will go use it. I will get the traffic and hopefully if all is right with the world, they'll click on the affiliate links and the offers that make me money. Now, going through this, this is a method that I've used to make a lot of money, but I want to disclaimer this and let you know that it's not guaranteed. This is a business. We need to get traffic. We need to get sales. There's a lot of variables, and the vast majority of people watching make money online videos make nothing. So, we want to take this with a grain of salt. Look
+
+---
+
+
+
+at it in a real world way. That's why we're down to earth here. We're going to explain exactly how everything works step by step with nothing left out so that you can go and build these. Now, in order to have these tools, you would want to have a web host. A web host does cost money. You can go over to gohubsite.com. You can see the instructions on how to sign up for a web host. Depending on the deals they have, you can get them from like $50 to $100 a year, and usually they'll give you a domain name. So, it's not super expensive, but there is a cost there. What does web hosting do? Well, web hosting basically allows me to have files on the web. So much like over here on my computer, you can see on my desktop I have a folder called domains and in that folder I have some files. Same kind of thing online only it's visible to the world. So if I get a domain name like this one here, carprical alert.com. You can see that there are files on the web page. These files are controlled by my web host which looks like this. Notice how we
+
+---
+
+
+
+have a tools folder here. And we can type in tools over here and see what's in that folder. And it's going to be identical, right? Like this. Now, if I was to go through and rename this to like money, you're going to see that instantly it'll change it right over here. And it'll show you what the files look like. Very simple, very easy. And it just so happens that this money file is a calculator I made with AI so people can calculate car loans and different things like that. What we want to do with our lead magnets and our money magnets is focus on things that people will actually use that will help them. If we do this, traffic will find its way to us and we can go out there and actually get traffic to us by making videos and tools and screenshots and different things to get people to this tool. And again, the way we're going to get paid, I'll explain in a little bit as well. So, now that we know how this works, we can actually go up to the main domain here and we can start creating our tool. What we're going to use is the upload box. Now, before we get started,
+
+---
+
+
+
+we need to go through and we need to understand this market. What would these people want? How can we help them? What are we going to do here? I mean, you got people that want to save money on a car. What are we going to do? First, we're going to go over to either Gemini or ChatgPT. You can see in Gemini, I actually created this tool over here. This is the exact tool, right? I just uploaded it to the web and bada bing bada bang I got something ready to go to get traffic to make me money. We can go to Gemini or chat GBT and we can ask about the market. So we're going to go in here and say tell me about the market where people want to get good deals on cars. So even if I don't know a lot about this market, I can use AI to figure it out and make things that will help them. Maybe they don't know there's a place you can go and find the invoice price, the price the dealer actually paid. Or maybe they don't know about different emails you can send to get deals. What we want to do is make it a step-by-step process so they could go over here, click the link, check the
+
+---
+
+
+
+price, put it in the box, go to the next thing, check the price, put it in the box, check the loans, put it in the box, and then they submit and they get like a nice little thing they can email to the dealer to see if they'll give them a deal. This is something I do all the time. I did it on my van, saved a bunch of money even when car prices were going nuts. That was one where the chip thing happened and the car prices, they wanted like 10,000 over MSRP just to look at a car and I was able to get a good deal using this process. So, this is something I've done I can actually help people with. If you can make a tool based on something you've done that you can help them with. Maybe you saved money on taxes, maybe you were able to finish your accounting, or maybe you had a garage sale and made a bunch of money. Whatever it is, people are looking up. We can make a tool. Maybe you have the garage sale tool or something like that. And if you have a good tool, sometimes you can even charge for these. Now, I'm going to use them as a money magnet, which means I'm going to give them away free. So, I'm going to make it good so that I can make money that way. Either way, I've done both. I've I've charged
+
+---
+
+
+
+for them and I've given them away. So, what we're going to do is we're going to look at the audience profile. Budget conscious, first-time buyers, upgrading, car flippers, all kinds of stuff. Okay. So, here's the pain points. Good, good, good. This is what we want. So, let's go through and let's say Oh, it actually did it for us. So, I didn't even need to ask it. It says, "What do they want?" Cool. Now, think of some tool. Now, think of a tool we can make to help them find the right price. Also think of some icons I can list on the tool like sites to check price, where to see loan amounts, credit, and on and on we go. And the cool thing about having a tool like this is there's ways to make money every step of the way. You could have like a credit report offer where they can click and do that and I can get paid when they do that. Some of them pay like $40 or more for a lead for someone to sign up for like
+
+---
+
+
+
+Credit Karma or something like that. Very simple. We just need to be really focused on helping these people get what they want. We want this thing to have immense amount of value. And what we're going to do is we're going to use AI to figure out how to do that. So now we'll go through and we'll think of a tool that we can make. And we're going to use Gemini to create that tool because I found that Gemini is actually really good at coding. We're going to be using 2.5 Flash I believe it is. right over here and make sure that you turn on canvas and whatever you're using do not use the um deep research that'll go into a different loop level. Now we can use that for other stuff. I got a lot of other videos talking about how to use that to make money but for now we're going to use canvas because that's what we're going to be coding with. So now we could see the tool name car deal finder instantly check if you're paying too much for your next car. Awesome. I like this. So what I'm thinking is like maybe we can have a score. Oh, are they charging you an extra warranty? Boop. That's a negative. Are they charging you above MSRP? How much? Okay, that's a
+
+---
+
+
+
+negative. And maybe it can grade your car price like F A C C plus whatever it is. And you know, obviously the A would be good. And you could go through and do that. So, we could have a search box to enter the car making, model. That's cool. Autopric comparison, loan estimator, deal score. Okay, excellent. I like this. So now this would probably be a multi-page one. So we'd have some icons. So it' be like this. This This is cool. I like this. Now let's say now please make the icon images like this. I'm going to give it a little screenshot of some icons that I made for something else. Now it's very important that we start with the icons because we're going to need to upload them because your coder is not going to have access to the web. And even if it finds you icons and tools and and images, they're not really going to work until they're uploaded on the site. So, what we're going to do here is now, please make the icon images like this. Let's first start with a logo. So, I'm
+
+---
+
+
+
+going to copy this so I have it for later. Now, please, please make a logo for car price alert. That will be our tool. Simple small logo, easy white background, right? Like this. Okay. So now I'm going to go through and I'm going to create the background right like this or the logo as it were. And we wait for that to be done. While we're waiting, I'll put now please make the icon images like this. So I'm just going to cue this up and have that icon image right over here. All right. This is one I was doing for a dating site. So, here we go. You can see I do these for all different kinds of sites, all different niches. I've been doing this for a long time. It works like crazy. The first time I actually made something like this was without coding, without programming. It was just a basic one. And uh that was back in the year 2000. So, yes, I've been doing this a while. Car price
+
+---
+
+
+
+alert. I like it. That's a pretty cool logo. I'm happy with it. We can probably have it, you know, fixed up a little bit. I can go through and capture it like this over here. And I can do all on one line. Make it just a little bit easier. So, we'll go like this. Right. Like that. Fill this. And this is the Camtasia tool. You can use any uh snipping tool or image tool or whatever you want. So, we're just going to move these over here. Car price alert. Car price alert. And just line that up. Don't want to overthink your logo too much. I know a lot of people get hung up on it, but like nobody even remembers your logo. Nobody even cares. So, let's see how this looks. Good. Good. Snip this up so it's right there. All right. And then we can go through and do file, save as. And I'm going to call this car alert alert logo. Car alert logo. Right like
+
+---
+
+
+
+that. Okay. Now, what I'm going to do when I'm done with these files, I'm just going to start throwing them on my website, carpricelert.com. So, I'm going to go through. One of my favorite things on Windows is if you use the home button, it just shows all your new files here. I'm just going to go right there. There we go. Now, we should be able to see this on the actual web. If we go to carprical.com, there we go. There's our logo. Bada bing, bada bang. We are in business. Now, let's see how it's doing with the icon images. Start with the first one. So, we'll start with the first one, right? Like this. And we're just going to make these little icons. And we're going to start uploading them. Okay. Now, sometimes if it does the icons correctly, we could probably just download them. You could also do screenshots of them. Either way is fine. Um, I'll show you the difference of of why we do these in just a minute. And then, as we go through, we're going to put this tool together. And some of these will go to affiliate links. Obviously have a little thing that says you're an affiliate or whatnot. And we can go through and build this tool to be
+
+---
+
+
+
+very very helpful. Now, while we're doing this, let's go ahead and ask our Gemini over here to create this tool for us. So, let's go here. Best time to buy Vinche depreciation repair cost. Okay, I don't care about that one so much. So, let's get the bulk of the tool like this. Deal score meter. I like this. So, let's do the deal score meter first. Okay. So, I'm going to go through and I'm gonna say, let's make a simple 400px wide deal score meter for buying a new car where they can enter the MSRP, the price they got, then check off like taxes, maybe something like Um, extra fees, dock
+
+---
+
+
+
+fees, junk fees. There's a lot. I went to a car dealer once and they had like $12,000 in junk fees on a $19,000 car. Yeah, we didn't buy one there. But at any rate, this is going to help people, right? Cuz some people wouldn't know. I mean, I went to that dealer and there was like people signing deals all over. I was like, "Wow, this place is not a good place." But at any rate, this is going to do a good service. So, junk fees, you can have uh extra warranties, which are almost never worth it. Um, let's do like paint add paint add-ons. Sometimes they'll charge you for an alarm that comes with the car anyway. And on and on we go. So, it's going to go through and do this simple wide deal score meter. And we're going to get the basics of the code while we're creating these little icons over here. Over here, here's our icons. All right. So, we got uh search price. That's nice. Next, please. Right there. And you can have like search price where it goes to various different websites. Sometimes
+
+---
+
+
+
+you can use affiliate links for those websites. Very cool. Very easy. Now, let's go through and see what the Okay, so here we go. MSRP 30,000. Negotiated price 28,000. Are there taxes? Yes. Are there dock fees? Junk. That's pretty cool. There we go. So, that's a terrible deal. What if we have no alarm? Still a bad deal. What if we have this? Okay, maybe we can even have like target price now have a target price. Okay. And we can go through and kind of evaluate this, which would be pretty cool. And then you can even have like prompts they can use to make an email in chat GBT or something like that. And you can have those pop up in really cool ways. That's what I really like about AI is the ability to have so many things that do all kinds of cool stuff, right? So, here's our our target price. If I have an alarm, it's bad. If I have taxes, it's bad. And usually when I do that, I'm trying to be less than MSRP, including all of the other stuff.
+
+---
+
+
+
+That's usually my goal. So going through here, let's say now have a button they can click to print or to to copy a email they can send based on the price they want. And this is something that I do. So it's really cool. Like when I go to buy a car, I find like 10 dealers around me that have it. I email all of them. Most of them will tell you to take a hike. A couple of them will bite. If you do that, you can get a pretty good deal, right? So, it's pretty cool. So, now I have the button they can click to copy an email and send based on what they want, right? Really cool. So, now we can do that and it'll come up with like a drafted email and maybe it'll include some of the stuff. So, let's see if it updated it. We're waiting. While we're waiting on that, we can have our little buttons here. Make them different colors. Actually, you know what I'm going to do? Because this is a
+
+---
+
+
+
+small tool, I think we could use his icons here. Let's see if we can add these icons. Okay, so now we have copy email draft. Let's see what it looks like. Autotrader. Oh, cool. So, it like actually says, you know, oh, wait. No, that that's that's my icons. Let's do let's put these here. And then we'll do copy email draft. Is it working? No, it's not working. I got a little ahead of myself. Let's do please fix the or actually you know what instead of a button just have a text area with the email and have it change based on what they have. Also a box for the year make trim of the car and perhaps the VIN. That way they could type the VIN in and be like, "Hey, here's the exact car we want." Pretty cool, right? So now this should do good. Let's see how that code works. And then I copied our our icons
+
+---
+
+
+
+here and we'll add the icons at the bottom. And then we can have separate pages. Like this could be multiple pages big where they could go, oh, hey, I'm going to click here and go to this one. Click here and go to that one, which will be pretty cool. And then let's see here. So here we got vehicle year make Camry XLE VIN optional excellent MSRP 27 all of this got our fees here and there we go check it out it's generating the email right there offer for 2024 Camry XLE dealer name or salesperson I'm writing to make an offer for this I'm interested based on this this is actually perfect like how many of you guys if you're buying a car you'd be like this is great um I'm considering a negotiated price of now maybe I would say out the door negotiated price of out the door and usually what I'll do is I'll lowball it and then see who will even entertain it and then you usually that guy's the one that'll give you the good deal just don't be too concerned
+
+---
+
+
+
+with colors or whatever. So now we have negotiated price of out the door. Add this. Let's see how this works here. And it's got the score meter target 5600 calculated effective price. So this is actually a pretty solid tool. And we haven't even added the icons yet. If you guys think this is a pretty cool tool, something that you would use if you were in the market for a car, let us know. So now it says um out the door. My target price out the door. Cool. Got it. with no additional fees considered. The calculated effective price is 28,000. My calculated deal score is fair. I would like to discuss reaching my target price of $27,000. That's pretty solid. You might have to do a little tweaking obviously, but we're getting there. Now, please add these icons. Now what I can do which is really cool actually let's do now please add these icons below the or actually let's do now please add
+
+---
+
+
+
+these icons above the tool. Let's see here. My site is and then you can give it your site. All right. Like this. We'll say my site is and then uh let's see. There we go. My site is carprical alert.com. Make the links match the icons and my logo for the top is this. And then of course if I had um the icons that I wanted to use, I would just upload them to my site, which would be pretty simple. So let's make sure we get our whole URL here. There we go. Good. And it is HTTPS. Now, let's update this like this. And then we should be able to have a tool that works pretty good. And then on our website, we can have a magic button that makes it pop up in a window like this. I'll show you how to do that in a minute. Um, you guys notice I had that over here on this where this pops them
+
+---
+
+
+
+up in that box there. Pretty cool stuff. Um, not too difficult to make. All of these were made with AI. Some of them I had my programmer help me, like I had to have him generate the report or whatever, which would be cool. You could generate like a a car price report or something. This is stuff that people love and will actually use. So, let's go through. Let's see how this looks. Car price alert, deal score meter, carbine tools. Cool. And look it. See, it is. If you look down here, it actually made the links, which is fantastic. Now, we have the thing down here. Good stuff. Add copyright and affiliate disclaimer and price disclaimer on bottom. So, now it's going to go like this. And this will be our template. And we can make these and just spit them out. Bada bing, bada boom. There we go. So, here we go. And now we can see it created it here with our logo and it should have our disclaimer. Excellent. This is looking
+
+---
+
+
+
+good. You can even change it to say 2025. I don't know why, but Gemini thinks it's still 2024, which you know, according to the stock market, I think we all would wish that was the case. But at any rate, we can see our tools here looking good. Now, we can go through and this is actually very, very simple. So, what we're going to do is we're going to go to our C panel. I'm going to go in here. I'm going to reload this. Our logo's in there. I'm going to create a new file. I'm going to call it index.php. You can call htm if you want. I like PHP because it gives a little bit more dynamic to it. Then I'm going to make another one called uh file. Let's call this sidebar.php. So that's for the sidebar. Or you could even do like offer tool.php. Very simple, right? So there we got that. Very very easy. Now, let's do I want to take these links. Make all links end in.php. I'm doing this because I don't want to have to make folders for each of
+
+---
+
+
+
+these and because there's nothing after this the uh file folder. It would it would be its own folder. So, let's do end in PHP. So, it' be credit-core.php. Just a little bit easier for us when it comes to uploading. So, now we'll do this. It should change it very quickly. do. And here we go. We wait and wait. Let's see what it's thinking about. So, there it goes. It's It's doing some thinking and we'll go through like this. And we can also have like different tools where they can check places, too. We're going to get into that in just a minute. So, now PHP. Fantastic. Tool is still there. Still working. Still good. Now, what I can do is I can go to code right like this. I can hit just click in here. Crl + arr c go to the file offer tool edit. Paste in my code save and watch this. All I would need to do is go to that file which we'll see right here.
+
+---
+
+
+
+Carprical.com/offertool.php. Fantastic. So now we have this here. We're ready to go. That's basically all this is. If you took this link and you put it in here, that's how it looks. That's how the tool looks. We're just going to package it in that little box, giving it a little bit better value and a bit little bit better usability. So now we have our tool like this. Let's go through and make a homepage. Okay. So, we're going to say now now make me a homepage full width with the icons and links, but make the links open a non a web browser 400 px wide by 1,000 call no browser buttons. That'll make it like this where it doesn't have any buttons. Let's see if it does that. That would be kind of cool because this will actually
+
+---
+
+
+
+give us our homepage and we can link to other stuff which would be really really cool. It'd be like open up the tools here. Now all I got to do is say, you know, I could go make videos on how my tools work. I can make videos showing the homepage, show all the tools. People are going to flock here and use these tools in a really cool way. I can even make a press release. Hey, in these trying times, here's a tool to help people save money on cars. So, now we have car buying tools like this. Let's see. It does open them. That's awesome. Now, they don't work cuz they're not yet up. But, are you guys seeing how this works? This is like they could come here. This is our main page. We're ready to go. So, search price. Now, we're going to go through. I'm going to get the code here. Boom. Right like this. We're going to go to our index right here. Edit. Boop. Put that in there. That should change carprical alert.com to this page. Looking good. And it opens everything like that. So now we're live on the web. We're ready to go. This is super cool. So we have the vine best deal score. So the deal score would be deal. So all I would need to do, watch
+
+---
+
+
+
+how easy this is. You go over here, you go to the offer tool, and you rename it deal-score.php. Rename, reload, and deal score. Boom. There we go. Check it out. We can even have it do like 425 or 450 wide. But there you go. That's pretty cool. Right now, we're going to go through and say, "Okay, now we need to make search price." Now, we'll go over here. Now, please make the search price tool have links that open in a new window for each place to check the prices. Have lots, have several, if I say lots, it might do way too many. Several options, please. And then of course we're going to have our affiliate links on these pages as well. Like you'd have okay check your your credit or
+
+---
+
+
+
+something like that. Like this your credit. Boom. That would be an affiliate link. I would open that in the new window. So I'd go through and and change that one. So we got Kelly Blue Book Edmonds. This one. This one. That one. Cool. How about some invoice ones too? And it is it's maintaining my logo and the buttons and the theme and everything with my uh stuff here, the disclaimers, which is actually pretty cool. This makes it so much easier for So now it added a couple more. This is good. This is actually very very good. We would have to check the links. So let's see. Please check the links. Make sure it checks. And you can even get even fancier with other tools that would like do VIN number checking and you know different stuff like that. Um I teach those in apiprofitscoop.com. So if you're not yet a member over there, you learn all kinds of good stuff. So now it did check the links. I don't know if they work. It did. Okay.
+
+---
+
+
+
+So um on this page, no need to open the fancy window. Just a new window. regular. Let's see if it does that there because I don't want it to be in there. That would be kind of weird. It would ruin the functionality. We want them to work on the big window. We want them to have the tool on the small window. So, let's see here. Excellent. Perfect. This like gets everything and it is going to the sites, which is great. So, this is fantastic. So, now I go through. I would do this one. Get the code. Copy. Right like that. And then I think this one was called search price. So price-ch check. So we're going to go through or hyphen or something like that. New file price check.php. Right like this. Create new file and edit right here. Boop. Save. And now we
+
+---
+
+
+
+should be able to go to search price. There we go. Kelly Blue Book should open in this window. Woohoo. We are in business. Now we're looking pretty good, right? This is cool stuff. And of course, think of ways that you can have affiliate offers in here as well. So going through, this is actually a very helpful thing. And then you could go, okay, now go and, you know, put the price over here or something like that. Now, going through on each page, we can even get a little bit more detailed if we want, like maybe say, now make a loan calculator page. Let's see how this works. and it should make the whole calculator and everything, which would be really cool. And then, of course, obviously, that's where I'm going to put the link to the loan offers. There you go. Right, click here to get the loan. Obviously, we have our disclaimer here for the affiliate stuff right there. Pretty solid. Again, I'm not a lawyer, so if you're worried about that, maybe check on getting a full disclosure there. But
+
+---
+
+
+
+we can see here now we have this one in the works. Loan calculator. Please have my logos and also also spots for affiliate links for loan. Oh, it did have the logo. Okay. Please put the other icons from homepage on bottom and have a spot several spots have a few spots I can put an affiliate link. Let's see how this works here. And then all I would need to do is make a bunch of videos and images and screenshots and tools uh about my tool, right? And then be like, "Hey, go check out the tool so you could save money on your car." Very cool. Again, focus on like massive value first. I want this to be super easy, something that everyone would want to use and get value out of. So now we have this car price. It's got
+
+---
+
+
+
+the links recommended partners also put recommended partners under above other car buying tools. And you're going to see the functionality of this is really cool because it's just going to stay over here in the sidebar which is going to be amazing. So for this one we have let's see let's go back to our main one. We have loan rates. So loan rates pull current loan rates based on credit profile. I would probably change that or no we would use monthly monthly payment. I think it would be okay. So loan calculator monthly payment. Good. It's got both spots for our affiliate link one. Okay. And also below the icons. Get that there. And then I believe so this one's called
+
+---
+
+
+
+monthly-payment. Okay. So I would just go in here again, new file, monthly payment.php, right? Like this. And it'll come up blank now because I have nothing in it. But let's go ahead and add the stuff in it right over here. So loan calculator, good. Excellent. Loan term, good. Okay. So now it doesn't want to add it. I swapped divisions. Have two spots. Hopefully it'll get it. I don't know why it's struggling with this, but hopefully it'll get it there and we'll be able to get this thing rocking and rolling. What I'll do is I'll I'll leave this on the site so you guys can see how it works and check it out and use it and kind of, you know, figure out how the tool works and everything like that. So now we're going like this. And it looks like it is struggling with that. So, I could do that at the code level. Watch. I'll show you how this works. It's actually pretty easy to read the code. So, we're going to do monthly payment edit. Nope, not like that. Edit, right?
+
+---
+
+
+
+Like that. Paste it in here. And then we can find the spot where it has this stuff here, like the div to the div. So, that is our recommended partners. I could just go throw that up here above the icons right here. That should do the trick. Let's see. monthly payment, recommended partners, recommended partners. Super easy. Obviously, you're going to put your affiliate link there. Super simple, not too hard. It will open in a new window. This is working fantastically. Now, we got our our car loan calculator. So, what you're seeing here is we're able to build this out and you can have different buttons going back and forth and things like that, but we're able to build this out and have things where it's like, okay, here's your price, here is, you know, Kelly Blue Book and all that. They can go back, check their other stuff. Let's go back. There we go. They can check uh loan rates. They can check, you know, the deal score right there. That one, um, which is right here. Pretty simple,
+
+---
+
+
+
+right? So now we have a tool that we're working on that's actually really going to help people. And as we go through, what we're going to do is we're going to put the images up. So if I'm having fancy icons, I would upload those first, give each of the image links to the to the AI tool so that it would know, much like I did with my logo, right? It wouldn't know it existed if I wasn't able to give it to it. If I give it just the image, it's going to make it on all its weird code. I need to have it on the web first. So I could say go here to get it. Then we're going to look at the layout and the tools, which it did a fantastic job in Gemini creating all this for us. Very simple. Then I'm going to go through. I'm going to upload and test, which I did, right? I upload and test it. Then all I would need to do is go and make content about the tools. I could say, "Hey guys, welcome to Car Price Alert. Today in this video, I'm going to show you how to find a good deal on your car. First, go to these sites." So, first use the tool and go to the search price tool. Check your price on KBB Edmonds and this one. Then come
+
+---
+
+
+
+back to the tool and use this. So, what you're going to do is you're going to have videos on all of these, which is very cool because you're going to see not only are dealinders getting traffic, but there's also car loan calculator. And then you have auto loone calculator. And if you spell correctly, you're going to get even more traffic. Calculator. There we go. Right. You're going to see 500,000 searches a month. You do auto loan calculator. Boom. 517,000. And if you go and look at YouTube, there's probably a lot of people talking about how to calculate these. And what you want to do is see what you can add different. So let's go back here and say what can I add for more value to see if a loan is actually good. You see like prepayment um does it have fees? Does it have this? What happens if you pay it off early? All these things would actually help evaluate a loan. So, what
+
+---
+
+
+
+we're doing is we're making this tool like the best car deal, loan, everything finder we can. Like, okay, does the dealer give you a thousand years of free oil changes? Okay, well, that would equal this value. And going on and looking at this, now we have total interest paying. Good. Now, we're getting better, right? So, total cost of loan. This is fantastic. Um, how about tips on negotiating a better rate? This is pretty cool because a lot of times the guy's going to go with who's going to pay him the most, not necessarily who's the best lender for you. So, now we can go through and add these in. And thinking about this in a different way is key. Maybe you could have a tool that does like recipes. Oh, hey, you know what? If it's, you know, doing different measurements, this would be the tool that would help you. By the way, check out these pots and pans. Right? Having that thing that would make money. Check it out. Tips for negotiating your loan rate. Check your credit score. Get pre-approved. So, this okay, I can add
+
+---
+
+
+
+an affiliate link there. Get preapproved. I can add a link to one of these offers so they can get preapproved. All of this stuff starts to build and grow. And what happens is instead of going out there and just making content for autoloan calculator, now I have something to give away. Now I have something worthy of talking about, worthy of making videos about. I could go on Tik Tok and show people every day, hey, thinking about a new car? Use this tool. This is the amazing new tool that'll help you save money on a car. And it's actually very simple to build. What we want to do is provide value, give good stuff in our tool, and point to things that are ethical and good and make us money and also help them. If you focus on helping them, that's what's going to help and and get you where you need to go. There's lots of tools like this that you can use and make, not just in this one. So, I'm going to have a list of other tools you can check out over at aiprofitscoop.com. Also in apiprofitcoop.com, we have all kinds of tutorials on how to do this stuff in detail, how to come up with the ideas, make the money, and the whole nine
+
+---
+
+
+
+yards. Also, over at a profit scoop, I'll have the list of the tools you can make, different niches and things like that. And I'll also have some keywords and some of the templates that I use as well, so that you can make these things and get them working and rocking and rolling. So, hopefully you enjoyed this video. Thanks for watching. Smash the like button. Let me know as a comment below if you like this video. These are kind of hard to make, so if you appreciate it, let me know. And check out apiprofitscoop.com. and I'll see you in the next

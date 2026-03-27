@@ -1,0 +1,233 @@
+# Building A No Code Software Business With Gemini 2.5 Canvas!
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bEnS7qnaDSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=bEnS7qnaDSU&t=0s)
+
+What's the fastest way to make a $100,000 a year online? Well, that's one of the questions I've been asked the most over my 25 years of making money online. And I got to tell you, over the years, even with AI, the answer is still the same. However, in this video, we're going to be using AI to make it a lot easier. And the answer to that question is to start a productbased business, preferably in the software niche. If we can create a software tool or plugin that people will want to use either for free or something we can charge for, then it's a lot easier and quicker to get to the $100,000 a year mark. Now, I got to let you know what I'm going to show you today is a no code way to use AI to create these tools. But I want you to realize that the results are not typical, implied, or guaranteed. While I believe this is the fastest way to make a $100,000 a year online, the vast majority of people trying to make money online make nothing. So, take this with a grain of salt. Remember, this is not a guarantee or anything like that. We're just showing you how I would set this up
+
+---
+
+[1:00](https://youtube.com/watch?v=bEnS7qnaDSU&t=60s)
+
+if I wanted to get started. And today, we're going to be using Gemini 2.5 to make all of this happen. First of all, I want you to realize that the idea we're looking at today is using plugins as tools as a lead genen. What does that mean? That means that we are going to create these as our lead magnets. I'm going to have a tool or plugin. So, it could be like a software or something like that or a plugin that is going to drive people to things that make me money. Now, I can use this as a mailing list where I could say, "Hey, put your name and email to get this plugin or this tool." Or I can go out there and sell it outright for a small fee of like $7 or something like that. I can even make a more robust version, maybe charge $27, $47, or even $97 with support and stuff like that. What I'm going to show you today is how to build and grow. A lot of people don't talk about this. They talk about just setting up a product and magically you're going to get rich. But there is some building and growing involved. And now that we have AI, it's actually a lot easier. Now,
+
+---
+
+[2:01](https://youtube.com/watch?v=bEnS7qnaDSU&t=121s)
+
+what I'm going to be doing in this example is I'm going to be setting up a WordPress plug-in business. This is something I have done many times before. I first started in I believe it was 2009 with various different WordPress plugins. Since then, I've made millions of dollars with these either directly by selling them and having a membership and all that stuff or indirectly by giving them away and selling stuff on the back end. This is what most people will do because it is the quicker path to making money. Now, quick facts about WordPress as per WP Zoom. We can see that WordPress powers about 43% of all websites, right? That's like most websites. The vast majority are on WordPress. The others are scattered behind different types of platforms. Around 529 million websites built on WordPress. We can also see that there's over 30,000 WordPress themes available, 70,000 plugins. And Woo Commerce, this is actually an interesting one. Woo Commerce, which is an ecom plugin, has a 33 almost 34% market share, which I
+
+---
+
+[3:04](https://youtube.com/watch?v=bEnS7qnaDSU&t=184s)
+
+think is like comparable to like Shopify and stuff like that, which is pretty crazy. So, we can see that the vast majority, the big kahuna lion share is using WordPress. So, the question here is, how do we find something that we can build using Gemini 2.5? Solve a need, solve a problem, and get paid. That's what this is about. And hopefully you're excited. Smash the like button if you are because we're going to walk you through the whole thing. Now, first of all, what I want to do is I want to look for what people want on WordPress. Going through, I've talked about this in other videos. I will also have a list of keywords with plugins and ideas over at apiprofitscoop.com. Now, what I'm going to be doing is I'm going to be looking at rank trackers, keyword trackers, and website visitor stats plugins. Now, why would I want this? Why in the world would I make some kind of plugin that would help people see who's on their website and where their traffic's coming from? Well, the reason is I know people who want to know their traffic stats basically want more traffic. Why would
+
+---
+
+[4:06](https://youtube.com/watch?v=bEnS7qnaDSU&t=246s)
+
+they want more traffic? Probably because they have a business and they want to make more money, which is where I come in. I can help them with that. And that is the business. So, what we're going to do is we're going to build one little brick. Here's our brick. And that brick is going to be the cornerstone of a giant business. Without this cornerstone, you have no business. We need to start with square one, something simple, something easy. This is done a lot with as seen on TV products where they go out there and they'll make something like Flex Seal or some kind of DVD player or something like that, right? They're Snuggy. And they have the as seen on TV product. A lot of people don't know this, but an as seen on TV product is what we call a loss leader. It is there to build a mailing list. That's all it's there for. They're basically breaking even on the product so that they can sell other stuff on the back end. That is the key. That's what we're going to be doing here with our product. So, when I have something like a hit counter or a visitor counter or something like that, the big back-end
+
+---
+
+[5:08](https://youtube.com/watch?v=bEnS7qnaDSU&t=308s)
+
+business is websites that want traffic. If I can get data about these websites and I can build something that they like, they use, they're going to trust me immediately. Even if I give it away free, they will trust me immediately. They'll like it. And then I can go through and sell other stuff on the back end, have webinars, and build an entire business. Now, we can also see that for like WordPress counter, WordPress counter plugin, how to add a hit counter to WordPress, all different things like this. It's very low competition and it's easy to get traffic to because all I have to do is show how my plug-in works and bada bing bada bang, I am off to the races. So, looking at all this, we're going through, we have all the stuff set up. What I need is a tracker plugin. Now, I went through with Google Gemini 2.5 and I looked at the various different tracker plugins that were there. And again, you can make plugins about literally anything. You can even see people are looking up like analytics plugins. That's a keyword I didn't even think about. That would actually be pretty good. We can do analytics WordPress and we can even do
+
+---
+
+[6:08](https://youtube.com/watch?v=bEnS7qnaDSU&t=368s)
+
+like analytics um plugin. So there we have, you know, 600 people a month. We can see there's a good value of this traffic, too. We can do analytics plugin, right? Like that. There we go. So there's a lot of traffic here. There's a lot of people looking this up and I can get people to use this fairly easy. What I need to do is I need to think about something that these people would want, which for me, I wanted to be able to have um live tracking. I wanted them to see, okay, there's 10 people on your website right now. Here's the pages you're on. I also wanted them to get a 404 error log so that they could see which pages are not working. And I also wanted a nice little graph and things like that. So, what I did is I went over to my Google Gemini 2.5 right here, the preview, and I went into canvas mode, and made a real time visitor tracker WordPress plugin. This is actually very easy. Starting from square zero, I was like, "Okay, let's make a simple plugin that shows on the dashboard what page people are on on the site and a live tracker in real time." So, here's the
+
+---
+
+[7:08](https://youtube.com/watch?v=bEnS7qnaDSU&t=428s)
+
+actual prompt. There was nothing fancy. I'm just literally asking what I want it to do. and it went through and started making the plugin. Now, there's a couple things that I added like a maximize button. I added some charts and different things like that. So, what you're going to learn is that when you're making your plugin, you're going to start with the basic solution. What do they want? Tracker plugin. What do I give them? Tracker plugin. What can I add as I go through? So, I added and went through and tested it out. Now, what you'll need if you're going to be doing the WordPress one is you'll need WordPress on a C panel, right? So, here I have a C panel where I can go in. This is like basic web hosting. And I'm just going to test it out. Now, as I go through, let me show you what this looks like in a real world way because what we're going to do is we're going to go through our C panel right like this. And we're going to log into our file manager, which is going to look like this. Now, in your file manager, if you have WordPress installed, we can actually go in right like this. go into WP content and then we can put our
+
+---
+
+[8:10](https://youtube.com/watch?v=bEnS7qnaDSU&t=490s)
+
+plugin right here. Right? You can see all the different plugins like backup le speed cache and upgrade and uploads and different things like that. Okay, so in this example here, what we're doing is we're going into our WordPress and into our file manager to see exactly where this is at. Okay. Now, in today's example, we're using explainer video production, which looks just like this. Very simple. go into WP content. This is where our plugins are right here. Now, the one we're using is called Realtime Tracker, which looks like this right here. We can see the PHP file, which looks like this right here. You can see up here, real time visitor tracker. Now, as we go through, we're going to work with this and test it and build and grow it in real time. Okay. So, here we could see right on our explainer video production, we have our visitor tracker here. Obviously, all we need to do is upload it and it'll go into our plugin. So, let me show you what this looks like. Very simple, very easy. Um, all you have to do is create the plugin and
+
+---
+
+[9:12](https://youtube.com/watch?v=bEnS7qnaDSU&t=552s)
+
+upload it. So, when we go into Gemini and we create the plugin, right, like this, it'll tell you what you need to do. So, let's start right here. We have this one, which I started for a dduplicator plugin. It was a very simple one to change titles. So, all you would have to do here is go into your C panel. Okay. We're going to go in there. We're going to go into our files. We'll go up a level into our plugins. Okay. So, you're going to go in here. This is your main one. You're going to go to WP content plugins, new folder. I'll call this, let's say, title fix. Okay? Or whatever your plugin's called. Create new folder. Then I just go in here. Title fix. Create a new file. We'll call this title-fix. If there's multiple files, make sure you follow what Gemini tells you. And then we'll just go in right like this. Hit edit. paste in that stuff we got from Gemini right here. And then what'll happen is you'll see it in your plugin. So notice how it's not there, but because we made that folder and that file, boom, it notices
+
+---
+
+[10:14](https://youtube.com/watch?v=bEnS7qnaDSU&t=614s)
+
+simple H1 content dduplicator. Activate. Boom. We're ready to go. Now we have that plugin ready to go. Super simple. That's all they work on. That's how plugins work. They're very, very, very basic. If you want to get into software and programming, this is something that's very easy. Now, the example that we're doing today is the one that is the visitor tracker. So, what it looks like is this. I had it create a little chart here where it shows people that are on the site. It has the page not found, which is showing the 404s, and the visitors that are live right now. It shows a little graph from when it's installed, the amount of visitors today, yesterday, last 7 days, and last 30 days. Very simple. Also, they can click maximize and actually see the real-time visitor tracking. Right here we got one page, one person on the page. And then of course if other people go to other pages, like if we went to explainer video production, right, like this, you would see that it would then log that new visitor right in here. Let's see where does it go. Should be right in
+
+---
+
+[11:14](https://youtube.com/watch?v=bEnS7qnaDSU&t=674s)
+
+here. And it'll show the real time. There he is. Guy on the homepage, right? Very simple, very easy. And then it's going through and it's also showing like how many people are on what pages and things like that. So, if you say if you look at this plugin and you're like, "Okay, this would be an actual helpful plugin for me as a WordPress person," let me know as a comment below and you'll see that this actually works. Now, what we do as we go along is we can start adding different things to this. Like maybe I could go through with Gemini and work back and forth and say, "Okay, now let's have a giant a big pie chart showing the top pages." Okay. And we can probably also have and the top referers, right? Like is it Google? Is it uh chat GPT? Who's referring it to me? Right? So we'll go like this and you'll see how it'll change it. Right now we're at like 567 lines. I think it is 567. It'll change it up and make it fancy for us. And then we'll just copy and paste it over the other one. And
+
+---
+
+[12:16](https://youtube.com/watch?v=bEnS7qnaDSU&t=736s)
+
+we'll keep building and building and building until we get it the way we like it. Then all we do is zip it up. And now we have a product. Very simple. So we'll go right like this chart.js on admin page. It's got the visitor log. And I also added something as well where they can go through and track other things. So if they have a page that's like a tool or something like that, they can put the tracker on it. That was something we added right in here. Let's see. I think it was under visitor tracker and on the bottom. Yeah. So right here they could put this code on whatever page they want and this will actually go through and create it for them which is really cool. Very simple, very easy, not that difficult. I can put that anywhere I want. Like if I put that on my other WordPress site, it would track it here as well. So you can track multiples with one, which is pretty cool. And we can see here like they're coming from this search engine here. A lot of people are coming from Google. Really good plugin. Like this does all the stuff that we need. it'll track all
+
+---
+
+[13:17](https://youtube.com/watch?v=bEnS7qnaDSU&t=797s)
+
+of our stuff and it's all internal so you're not giving your data to someone else which is which is good. So now we have this here and it's tracking looking good. Let's see if Gemini did the update. Looks like it's still thinking. So once we have that update we're just going to copy and paste it right over this file. And then just make sure that you don't do it too many times because you always want to revert back if there's a problem. Sometimes you find that there are problems but this is something where anyone can build this. You don't have to be a programmer. You don't have to be some fancy pants. You don't need to understand what's going on. I just need enough to make it work. Now, the first thing we want to do, obviously, is find a simple need. What do people need with WordPress? One of the easiest ways to do that is look at different plugins on WordPress. Like, if I go wordpress.org/plugins, I can see what plugins there are. And then, of course, my job is just like build a better mousetrap, right? All I'm going to do is make a better plugin uh or make something different. What would there be for like an affiliate URL plugin? Like
+
+---
+
+[14:19](https://youtube.com/watch?v=bEnS7qnaDSU&t=859s)
+
+that is actually a pretty big one. I think if you were to look at keywords explorer here and you do something like tiny or let's do URL shortener. And this is something I use all the time on my sites where you know instead of using you know tiny URL or something like that. See this here? This is key. So I can make a free shortener. I could tell them to get web hosting, be an affiliate of web hosting, make a hundred bucks or whatever when they sign up for web hosting because yes, everyone who really wants to shorten URLs for the purpose of making money, you're going to need your own website because that is going to help you big time, right? It's better to have like affiliate marketing affiliate marketing dude.com whatever instead of, you know, bit.62090 whatever. So, this is something that works really well. We can make these very simple. Again, minimum viable product based on what people want. So going through here, we could see like security plugins. We can see uh GDPR plugins, contact form 7, SEO
+
+---
+
+[15:19](https://youtube.com/watch?v=bEnS7qnaDSU&t=919s)
+
+plugins are very popular. Different things like this where we can get people in to make it very very simple. Maybe I can make a basic how to sell digital products plugin or something like that. And these are things that would work extremely well and they make a lot of money. I've seen simple little plugins like SEO plugins that have made more money than you would care to admit. Right. So, now we're going to go through and we're going to look at this here. It looks like, is it still thinking? Okay, it looks like it's done. And it did shorten the code. So, hopefully we still have all of our stuff in there, but we're going to go through and test it. So, we'll go through here into our file. Okay. So, visitor tracker. I'm just going to paste this right over it and it'll automatically update that plugin so we could see exactly what's going on. So, nothing changed here. Still has our endpoint tracker. Excellent. Let's check on the dashboard and see what we have. So, on the dashboard, doesn't look like any changes here. Let's maximize it. Okay.
+
+---
+
+[16:22](https://youtube.com/watch?v=bEnS7qnaDSU&t=982s)
+
+And let's It looks like something's trying to be up there. I don't know what that is. So, okay. So minimize we can ask it right here. So again I don't no coding or actually did we paste the right one? We might have pasted the wrong one. No that's not it. So here we have this one 403. Let's say where do I see the pie chart and sometimes it just takes a minute to load. So we have the real-time visitor tracker here. Let's reload this Mac or let's go to visitor tracker maybe over here. There we go. Okay. So, now it looks like it's trying to do it. Real time visitor last seven days, last 30 days. Okay. Okay. So, visitor tracker. Let's see. I think it might have refreshed it like it's a new plugin. So, let's go to the main page. We'll just reload this. See if it logs a
+
+---
+
+[17:23](https://youtube.com/watch?v=bEnS7qnaDSU&t=1043s)
+
+visitor. And let's see. Should log a visitor. Okay, looks like it's not working. So, let's do And again, this is all part of the trial and error. This is what we get paid for. We got to make a good product, right? Let's zoom out. Looks like it zoomed in on me. All right. So, now let's say it doesn't seem to be tracking and I don't anymore. Let's see. Okay. And we'll just double check it because it might take a minute, but it usually shouldn't. It should be instant. And it looks like the pie charts would be there and there. Okay, let's see. Let's see what it says here. And then we're just going to go back and forth until we get it. And then when we're done, we'll brand it. I'll show you how to brand it, which is actually very simple up here, and test it and everything like that. So, first we're going to find a simple need. We're going to create a minimum viable product. So, if I wanted to create like a URL shortener, let me show you how
+
+---
+
+[18:25](https://youtube.com/watch?v=bEnS7qnaDSU&t=1105s)
+
+this would work in real time. I'm going to go 2.5 flash. Let's make a cool link shortener for WordPress. I want a tracker, a simple structure like my domain.com/w whatever whatever is defined by user as short URL and ability to change links track see stats top links with charts ect. And this will go through and it'll start making it. Now, while we're doing this, let's take a look. So, it looks like the real time visitor one did update. Still 403, which is interesting. WP
+
+---
+
+[19:25](https://youtube.com/watch?v=bEnS7qnaDSU&t=1165s)
+
+config. Okay, so it should be working. Looks like some debug thing. So, what I would do in this case is I would revert back, right? So to revert back, I'm just going to do Ctrl Z. See how it put the old one there? So now we're back on the old one. So I have the working one. We never want to delete the one that works because sometimes when you're dealing with AI, it's a pain to get that back. So what that would do is it would just revert to the old one as you can see here. Uh let's see. Maximize. Yep. Looks like it's still logging that one. So, we just have to go through and and work with a little bit, but it should revert back. Sometimes it caches. So, you have to keep that in mind. Now, let's go through and show you how we're going to do this one because I think this will give you a better overview of what it looks like. So, what it says is it says, "Okay, custom URL, good link tracker and stats, charts and top links, good ability to change." Excellent. Let's go ahead and build it in
+
+---
+
+[20:27](https://youtube.com/watch?v=bEnS7qnaDSU&t=1227s)
+
+Gemini. You're going to see it'll switch to Canvas right here. And then what we're going to do, I'll just go ahead and start a new one up a level. And let's call this one short links. All right. Like this. And then with this here, this is actually going to be the better one because if I can have this short links one actually working. Did it Okay, it did a file. We need to do a folder. Short links. There we go. Create new folder. Okay. Is it doing it? What do we got going here? Let's delete this here. Confirm folder. Short links. Create. There we go. Now we have our short links right here. And I can just make my files in there. So now we'll go through see if this one's reloading. There we go. So it did revert back. You can see the people there. Stuff like that. What I would do in that case is I would just take that reverted one, start a new Gemini, and start from there. So I'd just do new. Now, while waiting on
+
+---
+
+[21:29](https://youtube.com/watch?v=bEnS7qnaDSU&t=1289s)
+
+that, let's see what we got here. Okay, let's go. Canvas. Sometimes it gets a little sounds like you're looking for robust D. If you're looking for Okay, please build it. Let's see here. And it's very specific. If you can find that one reason people would want to use your product like whether it's made for affiliate marketing or whether it's made for this that or the other uh is very important. So now we'll do like this and here's our PHP. Good. And it should have everything lined out. Conceptual. Okay. So let's go to canvas. Looks like it wants to be kind of a pain today. Let's go canvas. Please make the plugin in canvas. Okay, this should do right here. Okay, now while we're
+
+---
+
+[22:31](https://youtube.com/watch?v=bEnS7qnaDSU&t=1351s)
+
+waiting for that, I can take this one and work with this. So, this is our visitor tracker one. I'm going to say please add some pie charts to this showing top referring URLs, keywords, pages, ect. Okay. And then I'll put this in here. Make sure I'm in canvas so that it sees it. Right, like that. And let's see how our other one's doing. Creating custom short links. Good. Okay, here we go. Now we're in business. That's what we want. We want this thing to pop up because that's the big kahuna. All right. So now it looks like custom slug structure permal links need to be set, which ours are. So that's good. You could just have instructions in there. And then you could tell it like, oh, hey, where can I put a video teaching people how to use it? Where can I put it this or that. It's pretty pretty easy to basically like a page, right? So a lot of it's
+
+---
+
+[23:33](https://youtube.com/watch?v=bEnS7qnaDSU&t=1413s)
+
+HTML. So now we have this one here. It's going. It's going. It's going. And then we're going to test it in our WordPress here, which is right here. Okay. So, we'll do new file and we'll call this short URL.php. Okay. Has to be PHP. That's what works in WordPress. And then we should be able to just copy and paste it in there. Okay. Let's see. Right here. Okay, it's still going. And one of the things I noticed about Gemini 2.5 is it will write really long codes. Like I had one that was a couple like over a thousand uh lines which is cool. So this looks like it's done. So now I would just go in here and we'll test it out. Short URL edit paste. Save. And then we should see it in our plugin. So we'll just go to plugins and it'll recognize it. So cool link shortener.
+
+---
+
+[24:35](https://youtube.com/watch?v=bEnS7qnaDSU&t=1475s)
+
+Activate. Good. No errors there. And then where is it at? Visit cool links. There it is. So under cool links, we can add a new short link. Let's say we want whatever http whatever your site is here. We'll do a profitscoop.com custom short. We'll do profit. And so now we have um explainer video production profit should link to AI profit scoop. So let let's take a look here. Okay, nice. It does work. Very cool. That was actually pretty quick. And then it'll go through and I think it'll even have under cool links. It should have Yeah, there you go. So now we have clicks. We have this. We can edit it. We can title it. Pretty simple. And we can go through and add charts and graphs and things like that, which would be great. So we could go through and make a really good real-time visitor. Um, or not that one, I'm sorry, the shortener. So we could do like now let's add some charts
+
+---
+
+[25:37](https://youtube.com/watch?v=bEnS7qnaDSU&t=1537s)
+
+tracking where the visitors on the short URLs are coming from. So like they would see, oh hey, this is coming from Instagram, this is coming from LinkedIn, this is coming from Tik Tok or whatever. And this will go through and build it and then I will have something that I can take to market that these people would want, right? Visitor counters, uh, short URLs, different things like that. And a lot of people are probably going to say, well, one already exists. Well, you're going to do something different. What can you do that Bitly can't do? Well, I can have it on their own domain name. That's way better. Or maybe something like Linkree, right? Something like linkree gets a lot of visitors. What if we had a tool that made like your own little link tree on your own website? This is something I've done as well that has done really well and sold really well. So, very, very simple, very easy. We want to go through and really focus on that minimum viable product and then building it up. Now, we can also go through and have it create pages. So, if you are running a mailing
+
+---
+
+[26:39](https://youtube.com/watch?v=bEnS7qnaDSU&t=1599s)
+
+list and giving this away free, we can have a page on there that would have like, you know, some kind of offer or something like that. Much like when you're doing a PDF and you give away the PDF and it has an affiliate link. Same kind of thing here, right? Where we go through and be like, "Oh, not getting enough traffic. Click here to get more traffic or something." And going through and adding that pretty easy. Let's show you how it works with the real-time tracker. Now, it looks like it did. And now it's 800 lines long. So, let's see where the real- time tracker is. Here it is. Save. And now we should have our real-time tracker over here. Visitor tracker. Okay, we have this here. Let's go back to the dashboard again. Sometimes it takes a minute. There they are. Nice. So, check this out. This is looking really cool. Now, we can maximize it. Most people are coming from Google, some from Bing. Ahs, Perplexity. Interesting. I didn't know people were coming from Perplexity. And this here. So, this is really good. And if we can embed this into our um our cool links
+
+---
+
+[27:40](https://youtube.com/watch?v=bEnS7qnaDSU&t=1660s)
+
+plugin, I think that would be good, too. So, let's see how it's doing on the cool links plugin. WordPress link shortener. We're at 572 so far. Let's put that and and make sure you check and make sure that you're on the right one because when you're making multiple plugins, it can be kind of a pain and if you overwrite it, you might have some trouble there. So, now we have our link shortener. We'll load it like that. Okay. Let's see on here. Dashboard. Cool. Links. Okay. Is it giving us a chart? Doesn't look like it did a chart yet, but we'll work with that and see. Now, as we're going along, now that I like the way that my tracker is, right? I'm I'm pretty happy with this. Our visitor tracker, it's got live tracking. It's got the 404 errors. It's got um the code if they want to do outside tracking. This is a pretty robust plugin. I would have no problem charging, you know, 27
+
+---
+
+[28:40](https://youtube.com/watch?v=bEnS7qnaDSU&t=1720s)
+
+bucks for this or giving it away free with with something else. Now, what I would want to do is I'd want to start with branding. Watch how easy this is. So, now we're going to go through here's our real-time tracker. Now, please brand it for AI profit scoop. aiprofitscoop.com and have spots I can put banner ads or links and or instructions on how to use. Okay, this is very simple and I'm going to show you some other plugins that I've made that that work really well. Um, and they were all made with Gemini. This is something where you can use this to build a business. Going here, there was a plugin we had which was the bulk uploader plugin. think I had it on this one. It might be on another site. Let's see here. Where did it go? Yeah. So, here it is. Here, uh, what we had is the bulk document importer. And
+
+---
+
+[29:41](https://youtube.com/watch?v=bEnS7qnaDSU&t=1781s)
+
+the idea here was to go through and have where we can upload multiple files at once. So, like if I was going to go through and have some content here like this, right? This is what our content looks like. We can go through and have this plugin upload like 25 contents at once. Hit process. It'll upload them. It gives you the title, the slug, the whole nine yards. Like this gives you complete control if you're doing content which is really cool. Now, we did use this on this one and it's actually starting to rank which is really cool. I think it ranked for human wants which is like a economics term and we're actually ranking I think it was like right here. There we are. So you can see it actually did rank. So this thing I mean it works. These plugins work really really well. This was out of the box from Gemini which is cool. So being able to build a product with Gemini is crazy awesome. So now what we're doing is we're having branding added to this and you'll be able to see where this is at. And let's go ahead and check
+
+---
+
+[30:43](https://youtube.com/watch?v=bEnS7qnaDSU&t=1843s)
+
+on the cool links plugin here. See if it started to add them. It doesn't look like it's adding the tracking. I'll ask it where that is. Maybe it'll be on this here. Let's have it add a desktop shortcut. These are cool because like if I have a desktop shortcut, I could put my link in here and they're going to see it every time they log into WordPress, which that'll help me make some money, which is really cool. So, going through here, it's going. Now let's add a desktop or a dashboard view of the top clicked short links with a pi chart. That way they could see, hey, here's here's my traffic. This is cool. This is where they're going. So they have the traffic one where the traffic's going and everything. And it looks like this is making a doozy.
+
+---
+
+[31:44](https://youtube.com/watch?v=bEnS7qnaDSU&t=1904s)
+
+So, here we go. There we go. 851 lines. Now, let's test this as is while we're waiting for the new one. Okay. So, we'll go into the link shortener. Boom. Save. That should fix it here. So, now let's reload. Reload. Okay, let's see. Add new. Oh, statistics. There it is. So, it's here. Here's the statistics. And obviously, we don't have very many statistics now. So, there's not a whole lot there. Um, but we can see. Okay. Explainer video production profit. Let's do this in another browser just to see if it'll come up here. So, the link's working. That should show too. Okay. So, there's not a whole lot for the pie chart, but it is working on it. Add new short link. All short links. This is looking pretty good. Now, let's see what happens with uh the branding. Okay. So, we wanted to see the branding. That was cool links. Add new statistics. Okay, so the branding wasn't
+
+---
+
+[32:46](https://youtube.com/watch?v=bEnS7qnaDSU&t=1966s)
+
+there. It's probably on the plug-in page. So the branding is should say AI profit scoop somewhere here. There it is. So see it says visit the site. So now I do have the branding there. But I did want the banners. Let's see where those are. I would think it would be like up here or here going through. I could I could even add like a short or a a screenshot and say, "Hey, do this, right? Like put the banners up here or something." Um or even say like I want banners on all navigation pages like here would be good on the real time one which would be pretty cool. And let's So it does have two visitor insights. Interesting. Okay, so there's the banner. So the banner did show on the visitor insights one at the top. Okay, so the tracker is the older one. Insights is the newer one. So there we're looking pretty good. I can put that there. Tracking external sites, monetization and c. Nice. AI profit
+
+---
+
+[33:47](https://youtube.com/watch?v=bEnS7qnaDSU&t=2027s)
+
+scoop. You can add your own banner ads. So this is where the banner would be. I would need to change that because I don't want that for everyone. So, I would just say, let's go back here, and I would say add the banner spots for me to edit only. This will be shown to users of the plugin. And then I could just go through and build it and everything like that. Pretty simple. Um, same thing here, you know, we could go through and say, uh, add some charts. So, we had the charts there. Then I could say now add spots. I can put links and banners just for me not for the plug-in use. This will be for clients and then I could go through and start building these. Now the key is find a simple se need create a minimum viable product
+
+---
+
+[34:48](https://youtube.com/watch?v=bEnS7qnaDSU&t=2088s)
+
+work with it and add to it brand it and double check it. So, we're going to double check this thing, make it work. I would say get a programmer or maybe a beta tester who knows what they're doing that can test it out because you don't want a plugin that has bugs in it. Uh, if people have big sites, always have disclaimers and stuff like that as well. Promote. Then, what we're going to do, number five, is promote the tool as free first, right? Get some people to try it out for free. Get them to talk about it. Get them to like it. Um, then you're going to go through and promote it as paid if you want. Um, to promote it, you can go, you could do a press release. Hey, new WordPress plugin helps people track in the age of AI or whatever. Um, very cool. Also, we can do videos. You can show people how it works. You can do an affiliate program, right? You can get other WordPress people who have other plugins to promote your plug-in. Give them a cut. Very easy. We've done that before. Um, make a blog about it. Very simple. Then, we're going to go through and make the backend. How am I going to make money with it? Well, if we're doing the link shortener one, I can go through
+
+---
+
+[35:50](https://youtube.com/watch?v=bEnS7qnaDSU&t=2150s)
+
+if people will buy the minimum viable product link shortener one, then I can go through and I can fancy it up, right? Very simple. I can make a more robust one. I can charge for it or I can get them to get web hosting or I could get them to um do something else, right? Very simple. And I can go and show them, hey, if you're a social media person, you should have this and you should have a website. This is how it works. um offer to set it up for them and it's pretty easy to sell web hosting when you do that. So, going through here, you can see we're just kind of walking our way through building up a plug-in. And this is what I do on a daily basis to make these work. It's actually very simple. Um you test them out, you make them work, and you get something that you can take to market and then when you're ready, you can start selling or or whatever it is. But building a mailing list with these is actually really good. You can also sell upgrades. So, like you know, Bill Gates when he first had Microsoft DOSs, it was free on all the computers, then he came out with the upgrade and became a billionaire. Pretty simple, right? Um, building a mailing
+
+---
+
+[36:51](https://youtube.com/watch?v=bEnS7qnaDSU&t=2211s)
+
+list is key because if I can have a tool that people want, they're going to use it, they're going to know me, they're going to like me, they're going to trust me. When I come out with something else, they're all over it. Much like the people who use Microsoft DOSs when he came out with Windows, they were waiting in line for the thing because they already had something that they used from that from that business, right? So, if you have something that you can use, it's going to work way better than just trying to do affiliate marketing or whatever. This, in my opinion, is one of the fastest ways to use AI to build a no code business with Gemini 2.5. So, if you enjoyed this, smash a like button. Let me know if you want a deep dive on this method and I'll show you some updates on how my businesses do, how we build them and everything like that. Again, remember nothing in life is guaranteed. The vast majority of people setting up plugins, doing AIs, trying to build businesses make nothing. Even those who buy courses make nothing. But I think if you look at this like a business and start saying, "What can I give to people that would provide value to the marketplace and how can I get something in return?" Boom. You're ready to go. I'll have the notes, tools, and
+
+---
+
+[37:53](https://youtube.com/watch?v=bEnS7qnaDSU&t=2273s)
+
+some example plugins over at apiprofitscoop.com so you can learn this, work with it, and I will also have a giant list of keywords of plugins that people want to get with the traffic and everything like that. Also, be sure to check out the videos in the description that go more into detail in my plug-in process.

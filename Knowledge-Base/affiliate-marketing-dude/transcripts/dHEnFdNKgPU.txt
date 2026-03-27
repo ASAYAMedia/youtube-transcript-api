@@ -1,0 +1,263 @@
+## Transcript
+
+[0:00](https://youtube.com/watch?v=dHEnFdNKgPU&t=0s)
+
+Today, we're going to be using Google Gemini deep research to emulate $1 million landing pages. But first, what does a $1 million landing page actually look like? Because a lot of people think that they're super complicated, filled with tons of different pages and websites and links and all kinds of things like that. When in actuality, they're a lot simpler than you might think. But simple doesn't necessarily mean easy. There's a few things that you need to have to make your landing page convert like crazy. And today we are going to be using Gemini's deep research and a secret little tool contained therein to do all the research and create landing pages that get results. And by results, we mean make money. So, in just a minute, we're going to fire up Google Gemini. I'm going to give it a topic that I know links to a high-paying offer. We're going to have it do all the research for that topic. Then we're going to click this little secret button over here, create an image, and then spin that image into a landing page so
+
+---
+
+[1:00](https://youtube.com/watch?v=dHEnFdNKgPU&t=60s)
+
+that we can make money. That's right. We're pulling back the curtain so you can see everything. And we're going to be putting Google Gemini deep research to the test. Based on what I've seen so far, this thing can create landing pages better than most humans. So, if you're ready to learn how to make simple little one to twopage websites that rake it in big time, smash that like button and let's go to work. [Music] Okay, so first of all, we need to understand exactly how these landing pages work. In order to get to a million dollars, more often than not, you're going to need a lot of traffic and probably some paid traffic in the mix. That's where most of mine hit the million-doll range. However, I had have a I have had a couple that have hit that range with free traffic, but you're going to need a lot of free traffic to do it. So, let's talk about how this whole thing works and why I believe Google deep research with Gemini is the hidden magic holy grail to putting these together. First of all, we need to understand exactly what's going on and
+
+---
+
+[2:01](https://youtube.com/watch?v=dHEnFdNKgPU&t=121s)
+
+what makes a landing page work. What makes it convert? And how do you take someone from just passively reading the internet to actually being on your web page and wanting the product you have to offer? This is super important. This is how it works. You need to flip that person from whatever they're doing into the thing that makes you money. Now, if you don't know how to do that and it seems complicated and some of this stuff scares you, don't worry. Gemini is going to help us. Gemini is like the magic button that we can use to do all of this stuff for us. And we're going to evaluate how it works, what you need to do, and everything. But first, before we get into the nitty-gritty, I want you to remember that this is a business. It's not some guarantee. It's not like we're going to go push a button, Gemini is going to spit out a page, and we're going to get a million dollars the next day. Actually, the vast majority of people trying to make money online make nothing. So, take this with a grain of salt. This is a business. Some people lose money. Some people make money. Most people make nothing. Now, diving into this, we need to understand what makes a good landing page actually work. When
+
+---
+
+[3:01](https://youtube.com/watch?v=dHEnFdNKgPU&t=181s)
+
+you go over to Offer Vault or ClickBank and you look at offers, those offers are highly skilled at getting people to buy. That's what these are about. When you see the conversion rates, that's where we are looking. Now, in order to make this work, we need two things. We need one, a group of people who are interested in things. Two, a page that takes what they're interested in and gets them over into what we want them in. And then three, we need obviously the offer. But the two things are in our control, the people we get and what we show them. So, what we need to do is we need to look at info infotorial infotal something like that advertorial style. What is this? This is like a news ad or a magazine ad that looks like content, but it's actually an ad. All right? So, it's like information structured as an ad or an ad structured as information. So, what we're going to do is we're going to look at these different steps. And don't worry, I will have this list for you later. And we're going to go through these steps and we're going to use those in Gemini to
+
+---
+
+[4:02](https://youtube.com/watch?v=dHEnFdNKgPU&t=242s)
+
+build this page. So, the first thing we need to do is we need to find an offer. You could literally go to Offer Vault. You can find different affiliate offers like Fiverr here pays $85 a sale, $32 a sale, or 17. And I think these are leads. So, all we need to do is get people to sign up. They don't even actually have to buy anything. Or we could go to ClickBank and do something like this generator or any of these others, like this septic one here. This is one that we're actually going to take a look at. It's got a lot of people promoting it. It does actually convert. Now, as far as whether the products are good or not, I haven't had time to go through them. That's your job as an affiliate. Find out, make sure what you're promoting is actually good. But this one says it's paying about $78.28 per sale and it's in the septic tank niche, which is really popular. Now, we can go to ahfs and we could type in like septic and see what comes up for like septic tank or septic tank cleaner or something like that. Whatever this one's tying into, right, like that where it's like, okay, there's a lot of people,
+
+---
+
+[5:02](https://youtube.com/watch?v=dHEnFdNKgPU&t=302s)
+
+competition's pretty low, the offer fits perfectly. So, we're looking good. This is something that can work. Now, what we're going to be doing with Gemini, because a lot of people are like, "Okay, what do I do? I'm here on AI. How do I make something that actually works?" First, what we're going to do is we're going to start with our research. So, if I wanted to do this for landing pages, I would click on deep research, and I would say find all the elements of a high converting landing page. So, if I was going to sell like a landing page software, this is what I'd do. I'd go in and I'd start with this. It'll give us its breakdown of what it thinks it should be about and then we're going to take it even deeper. Now, to show you what this looks like, I want to give you this breakdown here real quick so you can see the preliminary research. You can add to it, you can change it, whatever it is you want. Then, what we're going to do is we're going to have it research, which is going to get it in an isolated bubble of that research. So here we could see it says define landing page identify the core onpage elements
+
+---
+
+[6:04](https://youtube.com/watch?v=dHEnFdNKgPU&t=364s)
+
+explore this blah blah blah blah blah. So we could see this is good. So what this is going to do is it's going to direct it. AI is like a lens just like your mind. If I say what's the capital of Egypt? Your brain is going to go think about that whether you like it or not. That's direction. That's kind of like how the AI is. And then of course the next thing I ask you is going to be predetermined based on the first question I asked. It's like a lens, right? it's going to knock it down. AI works the same way where we are directing it. I'm saying, "Hey, think about landing pages. That's what we want you to think about. That's what we want you to research." So, when we start that research here, it's going to go in. It's going to look at hundreds of different websites, get all kinds of info and stuff like that. It's very important that along the way we do some factchecking, make sure it's okay. Now, when we go through like this, it's actually going to give us a full output. Okay? So, this is the first output. This is one I did for mortgages. I went through and I said, "Find some info on mortgages." I I said up here, "Types of mortgage loans, creative ones that save
+
+---
+
+[7:05](https://youtube.com/watch?v=dHEnFdNKgPU&t=425s)
+
+lots of money with numbers and stats info." I did this because I know mortgages pay a lot in the affiliate marketing world. So, what I'm doing is I'm priming the pump saying, "Hey, think about this here." Then what I can do is I can say now structure this as a inftorial to get them into various refinance offers. What this will do is it's going to take that research. So it went through it got all the research of all the different types of loans and all the stuff like this which is really cool. Now we're going to go through and we're going to have it structure this as an infotorial. So, it's going to be an information advertisement type thing. Okay. So, we're going to go through right like that. And we could see that as we go through, it'll change all of these things for us, right? Like this was a report it made on persuasion. It did a really good job. Now, what's happening in deep research is you're getting a much
+
+---
+
+[8:05](https://youtube.com/watch?v=dHEnFdNKgPU&t=485s)
+
+very narrow type of content, but you're getting a lot of it, right? So, this is like 5,000 words. If we were to take this here, put it into Grammarly, we could see it's probably like a 5,000word article, which is pretty cool. And again, this article isn't really what we're going to use. So, it's 3,000 words. It's not really what we're going to use, but this is a starting point. Okay? So, what we're going to do is we're going to use this as like kind of like if you if you took an employee and you were like, "Hey, go learn about mortgages." Good. Now, go do this. Right? You're not taking what they learned about mortgages and using it for anything. you're using it so that they can build the other thing. Same kind of thing with AI here, right? So, we could see here this thing has like 2% plagiarism, which is nothing for an article that big. And boom, there we go. Now, same kind of thing I did here with septic. I went through and I said, uh, why you need septic tank treatments and which are best. Big article here. We could see lots of words, lots of good stuff, lots of breakdowns. You could see it went through like a hundred different
+
+---
+
+[9:05](https://youtube.com/watch?v=dHEnFdNKgPU&t=545s)
+
+websites or something like that. and we could see what it looks like in Grammarly. Again, this is our initial research. Not necessarily going to use it. We might use it, but right now we're just using this as research. So, almost 4,000 words, no plagiarism or AI. That's pretty good. Let's let's check it again just to make sure. But we could see here it does a good job. And it does have like different protection and care, septic care, quick reference guide. So, there's lots of good stuff. Okay. Now the magic is going to happen when I go through and I take this offer for Septifix and I say let's go over here and say now let's first of all let's do this before we get started let's do um create and we're going to create an infographic. Okay. And you'll notice that each of these has its own button so I can always go back to the previous one. This is super important. So first let's get the infographic. Let's see what it comes up with. Usually, it's pretty cool. At least bare minimum. It's going to help me understand the market
+
+---
+
+[10:05](https://youtube.com/watch?v=dHEnFdNKgPU&t=605s)
+
+so that I can make a landing page that's going to work well. And if I can get it out there broad to a lot of people in the septic niche, I think this could work pretty good. Would it be a million dollar earner? I don't know. It's pretty low on the sales amount, so you'd need a lot of traffic to make a million dollar. But, uh, you know, 78. Do a million over 78. Let's see what that would look like. 1 million over $78. So you'd need roughly 12,000 13,000 sales a year, which would be 13,000 over 365. You would need roughly 35 sales a day or about one and a half sales an hour, something like that. So looking at that, are we going to get there with this? Probably not. But I think understanding what makes a seven figure landing page would help you make more with this. Are there people that make that much with these types of things? I think so. If you look at them, there's some that pay out like $5
+
+---
+
+[11:06](https://youtube.com/watch?v=dHEnFdNKgPU&t=666s)
+
+million and stuff like that, like this, $5 million in gross sales. Yeah, it's a pretty good one. All right, so looking at that, we're we're going to go through now with the mortgage one. Is it easier to get to a million dollars there? Yes, but it is more competitive. Again, results not typical implied or guaranteed. Most people make nothing. We need to understand this as a business. Now, going through here now, we have the septic system intelligence, septic additive to dilemma. The market is flooded with products promising an easy fix for your septic system. But what exactly does the science say? Let's separate. I mean, this already is landing page type material, which is really cool. 1,200 different additives, products recommended, zero. Bacteria needed uh naturally present 100%. living machine, household, septic tank, all this stuff, drain field. Okay, good. So, this is kind of getting into landing page stuff already, which is why we click this first. So, now we're like, okay, cool. Now, let's make this infographic
+
+---
+
+[12:09](https://youtube.com/watch?v=dHEnFdNKgPU&t=729s)
+
+and report into a high converting landing page for the ClickBank product. Septifix. Now, again, this is powerful stuff. You need to make sure the offer is good. You need to make sure that the research is good. Do your due diligence. Run it through several AIS. Check stuff that looks funny yourself, like that 100% one. I want to check that. But we could see here, okay, this is actually really good stuff. Infographic based on consensus. Looking decent. So now we'll go through, fact check it, and let's see what this looks like when it makes the infographic into a high converting landing page. This is where the magic happens. And I actually started doing this with this one here for the Fiverr affiliate program. So I went through I started off by saying news reports on freelance jobs going to AI specific with numbers and which jobs. So my idea here was okay, here's this Fiverr affiliate offer. All right, it
+
+---
+
+[13:10](https://youtube.com/watch?v=dHEnFdNKgPU&t=790s)
+
+pays good money. Could I get people into this by like right now everyone's interested in AI like I don't know there's like nine people who are not but the rest of the people are. So this is something where I can get a lot of traffic and if I can bridge it to where it's like hey robots are coming for your job here's what to do and so without any big prompting I just went through and said hey get me the report. So I said here give me an inventorial. It put it in this box and then when it was done I said now let's make it into a full infographic landing page. This was important because I wanted the landing page to have infographics and graphics on it that would support my story. Right? So that's the goal here is like okay we're going to we're going to get a an idea here which is like okay the septic tanks are bad. You need this additive or whatever. Okay then we start to build our case of why you need an additive and why you need this additive. Same thing here. The robots are coming for your paycheck. What are they doing?
+
+---
+
+[14:11](https://youtube.com/watch?v=dHEnFdNKgPU&t=851s)
+
+How do you survive? Why do you need Fiverr or whatever it is? Okay. And we could see here, pretty good. The robots are I I thought that headline was pretty solid. And we're going to go through the structure here in a minute. Headline, editor, uh, editorial hook, looks like a blog article, stuff like that. So, going through here, the freelance world just changed forever. AI is wiping out. This is pretty good stuff. I mean, it's doing a really good job here. which side will you be on? The AI um aftermath is here or whatever it is. These aren't just projections. This is what happened to freelance jobs in just months. If your gig is on the list, you're officially on. That's really good. We could even put like a little, you know, you're fired button there. Writing 33% decrease. Image generation. See how this is visually telling the story and it actually looks good. Like I would go through, I'd be like, whoa, this looks pretty good. It's kind of like a slideshow translation. But every crisis creates a gold rush. I like that. While others panic, a new breed of freelancer is making a killing. These brand new AI
+
+---
+
+[15:13](https://youtube.com/watch?v=dHEnFdNKgPU&t=913s)
+
+jobs are exploding on platforms like Fiverr and Upwork. Chatbot developed. This is see how it's like completely reiterating what we want it to do in images in good stuff. Don't get replaced, get rich. The losers fight AI. Now, of course, going through here, we would want a disclaimer. Like, disclaimer, most people don't get rich. But here's what we're going to do. Master this, become the strategist, sell results. Your unfair advantage Fiverr and AI. Like, this would be pretty good. I could probably go out there and find a Fiverr AI course, sell it on this, and get them to sign up for Fiverr and make double commission, which would be great. The future is here. Are you ready? So, this is pretty good. I mean, it's definitely a start. So, what I would do here is make sure you keep your your pin points because this this here will always link to this page. Now, let's make it stronger, longer, and more geared towards
+
+---
+
+[16:15](https://youtube.com/watch?v=dHEnFdNKgPU&t=975s)
+
+them getting a Fiverr account or something like that. Okay? And then once it's done, we could see how it works. Now, let's take a look at this one here. This was one I did for drop shipping. So, I went through and I said, "Get all the research." And if you're not seeing how powerful it is to have it do the research before we create the landing page, you're missing it entirely. Years ago, when you would hire a copywriter, I did copywriting for some businesses. And when you do copywriting for a business, what you're doing is you're going out there looking at their product. You research who would want that product and different things around it. facts, info, statistics, different things in that market to support your case. It's like making an argument much like, you know, when you're in speech class in in school or when you did mock lawyer trials or whatever, where you go through and you're like, "Okay, I need to come up with my case. This guy is innocent or guilty or this is bad or good or you should buy this or not this." And then you support it with all of the other
+
+---
+
+[17:17](https://youtube.com/watch?v=dHEnFdNKgPU&t=1037s)
+
+stuff. So when it does the research, this literally shaves months off of the research process in going in and making a um a a advertising page or a sales letter or something like that. Super important. So what we did here is we did the online resellers guide. So research businesses making money by buying things wholesale and reselling them. Right? That was the prompt. Okay? It went through and did that. We got the infographic so I could visualize it. global secondhand market, resale market, what's fueling the fire, value for money, sustainability. So, see how this is really good. Like, this is landing page stuff right here where we could go through add into it where to sell eBay this that and the other. So, now it's going through the reseller journey and now we can turn it into a sale. Now turn this into a sales letter with the graphics and this info. So what we'll do is we'll
+
+---
+
+[18:19](https://youtube.com/watch?v=dHEnFdNKgPU&t=1099s)
+
+give it the info here because what we want value for storytelling native feel want it to look like a blog post. We don't want it to be like oh here's a sales thing get ready to be sold. They're going to get their defenses up right. We want it to look regular like good info and we want it to be good info too. So headline, compelling introduction, deep problem. So let's go through and let's give it this as the prompt. Okay. So we'll do like this here and we will go into the one for I think it was this one here. Okay. Right. Like that. And so let's see if it adds this here. I think it will understand to make the sales page out of it. I'm hoping it doesn't think, oh, just insert this stuff in it. We could go either way. Let's see how it did with the robot one. Okay, looking good. Think your experiences will save you. Think again. Oh, that's cool. I like how it counted up, too. That was really neat. Um, so counted up there. Groundbreaking
+
+---
+
+[19:21](https://youtube.com/watch?v=dHEnFdNKgPU&t=1161s)
+
+studies found that for every 1% increase in a freelancer's past earnings suffer That's interesting. Okay. Why? Because efficiency is used, but every crisis has a gold rush. So, it definitely did make it better. Three-step plan. Pivot your skill. Package your value. Price for results. Launch your Fiverr empire today. So, it's getting there, right? Definitely. Definitely looking good. If we wanted this to be a sevenfigure type landing page geared based on the ones that I've had, you're going to need a really high click-through rate. So what I would say is now add some options they can click on based on their current skills up on the top. So I'm thinking like oh can we have like I'm good at writing I'm good at editing. I'm good at this. I'm good at that up at the top because the more people we get to click to the offer the more sales we're going to make obviously because more traffic equals more sales. Now, obviously, we want to
+
+---
+
+[20:22](https://youtube.com/watch?v=dHEnFdNKgPU&t=1222s)
+
+precondition that traffic by having them click on something saying they have a skill. We don't just want everyone, right? So, we're going to kind of get that there. And when we have this up top, we should be able to get like 50% or more to click on those links. Now, let's go through and see how the others are doing while we're waiting on this. And the key to using AI is like really think about using several at a time so you can get different results. But now we're seeing the reselling market is projected to hit 350 billion. So why are so many sellers burning out? Stata reveals the opportunity hidden trap. Okay, this actually did a really good job of incorporating that in there, which is good. This is fantastic. Pillar two. Pillar three, the playbook that changes everything. The online resellers enterprise playbook. So, it's actually selling a playbook, which I mean, I can go find some reseller playbook and sell that. Um, this looks terrible. I would
+
+---
+
+[21:23](https://youtube.com/watch?v=dHEnFdNKgPU&t=1283s)
+
+change the font and color, but so far it's looking pretty decent. And this is reminding me of like the Mly Fool type stuff, which is really cool. Oh, it's like, oh, hey, talk about a stock. And then get them into the stock training program or whatever it is. Okay, let's see if it added those images or the linkable. Still still working on that one. All right. So, now we have this creating hype impact advertorials. Good. And we could turn that into let's see these are these are ones I'm working on for you guys over at apiprofitscoop.com. We're actually making a generator to make these landing pages for you, which is cool. So, now we have robots are coming. What's your current skill? Perfect. That's what I wanted right there. Looks good. Nice and visual. Good colors. developer designer. So they would click that take them to the offer. I would probably put a line under here that says click your field to see your new Okay, that's kind of cool. So it
+
+---
+
+[22:24](https://youtube.com/watch?v=dHEnFdNKgPU&t=1344s)
+
+would have that there which looks pretty good. Then we'd go through see all these others. So that looked pretty good. I think that would definitely get a lot of clicks and it is a nice looking landing page. That's one where I could probably put it up right away. So now let's go through and let's see this one here for the mortgage loan. Okay, good. So now structure this as an inftorial to get them into various refinance offers. Have calculators and demos and really work to get them to click to see the new savings rate or let's just say new rate and the savings with it. So this would go through and we're seeing like initial savings and stuff. What we want to do is turn this into a page. And it should make it into a page without asking. I think it'll do it automatically. And then going through and looking at each of these,
+
+---
+
+[23:27](https://youtube.com/watch?v=dHEnFdNKgPU&t=1407s)
+
+we're going to see, okay, does it have all this trust signals? It'll naturally be mobiley optimized, which is really cool. And then all this other stuff will go through as well. Call to action, visuals. See how what we're doing is we're we're having it do that research and then pivoting, taking all that research and pointing it to the thing that we want to use to make money. So, looking at this tool, Gemini Deep Research for Landing Pages, I'm going to give it a five out of five. It definitely solves a problem. Has a clear uh purpose. Processing speed is fast. Performance, I'm going to say on the processing speed, let's give it a four because it's a little on the slow side. Can it generate or enhance text? Yes. Images and graphics, yes. video, no audio. I mean, you could turn it into audio and make it a video sales letter, but again, going through here, we're just going to get the basic right there. Okay. Then, is it useful for for social media? Yes. Email? Yes. Advertising? Yes. Website optimization? A,000% yes. Research and analysis, yes. Yes. Yes.
+
+---
+
+[24:30](https://youtube.com/watch?v=dHEnFdNKgPU&t=1470s)
+
+Yes. A thousand% yes. So, this is really changing the game because it does that research first. I can't stress how important that is. Like if you go to Gemini or you go to Deepseek or ChatGpt and you're like make a landing page for this offer, it didn't do all the research this is doing, which is why our landing page is going to convert better, right? We could even go through and use Gemini and say, let's do deep research and let's say what are all the issues people have with septic tank cleaners. We could go through and additives. We can go through and get this. And what it's going to do is it's going to go like hundred sites, get all that info. Boom. We bake that into our sales page. That's the anatomy of a seven-figure sales page because now we're understanding the market. The person who understands the market is the one who's going to win. Hands down. Doesn't
+
+---
+
+[25:30](https://youtube.com/watch?v=dHEnFdNKgPU&t=1530s)
+
+matter. Doesn't matter if you use AI to understand the market. That actually makes it easier for us. And now we can get a much better landing page that'll work a lot better. And hopefully you guys are understanding like this is pretty cool. It actually has like a video spot. Is your septic tank uh ticking? Discover the tiny oxygen releasing tablet that can save you from This is good. This is really good. Now, yes, I want to protect my septic system now. Good warning. Your home is unknowingly killing your septic system. Corrosive chemical. This is really, really good. If you're seeing the difference, type amazing content as a comment below and let me know because I think this is amazing content that will actually sell. And then we would put our product here. releases live oxygen, neutralizes these. Has the happy homeowners, which I think obviously fact check this, but it looks like it did pull it from the page. It's got the little prices and stuff, which is looking good. That's pretty solid.
+
+---
+
+[26:33](https://youtube.com/watch?v=dHEnFdNKgPU&t=1593s)
+
+So, now I would go through. Obviously, you would fix up the disclaimer and all. Let's see if it just I I want to see if it just scraped this from the page. I hope it didn't, but we'll see. Let's just put this in Grammarly and it'll tell us what pages did they get this from just to be on the safe side there. All right. So now we have the issues with the additives. Identify different types of septic cleaners position. Okay, good. So we'll start the research here and then let's see what else we can do. Let's add an FAQ and get rid of the options and prices and just have a link to go to the sales page. And you could even give it your ClickBank link. It'll make the page for you. So, we're seeing 12% plagiarized. Obviously, this is on the ClickBank page. So, that's a big chunk of the percentage. our manufacturing facility. That's not
+
+---
+
+[27:33](https://youtube.com/watch?v=dHEnFdNKgPU&t=1653s)
+
+plagiarism. I'm sure there's a million places. This is boilerplate clickbank. That's not plagiarized at all. Okay. So, the fact that it didn't flag these as as the uh plagiarism means it probably doesn't exist. So, I'd probably double check those. All right. Or I could even ask it like where did you get where did you get the testimonials and see where those came from, but that I'd be a little leerary of. The other stuff is fantastic. I think it looks great. This would be a landing page where I can go get a bunch of traffic. If the numbers fit, I could probably make some money. Again, if you're doing paid traffic, you could lose money. This is a business. You got to go through, you got to test small, build it up, and grow it. What I would do is I'd test it with like five bucks. If I can make 10 or even make my five back, I know I probably have a winner, but then I'm only out five or 10 bucks on the test.
+
+---
+
+[28:34](https://youtube.com/watch?v=dHEnFdNKgPU&t=1714s)
+
+And you can get some decent traffic for that. So, where did you get the testimonials? Let's see if it has that. And then let's see with this research because this is going to do the major major run on all the stuff people have with complaints and stuff. Now, going through here, what we also want to do when making a page is we want to look at the angle and who we're getting. So, if I was going to go through and say, I want septic tank cleaner or best septic tank cleaner, okay, I would want to see what would that look like? Like, what would we look at for the solvent or or whatever the thing's called? And how would we flip them over? Like, okay, the person's looking this up. make the page for them, right? That's one of the things that AI can do really good is it can make different landing pages based on what people are coming in from. Gamecher. So now looking at this, it's doing all the research. While we're waiting on that, now we have
+
+---
+
+[29:37](https://youtube.com/watch?v=dHEnFdNKgPU&t=1777s)
+
+were not sourced from provided. They were created as illustrative. So we would want to replace those with real ones. Those are made up. Don't want to don't want to mess around with that. Don't make up testimonials. You're liable. Well, even if AI makes it up, you're on the hook for that. So, you got to watch for that. Let's say remove those or use real ones from the site and gear this whole page to people searching for best septic tank cleaner and their intent. Okay? And then, of course, we're not just going to go for that word. We're just using that as like that's what the people are thinking. We would go up a level and we would be thinking about, okay, let's go up a level, get just the septic tank cleaner or something like that or whatever it is. That way we're getting a much better result from these people. Okay, so now going through, let's see if it geared it towards that. It's going
+
+---
+
+[30:39](https://youtube.com/watch?v=dHEnFdNKgPU&t=1839s)
+
+again. Okay. And let's see. All right, let's see how the others are doing. Landing page we have. Okay, so landing page. Let's say we wanted to do this one. I would say let's get people who are looking for let's say using AI to get sales or leads. Maybe find a a keyword for them or something. Let's get people who are looking for AI to get leads. Come on. There we go. And make this a full landing page for them. Now, before I do that, I'm going to copy that so I have it. I'm going to do create. Okay, we have web web page. Now, let's do infographic. And then we could probably create a web page from that when we build this. This is amazing because it's making it so much easier. You're not really going to need fancy landing page
+
+---
+
+[31:40](https://youtube.com/watch?v=dHEnFdNKgPU&t=1900s)
+
+software anymore. I mean, you never did to begin with. I've been doing this for many years with just WordPress and a little bit of coding, which is cool. Um, so now going through this is is really solid. Let's take a look at searching for the best septic tank cleaner. There we go. Stop most cleaners harm your system. So, see how it structured it for that keyword warning. Why they can cause a catastrophe. Great. Um, the secret isn't a cleaner, it's a living ecosystem. See how it's training them? It's it's getting them to think differently. Infotainment infottorial uh advertorial kind of thing here. So, it's going through with that rated the best. I would make sure that that is good. So, it did do this here. So, it gave an overview of the testimonials. I like that better because I don't want madeup stuff, right? So, did a good job there. It got the bullet points. Visit the official page now. So, that's looking pretty solid. It's got an FAQ. Great. I could go through. Let's see if
+
+---
+
+[32:42](https://youtube.com/watch?v=dHEnFdNKgPU&t=1962s)
+
+it'll actually I don't know if it'll make this into a page. I mean, it's already a page if you just click the code. That is the page, but it'd be nice to turn it into a page. We'll check that on one of these others. So, now we have, check this out. The anatomy of a high converting landing page. Datadriven deep dive into the elements that transform clicks into customers based on industrywide stat analysis. Okay. Boost with video loss per second. This is really solid stuff. Okay. Copywriting that converts. Good. Good. Good. So, if I wanted to sell Clickfunnels or something, I'd say now make this a info or advertorial for ClickFunnels or something like that, right? And I I know people I do know a guy who uh Click if I can spell right. I know a guy who did over seven figures funnels. There we go. Uh, selling ClickFunnels. Now, is that results typical, implied, or guaranteed? Was it
+
+---
+
+[33:42](https://youtube.com/watch?v=dHEnFdNKgPU&t=2022s)
+
+one landing page? No. He did have a high converting landing page that got people on his list. And he did make that over several years. He did really well. Um, but most people make nothing. Most ClickBank affiliate or ClickFunnels affiliates make nothing. Most ClickBank affiliates make nothing. Most people trying to make money online make nothing. What I'm trying to show you is what actually makes money is these types of things. It's not all that busy work that other gurus have you doing like make a bunch of faceless videos. No, no, no. You need faceless videos for a purpose. If I was selling a uh high converting landing page course or Clickfunnels or something, I would want videos all around that topic or septic stuff, videos around that topic. Very important. Uh let's do landing aviator for Clickfunnels. Yeah, let's let's just do that. Okay, so let's see how this does. All right. And then when we're going through the price of Gemini, I think it's only $20 a month. And that is 2.5 Pro, I believe. I mean, I have an ultra
+
+---
+
+[34:43](https://youtube.com/watch?v=dHEnFdNKgPU&t=2083s)
+
+plan, so I'm paying like 150 a month right now and then 250 when it goes up or something like that. That's for other reasons, but I think this tool with deep research you can do pretty easily. And then even combining this with like notebook LM. Again, getting the right high converting landing page has to do with the research you do on your market, not just clicking the boxes of these things. It needs to be based on the research. And what I'm trying to tell you here is that Gemini, deep research, notebook, LM game changers for compiling and researching data to make sales stuff that converts. The ClickFunnels blueprint to high converting landing page. Okay. Make the headline not about Clickfunnels. Okay? Because I don't want to reveal that like when they see that they'll be like, "Oh, this is a sales page." And they'll leave. So, what we want to do is
+
+---
+
+[35:44](https://youtube.com/watch?v=dHEnFdNKgPU&t=2144s)
+
+we want to make it more like, "Oh, let's gradually ease you into the product like this here, right? Hey, the robots are coming. Here's why you need to do a Fiverr business or even like the reseller one. Here's the data here. What we're doing is we're helping them. So now let's see how our mortgage one did. Okay, it's got that there. Restructure the information. Cool. Now make it a full inftorial landing page. Let's see. Did we want to get the infographic first? Let's do that. And then we'll do okay this I'm going to make a generator and I'm going to give you the whole flow process of how I create these over at apiprofitscoop.com. We're working on that for you now because it we want it to be as easy as like here's your offer, do the research, use the AI, boom, here's your page, go promote it, test it, run it. Okay, that's the goal here. But now we're seeing, okay, this is this is doing the
+
+---
+
+[36:45](https://youtube.com/watch?v=dHEnFdNKgPU&t=2205s)
+
+work. It's doing all the research. Looking good. Ultimate blueprint to high converting pages. That's better. And this is something where I could go through and say, "Now add 25 stats as infographics." And I could put those infographics on social media, lead them to the page, it'll do the selling. The goal of your posts or your ad on social media or your videos or whatever is to get people to your page. Goal of your page is to get people to the offer that makes you money or build a list, then send them to the offer that makes you money. It's all a strategic process and it all has to do with moving traffic down the line. If you're not moving traffic down the line, if you're just making more content because some guru said you need content, you're missing the point entirely. It needs to be content structured at selling. We need to go through and look at, okay, problem. This is where deep research is doing it or deep deep Yeah, deep search deep research something like that. Uh Gemini is doing this for you, which is really cool. Then you give them
+
+---
+
+[37:46](https://youtube.com/watch?v=dHEnFdNKgPU&t=2266s)
+
+the natural aha. Oh, I didn't realize that about septic systems, but now I do. Let me buy the product. That kind of thing. Okay. Pricing model on Gemini. It's 20 bucks a month, I believe, or 25 a month, something like that. Is there enterprise? Yes, there is. Um, it's available. But I think like cost effectiveness, this thing's a game changer. Like I Gemini, I couldn't be without it. I like it. I think it's fantastic. So, I think This is going to help you make better landing pages. All right, there's our septic one. Here is the one for septic additives. Now, let's do infographic here and see what comes up. See how this is like, okay, I'm doing research. I used to be able to do like one of these a month. Now, I'm doing a bunch at one tiny little thing here, right? Like boom, it's doing it all for me. Unlock your home's hidden wealth. Your mortgage isn't just a bill. It's a financial tool. Discover how creative loan strate this is great. Okay. Boom. Right at the
+
+---
+
+[38:47](https://youtube.com/watch?v=dHEnFdNKgPU&t=2327s)
+
+get-go. Hey, click here. See your savings. I like it. I would probably have a dummy calculator or even a real calculator there, but this gave us the starting point. The power of a small rate change. 7.5%. This percent. Nice. So, there's your savings. It's got like the little popup thingy here. Good. Is that yearly? Oh, so that's annually. I would say make it over the entire life of the loan because it'd be more dramatic. We want it more dramatic. So, I would change that note. Change that to uh over the lifetime. Core decision speed versus affordability. 30-year 15-year. There's your savings. Interest paid. Nice. I like paying less interest. That's good. Okay. So, give them an aha moment. Hey, get a 15. Unlocking access governmentbacked loans. I mean, this is like it's helpful and selling. The goal of a salesperson who's an ethical salesperson is to help the person. Like, even if you don't get
+
+---
+
+[39:49](https://youtube.com/watch?v=dHEnFdNKgPU&t=2389s)
+
+paid, help them because you'll get paid in the long run. You just got to find a way to do it. Our goal is to help. Creative strategies. Here we go. Assumable mortgages. That's a good one. And you can even like have them click here to learn about assumable. Boom. Now they go to a page on assumable. You can run ads there. You can put offers for assumable. Personalize your savings. Okay, there we go. Calculate. It's got a little calculator there. Looks good. Let's see if it's working. It is working. So, we're looking pretty good there. Let's see. 39 bucks. There you go. Right. So, it is working. Ready to take control. Lock in your savings. So, we can add to it. I would definitely definitely add to it. But this is better than just an article about loans. See how that's better? Let's take a look at how we're doing on our septic one. So, we have hidden dangers of septic additives. A scientific look at why these quick fixes can lead to catastrophic system failure and what you should do. Cost of a failed drain field. A lot of money. Taxonomy trouble in organic. The reality. This is
+
+---
+
+[40:52](https://youtube.com/watch?v=dHEnFdNKgPU&t=2452s)
+
+really good, right? This would be fantastic. And then you would just say, "Here's how ours helps. Here's the reality." I found that just being straight up like making videos like this where they're boring, but I just give you the truth. I'm like, "Hey, I made a million dollars with landing pages. I'm going to show you what I do." Most people make nothing. Like, you're probably not going to make a million bucks, but I'm going to show you what I do anyway. And people appreciate that honesty. And that's what we're seeing here, which is really good. So, we could go through fancy this up a bit. It's giving a good starting point. Let's take a look at our other one here. Converting landing pages, mobile first dominate. This is pretty good. It's got all these. The data doesn't lie. 80%. So, these are little things I can put on social media. There's a post 80% of this. I post that. They're like, "Oh, I'm interested in that. Learn the other things. Go to my page." They will go here to get these and they'll read this entire page, which is going to help them with the landing pages and get them into our affiliate
+
+---
+
+[41:53](https://youtube.com/watch?v=dHEnFdNKgPU&t=2513s)
+
+offer. This is super super super important. Now again, if you want to make a million-doll landing page, you're going to need a lot of traffic and you're going to need a high converting offer that pays really really well. But again, think about it in logical terms. All right? If you want to make a million dollars and you make $1,000 a sale, three sales a day, you're at a million dollars a year. Is it easier said than done? Hell yeah, big time. But if you wanted to get there, this is what you would do. scale and grow and scale and grow. Use these tools to do the research so that you don't have to. What I want to do is I want to go out there and use these to get stuff that I want that support my message. What is my message? Buy this thing. It'll help you with X, Y, and Z. Now I got something I can drive traffic to. Because if you just drive them to a sales letter, okay, yeah, you can do that, but it's going to be harder to get traffic. like I would have to go for set septic additives or landing page software. Those are
+
+---
+
+[42:55](https://youtube.com/watch?v=dHEnFdNKgPU&t=2575s)
+
+competitive terms. I want everyone that has a web page to go here and see how to make it convert. That's cheaper traffic. It's easier traffic. Then I can convert them and make money. This is how I've done landing pages by getting people that don't necessarily know they want a new mortgage or a septic thing or whatever and getting them into that specific thing. flipping them from one thing they're looking at to something else. Like, oh, hey, if you pay more than $3,000 a month for your mortgage, you need to see this. Boom. That's where we're getting there. That's what takes you from, I'm just promoting like everyone else into I'm thinking different about my traffic. Hopefully, this makes sense to you and you're seeing how I, as someone who has run sevenigure landing pages, have done stuff like this, right? This is what I do. You got to do the research, start out, build that page out using Gemini. Game changer. It's doing a lot of the work for us and making it really good. And it's actually finding the angle, too. Like this one going through it
+
+---
+
+[43:57](https://youtube.com/watch?v=dHEnFdNKgPU&t=2637s)
+
+found the angle. Here's the dangers of sedatives or additives or whatever. And boom, here we go. Very important. If you want to learn more about this, check out my other video. There's a very important video in the description about landing pages. And you're going to see how it ties into using this. But going through and looking at this in a real world way, making good content with pitches in it that help people is the path to making good landing pages. Thanks for watching. Smash the like button. Check out the videos in the description. If you want these notes and all the tools and links and everything used in this video, check out aprofitscoop.com. We'll have them available for you. And as always, smash a like button. See you in the next video.

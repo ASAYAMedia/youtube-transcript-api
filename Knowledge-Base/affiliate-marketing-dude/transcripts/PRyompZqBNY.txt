@@ -1,0 +1,257 @@
+# Micro SAAS Business' With Grok - Full Startup Plan!
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PRyompZqBNY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=PRyompZqBNY&t=0s)
+
+Today we're going to be using Grock AI to build micro SAS or software as a service. This is where you build something small with the intention of building an entire business around it. It's actually very straightforward and I think anyone can do it if they're willing to put in the work. In fact, some experts are saying that this industry is poised to be a hundred billion dollar industry. Some estimates are putting it over a trillion dollars. So yeah, what you're about to learn is huge. and we're going to be putting Grock to the test. Elon Musk says it's the best coder out there, but is that actually the case? Well, we're about to find out. And not only that, but I'm going to show you where I get endless ideas for these micro SAS businesses. We could simply take an idea like this affiliate disclosure generator and create an entire business around it. And since Grock has an API, we can tap into the AI features and offer AI enabled tools and micro software as a service solutions to our visitors and customers.
+
+---
+
+[1:02](https://youtube.com/watch?v=PRyompZqBNY&t=62s)
+
+This is a skill you're going to want to learn for the up andcoming AI race. And if you haven't noticed, we're kind of there. I'm sure by now you're learning that if you don't have the AI skills, it's hard to compete in today's tech job market. Not even to mention being an entrepreneur. Which is why today we're going to fire up Gro and create AI tools for profit. I'm going to show you exactly how it works, where to find ideas that actually profit, how to set it up with a premium or even paid model, and how to use Grock AI with the API to build simple tools so that you can build a business. So, if you're excited, smash the like button. Let's fire up Grock and go to work. [Music] All right, so let's go ahead and dive into this gigantic business that is making micro software as a service with Grock. First of all, some disclaimers and concerns. While there's a lot of money in this market, I want you to remember that the vast majority of people trying to make money online make
+
+---
+
+[2:04](https://youtube.com/watch?v=PRyompZqBNY&t=124s)
+
+nothing. This is a business. It takes a lot of work. It takes a lot of effort. Even after doing everything, there are risks and rewards. So, you have to really look at this realistically and understand what we're getting into. Now, the best thing we can do is actually pick something that a market wants and something we can create that's directly targeted to the market. What I'm going to show you in just a minute is these softwares that literally have like a built-in sales mechanism with them where you can get traffic and stuff like that. Now, we need to understand exactly what's going on and where Grock is going to fit in. First of all, we need a big idea. I got this list over here of all these ideas somewhere over here. A list of all these ideas. I'll pull them up on the screen and we're going to go through and look at those, which ones are good, which ones are bad, how we're going to use them to make money, and how everything works. Then we're going to talk about what we need. We're going to need some kind of web hosting or somewhere to host our tools. You can use a shared hosting account, a paid hosting account, whatever it is, as long as it has cPanel, it's usually pretty good. If
+
+---
+
+[3:04](https://youtube.com/watch?v=PRyompZqBNY&t=184s)
+
+you know how to do programming in different types of things, maybe you could do something else. But I like to use cPanel and it's pretty inexpensive. Most hosting is like $4 a month or $10 a month or something like that. Now, when we're looking at how it works, we got to understand exactly what's going to happen. We are going to use Grock to make tools that people want. We are going to promote those tools and then we are either going to sell different versions of the tools, different products, affiliate offers, or different things like that. Now, this is really cool because instead of going out there and posting content or something like that, having your own tool is going to allow you to stand out and get traffic in a super easy way. I've seen this happen many, many times where all you do is post videos or content about you using the tool and then there you go. Now, let's dive in and give an evaluation of Grock and look at how we're going to build these micro software as a service businesses. First of all, the big main benefit to Gro is that you could do pay ahead credits. Now, I've been designing all kinds of
+
+---
+
+[4:05](https://youtube.com/watch?v=PRyompZqBNY&t=245s)
+
+tools with Gemini and the Gemini API. And basically, once you put your AAPI in there, you pay, but then it's based on how many people use it, which could rack up a big bill. With Grock, they allow you to pay ahead and then once like if you put a hundred bucks in, once it reaches $100, it'll just shut off until you give it another $100 or whatever it is. Now, I find that it's actually pretty cheap. I've tested a bunch of different API tools, AI tools with Gemini, which is more expensive than Grock from what I've seen, and I think I've I think I still have yet to spend over $25 on it. And I have quite a few people using my tools. Now, keep in mind, some of the things that are going to cost a lot more money are like images and videos, whereas if you're just doing text stuff, if it's small, it should be pretty easy. And what I'm going to do is I'm going to show you a demo of the tool that I built in Grock and then I'm going to show you some other things as well. The tool that I built in Grock over here is a social media hook title generator. And even though that sounds like a gigantic thing, the idea is okay, if
+
+---
+
+[5:07](https://youtube.com/watch?v=PRyompZqBNY&t=307s)
+
+someone come in here and put in their idea, maybe they're going to do like AI tools for writing or something like that. What would happen is this would go through and say, "Okay, well do you want like relatable? Do you want power and authority hooks?" whatever it is to get that engagement. You choose the number of hooks and choose the comments. The idea is instead of thinking about all the social media stuff you want to do, this does the thinking for you. Then you click generate hooks, it'll go through and create this stuff for you. You can see it's spinning up here. I would probably ask it to have a little like, you know, process bar or something like that so you could see where it's at. But I did find it works pretty good. And you could see now it has like commanding directive, dominate your writing game with these AI tools now or revolutionize your content. What this is designed to do is go through and actually do the research on all of this stuff and it even segments out the tools, Grammarly, Jasper, and all these other ones, right? So, it does all the research for you. And that was the idea was to make something that uses the API that works
+
+---
+
+[6:08](https://youtube.com/watch?v=PRyompZqBNY&t=368s)
+
+really good. And this one is using Grock, which is pretty cool. Now, we got to go through and make it fancy, make it good-looking and everything like that. But you see that this is the basic idea and it is on our site. So, it's pretty easy to make. Now, when we go through here, what we want to do is we want to ask it to use the API so that it knows what we're trying to do. And then you can see here building a simple API tool. That's pretty much what we did. Now, I did notice that Grock does have it is very powerful at thinking. It does get into loops sometimes, but it's it's a deep thinker. So, I think it can get itself out of the loops if you're paying close attention, which is kind of cool. Okay. Now, when we go through and we look at the the functionality and everything, it's really good. It solves all the problems, does a lot of performance. The speed is a little bit slower. So, the tools created by Grock are a little bit slower than the ones created by Gemini. If I was to go to apiprofitscoop.com and look at the tools that I have here, like the keyword extractor or something like that, we could see that some of these tools are actually a lot faster. So where you have like this niche one or
+
+---
+
+[7:10](https://youtube.com/watch?v=PRyompZqBNY&t=430s)
+
+something like that, you're going to find out that they are a lot quicker. Okay. So there's a little trade-off there, but maybe Grock's giving a better result. So we'll look at that and and take a look at how we're going to build it. First of all, we need to look at micro software as a service versus traditional software as a service. First of all, your target market. We're going to look at that and say, okay, niche industries and specific segments. Whereas before like a big software as a service would be like Clickfunnels, a small version would be like an invoice creator that ties into PayPal or something like that. Think about something small and lean. The core purpose is a specific tool for a niche feature of a feature. Think about this as like instead of PayPal, maybe it's something smaller for gym owners or something very specific. Solo founders or small team, you can build these small funding. Usually this is self-funded or bootstrapped. So, I'm I'm building a lot of the tools myself, which a lot of them I mean, I do pay quite a bit for all the different AI tools, but that's just cuz
+
+---
+
+[8:10](https://youtube.com/watch?v=PRyompZqBNY&t=490s)
+
+I test them here. Whereas, you could probably get by with like a $30 subscription to like Grock or something like that or 20 bucks or whatever they are. Key metric, profitability and sustainable revenue. What you're going to do is you're going to build small and you're going to grow. We're going to look at the different niches and where they're at because there's companies like the background remover tool that makes a lot of money. I think it was like millions and millions of dollars they made, which is really cool. Now, the development cycle, this is really fast. We can create these same day sometimes. Some of them will take a couple of weeks, like my WordPress plugin that we've been making for a couple of weeks. But again, there's a trade-off. like the WordPress one's going to make me a lot more money than like a keyword tool or something like that or keyword report analyzer or something like that. Okay, a lot less risk when you're building these little micro software as a service, especially when it comes to AI. Now, when we go through, what I did is I actually went to chat GPT and I asked it to create a list of a bunch of different generators and tools and things like that because
+
+---
+
+[9:11](https://youtube.com/watch?v=PRyompZqBNY&t=551s)
+
+I'm thinking, okay, if we can start something small and then lead to something bigger, well then that's a good way to start a business because then I don't have to create this gigantic thing, hope it works. I just make something small, get people to use it, and then sell something else. Again, more about that in just a minute. Now, what I did is I went through and took all of these keywords and put them into my keyword tool over at ahrefs. And you can see all the stuff that they have here where it's like, okay, you have all kinds of different things like a poem generator, name generator, uh, grammar, car payment, all kinds of crazy stuff here that you can use. And the idea is we want to take something that's based on what people actually want, like a grammar checker. Why would people want that? Well, they're probably writing something or maybe a book title generator. Why would they want that? They're probably writing a book, right? So, what we could do is now we can tie into the AI here, right? We can make a Microsoftware as a service in the book title generator type niche where it goes
+
+---
+
+[10:12](https://youtube.com/watch?v=PRyompZqBNY&t=612s)
+
+out there and looks at the top books and comes up with something for you. So, let me show you how easy this is, right? And again, by easy, yes, it's easy to create. We are going to have to promote it. Again, it's a business. It takes work. You got to go out there and you got to do this. You got to really look at this like a business and say, I want to build something that's going to be sustainable. And what I'm going to do is I'm going to go here and say, let's use the Grock API. Make sure you tell it which API to create a book title generator powered by AI based on the top 100 bestelling book titles of all time and their input to give some ideas. So we could go through and do this here. And let's say also I want to do PHP script so it works on C panel. If you
+
+---
+
+[11:13](https://youtube.com/watch?v=PRyompZqBNY&t=673s)
+
+don't do that, sometimes it'll do React or some other kind of script, which I don't know how that works. I barely know how PHP works, but I know I can kind of, you know, copy and paste around to to make it work and test and everything like that. So now what's going to happen is it's going to go ahead and plan it. It's going to say generate titles based on the top 100 PHP on C panel. So it's starting to understand everything. It's looking at all the books and stuff like that which is really cool. So now we're going to go through and see where this is. Now while we're waiting for this again looking at the ideas you want. Is there some kind of thing for like an invoice generator? a tool that a business would need, a tool that you know maybe like a a form converter or like you know the other day I was converting into QuickBooks file or Quicken or something like that something easy or maybe even a duplicate remover, right? A lot of different things like this work really really well. I'm going to have a list of all these different things here like weekly pan planner or whatever it is to where we could go
+
+---
+
+[12:14](https://youtube.com/watch?v=PRyompZqBNY&t=734s)
+
+through and make it work. Now, one of the other ideas I wanted to take a look at today was the idea of a vision board creator where a lot of people create vision boards for law of attraction and stuff like that. I knew some people years ago. They had a software that made vision board videos. They made a fortune like crazy amounts of money. Now, again, they had good planning and business and promotion and stuff like that, but that's not to say that you can't build something and go out there and market it. It does take work, but you got to go out there and you have to have a good plan. So going here, I looked at vision board creator and I saw that yes, there are like 125,000 people searching for vision board. So that's our broad market. Okay, vision board creator had like I think 600 I think it was. But again, everyone who wants a vision board would probably benefit from a creator. So that would be kind of cool, right? And we could do that in Grock as we go along. So I could just go through and let's let's open a new Gro chat here and say let's use the
+
+---
+
+[13:17](https://youtube.com/watch?v=PRyompZqBNY&t=797s)
+
+Gemini API to create a an AI powered powered got to spell correctly powered uh vision board creator for law of attraction people people Let's see if we can spell here. Pull. There we go. Where they can put in their stuff and it makes the board or something like that. Now, the key to making these tools is have something extra that people can only get from you or seemingly only get from you. Um, because obviously everyone can make everything. But if you have something different like maybe yours is tied into this one secret or uh psychology or philosophy or whatever it is that would work really good. So now let's go ahead and do this and we'll say PHP for C panel please. Very visual.
+
+---
+
+[14:19](https://youtube.com/watch?v=PRyompZqBNY&t=859s)
+
+This one we would want visual. So we could go through and build that. So what we're seeing here let's assess this. Below is a sample PHP script. So it has the API tells us where to put our key. Save this as book title generator. So, this should actually be pretty easy. All we have to do is go to our c panel like this file, booktitle generator.php. Now I have the file. Then I just go through and get our code here. Okay. And it looks like it actually hardcoded the list of the bestselling books. So that's kind of cool. And let's go ahead and do copy here. That way we don't have to like highlight and all of that. And then all we need to do is hit edit. And this is on my uh website, so this should show up pretty quickly. Then let's go ahead and throw in our API key. You're just going to put your API key right up here somewhere. Let's see. API control F API. There we go. So, we're just going to put it right here. I'm going to blur it out
+
+---
+
+[15:20](https://youtube.com/watch?v=PRyompZqBNY&t=920s)
+
+because obviously you always want to keep your APIs secret. That way, nobody gets them. And then all we'd have to do is go to that that page. So over here where I had my test, it was over here somewhere. Here it is. I would just do um I think it was called what was it called here? It was called title generator. So we'll just take this and put that right after here. And here's Let's see. Why is our tool not working? Did I put it on the right one? I think I did. Yeah. WP city book_title underscore oh I put it in grock. There we go. Got to remember your folders, right? So grock slash. There we go. So now we go through and I'd be like, "Oh, I have this book about philosophy for beginners or whatever, right? And it would go through and it would generate them based on the API using AI using those hundred cool things and getting
+
+---
+
+[16:21](https://youtube.com/watch?v=PRyompZqBNY&t=981s)
+
+the idea of it. So it's got the hundred top books. It's got this. This is something that people would actually use. That's actually pretty helpful. Now, I do see there was an issue there. Let's see what's going on. It spun, but it didn't get it. So, what you would do if there's an error, you just go through and say it spun and worked, but did not post the titles. And let's see. Yeah, looks like it's hung up there. So, let's see. It's going to investigate that. Now, while we're waiting on that, we could see here's our vision board creator. So, again, this one I just go through, get this. It should say what it wants to name it. Although, this one did not. So, we'll just copy here. We'll go in here and do let's just call it vision.php. Usually, the file name isn't that important unless there's multiple files. Like if you're making a bunch of files,
+
+---
+
+[17:21](https://youtube.com/watch?v=PRyompZqBNY&t=1041s)
+
+then yeah, you'd probably need something more robust there. So, let's go ahead and see where the API is here. F API. And let's see. API key. Where do we put it? API. Oh, okay. This is doing Gemini. I must have typed it wrong. Let's use Grock API instead. Yeah, there we go. Now, this should work. Now, going through here, what we're doing is we're building something where it's like, okay, the idea would be if this person is is looking for a book title, they're probably looking to to write a book, which means they probably want to sell it, which gets into the self-publishing market. I can either make a bunch of other tools or sell access to this tool or give this away and then be an affiliate for other stuff. And we'll go through that in just a minute as well. So, now we're seeing it's actually creating it. Here's the API compatibility. Super Grock possibly requiring payment.
+
+---
+
+[18:23](https://youtube.com/watch?v=PRyompZqBNY&t=1103s)
+
+Okay, that is not the case because I know we did pay for it. Okay. And he knows my typos there. I did replace that. Your server has curl. I think I have curl. I believe endpoint go. Okay. So, let's see how this does. So, so far, um, can it generate or enhance text? Yes. Images, I don't think Grock does images. I'm not sure yet. Uh, can produce that? No. No. We do want to use it for coding. So, I'm going to say research, yes. Analyze, yes. Data trends, yes. Um, I'm going to say that I'm mainly going to use this for coding. So, we'll go in and do all of this stuff. This is what we want here. Okay. So now going through with this, let's see how this one works. Let's copy this here. And then every time you copy copy it, you will have to replace your API. So make sure you do that. Crl+ F API.
+
+---
+
+[19:27](https://youtube.com/watch?v=PRyompZqBNY&t=1167s)
+
+And there we go. We'll paste this in here. And your API is a big code you get from uh the back office. You just search for Grock API and it'll show up. All right. So now let's see if this is working. I did notice their tools are a little bit slow. Okay, there we go. So, now we have this. Now it's doing the generated. So, let's do um philosophy for Bible believers or something like that. So, what it's going to do is it should go through and generate all these and then you're going to have it be a work in progress like I can go through and say, "Okay, well now format it different." So, divine reflections, philosophical infight insights for the faithful. That's pretty good. Wisdom of the word, a philosophical journey through scripture. These are actually pretty decent. Or you could go through and do like make money online or something like that or what's going to happen with AI. And then you can go through and build this up. And let's see
+
+---
+
+[20:27](https://youtube.com/watch?v=PRyompZqBNY&t=1227s)
+
+here. But it actually comes out pretty good. I can say like if I give it this and say here is what the output looks like. Can we make it nicer looking? No stars and good spacing. Let's do um bold big on the titles. And let's see. It should come through and do that. Now, while we're waiting on that, we should also have our our one over here for the vision. Okay. And we can just go over here and do vision. So, let's do this. And we'll do you can see this is a very very valuable tool according to Elon Musk and the investors. Let's do vision.php and we'll see what this looks. There we
+
+---
+
+[21:28](https://youtube.com/watch?v=PRyompZqBNY&t=1288s)
+
+go. This one actually looks nicer. So that's asking for the Gemini. Let's replace it with the Gro one. So here's our Gro one. We'll copy and paste it over this. Save. And then I'm just going to get my Grock API. CtrlF API. That way I can find out where it needs it. So API from console API key value. Okay, so it's probably up in the top. Let's see here. API. And then if you can't find it, you could just ask it. So API key is required. Looks like it's kind of hidden. Post API key. And it should have a spot where we could put in our API key. We might just need to ask it. It's usually up top, but let's ask it. What line
+
+---
+
+[22:30](https://youtube.com/watch?v=PRyompZqBNY&t=1350s)
+
+do I paste my API? And then if you wanted, if you feel secure with it, you could give it the API. It's not the safest thing to do, so not recommended. um maybe on a test one or something like that. But we're going to go through. So now we're going to do this your domain in the form field. Okay. So it's on the actual form. So let's do with this. So API key. Okay. So I would just replace this. So it's telling me how to do it. So I'll go over here and we'll do CtrlF and we'll find this line. This is like basic coding. There we go. There's the line. And then we'll replace it with this. And then we'll put the actual API in there. So there we go. And then get our API. Definitely make sure you save everything in a in a secure place. Save. Now it's
+
+---
+
+[23:31](https://youtube.com/watch?v=PRyompZqBNY&t=1411s)
+
+hardcoded. And I should be able to see our vision board. Okay. Let's see if it does that. So, it does need the key. Let's say remake it without the user needing to put in the API. We want it hardcoded in the tool using my API. That should fix it. And while we're waiting on that, this should fix up the the way that it looks. So, we'll just build this thing out. This is the book one. Boom. Save. Replace our API again. And let's see. API. Here we go. And right there. Save. And our book one. This should make it nicer looking. So, let's uh let's name a book here. All right. Oh, they're much better.
+
+---
+
+[24:34](https://youtube.com/watch?v=PRyompZqBNY&t=1474s)
+
+That's way better. Let's do how to use Grock to make money or something like that, right? Let's see what titles it gives me here. And there we go. Grock your way to gold. The Grock profit code. Groconomics. That's kind of cool, right? A gro and grow rich. That's actually not bad. So now you're looking at that and it's like, okay, this is pretty cool. Now micros software as a service is where we're building something simple, basic based on an intro to a mark uh a market. So, like for example, maybe you can make a tool that ties into Zoom for people who do webinars. Maybe you can go through and do a tool for this that's based on that or whatever it is, you can make it work in a very, very simple way, right? We're going to go through, we're going to make something basic, we're going to build it up. Now, the key characteristics is that you're going to focus on a niche, you're going to build it lean, you're going to focus on profitability over growth. A lot of businesses, they they focus on growth rather than profit right away. What I
+
+---
+
+[25:35](https://youtube.com/watch?v=PRyompZqBNY&t=1535s)
+
+want to do is I want to take these to market and I want to profit. I don't want to wait around. I want to get them working. So, if I can go out there knowing that there's a lot of people looking for like a a book title generator or book title tool, right? 14,000 people a month. Book title generator. Okay. Maybe they're looking to sell books on Etsy or Amazon or whatever it is. Can I help them? That is a back door into a market that is spending a lot of money, the self-publishing market. Right now, we can go through and we can think about all different things that we can use. Okay? Or let's say you're going to use something like a hashtag generator. Why would someone want that? Well, they want that because they want their social media stuff to grow. Airgo, the social media tool that I created earlier, that's one that can work fairly well, right? We just go through and we're like, "Okay, now I have this tool." And I think that one was called Grock or something like that, Grock test. And it
+
+---
+
+[26:36](https://youtube.com/watch?v=PRyompZqBNY&t=1596s)
+
+would create the social media hook title generator. And I could go through and I can get that and say, "Okay, here's our social media hook title generator." Now, under each one, add the hashtags they can use to get more traction, right? And then what would happen is we would add this in there and it would add the hashtags. Now I can market that under two. So what's going to happen is you're going to build this thing up. You're going to get the traffic to it. You're going to grow. You're going to see what people like, what they don't like. You're going to build and grow. Focus on having something specific. So let's go through. We'll just I think we'll just wait on this one. Um but what'll happen is now it'll do the hashtags or whatever. Okay. Again, thinking about what the user would want and why. Now, when doing this, this is really cool because we're there's a low barrier of entry. We get it to the people right away. We look at the market size. It's huge. And then we go and build. And again, if you don't know how to come up with these ideas over at apiprofitscoop.com,
+
+---
+
+[27:36](https://youtube.com/watch?v=PRyompZqBNY&t=1656s)
+
+I'll have the list of both of these as well as that list I got here of all the keywords and generators and things like that. Because if you can understand that we can make one small easy thing to solve a problem, that's key. Because sometimes in business, you know, someone will do something every day over and over, every single day, like posting on social media or whatever, and a tool like this would absolutely help them, right? It's like, okay, I can come here every day. Boom, boom, boom, here we go. And then down here, I could say, click here to get a social media consultation. Click here to get, you know, a promotion or or ads or whatever it is. Or even like a course on how to do social media or something like that. Something very straightforward. And even if you're doing like how to convert this file to this file, if it's for like, you know, maybe a spreadsheet for, you know, earnings or something, maybe you can get them into tax stuff or whatever it is. Thinking differently about what you can help people with. And keeping your tools very surface level, like I don't want something that's going to take a lot of
+
+---
+
+[28:37](https://youtube.com/watch?v=PRyompZqBNY&t=1717s)
+
+like data. I want something that's, you know, generate titles, create some keywords, get some hashtags, help me uh change these files or whatever it is. Then we're going to go through and look at different places we can understand our niche. Again, over at apiprofitscoop.com, I'll have a list of these as well as my secret list where I find a lot of these. And some of them would be like watch online communities, go to Reddit, see what kind of tools people want. Go to uh software forums, see what they want. Looking at this is very important because now you can understand the complaints and what they want. We all have complaints about software. We all like, "Oh, Hat GPD is good, but I wish it would do this." And one of the things I'll tell you also is don't underestimate Facebook as a great place to learn what people want. There are tons of AI groups on Facebook you could just become part of and simply listen. Listen to what people want and they say, "Oh, well, you know, I wish I had a tool that did this or I like this tool." Look what's popular and think
+
+---
+
+[29:38](https://youtube.com/watch?v=PRyompZqBNY&t=1778s)
+
+about how you can do it better, different, or more efficient or cheaper, right? different things like that and and the cool thing about the internet is it tells you what you want like it tells you okay these are the things that people want go and build them um which is very important and you can use your keyword tools and everything like that now when you build I would say build as small and lean as possible I I did one last week where we were creating a um tool for gym owners and one for video creators and on these both of these I did spend a little bit for the domain and the site I I think it was like $3,500 each or something like that. Now, that's because I knew it was a good business, right? And sometimes you could go out there and you could buy auction domains or whatever and find a domain that's pretty popular in the market you want and then boom, there you go. I just found a silly one today that was about like asking a philosopher questions. I was like, hey, that'd be kind of cool. I could make a little ask the philosopher tool and then boom, there we go. That
+
+---
+
+[30:38](https://youtube.com/watch?v=PRyompZqBNY&t=1838s)
+
+would be that would be one that would be fun, but then I would get them into other stuff, right? Maybe make a sticker about the quote you have or um you know, click here for philosophy class or whatever it is, right? You got to think different about what it's eventually going to lead to. And then obviously something that's fun, you know, you might get a thousand users and 10 of them sign up for something. Whereas, if you're doing something like a social media one where they're using it, the chances of them signing up to grow their business because it's so direct hit, that's going to get you a lot more customers. So, understanding that and looking at it, I think far too many people are trying to build their business in this gigantic way rather than like, let me zero target on one thing and do it really, really, really, really, really well. And that's the key. Now, when you go to launching these, I I had a student of mine who did insanely well. Again, results not typical and are guaranteed, but she went out there and made a tool and then promoted it on Facebook uh groups and things like that.
+
+---
+
+[31:40](https://youtube.com/watch?v=PRyompZqBNY&t=1900s)
+
+And she made it very big. She made a free model. They downloaded the free one and then they upgraded. Um I think it was like $300 tool or something like that. She made some good money on that. That was back before AI, so she had to pay people to build it. Now with AI, you're seeing we can build these things very, very quickly. And the key is once you build it, if you know it's good, promote it like you know it's good. Like go out there and do the work to promote it. I was just creating one that does very detailed prompts for video tools, right? A lot of people don't know how to like keep consistent characters or write the right thing or get it vivid or whatever it is. And those prompting communities on Facebook are huge. They get a lot of people. And all I would have to do is figure out what prompts work good by listening to other people and testing them. Make a tool that automatically does that, right? I think I went through I would have to find that tool. Let's see. It was called um
+
+---
+
+[32:40](https://youtube.com/watch?v=PRyompZqBNY&t=1960s)
+
+VO V3 something or other. Yeah. Let's see. VO prompts. Yeah. So this was the tool I made for that. And basically the idea was take all the prompts that people are talking about, put it all into a tool and add my own, you know, my own stuff to it to where it's like, okay, now I know how to make this even better. And then boom, there we go. And all you would have to do is say shot type. I want panning or zoom or whatever camera Sony lens wide camera motion fast overall style um dark matrix style, right? And then you go through and you could put all this stuff in here and what it would do is it would generate you a prompt using AI and using all this stuff and then boom, there you go. Right? Very, very basic, but it works. it works really good. And then I had some things like no watermark, no warp face, don't have floating stuff, no text, things like that where it's like, okay, now these are the things that most
+
+---
+
+[33:41](https://youtube.com/watch?v=PRyompZqBNY&t=2021s)
+
+people don't know to ask, which this is going to save them a ton of time. So going through there, we're looking at these tools. We're building them up. I see that Grock is pretty good. I would like to see how Grock does with like, okay, add my logo and add my footer. Okay, let's do this one now. add my logo and a footer. Let's see if it understands that. What I don't like about Grock, it doesn't seem like we get a preview, which is kind of a pain. Um, but I mean that's okay. To each his own. Like you could put it on your server to get the preview. But I do like that Gemini gives us a preview. I I like that a little bit better. So cost effectiveness of Grock, I think it's amazing. Pricing structure, it is flexible. ROI, I think is good. if you do um the good tools and things like that. Do they have M Enterprise? Yes, they do. Revenue, yes, direct. You're going to build a tool, you're going to sell it. Direct revenue. Time savings, big time. Quality improvement, I think it's pretty good. So, I think overall
+
+---
+
+[34:42](https://youtube.com/watch?v=PRyompZqBNY&t=2082s)
+
+this is a really good tool. I think I'm going to give it like a a B, maybe a B minus, uh because it is a little wonky. It is kind of like advanced for most people. So, now let's see what happens here. This is our I think this is our book title tool. So, wait till it's done and then it should have all the formatting. I noticed that Gemini does really good with formatting. So, I'm not sure if Grock will, but it looks like it did. There's our logo there. It looks like it is at the top. All right. So, wait for it to be done. And then here's our vision board creator. I don't know how that tool came out. Let's see how the vision one did. Copy. And I think it was under vision. Vision. Okay. So, that one had the API there. Enter your goals.
+
+---
+
+[35:42](https://youtube.com/watch?v=PRyompZqBNY&t=2142s)
+
+Okay. So, let's copy this. We'll try out the vision one. And okay, we'll just go over here. Vision. Replace that. get our API here. And let's see where is it. API here. Save. And let's see how our vision board looks now. It looks like it's still struggling. Let's see. Just double check that it's not caching. That's interesting. Let's Let's just try it with this. We'll do enter goals affirmations. Uh new car I don't know, Lambo, new house or whatever, right? You put all that in there and let's see what it actually does. And then again, you know, the key is working with these and building them so that they are good for people, right? We want to make sure that they're something
+
+---
+
+[36:42](https://youtube.com/watch?v=PRyompZqBNY&t=2202s)
+
+people would want. And then all I would have to do is is market them based on all of the products and all the things that that I'm I'm using. And then boom, there you go. So now let's see how this looks over here. Looks like it's kind of stuck. While we're waiting on that one, looks like this is here. Let's fix our book one. See what it looks like. Uh, let's do book. Grock book. Let's see. Or maybe it's just Grock book. What was it called? It was called books. Book title generator. There we go. All right. Grock book title generator. There we go. So now we have the logo.
+
+---
+
+[37:42](https://youtube.com/watch?v=PRyompZqBNY&t=2262s)
+
+It's okay. It understood that it was for affiliate marketing dude. So that's cool. Um, so there you go. Right. So, you could build these pretty good. Now, the monetization model here is to go through and look at free versus paid. I would say that for most people, it's probably going to be easier just to make a free one, get a bunch of traffic to it, get a bunch of people using it, and then offer things that are similar, right? Um, affiliate marketing where you could promote affiliate marketing or we can actually charge them, you know, a couple bucks a month or whatever. I have a membership site that I charge like $17 a month for. It's pretty solid. It's the AI profit scoop one. We have all kinds of tools in there. Works really good. It's a low barrier of entry, so I don't need to have like this ridiculously amazing tool. I just need some things that are going to help people out. You can also run ads, do a micro membership model where it's like, you know, a couple bucks a month or whatever it is. Now, going through this, you can look at the different things you could do like uh subscription model, premium, pay-per use, or a lifetime deal. Sometimes they
+
+---
+
+[38:43](https://youtube.com/watch?v=PRyompZqBNY&t=2323s)
+
+do that where it's like a lifetime or you could even build them and sell them to people as businesses which would work pretty cool as well. Now, we saw some examples where in the early stages of business, there was one I found that was a testimonial tool that did like $5,000 a month annual revenue. It's a solo founder. Again, it takes work. It's not like you're just going to, you know, go take this today and boom, there you go. You're making money. It takes some work. It takes some effort. You know, maybe if you're going to do the book generator one, go join book groups and listen to what they say. Listen to what they struggle with. Do they struggle with titles, the the, you know, book cover writing or whatever it is. Can you make other tools? Could you make an entire dashboard of book starting tools like start with your title, then this and that, and here's how to sell it or whatever. Uh, there was a dating app tool that did like $2,000 a month its first month. uh founder built like a CRM one which was for like managing customer stuff um like you know contacts and things like that but you could see that
+
+---
+
+[39:44](https://youtube.com/watch?v=PRyompZqBNY&t=2384s)
+
+a lot of these do really well and you know what we're going to do is we're going to lean from that model we're going to learn from yes I can build a startup using grock I can build this thing up and then I can grow can I first get people to use this that's the first thing I want to do I want to get people to use it get them to like it get feed feedback and then grow from there. Looking at the keywords as data, saying yes, these are the data points, it says yes, that's what they want. Book title generated, they want to generate a book or um you know, privacy policy generator, that would be for someone who's doing a website or something like that. Um and understanding that these are all very very tight-knit. A headline generator, tagline, um all kinds of things that you can do that would really really help people. And now we can build them up and grow them based on what they want. Now we have a startup business idea that we can make with Grock. Build a mailing list, right? Go out there and build it. Uh, check out my other videos
+
+---
+
+[40:45](https://youtube.com/watch?v=PRyompZqBNY&t=2445s)
+
+in the description where I talk more about how to build these tools. The key is being able to use that API. And Grock has its own API, which I think is a lot less risky for those who don't know how many people are going to use it because it would like not be good to wake up in the morning and be like, "Wow, I spent $1,000 on API keys and I really didn't get anything for it." Grock's going to solve that because it's like, okay, you pay as you go. That that's the end of it. So, go out there, make some tools. I think this is a fun business. We'll have some info over at apiprofitscoop.com where you can get those reports. You can see some other things, some examples of the tools that I use. Um, actually in the AI Profit Scoop membership, we have all kinds of tools, blog plugins, AI enabled stuff, uh, to help people out. And that's really what this is about. Can you make something that's making it easier for someone to get an output than just going to chat GBT? ChatGBT, you got to know prompting. You got to know what you're doing. You got to have this, that, and the other. Where I could just load up things I know work, make a tool
+
+---
+
+[41:46](https://youtube.com/watch?v=PRyompZqBNY&t=2506s)
+
+around it, and boom, there we go. So hopefully you liked this video. If you did, smash the like button. Check out apiprofitscoop.com for the notes. Check out the videos in the description.

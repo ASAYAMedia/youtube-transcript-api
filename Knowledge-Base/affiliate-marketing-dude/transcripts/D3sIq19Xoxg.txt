@@ -1,0 +1,177 @@
+[0:00](https://youtube.com/watch?v=D3sIq19Xoxg&t=0s)
+
+I just asked Chat GPT to make me as much money as humanly possible and the results were completely stupid. That was until I learned about pre-prompting and stacking. This is super important and has helped me make lots of money online. And today, I'm going to show you how it all works. Because let's face it, when you fire up AI like ChatGBT or any other program, it's basically a blank slate. it's going to answer based on whatever you ask it. So, if you ask it something general like, "Make me as much money as possible," well then you're going to get a pretty basic answer. On the other hand, if you prime the pump by asking it this one specific thing that I'm about to show you, well, then the results are literally night and day, money and no money. Think about it like this. If you could have one day with a successful entrepreneur, say Bill Gates, Mark Zuckerberg, or even Elon Musk, would you just go up and ask them, "Hey buddy,
+
+---
+
+[1:00](https://youtube.com/watch?v=D3sIq19Xoxg&t=60s)
+
+what's the best way to make money?" Or would you think out something very specific based on their expertise? Yeah, my guess is you'd do the ladder. Now, this takes a little bit more work and you'll have to spend a little more time with the AI, but the output we get is staggeringly different. And this is what helps me make money online with AI. So, if you're excited to learn the pre-prompt stack method, smash a like button. Let's fire up the computer and go to work. [music] All right, so let's go ahead and dive in. I'm sure you've seen a lot of these videos that are talking about how people ask ChatGpt to make money and all of this stuff. I mean, there's me right there. But what they might not be telling you is how this actually works and how money is actually made online. Now before we dive in, I want you to realize that most people watching these make money online videos make nothing. We want to understand that this is a business. There is risk. There is reward. If you think you're going to
+
+---
+
+[2:01](https://youtube.com/watch?v=D3sIq19Xoxg&t=121s)
+
+fire up ChatGBT and ask it to make you money, you got another thing coming. However, we can actually use ChatGBT and other AI tools to help us build a business or do things that make money. But we need to understand at the get-go what those are about. And that's where the pre-prompting stack comes in. What we want to do is train the AI in the session so that we can go and get a different result. And what you're going to see is that the results are night and day. If I was to go over here and ask something like, "Give me some tools or tips on making money or something like that." What you're going to see is generic results versus specific. Like if I was to go through here and just ask it to help me monetize a web page, I could go through and give it the web page and I'm going to get generic answers. However, when I prime the pump and give it a pre-prompt or a preview as it were of what I want it to do and how I want it to think, that's where the magic happens. A lot of people are using AI like a fancy little tool and they're not
+
+---
+
+[3:02](https://youtube.com/watch?v=D3sIq19Xoxg&t=182s)
+
+looking at what it can actually do. Because let's face it, all of the AIs have the same information pretty much. They're all trained on the internet and different things like that and books and stuff like that. But we need to look at what makes them different. Why is DeepSeek different than Chat GBT? Well, some people just like DeepSeek. Well, no. Deepseek thinks in a different way. It's used for a different purpose. ChatGBT thinks in a different way. Now all of these tools can think in various different strategies or thought patterns or processes but we need to understand how to get it to do that. This is super important because you can take someone who is a college professor PhD in you know health or something like that and you can take an actual doctor and they're going to think different even though they kind of know the same things they're going to think differently. Like there are business people out there that on paper are smarter than Jeff Bezos and Elon Musk probably combined, but it's the thinking different that makes those
+
+---
+
+[4:04](https://youtube.com/watch?v=D3sIq19Xoxg&t=244s)
+
+people like trillionaires or billionaires and the rest of the people are making 100 grand a year or something like that. It is the way that we think about the information, the processing of it, not the information itself. Most people are hung up on the fact that, oh wow, check it out. I get all of these, you know, interesting things from chat GPT and it looks good. But is it actually good? Most people are just making busy work, not money work. So, what we're going to do is we're going to look at this in a different way. If I was going to go out there and say, "Hey, chat GBT, make me money." I would want to prime the pump first. Let me show you what this looks like and then we'll go into the presentation of of what actually works. If I was to go through and say, "Show me ways to make money online," it'll go through and it'll give us generic stuff that you could basically Google. And the Google AI will tell you that, too. Now, to the untrained eye, this looks like good information. This is why these types of videos do well because a lot of people crave general information. When
+
+---
+
+[5:04](https://youtube.com/watch?v=D3sIq19Xoxg&t=304s)
+
+you get to the specifics, that's when they give up. That's why most people don't make anything because they give up at the specifics. But the specifics is where the money is at. Seeing here, this is generic advice. Now, if I was to go through and just say, "Hey, you know, show me ways to make money." That's generic. However, if I say, "What are the top 50 AI startups that make between 500 and 1 million a year?" Now, it's going to go through and it's going to find these. Then I can ask questions based on what it finds. This is super super specific. Now going through I could say yes, do that and it'll give me specifics and then when I ask it what type of AI startup to make, it's preconditioned to think about stuff that actually works. So when we go through, I want you to understand this in a real world way because we're going to learn how pre-prompting changes AI processing and framing. We need to understand how this makes everything different. First
+
+---
+
+[6:06](https://youtube.com/watch?v=D3sIq19Xoxg&t=366s)
+
+of all, the core questions that most people miss is, does pre-prompting actually change how AI processes information? Most users are treating AI as a black box. You put something in, you get something out. But the real question is, does the sequence of prompts fundamentally alter the AI's internal processing? And the answer is yes. This isn't just a trick. It's leveraging how large language models actually work. Yes. And understanding why gives you complete control over output quality. Even in something simple like make me money or teach me to make money. This is going to change the game. How AI actually thinks is by being a prediction engine. It is trying to predict what's going on. Large language models are pattern matching prediction engines. It's looking for a pattern. So if I give it a bunch of stuff, it's going to find patterns based on that stuff for my question I ask. core functions given a sequence of words predict the strategically most likely next word. So if I say how are you?
+
+---
+
+[7:08](https://youtube.com/watch?v=D3sIq19Xoxg&t=428s)
+
+It'll predict the next word. Watch this is how it works. I could go through and do a new chat and I could say how are you? What is the next word and likelihood? This is how it's actually working, right? Same with like self-driving cars. It's predicting, hey, what are the odds that guy's going to come over here? Well, if he has his blinker on, 100%. If he doesn't, well, here in Florida, probably 98%. So, starting to look at that, it is a probability machine. So, it says the likelihood here is 40 to 60%, how are you doing today? 15 to 20%. On and on we go. Now, understanding this at a bigger level and saying, okay, AI is going to predict based on what I'm doing. Now, if we prompt it and say, here's all the AI startups. What is the best AI startup I can make if I'm not that techsavvy and have less than $1,000. Now, it's
+
+---
+
+[8:10](https://youtube.com/watch?v=D3sIq19Xoxg&t=490s)
+
+going to go through and it'll understand exactly what's going on. And it actually said, "Hey, here's the truth. Might not be the best for you. Sell AI powered marketing output. Make an AI content studio." That's pretty good advice there. or prompt as a service, pre-built prompt packs. I'm actually doing this and making money with it literally right now in personality prompts, AI tools, directory, affiliate site. Do you see how these are much better than something generic like, okay, help me make money, right? This is it is night and day different. And when you understand that, it's absolutely key. Also, looking at the AI's output, it's entirely determined by the context it receives. It's trained on billions of examples and going through and getting it in a specific line because I learned this in rehab where they said your mind is a lens and what you get what you focus on, right? And my mind was focused on drinking and all this stuff that that was destroying my life. And I just didn't realize I could just point it
+
+---
+
+[9:11](https://youtube.com/watch?v=D3sIq19Xoxg&t=551s)
+
+somewhere else, think about something else and train myself to behave in a different way. Now, of course, there's a lot more to it. I have a whole channel dedicated to my addiction struggles. But understanding the mind is like a lens and AI is like a lens. Where you point it, where you focus it is what you are going to get. If you go through and tell it, hey, think about, you know, bright colors and then you ask it a question, it's going to give you a different output because it was primed to think about those different things. And what's going to happen is you're going to lead it down the path. Next, looking at this single prompt versus equals generic context equals generic output. If you say write me an ad for my coffee, what happens is the AI is now saying okay ad plus coffee, it searches its training data for the most common added patterns. Then it receives highquality words like uh or high frequency words like rich, aromatic, morning, boost, delicious and it gives you the most statistically average ad possible. So, if we go to
+
+---
+
+[10:12](https://youtube.com/watch?v=D3sIq19Xoxg&t=612s)
+
+chatgpt and I say, "Make an ad for my new coffee that is smooth and less caffeine or something like that, right? Going through and looking at this, it's going to give you a generic result. However, if I go to chat GPT and I start with a conversation and I say, tell me about the most effective coffee ads of all time. who wrote them and why they work. Now, not only am I going to get a better output than you, I'm also going to learn stuff like there you go. You could actually learn crazy fast with this stuff and why they worked and you're going to go through and you'll see okay well John Kapples wrote this one and you know this guy wrote this one and all this other stuff. So now we see it's got all the different things with folders and it's got the lessons learned nest cafe and on and on we go. So now we're seeing hey this is working really really
+
+---
+
+[11:14](https://youtube.com/watch?v=D3sIq19Xoxg&t=674s)
+
+well and now I can go through and say now text only summarize why they worked. Boom. Now it's going to summarize why they worked. Okay, there we have all this stuff and now watch the difference. Right here we have ad style minimalist smooth flavor gentle energy. Uh health love coffee, hate the jitters. This is terrible. I know I'm a marketer. This is terrible. Watch what happens now when we do this. Make an ad for new coffee that is smooth and less caffeine. Now we have wake up without the jedters. Meet the coffee that is smooth balanced. Then we have uh tired of coffee that makes your heart race. Try this instead. Okay, that's pretty good. or spot soft on caffeine, strong on flavor. That's a lot better than what we had here. Smooth flavor, gentle energy. Love coffee but hate the jitters. It did double down on that one. So that might be a good one. Less buzz, more chill. These are not good. These are good. And I know cuz I'm
+
+---
+
+[12:15](https://youtube.com/watch?v=D3sIq19Xoxg&t=735s)
+
+a marketer. Now, let's make longer headlines like advertorial, right? And I can even go through and I could say now tell me the best let's do text only text only the best advertorial writers right and it'll tell me the best adverttorial writers then I can say now for the coffee stuff watch this I mean it it's night and day difference what you're going to get and It's almost like you're like training it to be all of these things in one prompt. And that's the key, right? That's why I get a stellar output is because I'm going through and I'm spending the time with it. And I've trained my team to do the same. I finally found a coffee that doesn't make my handshake and it's so smooth. I can actually enjoy ta taste again. What happened when I switched to this low caffeine blend for 30 days
+
+---
+
+[13:15](https://youtube.com/watch?v=D3sIq19Xoxg&t=795s)
+
+surprised me. Hey, that's pretty cool. Doctor said I should cut back on coffee, so I tried this gentle roast. Something like that. Although I would not use doctors because unless it's true, you know, you got to be careful with that. Millions love their morning coffee, but few realize there's a way to enjoy it without the crash or anxiety. That's pretty good. A lot of people don't put coffee and an anxiety together. A former barista spent two years perfecting. See how this is like night and day. Like now I could say now make some advertorial headlines. Now, this one, it might be pulling from the other one because I'm not in um temporary chat mode, but let's see how this works. So, we got why coffee lovers are switching. I tried this for a week. So, I would say that these are pretty strong and those are not, even though a lot of them are duplicated because it is in here, but you're going to see night and day. Like if I go through and I do this um in a a let's do a new chat and we'll
+
+---
+
+[14:18](https://youtube.com/watch?v=D3sIq19Xoxg&t=858s)
+
+do this in a temporary. You're going to see for a low caffeine smooth coffee right like this. And it'll go through and it'll do that for me. So wake up gently all the flavor none of the jitter. So this is more what you'd get if you were just asking generic whereas priming the pump getting something specific. Now it's voking. This isn't decaf. It's the future of coffee for people who want energy without the chaos. That's pretty good. Now going through here, what's going to happen when you start to use these is you are going to activate the broad patterns going generic with a simple prompt. And if we do something more specific, it's going to work much better. The problem is you get the mean the the average of millions of coffee ads, not a strategic targeted message. We want strategy. That's where this comes in. It's not about content. It's not about busy work. It's not about how much you make with in terms of of like content or articles or what you're putting out with chat GBT or
+
+---
+
+[15:19](https://youtube.com/watch?v=D3sIq19Xoxg&t=919s)
+
+AI. It's about the strategy behind what makes it work. That's why one good blog post can make more than 10,000 terrible blog posts, even though it seems like those blog posts might be good. Now, looking at this, how sequential prompts build a unique contextual foundation. First, we're going to do a four-step process. One, the research prompts. What are the biggest complaints about morning coffee routines? Or what are the biggest complaints about people who want to buy a new TV or whatever it is? Okay, looking at that, what are the biggest complaints about um let's say retirement, right? If I go in here and I say new chat, what are the biggest complaints people have about money in retirement? I can't spell, right? Some guy like was mad in the comments that I don't know how to spell. I apologize. That is not
+
+---
+
+[16:20](https://youtube.com/watch?v=D3sIq19Xoxg&t=980s)
+
+my strong suit. Luckily, Chachip gets me. Right. So, running out of money, not saving enough, longevity rest. So, if I was going to write an article, now let's make an article about solving this clickbaity style but true good headline. Now, it's going to go through and it's priming the pump based on what it learned. So, we're almost doing like a teach method where we're going through and we're like, "Okay, here's how we can make this work." First, we do the research. Then, we do the strategy. Create a unique angle structure. Outline an ad or a blog post or a video script or a plan. Very important. Then we do the execution prompt. This literally works for everything. If we go through and we do research, find all the ways people are making money online. Strategy. Now, find one that works with this, this, this, and actually has proof. Or you could start with what are all the things that
+
+---
+
+[17:21](https://youtube.com/watch?v=D3sIq19Xoxg&t=1041s)
+
+people found that doesn't work online. Okay, now what can I do that does? Looking at this changes the way the thought process of AI works. Structuring the prompt. Outline an ad or make a report or make a guide or a strategy plan or something like that. Then number four, you're going to execute whatever it is. like I'm going to go through and say okay now create this thing strategy video article whatever it is then going through we have to understand the context window AI short-term memory every previous prompt lives in the AI's active context so everything you've put in before works but if you're in that window and you say forget everything you know just pay attention to what we talk about here it'll look at what you have this is the context window that everything AI can see when generating the next word in a conversation. This includes all previous messages and responses. Think about it like you go meet someone new, you talk to them, it's
+
+---
+
+[18:23](https://youtube.com/watch?v=D3sIq19Xoxg&t=1103s)
+
+in that window. What you talk about is in that window. They're not really looking at, you know, hey, I met this person before cuz they didn't. It's all within that one thing. In a conversation, this includes everything. Preprompting deliberately fills this window with strategic information. This is super super important. It's like if I was to say, "Go get me some milk." Okay. Well, they don't know what I like. I could say, "Well, I'm on a diet and I can't have lactose." That's going to change the milk they get me, isn't it? Same with pre-prompting. Not giving it those things is like having an employee and saying, "Go make me money versus having an employee and say, "Go do these things. Let's both make money." This is the key, and a lot of people completely miss this. Each new prompt is weighted by everything that came before it. This is super important. So, what we're doing is going through and understanding how the AI works and using that to our advantage. Preprompting doesn't just add
+
+---
+
+[19:24](https://youtube.com/watch?v=D3sIq19Xoxg&t=1164s)
+
+information. It reshapes the entire task. If you have a single prompt like photograph, it's going to capture a flat single perspective of AI's knowledge. single snapshot one-dimensional result is a collage of average examples. The outcome is flat generic output. Or if we do a pre-prompt stack, we get a sculpture. It researches, gets the strategy. We have the structure prompt, execution prompt, and the outcome is a deliberately shaped object with depth, dimension, and strategic form. Next, we look at the single prompt where we're going through and saying write an ad or do this. Okay, again it's going to be super generic. I'm going to give you some examples in just a minute. But when we look at the stack approach, we have something like the research. Who are the top competitors and their main weaknesses? It'll go through and it'll give you the example create a UVP targeting where we're going through and getting unique value proposition. And going through this, it is going to give you that competitive advantage that
+
+---
+
+[20:25](https://youtube.com/watch?v=D3sIq19Xoxg&t=1225s)
+
+you're looking for where so many people are struggling. And we're going to see that we are going to get statistical uniqueness. We're going to get something nobody else has. Consistency at scale. This works over and over and over again. We are scaling this here and it works like crazy. Again, understanding why we want to build things. Understanding how we can pre-prompt it for the next thing is absolutely key. understanding the strategic pyramid where we're going through instead of generic content, we are doing strategy layered on top of strategy. And what this does is it predicts everything based on context. Single prompts give you broad stuff. The stack is going to give you more. Let me show you some other examples where we did this. If I was going to go through and I say, I have this web page. This is one of my web pages. It gets a lot of traffic. We rank in Google. It does really well. I want to make more money with this. So, I could go to chat GPT and I could say something like, "Hey,
+
+---
+
+[21:27](https://youtube.com/watch?v=D3sIq19Xoxg&t=1287s)
+
+here is my my page, right? Help me monetize this page." I give it the page. It goes through and it says, "Hey, you know, you could put some affiliate offers, an email funnel, content upgrades, ad monetization, boring, lame stuff that you can find everywhere. However, if I go through and I start with who are the best experts in the world at monetizing traffic that is not easily monetizable like free tools and different things like that, list 25. Now, it listed the 25 and gave the specialty. I was a little hurt that it didn't include me there. So, I asked it for 50. And then again, I was a little hurt. But I did then ask it, hey, what about this Marcus Campbell guy? and it said, "Hey, yeah, he's pretty good. We should definitely include him in the mix. Here's why." Now, with this list of 50 people with all their stuff, I went through and I got a list of the top strategies. Here they are. Now, after I
+
+---
+
+[22:28](https://youtube.com/watch?v=D3sIq19Xoxg&t=1348s)
+
+got the strategies, then I went through and I said, "Now, based on this, now tell me how to monetize my page." And what it did was night and day. We could see here it says the page already does good all this stuff and then it said affiliate offers domain registar or hosting that was not mentioned in the generic version. Domain auction place marketplace affiliate was not mentioned in the first one. Analytics appraisal tools again brand new stuff. Lead capture and email tells me how to do it right here's exactly what to do. Upsell product. I could go through and make a course. I can create a tool. All of this stuff, fantastic tool enhancement or a premium version. It noticed I had a tool and said you can make a a premium version of it and charge for it. Sponsored content, retargeting, remarketing, print on demand. Eh, probably wouldn't do that one, but hey, whatever. Uh, create additional funnel touch points,
+
+---
+
+[23:30](https://youtube.com/watch?v=D3sIq19Xoxg&t=1410s)
+
+optimizing conversion. See how this is a completely different output. If you're seeing the difference, let me know as a comment below because this is night and day. This will change the way your prompts work. Here's another one we did where we said, "Help me." That's the monetized one. Here's one we did where I said, "Who are the top AI startups?" And it was um comparison with, "Help me come up with some good untapped AI startup ideas." A lot of people asked this for AI, unseen work, physical industries, just generic garbage that I'm not going to use. However, going through and saying, "Who are the top AI startup innovators with startups in the 1 to 10 million range, and what did they make? Here's all these people." Then it went through and I said, "Now, help me come up with some good untapped AI startup ideas." See how it's priming the pump. I mean, it is it is literally night and day. This will change the result you get with AI literally right now. Now, the stuff that I'm showing you is very powerful. I use it in my business to make money literally every day all day.
+
+---
+
+[24:32](https://youtube.com/watch?v=D3sIq19Xoxg&t=1472s)
+
+But I want you to remember the results are not typical implied or guaranteed. While this gives us good ideas, it's up to us to implement them. This is a business. There is risk. There is reward. We need to understand that and this is the starting point to understanding it. One, you're going to use AI to now learn things. two, you're going to get a better output and this will help you in your business, your side hustles or whatever you're doing. You could see here AI personal systems layer, not just agents. We can monetize with software as a service, AI finance co-pilot, AI tools that sell themselves, uh, preventative AI, local AI platforms, AI for creators, microtutors, underwriting. All of this stuff is really good. And it even gave one example I'm using right now that literally is making money right now. I mean this is absolutely gamechanging stuff if you understand it. It all has to do with the context and what we give it. And and you could see that the
+
+---
+
+[25:34](https://youtube.com/watch?v=D3sIq19Xoxg&t=1534s)
+
+results are night and day. We can even see here this one AI content studio sell AI powered marketing output or pre-built prompt packs. I'm using some of these right now to make money. It's almost as if it knew. I mean, it it is an absolute gamecher when we start to look at the difference between just generic prompting and pre-prompting and stacking the pre-prompts. Looking at this and saying, "Okay, can I monetize this traffic?" Absolute gamecher. And when we understand this, we are not just using AI, we are programming it. We are pre-programming it. We're helping it understand exactly what we want. And when we go through, I'm going to show you the big flow and then I'll show you where to get it over at personalityprompts.com. We'll have this giant image and some other notes and tools and stuff that you can use. First, what we want to do is define our goal. What is it that I want to create? An article, a strategy, a plan, a video. What do I want? Then
+
+---
+
+[26:34](https://youtube.com/watch?v=D3sIq19Xoxg&t=1594s)
+
+we're going to do layer one, which is the research prompt. Gathering the foundational data. Who are the top video creators? What do they do? Why does it work? teach me about this. Start by learning, being curious, and getting the AI to teach you. Who are the competitors? What are the pain points? What do the people want? AI context window. You're going to put raw data, facts, and patterns. That's what it's going to show. Then layer two, strategy prompt. Define positioning and approach. Create a unique value position. What is my unique value? How can I turn this into something that's going to help people and something that I can use commercially to make money? The AI context window is going to look at the previous plus the strategy. It's going to give you positioning and target the audience unique angle. Next layer three, we're going to do the structure prompt where we organize the framework. I'm going to have all of this over at personalityprompts.com. Then you could say outline using the aida attention, interest, desire, action
+
+---
+
+[27:36](https://youtube.com/watch?v=D3sIq19Xoxg&t=1656s)
+
+or create a five section structure or map the customer journey. Figure out all of this stuff. Then what it's doing is it's learning based on what you want. It's going to look at all this stuff and then give you the logical flow and the persuasion structure. Layer four, the execution. This is where we say now write the ad copy, the section, the landing page, whatever it is. And that's where you're going to get the custom result you want. I do this all the time with tools. Hey, look at these things. What do people struggle with? Okay, now using the API, let's make a tool that solves these problems. This is going to give you strategic output, targeted, unique, highquality stuff. Then you say, does this meet our goals? If it's no, refine it. Go back to the strategy prompt. If the answer is yes, save it as a reusable task because now you have something that is a framework you can keep using for similar tasks. And when you use this over and over, it is going
+
+---
+
+[28:36](https://youtube.com/watch?v=D3sIq19Xoxg&t=1716s)
+
+to revolutionize the way that you make content and the output that comes from that content. Again, remembering it is all strategy, not content, not busy work. We need to think about it this way because busy work, I mean AI can do all the busy work you want it to do. What's the strategy behind it? Anyone can make Facebook software, right? Anyone can. You use React, you can build it, you put some money into it, there you go. Why doesn't everyone? Because he had a strategy. Anyone can create an online store. Why does Amazon do better? Strategy. Anyone can create a blog. Why do some make a h 100,000 a month and most make nothing? Strategy. It is about the strategy. And ladies and gentlemen, we can get AI to give us that strategy if we learn the art of prompt stacking and pre-programming your AI to think in a different way. If you enjoyed this video, smash the like button. Check out the notes at personalityprompts.com.
+
+---
+
+[29:37](https://youtube.com/watch?v=D3sIq19Xoxg&t=1777s)
+
+And if you like what I got to say, you might want to join over there. We got a lot of good stuff you can check out. Also, check out the videos in the description. Smash the like button and I'll see you in the next training.

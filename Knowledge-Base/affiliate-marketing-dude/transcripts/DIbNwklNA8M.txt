@@ -1,0 +1,221 @@
+# NEW: My Ai Startup With Claude - Im ALL IN On This One!
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DIbNwklNA8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=DIbNwklNA8M&t=0s)
+
+WordPress and Claude AI, a match made in heaven for making money online. And today I'm going to be revealing a startup idea that I've been working on for the past few weeks that is in a market that's making as much as $480 billion a year. The valuation of these is literally off the charts. Even the small little WordPress segment is still valued at like $2.8 billion a year. But what are we talking about here? How does this work? And are you going to watch this video, fire up some AI, and get rich overnight? Well, no. In fact, the vast majority of people watching this video will make nothing. Most people trying to make money online, even buying courses, investing in things, make nothing. So, what we want to do is we want to look at businesses that actually work, dissect them, and figure out what they're doing. Now, this little startup idea that I'm going to show you today is based on something that I've been doing for many years. Back in 2011, I started developing WordPress plugins with outsourcers and coders and programmers,
+
+---
+
+[1:00](https://youtube.com/watch?v=DIbNwklNA8M&t=60s)
+
+and I've made millions of dollars using those. And now with AI, we can actually build faster. In fact, I found something that I can do in Gemini and then switch over to Claude AI and replicate it super fast for whatever business or industry I want to get into. This is something super important because it's based on software as a service or owning your own code software type thing. This is where a lot of startups are making tons of money. Just think of having your own AI tool that is enabled for a specific group of people that need it so that you can get paid. And that's exactly what we're talking about. Real world businesses that take a lot of work, but when done correctly can pay off big time. So today I'm going to fire up Claudeai, ChatgPT, Google Gemini, and a few of my WordPress sites to show you exactly what I'm building, how it's based on things that actually work, based on things I've actually done,
+
+---
+
+[2:01](https://youtube.com/watch?v=DIbNwklNA8M&t=121s)
+
+startups that some of them are making like a couple hundred million dollars a year and have crazy valuations, and how using AI to program things, if you know what you're doing, can be very, very powerful. ful. So, if you're ready to learn the startup ideas that I'm working on right now in my business, smash that like button. Let's dive in the computer. I'll show you everything exactly how I come up with the ideas, what I'm doing, how I'm going to get paid, the back-end profit model, and the whole nine yards. Come on, let's go to work. [Music] [Applause] Okay, so first of all, we need to take a look at this market and see exactly how big it is and show you exactly what's going on. First of all, we're looking at the creator economy. What is this? This is people who make videos, content online, Pinterest, all kinds of people that are creating content online, even bloggers and stuff like that. What we want to look at here is where they're at and what they're doing and where the
+
+---
+
+[3:02](https://youtube.com/watch?v=DIbNwklNA8M&t=182s)
+
+money's at. Now, one of the things that we're seeing here is nearly 60% of e-commerce sales happening on mobile. The link to bio has evolved from a simple link click to a powerful native storefront. So, a lot of people are using things like stand, link tree, link in bioervices and all different things like that. And what I wanted to do is tackle that in a new way because now using AI, we can do that even better and more custom for people who actually need it. Think about this. If you were a website designer and you went out there and you're like, I design websites for everyone, you might get a few clients. However, if you're the expert website designer for plumbers, well, then you're going to have a much better conversion rate doing that. And then if you went to like limousine companies and said the same thing, you're going to get a much better return rate on that as well and conversion rate because those people are going to want exactly what you have. Much like you watching this video, sometimes you might feel like a lot of the advice is generic where you want something specific. That's where we're going to go here and that's what AI is
+
+---
+
+[4:03](https://youtube.com/watch?v=DIbNwklNA8M&t=243s)
+
+really paving the gap for. So the creator economy is expected to be like a $480 billion market. It is absolutely huge. Now some of the things we're going to look at here, one of the ones was Sam Cart. Now Sam Cart was developed and it got really big as a software as a service. It has a valuation of $410 million, which based on their annual revenue, it seems like that's kind of high, but at any rate, they had a lot of funding. Now, for you and me, we don't have $100 million of funding to go build whatever we want and hope it works. We have to bootstrap it. And that's what this video is about is how to bootstrap. Start small, build something easy, get some revenue coming in, and then grow and diversify. And I'm going to show you exact reasons and methods and examples of how this is working. Now going through here, we could see that Beacons AI is a big one with 3.8 million. Sam Cart 18 million a year. Gumroad, which is very similar where people are linking to that and selling things. Stand, Linkree, Kajjabi, and all of these. There's lots of different places that
+
+---
+
+[5:04](https://youtube.com/watch?v=DIbNwklNA8M&t=304s)
+
+are doing this stuff. And again, none of them are specific. They're all super broad. So, if I do this specific and say, "Hey, this is for this group of people or maybe for these people that are blogging about birds or whatever it is, if I can have that specific thing, it's going to work really well." And I'm going to show you that in just a minute. Now, looking at this, you can see that a lot of these charge fees. A lot of them are like $9 to $50 a month. Some of the bigger shopping carts ones are like a couple hundred dollars a month or more. And most people don't use all of the stuff. Case in point, I use a software called Infusionoft here in my business and it's rather expensive. I mean, before I cleaned up my list, it was like $3,500 a month just for that software. And that software can do all kinds of different crazy things. But the small fraction of things that I actually use the software for, it doesn't justify the big software. So, if they had a smaller version that was just for me, that would probably be a lot better and they'd probably make a lot of money in that
+
+---
+
+[6:05](https://youtube.com/watch?v=DIbNwklNA8M&t=365s)
+
+segment. Now, what we're going to do is we're going to look at actual things. Yes, I have done this. Yes, I have sold these. Yes, the one you're going to see is actually selling right now. And I'm going to show you how we use Claude AI to branch out and break it up. Now, looking at this here, you're seeing that it's actually pretty basic of a market. All you're going to do is say, "Hey, here's how you monetize your traffic. Use this tool." Now, we see here that uh social commerce, the bigger market, is a $1.2 trillion industry. And with AI, people are going to need to diversify. When more content comes online, there's less to go around, which means the average person that might have been getting traffic and making a lot of money is now making less. Which if we could solve that for them, boom, there you go. And as I've said for many years, including three years ago now, my first video about chat GBT I ever put out was about this topic. And ladies and gentlemen, we are here. It is now. So looking at this, we can see that also the WordPress plug-in market is a 1.3 billion as of 2023, expected to reach
+
+---
+
+[7:08](https://youtube.com/watch?v=DIbNwklNA8M&t=428s)
+
+2.38 billion in 2025. It's a huge market, lots of stuff. You have a lot of different plugins and things like that. So what we know is WordPress powers a lot of the market. We know a lot of people are struggling and don't know what to do with their content. We also know that AI made it easier for us to create tools that are AI enabled. And if we put those together with Claudeai, Gemini, and WordPress, boom, we got a match made in heaven. So, let me show you what I've been working on here. This is the plugin that I created where it literally goes through and has all the different things on it that u will help you with your blog, right? It'll go through, it'll have setup stuff. It'll show you how to make logos, backgrounds, and all that. In addition to that, it also goes through and puts stuff on the sidebar of your post. So over here you could see all the sidebar stuff which is really cool, pretty simple, pretty easy. It goes through and makes stuff based on what you want. So the idea here is actually very simple. What we're going to do is we're going to go out there and
+
+---
+
+[8:09](https://youtube.com/watch?v=DIbNwklNA8M&t=489s)
+
+we are going to build something that a group of people wants. Maybe you have a bunch of magicians and they are showing their magic tricks on different social media. they're getting a bunch of traffic and they're sending them to like an affiliate link or a link tree or a Facebook or whatever. Okay, what if instead we were like, "Okay, now I have this plugin for magicians which will go through and it'll make notes on your content. It'll put images up. It'll make posts. It'll go through and create emails and different things like that. So now you have these people that are already making content. like I was just looking for a backyard office and the guy who builds them has a huge social media following. I'm like, "Hey, that's pretty cool." He can diversify and actually start capitalizing on a bunch of rankings and all kinds of things. So, having a tool here that is going to go on their WordPress and have little boxes that help them with what they're doing. This is key. Now, I actually went through I made this one for my blogging
+
+---
+
+[9:09](https://youtube.com/watch?v=DIbNwklNA8M&t=549s)
+
+service. And when I went through, I was like, "Okay, what if I can then translate this to other businesses?" Case in point, I tested out a version here for video makers. So, there's people making videos and maybe they want to take their video and make an outline or maybe they want to make a a Pinterest post or something like that. They want to diversify their content and or learn about writing scripts and hooks and SEO and all of this stuff. So, what we did is I went through and took the same plugin and just ran it through a different list. Think about this like dentist, okay? Post success story, do a press release, email your clients this or whatever it is that on a day-to-day basis will actually help them. Very simple, very straightforward. Again, it takes some work to build, but then once we have it, we now have a actual startup business that we can use. And not only that, but what's going to happen is naturally a lot of people are not going to want to do what we're teaching them
+
+---
+
+[10:10](https://youtube.com/watch?v=DIbNwklNA8M&t=610s)
+
+to do. They're not going to want to go out there and do this on a day-to-day basis. So, what I could do is funnel them to a service which would manage their social media and content for them. And now I'm getting into even more money. I was just reading a report of someone who um a young person who's like making a ton of money. She's like in her 20s making hundreds of thousands of dollars a month. Now again, that's not typical, implied, or guaranteed. That's the tip of the iceberg, but that shows that this business has money in it. And for those willing to go out and do the work and build and grow, this can work really well. And these plugins and tools are a great way to build a startup and then backend them into other things. I mean, you could just do this and give them the plug-in free if they get a domain and web hosting through you or something like that and boost it as an affiliate type thing. Now, when we go through here, it was actually very, very simple because we're using the same template. So, the template I used on my blog one is the same we're using over here where we go through and we're like, okay, now I have this and it's going
+
+---
+
+[11:10](https://youtube.com/watch?v=DIbNwklNA8M&t=670s)
+
+through and you know, you have the different tools and things like that. Now, the way this works is it's all based on URLs. So, the URL that they are on from their blog. So, like right here, they are on their homepage. So all of these down here, you're going to see it passes the URL of their blog to the tool so that it'll help them with their stuff. Same thing over here. If you were to go to posts and do edit, you're going to see over here it's got a conversion audit and this one will lead to uh slashtools and then the link. Okay? And again, it's passing that URL so that the AI knows, hey, I came from this post. Look at this post. See what it's about. Same kind of thing down here. Now, what I did, and I want to show you how cool this was. I actually went through to Claude AI. I pasted in the plugin that I used for generic blogs and I all I said was, "Let's rebrand this for video hacks and make all the buttons for video content and steps for making a site around video traffic, video content
+
+---
+
+[12:11](https://youtube.com/watch?v=DIbNwklNA8M&t=731s)
+
+building, all this stuff." Okay. So, I I didn't really do any of the thinking. All it did was go through look at what I had set up. So, the one that took me, I'm gonna say like three weeks of a lot of work to build, now I can split that up using Claude AI and boom, there we go. And then all I need to do is build the individual tools where it'll work in a cool way. But what it did is it actually did the thinking of creating video, video to article, uh, SEO, all of this stuff that is helpful for video creators. Okay, same kind of thing. If I went through and I said, "Now let's make it for something else." Then boom, it would be for something else, right? Or a different business or maybe just like make it for like link and bio type stuff, right? If I went out there and I took this, let's let's open a new one. We'll do a new claude. We'll get the code from the plugin. And I want to show you the plug-in code because what it looks like is this. When you go into your WordPress, I think I have it over here.
+
+---
+
+[13:12](https://youtube.com/watch?v=DIbNwklNA8M&t=792s)
+
+When you go into your WordPress, you're going to have several different types of files. And I think I have it. Let's see. So, right over here, what we're going to do is we're going to go into our file manager for the site that I have the main one on. So, you can see what they look like. So, we'll just go file manager. We're going to locate the site, which this one's on the root. So, we're going to go right here. And then I'm just going to go into WP content plugins. And the plugin I have is, I believe it was called themes, AI themes. And then what you have here is all of these files, right? Like this. I'm just going to remove that because that's the zipped version. But all these files are what makes the plug-in work. Now all of the Java, the CSS, and all of that is packed in one thing where now I can just take this version. Okay, so we'll do edit. I could take this one here and go through and I could just go to a new claude and I could say let's make this for and a link in bio type service but
+
+---
+
+[14:14](https://youtube.com/watch?v=DIbNwklNA8M&t=854s)
+
+on their own blog maybe have links to email generators lead page tools ect and then what it'll do is it'll make that and I could just call it I don't know let's call it um affiliate dude links or something like that. Okay. And then it'll it'll brand it for this. So watch how easy it is. It's actually going to come up with that path. Now when I say easy, this part's easy. Building of the tool actually takes a lot more work. I'm going to show you how that works. Again, don't think of this as like, you know, overnight success. This is something that takes a lot of work. So going through here, it's going to start building out the plugin much like it did over here for the video one. Now once it builds out the plugin, then what we need to do is actually make the tools. You can see the plug-in setup page. This is the same on everything only it changed it all for video, which
+
+---
+
+[15:16](https://youtube.com/watch?v=DIbNwklNA8M&t=916s)
+
+is pretty cool. Video strategy, different things like that. Now what you're going to notice is it's going to have links. See, like this will not work because you need to have your link in there. Actually, we need to fill out all this stuff, right? Like that. Okay. So now what we're going to do is we're going to say I can actually go over here and say now list all links that go to videohacks.com and include the variables like a demo. Let's use demo site. We'll just use economics explainer because that's the one we're on here. And then what it'll do is it'll actually give me all of the links. It should give me all the links so that I could start building these out. And this is where I'm going to start using Google Gemini. We're going to use Gemini with Canvas. And we're just going to build these out in a super simple way using the API
+
+---
+
+[16:16](https://youtube.com/watch?v=DIbNwklNA8M&t=976s)
+
+codes that they give us to tap into the AI stuff. So now we'll go right like this. We can see, okay, this is looking pretty cool. Header logo, footer signup, uh, dash logo. So this is all the logo stuff. setup video URL. So, there's the start here where I'd put my video. Okay, you could just embed a video or whatever it is. Very simple. And then we're going to go through and we're going to look at the other stuff. Theme download. So, we'd need to have the theme there. Um the login. So, this is where they're going to go and log in into my website once they pay and become a member. Then, we have the dashboard widgets. Now, this is super important. Again, these these are not working yet. So, what I'm going to do is I'm going to make these work and I'm going to create each one. So, all I need to do is say I have a video WordPress I have a WordPress plugin based on video marketers that helps them. Let's use the
+
+---
+
+[17:17](https://youtube.com/watch?v=DIbNwklNA8M&t=1037s)
+
+Gemini API to make a tool that takes the variable like this, put that in there, and helps them make a video script based on the content of the page variable. Okay. So, what it's going to do is it's going to get that page. So, let's say they're on this post. So, they're over here and they're looking up like unemployment or whatever. So, what I would do is I would get this link to video writer and then I would say, okay, here's the URL. Okay, so let's get that URL and title right in here. Okay. Um, and again, this is going to take a lot of um let's see. So, video dashcreator video dash creator. Let's put this in here. There we go.
+
+---
+
+[18:19](https://youtube.com/watch?v=DIbNwklNA8M&t=1099s)
+
+Domain equals. Okay. Now, what it's going to do is it's going to take the variables. So, economics explainer, unemployment rate, and then the title. So, it'll take that title, make a video. It's going to use the API. Watch how cool this is. Then, all I got to do is take my my logo. So, we'll just open image in a new tab, right? Like this. And I could say, now brand it with my logo. Now, brand with my logo. and white background. And I'll show you how this works. And then basically, you're just replicating it on everything. And you can make different plugins for different things. Then when you're done, you just zip up the plugin. You can sell it. And we're actually going to lock the places on the site. So videohacks.comtools would be the locked part. Okay, pretty cool. So they would actually have to log in to use it. And I think the plugin even said that. So, like if they go to uh video hacks over here, yeah, make sure you're logged into video hacks. Boom. They would just log in there. And
+
+---
+
+[19:20](https://youtube.com/watch?v=DIbNwklNA8M&t=1160s)
+
+we could use a membership site software or something to to lock that up. So, very simple, very easy. We're going to build these for very, very specific types of people. Okay. So, we're going to go through and we're going to look at this. Okay. Where did we go? So, video creator and let's see what the tool looks like. Should give us a preview. It doesn't look like it's giving us a preview now. Brand it and make it a standalone, not a plugin. So, it misunderstood me that I want a plugin. Standalone PHP. So, it does take some work. Like I said, this is a real business. We're building something of value that a market would want based on things they're already buying, based on stuff that I want to uh get into and things that I can market. So, that's really really important to understand here. So, let's go here and we're going to do
+
+---
+
+[20:23](https://youtube.com/watch?v=DIbNwklNA8M&t=1223s)
+
+right like this. And then this should give you a preview if it made it not a plugin, which I think it's doing here. And then what'll happen is we'll just use our Gemini API key and we'll use that. Let's see if I can find the key here. And I should be able Let's see. Gemini. There we go. Okay. So, we should have this here. And it should pop up a little preview button, I would think. Let's see if it's a WordPress plugin. Doesn't look like it. Gemini script generator's got the version function detail. So what we're going to do is I'm going to go ahead and put my API in here. So I just do control F API and then it should ask for my API. Let's see where it puts that. Calls the Gemini API from content. Okay, let's ask where do I put my API?
+
+---
+
+[21:28](https://youtube.com/watch?v=DIbNwklNA8M&t=1288s)
+
+And then we should be able to just copy and paste it right in there. And then what we'll do is we'll just build out all of these. Now again it is going to take a while. So based on the code you you don't need to script is designed to web page with a form make it so it's in the code not user input. I mean, you could make it user input if you wanted to have the user use their own, but I mean, I'm not going to do that. That kind of diminishes the value of the tool. Um, and it's not super expensive to have a tool unless you have like the entire world using it. Like over the last couple days, I think yesterday we spent not much, like a buck 60 or something. And I have quite a few people using mine. So, now we're going to go through and look at this. And it should say where to put that. There it is. So, Gemini API here. So, what we'll do is we'll put that API right in there. So, here we go. Copy.
+
+---
+
+[22:30](https://youtube.com/watch?v=DIbNwklNA8M&t=1350s)
+
+And then all I need to do is make sure the pages line up exactly. So, I would just go over here. This is the video hacks. I would go new tools, create new or let's create new folder, folder, tools. So, that's going to match the tools there. And then I need to make sure that that one is video-creator.php exactly like it says there. So we do file video-creator.php creator. So you got to got to get your spelling right, which for me is not a strong suit. We'll go ahead and edit this like this. Boom. Put that in there. Make sure our API is in there so that it'll work. Okay. So, I'll put that right here. Boom. Save. Now, that part should work. I should be able to go here, click on create video content, and let's see.
+
+---
+
+[23:31](https://youtube.com/watch?v=DIbNwklNA8M&t=1411s)
+
+Maybe it's the one in the first part. Let's see. And it's easy if you go like a line by line in the first one. So, video creator. Was it this one or was it a different one? Let's see. Okay. Okay, we'll have to find where that was. Let's see. So, video creator, tools, video creator. So, let's see if we can find that. And we should be able to have it there. Video creator. And a lot of this is like organization stuff, which is cool. See, it actually made the link in bio one. This is the demo. So, this is what the link in bio one would look like. See how like if you understand this, let me know because these are startup ideas that work like crazy. So, dashboard widget tool. Okay, so that's on the dashboard. There we go. See, if I paid attention, it'd be even easier. So, we go to the dashboard widget tool. That would be dashboard uh video creator. Boom. So, now it should have that article URL right
+
+---
+
+[24:31](https://youtube.com/watch?v=DIbNwklNA8M&t=1471s)
+
+there. And let's see. So, we want to make sure it prepopulates this. So, I just ask it have it prepopulate the URL box with the URL string. Let's see if it does that for us. And it should be pretty easy to do. It should just take it and then boom, there you go. And then what we're going to do is we're going to make the next one, which would be a thumbnail. So, if it wants to make a thumbnail, a script, whatever it is, there you go. Now, in this, I would probably go through and have it rewrite it and say pass the titles as well. Although, this is on the dashboard, so probably wouldn't make sense there. But here, you get into like content spinners and things that would probably pass the the full URL and title, which is pretty cool. And these ones like video audit. Okay, that'd be cool. Let's let's do that one next. So, here we have this one.
+
+---
+
+[25:33](https://youtube.com/watch?v=DIbNwklNA8M&t=1533s)
+
+And then we should have video audit there. Okay. So there we go. There. Copy. Paste it over here. Make sure our API is in there. It should be right over here. Put that in there. Save. And that should do the trick. Let's see if that page pulls up. So, we got video creator. Boom. Might need to be reloaded. For whatever reason, it's not showing that in there. Let's see if it actually works, though. Please enter URL. Okay. So, there it is working. We just need to get it to pass that variable. Um, let's see. Cannot do this. API returned unexpected. Let's see. Okay, so it's making it with Gemini Pro. So, let's do don't use Gemini Pro and prepop the box
+
+---
+
+[26:40](https://youtube.com/watch?v=DIbNwklNA8M&t=1600s)
+
+with the variable from URL, which is what was it? URL equals, I think it is. And this is where you get into like it's going to take work. You just have to really focus and get in there and be like, do I want to make this? And make sure what you're making is based on like really good stuff, right? You want to make sure that there's a market for it. So the URL would be let's get this here, video creator, and it has the economics explainer in there. So right like that. Okay. So now we're going to do that there. And we'll give this here. Boom. should fix it hopefully. And Gemini Pro, sometimes the AI uses the old version. We want to use the new version. So, let's see here. That's something I I learned yesterday. Make sure it does not use the Pro API because I think that's discontinued. Okay. So, now let's see. Once it's done
+
+---
+
+[27:41](https://youtube.com/watch?v=DIbNwklNA8M&t=1661s)
+
+spinning, you'll see how it works. And we can even open a new Gemini here and say canvas don't use Gemini Pro API just normal and normal API and make a tool that evaluates a video let's see based on on the URL provided as if it was the video idea. Something like that. We wanted to go in and actually like get that post. Say, what is a post about the AI will talk to it and then boom, there we go. So now we're going to do this. This should work. And then once you get a working one, you're just going to keep duplicating it. I'll show you how this works because if you can just keep duplicating it then it's just like copy paste save copy paste save build new page. Boom. There we go.
+
+---
+
+[28:43](https://youtube.com/watch?v=DIbNwklNA8M&t=1723s)
+
+So let's see. It should if we reload this. So let's see if we reload this here. It should put that in the box. There it goes. Generate script. It should use the proper API. And we wait. Have some coffee while we wait. And let's see. And once we have this, it there we go. Now it is working. Here's a script based on that post. See how this works. So like someone could literally take a a blog and turn their content into videos which would be really cool. Now what we can do is we can go through copy our API and now we have this Gemini which is a working model which is based on this tool we made in claude AI. Now we just replicate right so now I would go through and be like okay next we have video audit. Now same everything make a video audit. Now,
+
+---
+
+[29:45](https://youtube.com/watch?v=DIbNwklNA8M&t=1785s)
+
+what I would do also is when done, I would have it use a proxy so that our API is not shown to everyone. Very important. And AI will do that. You just say make this based on a proxy file. Upload the proxy file with your code in it. Boom. You're ready. Now, we're going to do this um audit using this uh variables. Okay. Okay. And it'll understand what kind of video audit it would be, right? Like, oh, check this out. See what kind of video it would create. And then what we're going to do is we just go through and start filling all these in. Now, again, it is going to take time. Like there's a grand total of 38 links. So, when I went through and made mine, yes, it took a long time to build it. Took me like 3 weeks. And I I know how to do this, so might take longer for other people, and you might want to get a programmer or something. But what we're doing is we're building a startup based on multiple startup ideas that can work in multiple niches and build tons of
+
+---
+
+[30:45](https://youtube.com/watch?v=DIbNwklNA8M&t=1845s)
+
+businesses out of it. And there's really not that much. I mean, all I really need is web hosting at this point because now I can build that. Maybe a a membership type software, which you could probably build with AI, not recommended. Or you can get something like Aweber or a member, uh, which is like a couple hundred bucks or something one time. So now let's go ahead and do this one. And this is video- audit. So again, now we're just new file. Video dash audit.php. There we go. And boom. Video audit. Edit. Edit. Save. Make sure your API is in there. Again, I'm blurring it out because you never want to share your API. Use a proxy. When you're done with a proxy, it'll just have a URL there instead of an API. So now we should have the next one which is video audit. So let's check on that. I think that is over. Is this the video audit or which
+
+---
+
+[31:46](https://youtube.com/watch?v=DIbNwklNA8M&t=1906s)
+
+one's the video audit? I think it was on Let's see where it was. So video audit was sidebar tools. So you would go to a post edit and then the sidebar would audit this content for a video. Watch this. Boom. There it is. See how it passes those variables. Makes it super easy. It's seamless with WordPress. Generate audit. And now it's going to give you a full audit on how this content would look as a video. Now, thinking about this like maybe you could do the reverse where they have a video and they want to make it content or something like that. Super cool. And make sure they know to use their own videos. But now we have, okay, here's a comprehensive video audit based on unsecured debt. Potential video ideas. escape. Get this debt restoration. I mean, this is pretty solid. You got a bunch of titles, um, video tags. I mean, it literally does everything. And then you just go through and you're like, "Okay, cool. Here's one
+
+---
+
+[32:46](https://youtube.com/watch?v=DIbNwklNA8M&t=1966s)
+
+where you could do like SEO stuff." It'll evaluate based on SEO. And then all I would do is say, "Okay, now let's do the next one." Right? Let's say we want um SEO boost. Okay? What kind of things could we do for SEO boost? Or create shorts, right? This one would actually go through and create shorts. Now, let's make a tool that turns the post into 10 shorts ideas. Boom. Um, there we go. And this will know like the AI will know exactly what we need. And then boom, we're just going to build it and grow it. And we could build these in a super simple way. Building WordPress plugins with AI, I think, is the biggest startup idea ever because you could start small like this one here where it's like a little real-time visitor tracker. I made this in Gemini. This one's really good, like a hook generator SEO. A lot of good stuff that you can use. And what you're doing is you're just piggybacking on a folder on your site and really thinking about, okay,
+
+---
+
+[33:47](https://youtube.com/watch?v=DIbNwklNA8M&t=2027s)
+
+what would be helpful for people that might not know how to turn content into a viral hook or an idea or whatever it is. And that's really where this gets powerful is building these up. Now, shorts-creator, just keep walking it along. File, shortscreator.php. create, edit, and obviously make sure you check these and everything. It looks like it made a little error log there. Uh, but make sure you check these and everything because boom, now you're going to have this one because you want to make sure that they're secure and good and don't have any weird stuff. Obviously have a disclaimer that this is AI output and everything like that. But once you go in and you start to look at these, now we have our shorts creator, right? So, we would do let's go to the same post. Shorts creator should now work. Create shorts. Boom. There it goes. Parse URL. Generate ideas. What the AI is doing is it's actually reading this post to get the ideas. Right. Look
+
+---
+
+[34:49](https://youtube.com/watch?v=DIbNwklNA8M&t=2089s)
+
+at this. It's fantastic. This is something that would be super helpful. And the fact that it's on their blog in a specific niche. Boom. There we go. That's the startup idea. And maybe you could do it as a link in bio or as a different service or whatever it is. But going out there and building these in a real world way works like crazy. If you want to learn more about this gotnitches.com, I'm gonna have a list of different startups that I'm doing with this. You can see the full video training where we're going through a lot of this other stuff as well and kind of watch. Okay, how does this work? How do we promote it? Promoting these is actually pretty simple. We're going to give away the free version and then we're going to charge when they upgrade. So, awesome stuff. Gotnitches.com. um walk through, follow through, have little things that would help them on their WordPress or whatever tool they're using. If they want to use a a link and bio type thing, they can turn the blog into it. Very simple. Keep it easy. Start small. Build something. Get some customers. Figure out what they like, what they don't like. Keep building and growing as you go. Thanks again for watching. Check out gotnitches.com for the report on the different markets this
+
+---
+
+[35:51](https://youtube.com/watch?v=DIbNwklNA8M&t=2151s)
+
+works for, and other tips and ideas on how to build this stuff up and make a business. Thanks again for watching. Smash the like button. Check out the videos in the description.

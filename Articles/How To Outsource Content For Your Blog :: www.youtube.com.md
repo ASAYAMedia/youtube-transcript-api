@@ -1,0 +1,141 @@
+---
+url: https://www.youtube.com/watch?v=dwUBnt9AjrI
+---
+
+# How To Outsource Content For Your Blog
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dwUBnt9AjrI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=dwUBnt9AjrI&t=0s)
+
+so I just got done spending $1,000 in articles for one of my websites to try to get search engine rankings now to outsource these articles was actually pretty easy it only took a little bit for the people to finish the articles and here's what the content experiment looks like we are spending a thousand dollars on content and it's an experiment now the way that it worked is very simple what I did is I spent on 34 articles that have a word count of about 2,000 words each it's 2,000 or more up to 3,000 something like that those articles cost me 28 dollars and 20 cents each and they're some of the keywords we used so I got these articles here so that I can get ranked on the search engines and get lots of free traffic now you can outsource articles a little bit cheaper there was an option to get these for $14 which would have been half price and I would have gotten double the content but I wanted them to do a good job now in a later video I'm gonna show you the difference between a 14 dollar article and a $28 article so you can understand the difference there and make your decision based on what you want to
+
+---
+
+[1:01](https://youtube.com/watch?v=dwUBnt9AjrI&t=61s)
+
+get done now before we dive in and I show you the actual articles that I got for all this money I want to take a minute to show you why I came up with the keywords and which keywords I selected and how it's gonna work out for me in the long run [Music] now about a year ago I noticed that one of the blog posts that I made without any purpose or anything I just threw it up on my blog started ranking for the word Wix affiliate program and I was like wait a minute this keyword is now bringing me traffic every single day for a very targeted keyword and I like that I thought it was really cool now I had been doing search engine marketing since 1999 when the internet was just a wee lad and I learned a lot of things but I kind of ignored it for a while on one of my main sites because it was so much easier to get paid traffic and to get free traffic from like YouTube and stuff like that so recently I started diving in and saying what would this look like and the content search engine bug hit and I kind of went crazy and so what I
+
+---
+
+[2:02](https://youtube.com/watch?v=dwUBnt9AjrI&t=122s)
+
+did is I printed out a bunch of keywords and different rankings for my competitor sites to look at what they're ranking for and look at what's easy and you'll notice that this has like the volume it's got the keyword difficulty and so it's looking at the keyword difficulty like for this one gaming affiliate programs the keyword difficulty is only a 1 so I was like ok cool I could probably rank for stuff like that with a site that I haven't done much SEO on so let's get started with that and see how it works out and so I decided hey you know what let's do a test and you could tell that I've been working way too much because my hair kind of is taken on a life of its own so let's talk about how these keywords worked and how we did all that how we did the keyword research and kind of what's going on now I noticed that with my website I have several different rankings for some terms that are pretty good but I'm not getting that much traffic so I wanted to dive in deeper and see what I could get more traffic for for example take a look at this one that I recently started ranking for just this month that is about free classified ad sites and I've ever even tried to
+
+---
+
+[3:02](https://youtube.com/watch?v=dwUBnt9AjrI&t=182s)
+
+rank for this word it just happened as a byproduct and now I'm getting traffic from that word which is pretty cool because my site hasn't had much SEO on it ever so what I decided to do is go out there spend the thousand dollars get the 34 articles and see what happens now it's very important that I focus on the right keywords which we're going to show you in just a second and we focus on the sweet spot so we want sweet spot keywords that we know we can get this is especially important if you have a new website a lot of people are out there going for the wrong keyword and that's why they fail if you go for the right keywords that have the right amount of traffic that are focused on things that you know people will want to check out more of your site for then you're golden and these words are not that hard to rank for at all so we've got to have the sweet spot and we got to have one that's like less than ten on the keyword difficulty scale now you can find this keyword difficulty scale in several key word tools some are free some are paid and I have a list of those keyword tools over at keyword sniffer com you can get those tools you can use
+
+---
+
+[4:04](https://youtube.com/watch?v=dwUBnt9AjrI&t=244s)
+
+them and find the competition for any keyword you want so I set out and I dove into 34 different keywords that I really wanted to rank for that I thought weren't too competitive that I could get traffic on now in order to make this happen I was listening to a lot of the people out there that are talking about SEO and things like that and again remember I've done SEO for a long time I'm not a super expert but I've gotten several hundred million visitors for free from the search engines and I noticed that a lot of people were saying and I've learned too that 1500 words or more is a good size for an article now you can't just put junk articles up there and you can't just focus on any keyword so you got to have easy to rank keywords this could put you in the sweet spot next you have to have good relevant content some of the Articles that we had written we had to send back and I had to say you know what redo this article or you're not gonna get paid in nicer terms right so I've got to have good relevant content it can't just be about some kind of junk next the word has to have lots of
+
+---
+
+[5:04](https://youtube.com/watch?v=dwUBnt9AjrI&t=304s)
+
+subcategory words so for example the free ad website free classified keyword I was going for there's lots of subcategory words there's different variations of the word there's different things added on to the word for example if we look at some of the keywords that I went for here I have a little snapshot of six of the articles I got some of them were still waiting on one of them was the Amazon affiliate program now this has lots of subcategory words Amazon affiliate program Amazon associate program how to sign up for the Amazon affiliate program how much does the Amazon affiliate program pay and on and on we go with tons and tons and tons of keywords that we could write for with just one article if we do it right I also went for the next key word which was Shopify affiliate program notice that one of my articles had the word Shopify affiliate program from way back when that we didn't even try to rank for and it rate like number 94 it I was like hey if I write number 90 not even trying I should be able to get a top 10 if I actually try right you would think and this test is going
+
+---
+
+[6:05](https://youtube.com/watch?v=dwUBnt9AjrI&t=365s)
+
+to show it and by the way if you like this content experiment and you want to see what happens over the next few months make sure you subscribe and click the bell and we're gonna walk you through everything nothing held back show you exactly what happens when it happens so that you can duplicate this and make some money for yourself the next one I went for was Bluehost affiliate program I noticed a lot of people were searching for these again you got to look at the amount of searches that are out there to make sure it's gonna make sense now I like to do this using several different tools that will show you who's ranking number one and how much traffic they think they're getting which is pretty cool because then you can use that to figure out where you're gonna be so you don't do all this work and spend all this money on articles that get you a visitor every 7 months we don't want to do that so Bluehost affiliate program was a good one with over 400 searches a month on the main term and lots of subcategory terms as well and it's one that I've used and I think it's pretty good so we could use that as well next I'm going all-in on the free classified ad site since I ranked number 2 without even trying I figure if I go for a lot of the
+
+---
+
+[7:06](https://youtube.com/watch?v=dwUBnt9AjrI&t=426s)
+
+subcategory words we're gonna do pretty good as well especially when you look at the fact that free classified ads has about 4900 searches a month free classified personals 2900 and post free classified ads in USA a thousand so there's lots of subcategory words here that we can choose from including stuff like free ad forum which is the one that I currently ranked for free ad forum all like that which gets 250 searches a month and I'm showing that I'm getting an average of about thirty-eight visitors a month as it is right now without even trying so I think we could do a lot better on that one as well next up I went for high ticket affiliate programs because I noticed this one has quite a bit of searches as well so we got some articles written about that and lastly the one I'm going to show you today is pay per lead affiliate programs so these are the main keywords and I know if I can rank for these and some subcategory words as well as for the other 34 articles we're going to go through and I could get some traffic so let's dive in let's see what I got for my thousand bucks okay so now here's the article website that we use that you can
+
+---
+
+[8:07](https://youtube.com/watch?v=dwUBnt9AjrI&t=487s)
+
+find it get website content calm over there you can get all these articles written and these are the prices on the site okay so we are looking at beginner general skilled expert I usually use skilled which is why you could see my two thousand and three thousand word article was twenty eight twenty now you can also use beginner level we're going to be testing this out and show you the difference between beginner and skilled and expert so we'll try them all out on the same article and we'll make another video where you guys could see the difference and decide for yourself which is best now no matter which one you get you're also going to need to remember that you're gonna have to do some revising okay so this is what it looks like these are the prices you would just go in here and put your project description your keywords and the instructions for your article so project description would be your keyword then you put your keywords in here I usually just put one main keyword your sweet spot keyword and then put some instructions so if I'm going for something like Wix affiliate program I would put Wix affiliate program up here Wix Affiliate a program down here I'd choose skilled writers cuz that's the
+
+---
+
+[9:08](https://youtube.com/watch?v=dwUBnt9AjrI&t=548s)
+
+one I like I'd choose one day cuz I want him to do it in one day and then I would go through and I'd put a description of what I want please write a report talking about the Wix affiliate program what they pay how to promote them and how people can make money with the Wix affiliate program and then I give them some links to help them out of other websites that I found that I like that rank for that keyword very important because they're gonna use those links and they'll be able to see what you're after instead of just writing a bunch of junk now once you submit your job a writer will pick it up usually within an hour or so he'll pick it up and start on the job and then once he's done the job it'll actually go into your projects and then there'll be like a little time thing here and that's the time that you have and that's the time that they have left to create the article very simple once the article is done it'll go into your download area and you can actually go in and see the details and download the article very simple so what I've done is I went ahead me did all this for us and I have about a thousand dollars worth of these articles that I've
+
+---
+
+[10:08](https://youtube.com/watch?v=dwUBnt9AjrI&t=608s)
+
+started on we have seven of them in here there's about thirty or two seven left or something like that that we're gonna go through as well so you could see the articles here and what I'm gonna do is I'm going to show you how they work right so here's one I did for paper lead affiliate program this one's very easy it talks about paper lead talks about how they can get paid so they did a really really good job now if a writer comes back and does not do a good job you can click request to revision and tell them what you want them to change it'll give them another 24 hours or so to make it up to par and then again you have another chance to approve it or not now don't get too crazy with it like obviously you're gonna have to do some editing so as long as he's got the bulk of it in there I think we're gonna do okay okay in these ones I have approved they're doing pretty good he's got some different programs on there we can use different stuff like that we also have the Amazon affiliate program one which is the one I'm gonna be working with today okay so this one's here pretty decent pretty good article there we have the Costco
+
+---
+
+[11:09](https://youtube.com/watch?v=dwUBnt9AjrI&t=669s)
+
+one now the Costco one I had to have him rewrite it because the original it was all about Costco as a company which I don't want that I want Costco affiliate marketing then we have an article for Fiverr affiliate program which is another keyword I'm going through he did a very good job on this one talking about Fiverr how to get paid where to sign up different things like that and then of course we have the free classified ads one where he talks about the free classified ad sites any lists the various sites which is good because we want to get ranked on those as well okay and we'll show you also like I would go in and I would put variations of free forum and then I put like the free ad forum com since those are keywords that I want as well okay so very simple very easy we also have high ticket affiliate programs where he went through and did various high ticket programs and you guys could see there's some formatting you need to do on here you know check for little errors and things like that but it's a hell of a lot easier than having to come up with this content on your own right so very
+
+---
+
+[12:11](https://youtube.com/watch?v=dwUBnt9AjrI&t=731s)
+
+very simple okay so that's basically what we're looking at for that one and then our last one was for the Shopify affiliate program he did a good job on that one as well now what we're gonna want to do is we're gonna want to take this content and put it on our blog now we don't want to put all 35 articles like right away on the blog right cuz that's gonna be too much content we want to drip them out maybe one per day over the next month and see how they start to rank see how they start to do so when I do this I'm gonna go into my blog dashboard here like this and then I'm going to take the article I want okay so I got Amazon affiliate program I'm going to open that up and just kind of slide it over here in the other screen for now that way we're working on this now what I did beforehand is I used one of the keyword tools that we're talking about over on keyword sniffer comm I ran a report for the top people that are ranking for the words that I want that are related to the Amazon affiliate program okay so we got them here we got
+
+---
+
+[13:11](https://youtube.com/watch?v=dwUBnt9AjrI&t=791s)
+
+them here and we got them here now one of the ones that I found which is a sweet spot keyword for me was Amazon affiliate program review right if I can get a good ranking on this I can bag some good traffic you can see that this guy's getting like a hundred and eighty five searches a month just from this one now again remember all these rankings and and more there's four pages of them are just one blog post okay so pretty easy like I can get all this traffic from one blog post now we're gonna try to go for some of the bigger words also but we want to focus on the sweet spot keyword so we're gonna get that sweet spot keyword here and we're gonna go to our blog post and we're gonna go post add new okay now I don't mess with SEO plugins or anything too much they kind of slow down my site and I haven't seen that great of a response from them you could try them out if you want but we're not going to in this example okay so we're gonna go through we're gonna start with our main keyword Amazon affiliate program review I'm just gonna capitalize
+
+---
+
+[14:14](https://youtube.com/watch?v=dwUBnt9AjrI&t=854s)
+
+those okay and then I'm gonna put something else like maybe Amazon Associates Amazon Associates what did we have a program how to get started okay so we got Amazon affiliates program is to review Amazon Associates how to get started the next thing we're gonna do now I found a really good keyword in the when I was shooting the video earlier which was Amazon affiliate disclosure so I'm just gonna type that here Amazon affiliate disclosure and I can put disclaimer to okay that way I remember that that's a keyword that I want so I'm going to put that in here okay so now what I'm gonna do is I'm gonna go get my article here I'm gonna get the article body and copy everything from the article body alright like this I think this one was about 2200 words
+
+---
+
+[15:14](https://youtube.com/watch?v=dwUBnt9AjrI&t=914s)
+
+and I'm going to put that in the blog post now I could go through and I could do like all kinds of cool things like I can bold this I could go through and add things in there I can do like if I want this to show up on the top I could do something like note be sure when working with the Amazon affiliate program okay and we're gonna have like a little little like checkbox kind of thing over here so note be sure when working with the Amazon affiliate program first off we'll say have a Amazon affiliate disclosure disclaimer put some other tips here like never cloak your links always use raw links and I'll put another tip like always use a direct to
+
+---
+
+[16:18](https://youtube.com/watch?v=dwUBnt9AjrI&t=978s)
+
+product product link can't spell today okay and it'll put that in there and then we'll go ahead and and just kind of clear this up according to Business Insider Amazon valuation blah blah blah okay good good good looks pretty good getting started with Amazon's affiliate program will bold this there you go you need to sign up okay so we could just we can make this easier for them we'll just do amazon.com I'll just scroll down and get their affiliate signup page let's see where that's at work with Amazon it is okay we'll have to google it they don't want to make it easy for us Amazon affiliate program sign up okay so we'll just get the Amazon affiliate program sign up here and then we'll put this now if this is an affiliate link I would definitely want to use that but they don't they don't offer that on Amazon so we'll just have to put this here okay so we'll do Amazon affiliate
+
+---
+
+[17:21](https://youtube.com/watch?v=dwUBnt9AjrI&t=1041s)
+
+link sign up okay boom there we go and always when you do links that are off of your site make sure up let's see I always make sure that you open them in a new window by clicking this tab here okay very simple now you can also go through and put images in if you got screenshots or whatever that fit you could do that as well so we're gonna go ahead and just kind of finish formatting how do I get started with the Amazon affiliate program okay we'll do that like a big one what is the Amazon affiliate program we'll do that big as well and we can make these red if we want or whatever color you like okay becoming an Amazon affiliate create a blog or website okay so we can make these headlines big Boop make this one big dude alright like that like this okay looks good it's got all the contact info stuff here and I will do to negotiate to navigate your account
+
+---
+
+[18:22](https://youtube.com/watch?v=dwUBnt9AjrI&t=1102s)
+
+will do this bold okay and then you can put in like screenshots and things like that good good good okay then we could do like pros and cons of the affiliate program cons okay and then we'll go through how to promote your links blogging social media boom like that and then now we have our page pretty much set up right now once we have it set up we got all our keywords we got everything set up here we can go ahead and and save a copy okay so we'll save it here by clicking publish okay and then once that's published it'll go live on our blog and it will have a link here and we could see what it looks like now I'm gonna go through afterwards and I put some links in to like get people to buy stuff because obviously the key here is getting them to buy things so I would put some links in there some affiliate
+
+---
+
+[19:23](https://youtube.com/watch?v=dwUBnt9AjrI&t=1163s)
+
+offers use some of the plugins that I have I have a plug-in that creates ads it'll create ads like this within the content so like if I want to put ads within the content I can just go in the content wherever I want those ads and I would just put like this little code down here alright like this we do ads I could do like I think it's called in content and then we could choose however many ads we want and then I could just put this wherever I want within the content okay so like if I want them right up front I could just put that right in there and I think it might have to be in text okay there we go I'll just put it right in there and text update and then what that's gonna do is it'll put the ads in there right you gotta have the ads in there because the whole point isn't just to get search engine rankings it's to make money so you can see how it puts the ads in there very simple very easy and it looks like part of the content which is pretty cool and you can put them as many times as you want and then once this is done you're
+
+---
+
+[20:23](https://youtube.com/watch?v=dwUBnt9AjrI&t=1223s)
+
+ready to go we're just going to wait for the search engines to pick this up which usually takes a couple of days or so if you have a blog that the search engines know about it doesn't take too long for them to pick it up and then we'll see how it ranks which is pretty cool and if you keep doing this over and over you'll start to rank for your terms and you'll start to get a lot of traffic I was just reading an example of someone that I was looking to interview on my site and this guy started back in 2019 he did guest blogging he did post like this and he's got like a ton of traffic for words that I never even thought I could go for so this challenge is kind of to challenge myself get some really good rankings and show you guys the process and step of the way so if you like this kind of stuff make sure you subscribe and click the Bell we're gonna be doing all kinds of videos about how this goes we're gonna show you how we post the other articles we're gonna show you when they get ranked what we do with the rankings how much traffic they get and everything like that so you can kind of see like a bird's eye view of how this business works and how content marketing works we're gonna do this with a thousand dollars to start see how much
+
+---
+
+[21:25](https://youtube.com/watch?v=dwUBnt9AjrI&t=1285s)
+
+traffic we get and then we'll come back and do some more if it does really well because you know hey that's pretty cool I could make that back and like one sale which is cool now depending on what you're offering you might need a little bit more than one sell but you get the idea so thanks again for watching subscribe and click the bell and go over to keyword sniffer com for the keyword report so that you can do these reports on all kinds of different blogs and sites to see what you can rank for and find those sweet spot keywords thanks again for watching I'm Marcus check out the next video that's going to talk about all the SEO tricks you need to know coming up

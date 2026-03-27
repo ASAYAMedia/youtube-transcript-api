@@ -1,0 +1,185 @@
+# Notebook LM V.S. Expensive Keyword Tools!
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hStxoRZvFVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=hStxoRZvFVw&t=0s)
+
+I just accidentally turned notebook LM into a keyword tool that'll mine the gold in any niche. This can actually do things that tools that are super expensive like AHFs, Semrush, Keyword Finder, and even the Google Adwords Planner can't do. This is super important because what we're going to do is look at our keywords and our niche in a different way. This is going to allow us to make content that is profitable versus content that is just cluttering the web. So, make sure you pay close attention because instead of putting a bunch of content or articles into Notebook LM, as so many people usually do, what we're going to do is paste our keyword list into notebook LM. We can get this from competitors, our own websites, or even ask ChatGpt for a keyword list. This is going to isolate our keywords in a specific instance so that AI is only answering questions based on our niche specifically. And I got to tell you, this is an absolute gamecher. So, if you're excited, smash that like button. We'll fire up Notebook LM, get to work, and show you exactly
+
+---
+
+[1:02](https://youtube.com/watch?v=hStxoRZvFVw&t=62s)
+
+how to turn a simple keyword list into profitable content ideas. Come on, let's go to work. [Music] All right, let's dive into using Notebook LM as a keyword tool. Towards the end of this training, I'm going to go through some prompts that you can use with your keyword list once you put them in Notebook LM. And it's going to show you how to make all of this work so that you can find the profitable content in any niche and really understand your niche in a different way by visualizing the keywords, seeing what you can make content about so you're not duplicating, seeing how to use AI to make the right type of content that people want to look at. Also, find affiliate offers and pretty much the whole nine yards. This is the real deal. Now, while I've used this as a business and I've been making money with niche blogs for over 25 years, I want you to remember, yeah, I've done this. I've made millions of dollars, but the vast majority of people trying to make money online make nothing. So, this takes some work. It takes some effort. We need to look at it the right way. And we need to have the
+
+---
+
+[2:02](https://youtube.com/watch?v=hStxoRZvFVw&t=122s)
+
+grit to stick with it and make it actually work. So, we want to understand that this is a business. First of all, what I need you to understand is what a keyword list is and why it's important. When we go out there and we look at keywords, I could go to chat GPT or something like that and I can ask it for a keyword list basically on pretty much anything I want. So, if I go over here and I start a new chat and I say make a keyword list for, let's say, business ideas, it's going to go through and it's going to make a list that may or may not be good depending on what I want. This is important because some of these keywords might lead us down a rabbit trail. So, what we want to do is we want to look at keywords that people actually search for. This is where we get into using tools like ahrefs or something like that where you would go through and use a tool like ahrefs like right here where we would go through and look at this one. We're going to go ahs open a new one and we're going to go over to the keyword explorer tab. Type in our keywords right like this and you'll see
+
+---
+
+[3:03](https://youtube.com/watch?v=hStxoRZvFVw&t=183s)
+
+kind of like the back door of oh hey this is what people are searching for and this is what they want. And you're going to see that some words like drop shipping get a lot of searches but it's also super competitive. That's what that KD number is. You're also going to see like digital products. Well, that's a little less competitive, but it does have commercial intent. So, looking at this list, people might think, "Oh, wow. I got a good keyword list. ChatGpt did such a fantastic job." However, this isn't exactly what we want because we're going to make content. There's lots of other content. It's going to be super competitive. It's not going to get us what we want. So, how do we drill down from something like this list, which is super competitive, to something that we can actually use, maintain, make content about that'll rank on Google hopefully, and also get us some traction in social media or work as a press release or give us ideas for videos, infographics, and all of the different content that we use to make money online. That is where Notebook LM comes in. So, what I'm going to do is I'm going to use a keyword tool. Whether it's a free tool like I
+
+---
+
+[4:05](https://youtube.com/watch?v=hStxoRZvFVw&t=245s)
+
+think MA has some, you have some from HubSpot, lots of different tools. There's also keyword tools out there. Just Google them, find the favorite one for you. Or if you're using a paid tool like AHF, Semrush or Keyword Finder or something like that, you could do that as well. What we want is a keyword tool that's going to show us the competition. This is showing how difficult it's going to be to rank on Google for these terms. Now, when we look at this, we need to understand why this is going to be helpful, how we're going to earn from it, and where this comes into play with auction domains. Now, what makes this helpful is looking at keywords for a si certain domain name. So, if I go here and I look up this coupon site, I could see there's lots of different keywords about coupons. If I was to go look up a different site, this one is for um apartments and and and cleaning and things like that. You can see that there are a lot of different keywords here that actually get quite a few searches and they're not that competitive. So, looking at this is really good. What we're going to do, here's another one
+
+---
+
+[5:06](https://youtube.com/watch?v=hStxoRZvFVw&t=306s)
+
+for gardening, which is fantastic. What we're going to do is we're going to look at these keywords. And a lot of tools out there, there's some tools that are free that'll allow you to look up the first thousand words a site ranks for, which is plenty. Usually that'll be enough to do this example. So now what we're going to do is we are going to go through and try to find things that we can use. So for example, Pearlite versus whatever this is. If we were to go into our keyword tool and look that one up, you're going to see that the competition goes down dramatically. It's like one, which means it's easy. But what do we do with this keyword and how would it work? because obviously there's going to be the AI overviews and all of this stuff. So what we're going to do is we're going to understand our niche in a different way. So what I would do is export this keyword list. So when we get in there, we're going to export that list. That's going to be what we put into Notebook LM. For example, if I was to go through and look at some of these that that I downloaded. Let's say we're looking at the garden one here. I'm literally just going to go ahead and take this list here. Okay. if I can open it properly.
+
+---
+
+[6:10](https://youtube.com/watch?v=hStxoRZvFVw&t=370s)
+
+And then we're going to take all of these keywords and pop them into notebook LM. What this is going to do is it's going to give us an isolated example of a thousand keywords in our niche that are fairly non-competitive. I mean, we can even give Notebook LM the details on the competition and stuff like that if we want. So, pretty cool. Like, if you want to go through and say, "Oh, what's the estimated earnings per click?" It'll help you understand that, right? So, let's let's give it all of this just so you guys could see at a glance what we're looking at and how this would work. Well, so if I go here, this is for the cleaning one. We're going to go through and do a new notebook right like this. I'm going to choose copied text. I'm going to paste that in right like that. And it'll have all the all the information, the competition, everything like that. And it it does have the heading so it'll understand what this is. We're going to go ahead and insert the keyword list right like this. It'll take a minute to process and then it'll come up with like, oh, hey, this is about gardening and horiculture and stuff like that. Then we're going to go through and get the idea of what's going on. Now, if you
+
+---
+
+[7:13](https://youtube.com/watch?v=hStxoRZvFVw&t=433s)
+
+don't have access to a keyword tool, you could probably give chat GPT or a different AI, a website, and say, what are the most likely thousand keywords on this website? it'll probably do a good job if you're in that market where you know you can't really afford a keyword tool or or whatever or don't have access to one. So, if you're doing that method, you would just put it in there as well, right? You'd put it as pasted text as a new source. Now, you can have several. I can find competitive sites and put them in there, too, and then isolate and say, "Hey, only use this one." That's why this is so important and so good. So, we're going to go through and look at exactly what's going on. Once we have our keyword list pasted here, it's going to give us an overview of the niche. So, it tells us, hey, this is what the gardening site's about. It's got supplies, it's got this, that, and the other. Now, what I'm going to do, I'm going to go through and first generate a mind map. Then, I'm going to get a report, and I can get a custom report based on this niche. I can just go through and say create my own. And I
+
+---
+
+[8:13](https://youtube.com/watch?v=hStxoRZvFVw&t=493s)
+
+could say something like make a full overview of this niche and what types of keywords and content I can make. Focusing on easy competition ones and also have a section for the ones with the highest CPC. and make sure I do not duplicate on content ideas. Okay, so this will go through and it'll make a report here. Now, what's more important than that is this mind map. I love the mind map because watch what this does to your keyword report. Once we click the mind map, it's going to go through and say gardening and horiculture idea, keyword insights, plant types and identification, growing methods and supplies, gardening techniques and practices, horiculture concepts. What this is is this is what's known in the industry as content buckets. What you
+
+---
+
+[9:14](https://youtube.com/watch?v=hStxoRZvFVw&t=554s)
+
+have is different buckets that you put content in. This is like if you see a YouTuber and they're like, "Hey, Monday is motivation day and on Monday they release their motivation videos and on Tuesday it might be this or that or the other." What this is doing is it's actually isolating them and giving you the buckets and then it shows you what belongs in each bucket. So plant types, then you have flowers, and this is actually giving you the hierarchy and the structure of what a site would look like. Now, the reason this is important is because it's showing you from raw data how AI understands an authority site. Okay, this is super important. This is something a lot of people don't talk about. So going through here and looking at the types and variables, here's all the flower types and you could see the different keywords. You could also have species. Okay, you got lilies, hibiscus, and all this other stuff. Or we can do general horiculture concepts, something like gardening terminology. Now we're
+
+---
+
+[10:14](https://youtube.com/watch?v=hStxoRZvFVw&t=614s)
+
+getting into the glossery method. And what this is doing is it's helping you see things in a different way. We can even go in further and ask it questions about this. Let's say please expand on the glossery of gardening terms. It'll go through and it'll help you even more with this. What it's going to do is it's going to help you visualize where stuff goes and how things work. One, it's going to help you make content. Two, if I ever make a gardening course, well, this kind of gives me the lay of the land of how to lay it out, which is great. And a lot of people struggle when it comes to seeing their niche visually, which is why I think Notebook LM is an absolute gamecher. And it even references and tells me, hey, these are the different keywords related to this thing. Here's what they're looked up. Here's the expensive ones. Now, let's go back again. I'm getting ahead of myself. And by the way, if you like this video, type more Notebook LM videos as a comment below because I want to dive into this
+
+---
+
+[11:15](https://youtube.com/watch?v=hStxoRZvFVw&t=675s)
+
+even more. This is something I just stumbled upon like about a week or two ago. I haven't really dove into it as much as I'd like to, but I want to make more videos on it because I think this is going to change the way that we market and a lot of people don't think about this. So, we have the report being generated there and you can kind of see what they look like. Here's the shopping list one where it went through and it did curated shopping list. So, if you were in the shopping market, boom, here's the gifts and presents. There you go. Here's this, that, and the other. Gifts for uh new moms or gifts for uh you know, all kinds of things there. all kinds of crazy stuff that that people are searching for, which is fantastic. Another one I did here was for gift cards and things like that. And on this one, this one was for a coupon site. I got a bunch of coupon keywords, things like that, because I know that traffic can be relatively easy to get so long as you're making good content, right? And what I did is I went through and I found different reports. It made a video on the niche, which is crazy. >> All right, let's dive in. Today we're
+
+---
+
+[12:16](https://youtube.com/watch?v=hStxoRZvFVw&t=736s)
+
+going to tackle something that hits all of us >> which is pretty cool and we can make you know different specific videos on our keywords as well. We went through we got an audio a little quiz about deals. Okay, so a keyword list repeatedly mentions penny list in connection with a specific store. How does this refer? So it's interesting. It'll help you learn about your niche. But then when we get into the the deeper stuff like maybe the the flash cards or whatever bogo um things like that. I mean, that's a little basic, but then we could go into the study guide. This is where the magic happens because now with the study guide, it's going to help you understand all the different terms. And then boom, there you go. Which is great. Now, let's see if we came up with the gardening one, which it looks like it did. Strategic content blueprint. It is literally giving me the idea of what my strategy would be like. This document provides strategic analysis of the gardening and horiculture digital content landscape based on a comprehensive list of keywords and then it goes through and says what we would want. So first of all, plant
+
+---
+
+[13:18](https://youtube.com/watch?v=hStxoRZvFVw&t=798s)
+
+identification and varieties like that would be perfect for Pinterest or videos or faceless video content, gardening techniques and troubleshooting. This would be great for like a how-to section. And now you're seeing, wow, this is actually mapping it out for me and giving me the whole idea. And you can see here, here's the traffic, here's the position. It is giving me the entire rundown on what to do with this keyword report, which is amazing. Also, we can go through and ask it things like, what are the most expensive keywords in this market and how can I use them to make content that drives higher value? and it'll go through and it'll say, "Oh, hey, the most are, you know, the the products or the, you know, hedgers or whatever it is in this market." And going through here, we can even ask it for affiliate offers and things like that, which is fantastic. And when I get to the prompts, we're
+
+---
+
+[14:18](https://youtube.com/watch?v=hStxoRZvFVw&t=858s)
+
+going to show you in just a minute. Again, this is something you're definitely going to want to pay attention to. Now, how do we earn from this? How are we actually going to make money? Well, the way we're going to do this is by looking at what sites rank for in our niche. looking at what we rank for in our niche and then looking at domains that are available. So, a lot of you guys know if you've been following my content for a while, one of the things that I do all the time is I buy domains at auction. And buying domains at auction gives me the ability to build something that's already there. It's kind of like building a business that already exists. Taking advantage of the fact that, hey, they already have a presence online. We're just going to build it up and make it better. So, for example, one of the ones that I had over here was for this, which is all about like ceramic and and and ceiling driveways and grout and stuff like that. And so, what I did is I went through and gave Notebook LM these keywords. So, let's go ahead and export this keyword list here. You can see there's 334 with an expired or auction domain. What
+
+---
+
+[15:21](https://youtube.com/watch?v=hStxoRZvFVw&t=921s)
+
+I'm looking for is I'm looking for the peak. So, we're going to go for the peak of traffic here, which is 891 rankings in Google. That would be a good one to start with. I know that if I build up that content, I should be able to do that. That's why this one ranks today, because we built up the content and bada bang, bada boom. Now, we're still ranking today, as you can see here, which is fantastic. Now, going through, if we were to go into Notebook LM, let's open a new one here, and we would go through and I believe I found, yeah, let's go ahead and put in the one for this here. So, we have copied text. We'll get our our tile one here. Okay. And again, we can put in our we could put the whole information in there if we want, like cost per click and everything like that. So, I'll just get that whole list of 300 words, paste it in here, right? Like this. Insert. And then what'll happen is it'll start to understand it. And it'll be like, "Oh, here. Here's how to understand your niche." Which is great. And this is
+
+---
+
+[16:21](https://youtube.com/watch?v=hStxoRZvFVw&t=981s)
+
+something we do all the time. It gets lots of traffic if you do it right. And you focus on really giving that domain some good stuff, right? We want to give it good information. We want to make it so it helps people. If they're looking for tile and grout sealer, then we want to make sure we give them that good info. Now, first of all, you're going to see, yes, now I can go through and I can see what my site looks like, right? Grout types and issues, color, sealing, different things like that. Sealer removal, right? See how this is like, oh, here's the visualization. Here's the buckets of content. Here's what we're going to build. Then, going even further, if we're to close this out, go into the reports over here, I usually like to do a flashc card quiz report. Let's do maybe a a create our own and we could say give me a full content strategy for this niche and the keywords provided.
+
+---
+
+[17:22](https://youtube.com/watch?v=hStxoRZvFVw&t=1042s)
+
+Okay. So, it'll go through and it'll give me that content strategy and then I can go through and look at um the other reports and everything like that because now it's going to generate specific stuff based on my keywords. I can also go through and say what based on these keywords, what are some good affiliate offers? Right? And this will go through and we already have the data on like what can we rank for, what's competitive or not. And even if you're just getting a keyword list from ChatGpt, I would say maybe have ChatGpt give you a longtail keyword list. Watch the difference. Now make a longtail list and it'll go through and it'll be like bookkeeping services for AI accountants or whatever, right? And you'll see that while the traffic will drop, it'll give you some that you can actually rank for, which is really cool. And we can go to let's go to keyword explorer up here.
+
+---
+
+[18:22](https://youtube.com/watch?v=hStxoRZvFVw&t=1102s)
+
+and we'll see what these look like. They might be a little bit too specific. However, this one does get some traffic, but what's going to happen is if you have good keywords, it'll rank for something, right? You'll start to get something based on your content. So, when looking at this, it's very important to look at your market. Look at those auction domains. I get them at GoDaddy auctions or whatever. I'll put a video in the description about how I do the domain stuff, and you can check that out. Next, what we're going to do is we're going to use this as a content idea machine. You could literally come here and schedule it out and keep going. Like, hey, every day, give me a new article title or a new idea, not based on one that we talked about or not one super similar to what we talked about. Then, we can go through and use the prompts I'm going to give you below to turn these keyword lists into gold. Now, this, like I said, it's a work in progress. This is something I just started doing. Um, but I'm I'm super excited about the results because there's no other tool that does this. And this is kind of like a a way to use
+
+---
+
+[19:23](https://youtube.com/watch?v=hStxoRZvFVw&t=1163s)
+
+Notebook LM that not a lot of people have thought about before, if any. So, going through and looking at this, we want to really come up with some prompts that'll work. I have some that I started with that are good. We're going to be refining them. They will all be over at apiprofitscoop.com. So, you can check out those prompts for Notebook LM specifically. Now, some of these prompts we have are niche overview prompts. So this one here is using my uploaded keyword list. Group these. So this will go through and group the keywords. So let's go to our tile and grout one. You could see it did a good keyword overview of products, affiliate offers, everything like that. Now I can go through and say using my uploaded keyword list, group these and show me the growth potential. Boom. Next we're going to have these others. We'll just scooch this over here. Look at my keyword list and summarize the five biggest niches it covers. That's actually a pretty good one because sometimes we don't see the subniches or the bigger niches that ours would actually cover. So super important. Let's do that with the garden one just
+
+---
+
+[20:25](https://youtube.com/watch?v=hStxoRZvFVw&t=1225s)
+
+so we can get these going rather quickly. So now we have the strategic content blueprint phase 1 2 3 clusters. This is all on point and this is how AI understands keywords. So if you want to rank in chat GPT and stuff like that, this works well. We started doing this on some of my sites and the traffic from chat GBT has just skyrocketed. So going through here, let's see if it came up with this one. So we have topic one, grouting process and timing topic two or there's a subtopic that's actually on point because I could go through and say now write an article about this and it it'll do fantastic. So it could be a content generator as well. Uh which is great. Monetization gives me that. Topic two, I mean this is absolutely fantastic. Topic six, tools and application techniques. Um, now come up with 10 content buckets. Let's see what this comes up with. Um,
+
+---
+
+[21:26](https://youtube.com/watch?v=hStxoRZvFVw&t=1286s)
+
+hopefully it understands what I mean. Now, while we're waiting on that, we could see based on the keyword list you provided, here's a summary of the five biggest niches. plant identification and selection, discovery and planning, comparison, evergreen demand. So, it gives you an overview of the niche with keywords from our list that are included in that. So, fantastic for buckets. Uh, give us the affiliate books and apps. So, it's giving us like the whole rundown on what to do with this gardening structure and supplies. Um, there you go. Structures like the green houses and stuff like that. And on and on we go. So this is actually fantastic to help us understand our niche and understand our keyword list. So now we have key questions in this bucket. So the first one is the waiting game. How long till after you can grout? How long to wait? Nice. Okay. Next is the curing clock post grout timeline. Then we have um how to pick a grout color. Then we have color showcase problem solution. And on and on we go.
+
+---
+
+[22:28](https://youtube.com/watch?v=hStxoRZvFVw&t=1348s)
+
+So this is actually giving us buckets which is fantastic too. Let's take a look at some others. So from my keyword list create a website structure. Now this is more or less going to be like the um mind map here which is great. But let's go a step further and say um keyword list. Let's try this in a report. We'll go to report create our own and we'll just paste that prompt right in here. See if it does the job. I I think it will, which will be great. Next is like cluster my keywords, take my keyword list, and turn it into a site map. That's actually a pretty solid one. Let's try this under the garden one. We'll go into reports, custom. Oh, it even has a content strategy one. We'll try that next, too, because it's going to give you a content strategy based on the words rather than just based on content, which kind of changes the game here. This is really cool. One of the things I love the most is finding creative ways to use tools that will get
+
+---
+
+[23:30](https://youtube.com/watch?v=hStxoRZvFVw&t=1410s)
+
+you an outcome. That that's fantastic. So now going through, we got content writing, generate blog posts, blog ideas, 20 keywords, and write clickworthy blog titles. That's cool. That'll work, right? So if we did this here, pick 20 keywords and write clickworthy blog titles. Let's see what this comes up with. All right. And while we wait, let's see. Gardening's still going. This one's still going. Looks like it's starting. There it goes. Okay. So, here are 20 clickworthy ones. How long till after tilling can you grout? Title: The perfect timing. Exactly how long to wait. I like that it gives the keyword because that's going to help you not duplicate. Super important. Don't make this mistake. Here's what happens if you grout too soon. Not bad. Um, let's see. the surprising answer to what color grout is easiest to keep clean. Nice. Uh you have why is your grout turning yellow? Three common causes and how to fix it. So this
+
+---
+
+[24:30](https://youtube.com/watch?v=hStxoRZvFVw&t=1470s)
+
+is actually giving us pretty good content ideas, which is great. Let's see if the garden one's going. Looks like it's still going there. So while we're waiting on that, we have content content expansion prompts, which will help you go into more places. says, "Take each keyword cluster and suggest long- form content that outlines with H2H3 subheading." Okay, so it'll be SEO optimize. From my keyword list, pick five transactional intent. Nice. That's a good one. So, you could go through and be like, "Okay, now pick stuff that is direct to making money or find some as seen on TV products for this." That would be fantastic. I mean, you could go into this gardening and say, "Now find specific as seen on TV products for this niche." And the reason I like as seen on TV is because those tend to pay really well where like they'll buy something for $20 and I might get 30 bucks to sell it. Again, look at the look at the stats there. Um, usually that's CPA marketing, but a lot of times
+
+---
+
+[25:32](https://youtube.com/watch?v=hStxoRZvFVw&t=1532s)
+
+we can get paid more than the actual product cost because they're essentially buying a customer. So, let's go through and find those specific as seen on TV products for this niche, which would be like, you know, the magic tomato grower or, you know, whatever it is, something like that that pays really well. And it'll know based on the keywords I have what I want. Um, the this one's still going. Looks a little slow, but that's okay. It's doing its job there. I'd rather have it do a good job. All right. So, next we have uh products here. as seen on TV products. We have grow bags, vertical garden, raised garden beds, fantastic uh stackable vertible planters, no tool related uh raised beds. Fantastic good stuff there. I actually have a lot of clients who are in this market that sell this stuff and they sell really well. Um products for plant care, we have ergonomic long-handed weeding tools. We got um lightweight garden hoses. That's one that promotes really well. Edible gardening. On and on we go. So, really
+
+---
+
+[26:32](https://youtube.com/watch?v=hStxoRZvFVw&t=1592s)
+
+good stuff here. We can even say now ClickBank products and it'll say, oh, you know, the Savvy Gardener or whatever gardening products there are for that. It'll actually give that to us. Now, going through here, we have our website content structure and we can see website content structure for tile, grout, sealer, grouting preparation and timing, pillar topics. Pillar posts are very popular in SEO and making good content, grout application, product selection, and I think like spending a couple days with this with your keyword report is going to teach you more about your niches and your keywords than pretty much anything else can do because it's going to help you visualize it and see in a different way. You could even go through and generate the video overview, audio overview, and it'll talk about it. Here's a grout quiz, right? And this will absolutely help me. What's the primary risk? associated with this. And you can even turn this into like an HTML quiz put on your site. Next, we can do competition and monetization like based
+
+---
+
+[27:34](https://youtube.com/watch?v=hStxoRZvFVw&t=1654s)
+
+on my keyword uh list suggest the profitable affiliate networks. Find the ones with strong buying intent. This would be a good one to use right there. And then we can see like, okay, well, what would they want to buy? What would actually help them? Which is fantastic, right? really good stuff that we can go through and fix up for them and then build content to get ranked, which is great. Now, we can go through. Let's see if it finish that one. Let's go in there. There we go. So, we see, of course, analyzing keywords, sealers, and sealer removers. High intent. We have um conversion elements. It even tells you what to put on the post to convert, which is great. Um, high intent specialty performance grouts. We got repairer. That's good. You can get them into like bathroom what do you call them? Handymen or workers or contractors. That's the word I'm looking for. And this will help you
+
+---
+
+[28:36](https://youtube.com/watch?v=hStxoRZvFVw&t=1716s)
+
+find those expensive keywords in your niche. So, going through and looking at this, you can even find the low competition keywords. Um, again, you know, it's it's giving you more than a normal keyword report would do. And I think using this in conjunction with some kind of keyword report is going to be the best. Whether you get that as a one-time, whether you use uh free keyword tools that are out there, whether you're having chat GBT do it, you can go through and say, "Now find some non competitive ones." And this will help you direct your content. And what it'll do is it'll help you understand content in a different way where you're looking at what the market would really want and thinking about it like an actual person that would read your grout site or your garden site or whatever it is. So going through this, it's going to be a gamecher. Um, stay tuned apartcoop.com. We're going to have a list of the prompts. I'm gonna update you on some of the things that I've been using this for, how to use it to actually get really good results and turn boring old
+
+---
+
+[29:38](https://youtube.com/watch?v=hStxoRZvFVw&t=1778s)
+
+keyword lists into something that you can use and hopefully turn a profit. So, thanks for watching this training. If you liked it, type notebook LM more videos. Smash the like button. Check out the videos in the description, namely the domain one, and I'll see you in the next training.

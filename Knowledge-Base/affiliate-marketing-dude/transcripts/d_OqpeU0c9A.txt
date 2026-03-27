@@ -1,0 +1,591 @@
+[0:00](https://youtube.com/watch?v=d_OqpeU0c9A&t=0s)
+
+[Music] okay so hello and welcome today we are going to be going through week number five of the summertime coaching and today what we're going to do is we're going to pick up on the WordPress set up the plugins setting everything up and getting it ready to go so what I wanted to do real quick is give you a brief overview of the artist your theme creator program again and hopefully I could drag this over there there with me one second and the artist dear program is one where
+
+---
+
+[1:00](https://youtube.com/watch?v=d_OqpeU0c9A&t=60s)
+
+you create your theme for your website for your WordPress ok WordPress is what's known as a content management system it's going to manage your content now in order to manage it and look the way you want it you have to have a theme now artists fear is the program that we create themes in it's very easy to use which is why we use it now some people complain because it's a little dated but you know I still use frontpage 2003 so it doesn't really matter as long as it gets the job done right as long as it does what you need it to do now if you don't want to get artists here you don't want to create your own themes we have some themes for you in your members area these are really good themes that you can use you can edit the image and you know kind of do whatever you want with them but first and foremost let's go ahead and take a look at what this looks like if we were to go to one of our themes let's say we're going to use a theme like this right maybe we want to seem that looks
+
+---
+
+[2:02](https://youtube.com/watch?v=d_OqpeU0c9A&t=122s)
+
+like this okay with our slight our site title and our slogan here content here everything like this okay this would be a very very simple basic theme now the things that we use we use because they convert okay it's very important that your site converts it needs to get the visitor to what you want them to do it needs to get the click it needs to get the sale it needs to get people to interact it needs to get them to do what you want them to do okay so what I like to do is I like to focus on maybe like a little image or something that is related to what our site's about so if I was to go and take a look at what our site's about today we are working on the site business right off okay now again everything you do have to be based on the keyword has to be based on what people search for has to be based on what they're typing in right we can't mess around with this
+
+---
+
+[3:04](https://youtube.com/watch?v=d_OqpeU0c9A&t=184s)
+
+this has to be exact because this is how they're searching so many people get this wrong because they're focused on what they want to do and they're focused on what they think is a good idea instead of focusing on what the market is actually telling them okay the Google Adwords Keyword planner is telling you how to set your site up so that it converts okay the Google Keyword planner is your Holy Grail it's going to tell you everything okay so if we go for like business write offs like this what we're going to do now that we've found our actual keyword is we're going to isolate it okay we're going to isolate it by going the keyword filters or actually I think it's keyword options okay and we're going to tick this top one this is only show ideas closer closely related to my search terms okay all right so now we have business write-offs we have small business tax write-off tax write-off and on and on we go now you might look at this and say
+
+---
+
+[4:04](https://youtube.com/watch?v=d_OqpeU0c9A&t=244s)
+
+well you know one hundred to a thousand searches a month that's nothing that's chump change and you're right that is nothing that is chump change but you're also noticing that we have all these subcategory words as well ok so there's actually quite a bit of traffic here and a lot of it is low competition so we've got to keep that in mind now that's the reason that we went for our domain names which is business write offs calm very important that we use a domain that encompasses all the keywords including the subcategory words but also makes sense to everyone right so like if I was to choose a domain for like tax write-offs 2015 I'm going to alienate everyone because it's 2017 or if I went for like small business owners I'm a lien ating just the people who are looking for small business or home business or whatever okay I want everyone so we're going to go abroad and we're going to go for business write offs which is why we got this domain name ok so now what I want to do is I want to kind of make my theme stand out
+
+---
+
+[5:06](https://youtube.com/watch?v=d_OqpeU0c9A&t=306s)
+
+and I want people to really focus on what the offer is ok so what I usually do is I go to maybe something like clipart com let me see if I have it in here now here we go clipart com okay and I'm going to do something like must do broke okay if there's something for like broke or something like that now preferably I want something with a white background so maybe like this here this piggy bank thing okay let's keep looking okay and I want to use the word broke or no money or something like that because I want to focus on the idea of like hey if you don't use these tips you're going
+
+---
+
+[6:07](https://youtube.com/watch?v=d_OqpeU0c9A&t=367s)
+
+to be rope right so we could do something like tax as well let's see could use something like this here or this here let's see what we got again I'd like something preferably with white background that way it fits our theme a little better maybe like these hands here that could work okay see what else we have this could work as well okay so I'm going to take a look at these and see what looks good that's okay okay I think I'm going to go with this here save pics you're as we're just
+
+---
+
+[7:09](https://youtube.com/watch?v=d_OqpeU0c9A&t=429s)
+
+going to save this to our David here we'll call it tax or write-off or whatever okay we're going to save that and then we're going to go into our artists fear and we're going to get that image and we're going to go right off there we go cool I'm going to make this slogan a little bit smaller kind of style it up a little that
+
+---
+
+[8:27](https://youtube.com/watch?v=d_OqpeU0c9A&t=507s)
+
+okay now we have our pages across the top which is good and we're going to go ahead and do this make that a little offset should work good I think I'm going to italic it just because it's going to look a little bit better okay cool good all right so now does everyone see why that works it just draws your eye right into the content the headline here is going to be our title and we're good to go okay make sense to everyone now this is pretty much a basic theme we could fancy it up later by adding footers and lengths and stuff like that not too hard to do the artists their program super easy you can just go in here and they'll just go to footer text and you can put you know your disclaimers you can put whatever you want very very easy to use now Jim says are the colors you are putting in the
+
+---
+
+[9:28](https://youtube.com/watch?v=d_OqpeU0c9A&t=568s)
+
+theme fixed so that when you import it into WordPress you cannot change it yes when I save a theme in artists fear that's the way it's going to look in WordPress okay so if you wanted to change the background or something like if you wanted these little leaves or whatever you would need to change it here in artist fear okay and you could use all kinds of different things maybe you know make it gradients or something like that I think there's a little gradient thing you can do you know you can make it look however you want if it changes it I just kind of play around with it however you want very easy you know not too difficult to do let's see if there's another one I know there's some that are like like lashes and stuff yeah like these guys here if you wanted to make it kind of fun looking you could use these guys and there's tons of them let's see some of the ones I like are
+
+---
+
+[10:29](https://youtube.com/watch?v=d_OqpeU0c9A&t=629s)
+
+like little checkers and things like this right that's kind of cool makes it look you know a little bit fancier and then of course you can change the color if you wanted very very easy to do and play around with it a little I know there's some really cool ones you could use that are just kind of like stripes and stuff somewhere and don't let that one so you can kind of play around with those pretty cool okay so that's how we want it very easy if you wanted your header to be a little bit bigger you just go to header and you could do the height here so right now I have it at 100 I like it at 100 because it's easier but if you wanted a bigger header you can do that as well all right so pretty basic okay then when
+
+---
+
+[11:30](https://youtube.com/watch?v=d_OqpeU0c9A&t=690s)
+
+you get it the way you like which we will have some more tutorial videos on this as well there are some in your simple sites but when you get it the way you like you're just going to export WordPress theme and you can call it whatever you want like we can all this write-offs right like that and then export then once it's done it'll say that and let's see where we put it okay cool document ok so then when you're done you just go into your into your WordPress here ok dashboard then you're going to go into appearance themes ok then you are going to go upload then you're going to choose upload theme
+
+---
+
+[12:37](https://youtube.com/watch?v=d_OqpeU0c9A&t=757s)
+
+okay then you're going to go to browse then we are going to choose or we go document artists tear templates and then we're going to go to write offs now again remember whenever you upload stuff to like a theme or a plugin in WordPress you always want it to be the raw zip file unzip it okay and then we're just going to hit install now activate and then of course if we toggle back and forth we could actually see what it's going to look like okay see how simple that is really really easy pretty basic now we can also get fancier like I don't like this hello world stuff I don't like the way that looks so I'm just going to change that and let's see if we can change that here okay there we go so in here we're going
+
+---
+
+[13:37](https://youtube.com/watch?v=d_OqpeU0c9A&t=817s)
+
+to go content we're going to go headings heading one I think is heading one or two or three which one Oh headline there we go okay so we're going to go headline make it read just do it let's see you like that not working close to the post okay there we go now it's red okay I think you have to hover over it maybe it's disappearing on me there this blog okay so there we have that read we can do let's see edit okay well we can worry about that later but basically the idea
+
+---
+
+[14:38](https://youtube.com/watch?v=d_OqpeU0c9A&t=878s)
+
+is that you want it to look congruent let's see what a page looks like okay the pages look good so that's what we're gonna focus on now we could change the post later okay so now as you can see the page looks like this sidebar looks like this so what we're going to do first and foremost we're going to go in again and we're going to manipulate the way that the blog reads okay so after your theme we're going to go into settings general okay first and foremost you want to do something here like hidden business tax write-offs again try to encompass as many as you can so we've got business we got text we got right off looking pretty good okay now we also see stuff here like small business we see list okay I like lists and all right tax listed business write-off
+
+---
+
+[15:42](https://youtube.com/watch?v=d_OqpeU0c9A&t=942s)
+
+okay what I'm going to do is I'm going to do lips and I'm going to try to encompass as many keywords as I can without sounding really stupid and being too long we're going to do list of hidden business owner tax write-offs okay let's go ahead and see how that looks and again you're always going to want to toggle back and forth and see how it looks okay so now we've got to figure out why that's doing that I think it's because we might have it on center so let's move it over a little that's why it's always good to toggle back and forth between these because it's really easy to change things as you can see okay so now it's done we're just going to go ahead and go to the themes again upload upload theme we're going to
+
+---
+
+[16:44](https://youtube.com/watch?v=d_OqpeU0c9A&t=1004s)
+
+choose two or one everyone we have okay and activate okay everyone following so far on a scale of one to ten how we doing okay probably good to move that over a smidge since we're already doing it another way you can kind of get past that is I think font options will allow you to like see how we have center here if you go to left and stuff like that okay so you can do that but just for easy we're going to make it like this we're going to call it to export okay now a lot of the post stuff we don't worry about too much because of the fact that we are going to control our post content with the actual posts we're not going to do that on the theme okay so they upload go ahead and get
+
+---
+
+[17:46](https://youtube.com/watch?v=d_OqpeU0c9A&t=1066s)
+
+number two like this activate preview go that works okay we could touch it up a little bit later if we want not going to worry about it too much now if I was going to run this on paid search I would probably I would change that's actually bugging me so I'm going to change it anyway I'm kind of meticulous about this and the reason is because it does affect conversion like if something's hard to read people aren't going to read it something's hard to look at they're not going to look at it and what that means for you is they leave you pay money and they're gone so you want to be meticulous about this rather than just you know messing around so we're going to do this here upload
+
+---
+
+[18:50](https://youtube.com/watch?v=d_OqpeU0c9A&t=1130s)
+
+three install activate okay cool so there we have that we got site title okay and let's take a look now all of this green stuff doesn't matter to me we're not going to use that okay there we go see how much better that looks is everyone see that take better if you think it looks better okay then we're going to go in and the next thing we're going to do is control the way our stuff looks so we're going to go into settings we're going to go we got this we got that okay everything's good so get all that squared away dates all good okay save next we're going to go down the line Settings General we're going to go settings writing underwriting nothing needs to change usually pretty good next breeding under
+
+---
+
+[19:55](https://youtube.com/watch?v=d_OqpeU0c9A&t=1195s)
+
+reading very important that we put our front page displays a static page okay we're going to choose the only page available right now which is going to be on your blog too because it's by default we're going to choose sample page we're going to go in and change the title of that page when we're done okay then we're going to go blog posts okay good good good okay always leave this unchecked because you want the search engines to see you so do not check that okay next Save Changes now we're going to go to discussion this is if you want to have comments and stuff okay it will kind of go through and tell you how to do comments comment moderation okay if you want to have a manually approved you could do that okay then we could go in and so avatars I like to show avatars and then for those that don't have avatars I usually use these little monsters they're kind of cool save then
+
+---
+
+[20:56](https://youtube.com/watch?v=d_OqpeU0c9A&t=1256s)
+
+I'm going to go to media okay media looks good then we're going to go permalinks and for permalink I'm going to choose host name okay this is very important for search engine stuff post name right like that okay should look like this we're going to go in and we're going to hit save okay everyone with me type of ten if you're with me a one if you're lost or in between if you're in between okay that is a basic setup for settings okay those are the settings tabs if you guys need help with that go back in this video watch again just follow that exactly okay next what we're going to do is we are going to go to plug in okay so first we do our appearance then we do our settings then we're going to go to plug in okay we're going to go to plugins and we're going to go add new under add new we're going to choose upload plug-in okay we're
+
+---
+
+[21:58](https://youtube.com/watch?v=d_OqpeU0c9A&t=1318s)
+
+going to browse and we're going to choose wherever you save your plugins okay it's going to be different for me but wherever you save them is where you're going to want to have them so or where you're going to find them so let me see if I can find where I have them okay this is no I think it's called ROG what I did I just updated the plug-in yesterday so it's giving find them okay where did I put them maybe it's my other Pole
+
+---
+
+[23:01](https://youtube.com/watch?v=d_OqpeU0c9A&t=1381s)
+
+okay I hope we find them I know I have my computer inside but need to see if they're here too let me see if I have my network thing okay where did they go maybe my okay I don't think my Dropbox is updating so bear with me one second
+
+---
+
+[24:55](https://youtube.com/watch?v=d_OqpeU0c9A&t=1495s)
+
+okay can you guys hear me again sorry about that had to fix some stupid program the hard drive didn't want to work in here and the Dropbox didn't want to work inside so always fun okay so what we have here is let's see here we go okay so I went ahead and put them on a server so hopefully we could find them here okay if we can get these guys going okay Robert says where to where to download the program it's called artist Pierre dispelling right here a RT is de ER they should be able to get it there
+
+---
+
+[26:09](https://youtube.com/watch?v=d_OqpeU0c9A&t=1569s)
+
+and let's see we should be able to get these plugins bear with me one second okay so we're going to go browse first plug in we are going to do I have it on my desktop it is by date and we're going to do the first one will be squeeze blogs Pro when you go ahead and install this on here like this okay activate and they're going to pop up down here you'll see them pop up the house right there squeeze Bloods Pro next one we're going to do smart
+
+---
+
+[27:11](https://youtube.com/watch?v=d_OqpeU0c9A&t=1631s)
+
+affiliate ads okay now these are the two main ones we also have some link tracker ones but they're basically just for cloaking your affiliate links we'll go through that when we get to the affiliate link section for right now you can see we have smart affiliate ads and squeeze blogs Pro the first one we're going to go into is squeeze blogs Pro squeeze blogs Pro is used when you want to make a list and control your sidebar stuff so you see how like you have the search box the post the comments archives all this okay you also have that on pages you have that on posts you have it on everything okay so what we want to do is we want to take over and we want to control that now the way we're going to control that is we're going to go into our plugins and to our dashboard we're going to go to appearance widgets okay and we are going to drag all this primary widget stuff
+
+---
+
+[28:13](https://youtube.com/watch?v=d_OqpeU0c9A&t=1693s)
+
+out get rid of all that okay then we're going to go to squeeze blogs Pro I'm going to put that up here okay now if it did it right it should have changed the stuff and make it no columns I like that see how it made it just no columns there that's because the program is now controlling our sidebars okay so now what we want to do is we want to decide if we want to create a mailing list okay in this market for hidden business tax write-offs yes I would create a mailing list to be very profitable to have a mailing list of people who are interested in saving money on their taxes so we're going to go ahead and go in we're going to once this is done in our primary widget we're going to go to squeeze blocks Pro and then the plugin is going to lead us through everything else okay if you need help you watch the little video here which is loading extremely slow but you
+
+---
+
+[29:15](https://youtube.com/watch?v=d_OqpeU0c9A&t=1755s)
+
+watch the little video here and you know get through that but when we go in and we're ready to use it we just clicked on squeezed vlogs Pro like this okay now our title don't need a title just leave it like that okay next we're going to choose pages okay I want this to show up on all the pages alright next we choose our content we could say something like get my get Marcus's secret list of 43 text right off that we'll save you thousands or whatever okay make sure that your claims if you're making a claim that you can back it up and it's not outrageous or anything like that okay so get markets a secret list and 43 tax write-offs that will save you thousands we're going to Center it bold we're going to make it heading to we're
+
+---
+
+[30:17](https://youtube.com/watch?v=d_OqpeU0c9A&t=1817s)
+
+going to drop down this here thing and we're going to make it red boom right like that next I'm going to put some little arrows here to make it fancy okay we'll make this bigger so you can see what's going on all right so we're going to get some arrows add media select go to pictures there we go some arrows here okay insert into post and then we're going to choose if we're using Aweber we would choose yes and enter our a Weber info if we are not using a Weber we just put our code right here in the text section super easy okay so if you go to like get response or Infusionsoft or any other autoresponder you just grab your code put it right in there done deal okay we're going to be used
+
+---
+
+[31:17](https://youtube.com/watch?v=d_OqpeU0c9A&t=1877s)
+
+Aweber because it's easy so we put our list name in here then we choose our thank-you URL now in order to have a thank-you URL you need to create a post so we're going to go into our dashboard posts add new okay and once you're done with all this you're done it's easy as pie once you're done okay so we're going to go here and we'll call this Bank new or if you want to be search engine-friendly you could do download your text right off report here I'm going to put business and then I'm going to put PBS because some people search with PDF ok so download your business tax write-off PDF report here publish now we're going to add the content later we don't need to do that just yet we're going to hit publish now it's going to give us this
+
+---
+
+[32:19](https://youtube.com/watch?v=d_OqpeU0c9A&t=1939s)
+
+URL okay this is our permalink which is the link to the site or page copy link and this is going to be our Thank You URL okay right there so that's where they go after they put their name and email in the box okay next we're going to enter our bullet points we'll do something like 6 write-offs that business owners don't know about three little tricks to save you thousands when or just for filling out a one-page form plus get
+
+---
+
+[33:23](https://youtube.com/watch?v=d_OqpeU0c9A&t=2003s)
+
+free videos and money-saving tips to learn your business or whatever okay now you will make these based on what you find out when you do your research okay and we could pretty those up a little bit later again your research is going to be done on this here and it's also going to be done by looking at what's out there I take a look at what's out there because that's what people are going to look at right so if we go to Google and we do business write-offs for taxes okay take a look at what people are doing okay so we can have something like top 20 tax deductions okay take a look at how it looks personally for me I don't really like this the only thing I like about this site is the fact that it's gotten advertised here which means I can probably get some cheap traffic okay but I don't really care for this but the idea is you know it's like a list okay take a look at some others you got IRS
+
+---
+
+[34:23](https://youtube.com/watch?v=d_OqpeU0c9A&t=2063s)
+
+insight okay they got some kind of list here now notice on their site it's very clean and easy to look at I like that red red easy okay take a look at some others bankrate see how his looks kind of cool little image dozen okay it breaks them down kind of cool okay and when we go into writing content we'll show you how that works as well here's the seventy five item now again when you're thinking about this right like how we put the report to find the 43 is not going to be difficult you spend a day you find 43 maybe call up a couple accountants take them to lunch Pam a couple under bucks or whatever take them to lunch skip their advice or do some research it's not that hard to do people just don't want to do it people are lazy that's why they want your site okay that's why this stuff works so well okay so we got that there and so yeah we got an idea of how it looks pretty good so
+
+---
+
+[35:26](https://youtube.com/watch?v=d_OqpeU0c9A&t=2126s)
+
+what we're going to do now is finish making our opt-in form okay we're going to choose our color which is our theme I'm going to use theme five download now because this is a download I want to download button okay we don't need anything in privacy policy unless you want to put a link to like the Aweber privacy policy or your own otherwise it has a default okay you can custom it that's what your button looks like update okay and if you update it right you should be able to go to your site and you'll see the opt-in okay does everyone see that type opt-in if you see the opt-in box okay that's as easy it as it is as long as you have that list in Aweber you can just put your info in and then boom it's
+
+---
+
+[36:28](https://youtube.com/watch?v=d_OqpeU0c9A&t=2188s)
+
+going to go to that Thank You page that you set up see super easy everyone get how that works scale of one to ten how we doing okay any questions so far okay so that's the basic recap of how this is going to work now in your simple sights big profits course you will see a bunch of different plugins we go over each of those as we come to them so these two are the main ones the main one is the squeeze blog and then also the second
+
+---
+
+[37:31](https://youtube.com/watch?v=d_OqpeU0c9A&t=2251s)
+
+one is smart affiliate ads which we'll talk about as well okay Jim says must all the fields of the opt-in be completed in order for it to load properly yes if you don't have these like filled in it's only five of them it's not going to work okay so you've got to have them all in there most important is the list name in the Thank You page those are your most important ones so yes you do need that and then of course if you're using your own autoresponder you would just put the code in the in the box you just click no and then the code will be in there okay but Aweber is the easiest that's why we use it okay so that's our basic structure you can see the main page of our blog is like this hidden business tax write-offs list of hidden owner tax write-offs good we got our opt-in now next what we want to do is want to create pages based on what they're going to look at so when we're looking at this stuff okay we can do stuff like okay 31 small business
+
+---
+
+[38:33](https://youtube.com/watch?v=d_OqpeU0c9A&t=2313s)
+
+deductions okay and kind of kind of look at the keywords and kind of look at what the business owner is going to think what the guy is going to think whatever your searcher is going to think if I was in like ground beef recipes right I would do like okay you know maybe like pasta recipes maybe taco recipes maybe dinner maybe lunch maybe breakfast right and those would be my pages now your pages are across the top these here like these blue there's going to be your pages as you make pages it's going to fill it in okay very important that you differentiate between pages and posts right like when you go to my site affiliate marketing dude calm you're going to see pages okay your pages are like download your affiliate tools become a super affiliate live training and products those are pages okay now if you wanted to see posts you would go let me see if I can find a post real quick and what we do is we do a model where
+
+---
+
+[39:35](https://youtube.com/watch?v=d_OqpeU0c9A&t=2375s)
+
+the posts are hidden okay the reason I do this is because I want Google to pick them up I want the search engines to see the posts but I don't want my visitors to see them because I want them to opt-in okay very very important and remember how I said that the privacy policy is automatic that's right there okay so let me see if I can find you guys a post here hey guys it's marketer and today I was starting exactly okay so like a post see how this is like this would the sidebar widgets here now the post I could actually go in and it's a completely different set so I can have whatever I want over here on the side and it's going to be really really easy to use okay does that make sense to everyone
+
+---
+
+[40:36](https://youtube.com/watch?v=d_OqpeU0c9A&t=2436s)
+
+and what we're doing now is the main structure of the blog it's very important that you structure it this way because when you buy traffic it's going to make a lot of sense okay now usually what I do as well is on my post okay I'll go into squeeze logs pro like this and on my posts I'm going to use the recent post the reason I'm going to do this is because Google's going to pick up my post wherever it's at Google's going to pick this up okay and I want to make sure that it's picking up all of my stuff so we're going to go here and I'm going to go recent posts and then I could put like a cool tack or let's do cool money-saving content for business owners okay now what this is going to do is let's go ahead and go to visual Center make it read and then I'm
+
+---
+
+[41:42](https://youtube.com/watch?v=d_OqpeU0c9A&t=2502s)
+
+going to go ahead and choose like ten different posts okay and what this is going to do we're going to put this on posts only what this is going to do is it's going to put a list of all my recent content on the post okay so we'll go boom and boom see how that list comes here okay it's kind of like something for them to look at which is cool and Google is also going to pick it up okay Kevin says how do you hide the post again this is how a hidden using the squeezed blogs Pro plugin okay what you're going to do is when you go in you're going to make sure that your opt-in shows on the pages and then like if you wanted to have something on your thank you post okay you would just go like that okay and you could do thank you post banners and stuff or whatever okay and you would put that there and then that's going to show up on your post
+
+---
+
+[42:48](https://youtube.com/watch?v=d_OqpeU0c9A&t=2568s)
+
+okay see how that works so it's custom and then of course your pages have not been touched now you can get fancy and you can you can like actually go through and make it just on one so like if I only wanted the thank you post banners and stuff on this post okay all I would have to do is hover over this and then I see down here that the post number is 11 okay I would just go into my dashboard I would go into my squeeze blogs Pro then I would go into thank you and I would just choose 11 okay that means it's only going to be on 11 okay so when it's only on 11 see here that means it's going to show up here but like on the hello world one it's not there see how that thing went away okay
+
+---
+
+[43:51](https://youtube.com/watch?v=d_OqpeU0c9A&t=2631s)
+
+does that make sense to everyone any questions on that okay cool so that's the basic idea of how this works now what we want to do is we want to create some pages okay so we're going to go dashboard pages all pages and then I'm going to try to get pages based on what these people want so first of all let's make our regular one something like business tax write-off report okay we can even stick the word PDF in there because some people search with PDF like if I was to do right off PDF there's probably some people that
+
+---
+
+[44:53](https://youtube.com/watch?v=d_OqpeU0c9A&t=2693s)
+
+use the word PDF with this okay or we could just do the word PDF or whatever but sometimes people put that there so I like to have it okay so business tax write-off PDF report update and now when you're updating these you want to make sure it looks okay you're going to see them come across the top here there we go business tax write-off PDF report okay and then we could do something like add new page and we're going to get another one small biz goals okay we could do something like small business tax write-offs and if we capitalize that there its capital automatically so we'll do small business tax write-offs okay and what this is doing is it's getting us some more search engine love by focusing on what
+
+---
+
+[45:55](https://youtube.com/watch?v=d_OqpeU0c9A&t=2755s)
+
+these people want okay right officer small business we can do tax write-off lift okay add new and again you can see them pop up on the top okay small business tax write-offs add new we're going to do tax right off the list and we could do something like add new and what I'm going to do now is going to add a money page which is like business tax tips or we could do something like business tax management okay all right like this and that's going to be our money page because when they click it they're going to be looking for management which leads to something more
+
+---
+
+[46:57](https://youtube.com/watch?v=d_OqpeU0c9A&t=2817s)
+
+expensive right so like if I do business write-offs low competition ok but if I do something like business tax planning or whatever ok or tax what did we use management ok we're going to see that it's going to go to high competition ok medium we got high ok you could also do like tax accountant okay things like that because these people pay through the nose for leads and that will be like a cool lead page for you is it text lawyer like that okay these are going to be expensive stuff so when they go there they're going to be like okay I want this stuff and then it's going to go to money stuffing for some reason it just does not want to work take this off okay so business tax
+
+---
+
+[48:00](https://youtube.com/watch?v=d_OqpeU0c9A&t=2880s)
+
+lawyer 22 bucks to click tax attorney I mean look at that that's expensive so it's going into a market that has a lot you could also do like business tax accountant okay that way you could help him and he can just feel like a little story like oh you know this guy got an accountant and he was worried about paying a thousand flexib year or whatever and it saved him X amount okay so really cool so like small business accounting bookkeeping all this stuff okay so now does everyone get my thinking on this Mitch right we're leading them in with like hey they just want these reports and then we're getting all these people that are interested in the write-off they're interested with the business we could get them into accountants lawyers with all this stuff you can't give me a ten or something let me know you're with me because I want you guys to make sure that this makes sense okay like bill says yes there's a back door into the more expensive niches okay cool all right so now what we want to do is want
+
+---
+
+[49:00](https://youtube.com/watch?v=d_OqpeU0c9A&t=2940s)
+
+to take a look at how it looks okay we don't want like two lines we want to keep all these on one line so I'll see if they're all on one line all right there we go now because they're on two lines I want to shrink it down so let's do business tax write-off PDF report small business tax write-off business tax management I'm going to do let's be tax write-off small business tax write-off okay I'm going to take this one since we have the word tax so much we're going to edit this and I'm just going to take the word small business I'm going to see if the word taxed will solve our problem it might
+
+---
+
+[50:08](https://youtube.com/watch?v=d_OqpeU0c9A&t=3008s)
+
+okay I might need to take that word PDF out where'd we go next do they mess something up okay that something got screwed up here and when something gets screwed up don't freak out just click the button makes it a lot easier okay so we're going to go this I'm just going to create a new page which was add new business write-off
+
+---
+
+[51:11](https://youtube.com/watch?v=d_OqpeU0c9A&t=3071s)
+
+report that should take care of it then we're going to go reading I'm just going to I don't know how this got changed but okay that should do the trick okay cool now those are all on one page very important okay oh yeah I click the trash button because I'm not paying attention to what I'm doing okay Robert says concept clear implementation seems complicated one blow over the replay of this session being available I get try to get this up as soon as possible that way you guys could go through it and I might load it on YouTube that way you guys can pause and everything and make it bigger so keep an eye out for it but it's very important that we make this like this okay so now
+
+---
+
+[52:15](https://youtube.com/watch?v=d_OqpeU0c9A&t=3135s)
+
+what we want to do we got our thing over here which is good we got our stuff here okay cool so now what I'm going to do is I'm going to hope that my password is saved for something let's see okay bear with me one second here okay everyone want me to put this on YouTube if you do I'm totally cool with that
+
+---
+
+[53:16](https://youtube.com/watch?v=d_OqpeU0c9A&t=3196s)
+
+okay cool okay so now what we're going to do is we're going to get some content what I do to get my content hopefully if I could get my password here hold on one second okay we can get that password okay so what I'm going to do here is I'm going to go to get website content calm okay it's going to take me to hire writers now you could go and create an account you just go to register now and you're going to do I am a client and then sign up for your account they'll give you like some kind of bonus or whatever it's pretty cool and then once you're done go into your account put like 50 bucks in there 100 bucks or whatever and you're going to go ahead and login okay and again that's get website
+
+---
+
+[54:17](https://youtube.com/watch?v=d_OqpeU0c9A&t=3257s)
+
+content calm it's my affiliate link which allows you to get bonuses and cool stuff like that and then you're going to log in alright like this okay now what we're going to do is we're going to go in and we're going to click on order content okay and we're going to order articles based on what we want now it's very important that you follow what I'm doing okay we're also going to put this on the forum to Bill YouTube we're putting it on so that you guys can rewind and stuff okay so what we're going to do is we got to make sure that these people right the way we want okay if you just go in there and you tell them to write an article based on a keyword or whatever they're going to give you crappy crappy articles okay it's not going to do justice now we want content that people are actually going to consume that we can edit add affiliate links and help people out with okay and we're going to go through this in some other videos and things like that in your simple sites course and also on some of these videos as well but they'll be in there so go into your
+
+---
+
+[55:18](https://youtube.com/watch?v=d_OqpeU0c9A&t=3318s)
+
+simple sites course and you can get those but we're going to go in and we're going to do project description we're going to call this business tech right off okay then we're going to go to article category we're going to choose business and investing okay light let's see if I don't drop on myself okay I'm article length let's do 301 to 500 and that's going to change your price okay we're going to go general riders okay we don't need like experts or anything we can do skilled if you want again that's going to change the price so like a skilled rider is going to be six dollars and fifteen cents per article a general is going to be four sixty five okay so it's up to you the two bucks not a big deal or you can do expert which is thirteen bucks okay so we're going to do skilled six bucks for a piece of content not too bad one day means we're going to have a day we're going to have our
+
+---
+
+[56:19](https://youtube.com/watch?v=d_OqpeU0c9A&t=3379s)
+
+content in one day which is cool okay so there's going to save you a lot of a lot of headache a lot of writing because you can go in and edit these okay so we're going to go in we'll do professional sounds good now what we're going to do is we're going to put our keywords in now what I do is I make a new article for each keyword so we're going to go in and we're going to take our keywords which are our pages all pages okay I'm going to do business write offs okay right like this add a new article small business write offs add a new article business tax management add a new article and our last one is what is our last one tax write-offs list
+
+---
+
+[57:20](https://youtube.com/watch?v=d_OqpeU0c9A&t=3440s)
+
+okay cool so now what we're going to do is we're going to go in here oK we've got business tax write-off we've got all our stuff here now the price is going to change because we have four articles okay pretty cool now what we're going to do which is very very very important is special instructions if I just leave it like this they're going to write an article about what a tax write-off is a tax write-offs are great the IRS allows tax write-offs tax write-offs could be anything that allows you to write things off your taxes blah blah blah we don't want that okay we want content that these people are going to consume so we're going to say please focus on the keyword in the article title and provide content based on what the user would want for example tax
+
+---
+
+[58:25](https://youtube.com/watch?v=d_OqpeU0c9A&t=3505s)
+
+write-offs list find and compile a list of different tax write-offs and include reference point okay right like that next we're going to do for business tax management please do these get expel it out exactly otherwise they won't do it okay for business tax management please do dots because I like dots please provide information helping
+
+---
+
+[59:25](https://youtube.com/watch?v=d_OqpeU0c9A&t=3565s)
+
+people know the benefits and downsides to having their business taxes and accounting professionally managed include examples links and resources okay for a small business write-off dot please compiled a list with descriptions and links to the IRS website for other resources for the most common 21 tax write-offs okay next one
+
+---
+
+[1:00:34](https://youtube.com/watch?v=d_OqpeU0c9A&t=3634s)
+
+is business write-offs for business write offs please compile a list of general business write offs and how they work as as well as a description of what write offs are and how to use them please include reference link and resources boom okay so now we got that now if you wanted longer articles we could do like seven hundred to a thousand words that's going to bump it up to forty bucks depending on what you're looking to do we could do that or of course if you
+
+---
+
+[1:01:36](https://youtube.com/watch?v=d_OqpeU0c9A&t=3696s)
+
+want to do it cheaper you can do like general writers 36 I'm going to go ahead and see what happens if we do skilled 43 bucks okay cool so we'll go ahead and do that business tax write-off business and investing okay good good good okay cool so we should be able to do that well go ahead and hit submit job that's going to charge me 43 bucks and then it's going to put it live and then you'll be able to see as people go through and bid on the job okay so it's going to say open job like this and then when someone takes the job it'll say you know it will have like a little counter down for 24 hours okay does that make sense to everyone that's basically my secret to getting content written again that's get website content com you're going to want to go there there's some tips on getting your content written and
+
+---
+
+[1:02:36](https://youtube.com/watch?v=d_OqpeU0c9A&t=3756s)
+
+there's also some bonuses for going through my affiliate link I think I get like 1% or 5% or whatever whatever so it's not a whole lot but you know it keeps things going so that we can provide these cool videos and everything for you now we also go through this in detail on different niches in the simple sites course so you're going to want to go through that as well so now what we're going to have here we have the structure of our site we're ready to go now in a perfect world the way that I would envision this is I would either have a video or a image getting them to opt-in right a video would be really cool now videos you could go to like Fiverr or something for outsource so what I want you to do I'll set something up let me say what I have hold on one second here and I'll see if I can get this thing set up
+
+---
+
+[1:04:03](https://youtube.com/watch?v=d_OqpeU0c9A&t=3843s)
+
+they're with me one second okay any questions on what we're going through so far
+
+---
+
+[1:05:16](https://youtube.com/watch?v=d_OqpeU0c9A&t=3916s)
+
+okay so what I'm going to do I'm going to set something up for you guys special if I could do this I'm going to try to multi task which everyone knows I am the world's worst multitasker um let's see okay I'm not so good at one task sometimes yeah sometimes it's okay Kevin can you put that in as an actual link
+
+---
+
+[1:06:34](https://youtube.com/watch?v=d_OqpeU0c9A&t=3994s)
+
+okay looks like it wants to work now okay and then we'll take a look at Kevin site as well okay so what I'm going to do I'm setting up a special site for you guys and it's going to be all about affiliate outsourcing like outsourcing things we're going to go over content and stuff like that and what it's going to be is it's going to be at affiliate outsource comm okay that's affiliate outsource comm it's brand new it's not up yet we should have it up shortly okay so affiliate outsource comm is where that's going to be now let's take a look at Kevin site and let's take a look at how
+
+---
+
+[1:07:35](https://youtube.com/watch?v=d_OqpeU0c9A&t=4055s)
+
+this is going we might have some people bidding on our jobs but it might be too soon so we're waiting for that but it should be pretty quick once people actually bid on them it usually takes like a couple minutes or whatnot and then you can see once your contents done you can download it you can organize it and stuff like that okay you can see I've gotten tons i've ordered thousands and thousands of pieces of content just from this platform alone and with some others as well okay so again affiliate outsourced comm that's going to be a site where you can go and we're going to list all the different ways you can outsource this stuff so that you know you don't have to create videos you don't have to make audios you can basically just sit there and delegate tasks and make money which is pretty cool we have lots of people who do that I've had people who did this in the Bible niche money making that's pretty much everything okay okay so let's take a look Kevin site here is about drug rehabs okay Kevin your site
+
+---
+
+[1:08:39](https://youtube.com/watch?v=d_OqpeU0c9A&t=4119s)
+
+here okay is this your site the help now is it no yes which is it no or yes yes this is it to the help now okay so first of all Kevin I got to ask you how do you plan on getting traffic to this now I always ask how you plan on getting traffic first okay so paid traffic and are you sending them directly to this site
+
+---
+
+[1:09:41](https://youtube.com/watch?v=d_OqpeU0c9A&t=4181s)
+
+yes okay you're going to lose money the reason is it's because if you use the word drug rehab near me okay you're going to see okay you're going to see that it's going to be extremely expensive so what you need is you need a back door do you have a back door to this market okay now okay you don't have a back door okay you need a back door so before you do anything go find a back door plain and simple unless you want to pay $48 a click which I'm guessing you don't if you do come to me I'll show you traffic all day long for $48 click and it will be wrote the rehab traffic but that you need a back door okay very important so what I do is I would use this site the help site one
+
+---
+
+[1:10:42](https://youtube.com/watch?v=d_OqpeU0c9A&t=4242s)
+
+you need a smaller header this thing's way too big yeah so I mean no one cares about a TLD media and no one cares about this stuff it's okay not a big fan but first get a backdoor and then lead them into this site okay does that make sense and this is why it's so important in the simple sights course that you go through right you want to get the simple sights download it and go through it in order so like when you're going through the simple sights course right you're going to go through it and order which is going to show you the back door so you're going to go in to Mitch fine and you're going to get started first obviously but that's where I like to set up blog stuff then you're going to go into niche finding and then this is going to talk to you about how to find your niche this is important because if you don't have your niche if you don't
+
+---
+
+[1:11:43](https://youtube.com/watch?v=d_OqpeU0c9A&t=4303s)
+
+have the back door you're not going to make money you have to have that okay very very important so you're going to want to go in there and follow it to the tee okay all right Kevin for the video for your video on your site focus on the back door first because your key word like you notice how on this one everything was driven by the key word okay if you don't do that you're dead in the water you have to do it based on the key word if you don't base it on the key word you're not going to make any money your visitors aren't going to care but for this one on affiliate outsource comm when that's up you're going to go through and you'll learn how to outsource a video for this I would do a video like hi there welcome a lot of people think that they know all the tax write-offs that's what I thought too until I found this report this reports going to teach you fifty three or four teeth roots excuse me forty three tax
+
+---
+
+[1:12:44](https://youtube.com/watch?v=d_OqpeU0c9A&t=4364s)
+
+write-offs says it's going to save you thousands go ahead and put your name and email in the box blah blah here's a little hint of what you're going to see one you're going to see some tax write-offs like this one on page twelve that's going to show you whatever and you can even go in to hire writers and you can have them you can have them write the report for you right you can go in order content you could do order ebook right and you can do like a 20 page ebook skilled writer it's going to cost 200 bucks or whatever or you can write it yourself or you could get like a not skilled writer and do like 160 or whatnot or you could do like a 10 page book which probably be plenty for 80 bucks now when you look at this you're like man 80 bucks for content what the heck you're going to repurpose this is going to make you a hell of a lot more than 80 dollars if you do it the right way right I currently have three writers on staff that I pay every week and they
+
+---
+
+[1:13:46](https://youtube.com/watch?v=d_OqpeU0c9A&t=4426s)
+
+just write stuff for me right it's like all the time coming out content content content that's the key to making this work now you don't have to have them all the time and you could do it yourself if you want it's not that hard to do I could probably create a 10 page ebook today based on this topic if I wanted to read literally and take me like five hours so it's up to you it's a few so if you want to pay you know I don't know whatever that would be per hour twelve bucks an hour or if you want to do it yourself it's up to you right but you just get it done because once you have this if something you can use for anything you can put your logos on it you put your links on it you can embed it with affiliate stuff and you can make all kinds of money to put it on your site you can make videos about it you can make a podcast about it guys it's not hard to do you just have to build it okay now Kevin's got another site for how to arbitrage calm okay Kevin what's your key word on that one
+
+---
+
+[1:15:00](https://youtube.com/watch?v=d_OqpeU0c9A&t=4500s)
+
+how to arbitrage okay and this is for this for like the stock market type stock if it's for the stock market okay cool so it is for the stock market so we're gonna take a look at how to arbitrage kind of low on the searches that's alright okay so for how to arbitrage you got to think about this so here's a guy he's looking for like stock market how to arbitrage he wants to make money whatever okay he comes to your site and first of all the title says wealth creation by using arbitrage to capitalize in multiple market that's super boring I don't like it second of all your header like all of this up here is totally wasted space
+
+---
+
+[1:16:02](https://youtube.com/watch?v=d_OqpeU0c9A&t=4562s)
+
+right like I can't really do anything and maybe click this but I mean I'm not interested in that don't know what a spotlight is these ads are okay they're a little long how do we use arbitrage to take well okay one you got to have a theme that draws them in two you got to make a headline that's not boring okay three maybe pull this up up top we don't care about the Welcome no one cares about that they just want to read the stuff you know so focus on how we did it today what I want you to do Kevin is go through and kind of pattern your site after that okay pattern it after this make your headlines up here your pages up here make your video or whatever it is you have three seconds to get these guys attention okay so I have three seconds to say hey I know there's a bazillion sites you could go to get the same information this is why you need to
+
+---
+
+[1:17:04](https://youtube.com/watch?v=d_OqpeU0c9A&t=4624s)
+
+read mine okay and if you don't say that they're going to go read those other sites if it doesn't look good they're going to go read those other sites so we got to get them boom boom here you go that's why I use the word hidden that's why I use the report that's why it's very focused we want their eye to go boom okay so I would go through and I would put my video here okay and if you have your video on YouTube it's really easy okay you just go to YouTube take your video and of course your video should be like hey dude you need to you need to do you know you need to you need to opt-in right so we would go and do that like this video tells them to opt-in okay I would go share embed okay show more I'm going to choose a custom size I'll probably use something like 640 it will automatically populate that I'm going to copy my code here ctrl C
+
+---
+
+[1:18:05](https://youtube.com/watch?v=d_OqpeU0c9A&t=4685s)
+
+I'm going to take and put this right in my face of course this would be if I had a video about business write-off and again if you have this video right you can have someone like if you go to affiliate outsource comm once I have it up give me a couple days or whatever once I have that up it's going to give you this list right in is going to show you how to do it you could actually have them read your report and tell them to opt-in then when it's done and it's on YouTube boom you put your code in there I'm going to put right here and auto play equals one that's going to make it play automatically and boom update now watch how this works look at that okay we're going to shrink it up a little Marcus again so I'll go ahead and shrink it do six thirty let's do six twenty just to be safe shrink it up and now it's a nice little video opt-in page boom that's going to get people to opt-in market super easy you can even go through when you're making your content right before she's
+
+---
+
+[1:19:07](https://youtube.com/watch?v=d_OqpeU0c9A&t=4747s)
+
+going to write our content on hire writers on get website content calm where you can go to get that but you're going to go through and be like download your free tax right off report here okay and you're just going to tidy this up a bit and you're going to hit update or we can actually go to visual and make it pretty if we want is market again promote this marketing block off okay what we're going to do is show you how to turn your WordPress blog okay and obviously that video it would be about the opt-in and the tax or for stuff like that and see how it plays automatically right see how it's like does everyone see how this is changing the game like this compared to something like this
+
+---
+
+[1:20:08](https://youtube.com/watch?v=d_OqpeU0c9A&t=4808s)
+
+okay look at the difference right it's totally bringing them in to what we want that come on now it's totally bringing them in see how this is just like whoa I would leave if I saw this I would leave I saw this I'd be like yeah what's this guy got to say what's what's going on let's get this report right and then you could even make it even better you could do like right below the video guys mark let me going to turn this audio off then right below the video you could do something like here is a snapshot of what you will learn page nine shows a killer list of right off that accountants don't
+
+---
+
+[1:21:08](https://youtube.com/watch?v=d_OqpeU0c9A&t=4868s)
+
+want you to know because it would make you see how easy it is to save money okay then you could do something like page four reveals a secret loophole that I have been using the last nine years to instantly lower my tax bracket and save hundreds of thousands okay and then what I want to do also I know this webinar is like super long but I
+
+---
+
+[1:22:09](https://youtube.com/watch?v=d_OqpeU0c9A&t=4929s)
+
+want to show you how the smart affiliate ads works as well okay so we're going to go in there we go page four reveals page seven whatever okay so we'll have all these here and I'll show you what it looks like and then we'll get to the smart affiliate so here we have this okay boom boom see how cool this is it's like there we go I mean these people are going to be like dude I want this report man right how many guys are like well I want the report right so it works now next what I wanted to do is go through and show you the smart affiliate ads plug-in now the smart affiliate sedge plug-in is also in your simple sites big profits course and we're going to go through and show you how it works it's the one that makes these little advertisement looking things here okay so what we could do is we could go through and we're going to go into introduction again you can watch the tutorial video show you how to use it then we're going to go into manage groups click the little plot and we're going to create a group will call this tax write-offs okay now this is cool
+
+---
+
+[1:23:11](https://youtube.com/watch?v=d_OqpeU0c9A&t=4991s)
+
+because it's going to like get a snapshot of what your audience wants while sending them to things that make you money okay really cool so we're going to go here we're going to do let's do video ads we could always change it later we're going to do random within group only and we're going to hit submit we're going to leave all these blank okay it's going to set up the template the group kind of deal now what we're going to do is we're going to go here and we're going to manage our ads and we're going to create them so we could go through and we could do list of top tax write-offs okay we'll go in here and we'll do ten tax write-offs okay now what we're going to do is we're going to take these education okay job hunt homeownership health costs okay so we'll do health cots so we're going to go here we're
+
+---
+
+[1:24:13](https://youtube.com/watch?v=d_OqpeU0c9A&t=5053s)
+
+going to create an ad we're going to do health costs write-off okay we're going to do enter URL now this URL we could actually make a go to a post so we could go like this and we could do add new and again we're going to add the content later health costs tax write-offs for businesses now notice I'm varying write-offs two words and one word okay I do that on purpose so we're just going to publish it we'll make the content later for now we just want the link copy link put this in here okay there we go that's where it's going to go when they click now we're going to upload an image we'll try to find something that looks like health and okay
+
+---
+
+[1:25:25](https://youtube.com/watch?v=d_OqpeU0c9A&t=5125s)
+
+it looks kind of like help okay we'll go insert into post it will show you what it's going to look like it might be kind of ugly we might need a new picture if you want pictures let's go to clipart go help boom all right let's do the doctor let's spell it right cool this works perfect save pics your ass help
+
+---
+
+[1:26:26](https://youtube.com/watch?v=d_OqpeU0c9A&t=5186s)
+
+say okay we're going to go into smart affiliate ads we're going to change the image select and notice again I'm basing this on what people search for that will go to where we saved it help where to go there we go insert make sure you use insert not save insert in the post there we go it submit okay now we're going to get another one let's see moving energy-efficient self-employment okay now we're going to create a new post self-employment expenses and tax write-offs okay I'm going to do it like that publish okay now we're going to go smart
+
+---
+
+[1:27:30](https://youtube.com/watch?v=d_OqpeU0c9A&t=5250s)
+
+affiliate ads we're going to add a new one is everyone with me scale of one to ten put it in the box URL is going to be our new post that's coppy got a lot of Terry's anyone lost there's everyone okay and again the simple sights quartz goes through this in detail we're going to show you how to do it how to make it convert how to track it how to test everything but this is gold it's going to show you how to make it work okay so self-employed will go to clipart will do self-employed let's do business okay let's use huh
+
+---
+
+[1:28:44](https://youtube.com/watch?v=d_OqpeU0c9A&t=5324s)
+
+he's like this one here and I like that one let's see okay we want something that says like business owner or something like that and it will make sense what I'm doing in just a minute this will work and we can always change it later losing this okay we're going to go back into smart affiliate ads select is venire there we go in search
+
+---
+
+[1:29:44](https://youtube.com/watch?v=d_OqpeU0c9A&t=5384s)
+
+submit okay get another one okay energy efficient moving charitable donation homeownership will be that add new okay publish I'm going to add a new ad get our link get clipart and I fancy
+
+---
+
+[1:30:59](https://youtube.com/watch?v=d_OqpeU0c9A&t=5459s)
+
+and keep this for moving okay and let's get a house one and I'll just do three so you guys could see how it works fix your head that might look funny because it's long let's try to find one like this so that was kind of sad I don't want to add homeowners we want happy one okay there we go home okay so we're going to go ahead and go back in the smart affiliate ads upload select home um okay and now I would usually I probably do like nine of these and I'll show you why but for now for sake of time I'm just going to do three so we have these three ads here
+
+---
+
+[1:31:59](https://youtube.com/watch?v=d_OqpeU0c9A&t=5519s)
+
+self-employment homeownership health costs write-off okay now one by having these on the site we're going to see what people click on and see what they're interested in - we could take them wherever we want them to go right so if they click on health costs we can talk about that and then we can be like hey check out this affiliate program for health costs write-off or whatever okay so really cool so now what we're going to do is we're going to go back to manage groups and let's see okay so we're going to go there now what we're going to do is we're going to go to pages okay you can choose any page you want so let's say we went to business tax management or we could do right off the list okay makes more sense on write off list and what we're going
+
+---
+
+[1:33:01](https://youtube.com/watch?v=d_OqpeU0c9A&t=5581s)
+
+to do is we're going to go to smart affiliate ads short code here choose our tax write-off list let's do Center and let's do nine ads that way when we have nine it's going to show them we're going to take this code here put it in here update now what's going to happen is we're going to have on our list if we did it right which I don't know if we did it we might need to do it in text yep it will be text whenever you have code you want to use it in text now we have those see how that works now we can actually manipulate these by going to smart affiliate ads and we can change the way they look so we'll go here into the little pencil okay we could choose image ads newsfeed and see which one looks the best okay see how that works I actually
+
+---
+
+[1:34:06](https://youtube.com/watch?v=d_OqpeU0c9A&t=5646s)
+
+kind of want the icon looking one so we're going to go to image ads banner maybe look there we go specs of that and then we can we can trim it up and make it look better as we go along but what it's going to do is it's going to get people clicking on stuff which is going to make a huge huge deal when we go in because it's going to track them right so as we track it will be like hey check it out you know these people are clicking on whichever right off it is and when you know what people click on boom that's jackpot that's going to show you you know hey this is where the money is going to be this is where the sweet spot it is that make sense to everyone any questions on this and again if it seems overwhelming if it seems like a lot of stuff just go back through through it I promise you could get this in like an afternoon it's not that hard
+
+---
+
+[1:35:08](https://youtube.com/watch?v=d_OqpeU0c9A&t=5708s)
+
+to do you just got to focus you got to go through it that's why this video is meant to go with the simple sights course so again if we do put this on YouTube simple sites bonus com is where they're going to want to go to get that information right they're going to go there they can get the simple sites course it's going to take you through this once you do it once it's going to be easy I could do this really really easily okay Kevin sometimes I will send them straight from the ad click to an offer sometimes I'll do a buffer page depending like if I'm doing the Bible toolbar site it's going to go direct to the offer if I'm doing something like this I'll probably have a buffer now one other thing or two other things I do want to talk to you about is the the drop-down and the custom search now the custom search is important if you're going to use it on a business tax write-offs you could probably do it by a zip code or something it depends or like
+
+---
+
+[1:36:11](https://youtube.com/watch?v=d_OqpeU0c9A&t=5771s)
+
+a weather site or something the way it works is this okay you have your custom search you go to configuration okay on configuration you could choose what you want to say you could do enter your zip code for hidden local tax write-offs okay now in this one you could do like a thank-you page you could do whatever you want okay right like this then you could go update configuration it'll just show the little box thingy there then we're going to go to manage we're going to add a new one okay on the new one we'll call it zip box okay now we're going to go in instead of get into the Nexus will put search will put find my right off okay then we're going to go through we could
+
+---
+
+[1:37:12](https://youtube.com/watch?v=d_OqpeU0c9A&t=5832s)
+
+do whatever want so if we had like some kind of code you would go in yet simple sites bonus com is where people can order the simple sites course okay so if you like this stuff I know a lot of you guys on this call actually all of you guys on this call are part of the summer coaching so you already have it but if you're just watching this on youtube you can go to simple sites bonus com to get the whole course it'll walk you through this it will give you the plugins it will do everything okay so find my write-offs we could do you know whatever one we wanted to take them to google we could do let's see google calm tax write-off or you could do let's do this actually I'm going to show you how it works so we could go through and we could do configuration local tax accountants okay so if they want to find
+
+---
+
+[1:38:12](https://youtube.com/watch?v=d_OqpeU0c9A&t=5892s)
+
+the tax accountants and you could do this actually through your adsense account we'll show you that in the simple sites as well but you can have them enter their zip code and then we could do accountant and then we'll just put in like three to seven oh eight put a zip code in the reason we want to put the zip code in is because we want to do like this we're going to copy this string okay we're going to take that string and we're going to go into manage and we're going to go like this okay and instead of zip code we're going to put the zip I like this we put the zip I think this is how it works let's make sure okay text box with 50 padding okay let's do I think it was too big last time so we'll do 10 then we'll do 10 here okay save now this will give us another
+
+---
+
+[1:39:13](https://youtube.com/watch?v=d_OqpeU0c9A&t=5953s)
+
+shortcode we can use once it updates okay so now this should work let's go ahead and see okay we'll go to like business tax management edit we should be able to put this here okay let's see okay well let's let's just test it and put it in page
+
+---
+
+[1:40:18](https://youtube.com/watch?v=d_OqpeU0c9A&t=6018s)
+
+like Tina was put it in page 19 see if that does it which should work let's see okay I might need to update that but it should have like a little sort shortcode thing and once you get the shortcode you would just put that in the box okay so once you get the search code it would actually show the search box and then when they search they would go to
+
+---
+
+[1:41:19](https://youtube.com/watch?v=d_OqpeU0c9A&t=6079s)
+
+the Google search for accountant plus zip which you can manipulate this however you want you could send them to your own page with Adsense on it which will actually trigger accountants for that or you can send them to a search engine that pays you all kinds of stuff it works extremely well and it's easy so cool I will update you in the simple sights course on how to use the shortcode for that right now I can't find it it's been a while so we'll check that out now for the drop down box it's going to do the same kind of thing where you're going to go but instead you're going to create a drop-down box so it'll be like how I did on the lottery site where I had the drop-down and they were able to choose the date check the winning numbers and then for the search it'll be like on the tattoo site where they were able to search for the tattoos and stuff like that let me just double check and see if this does want to work engage okay yeah that's something we'll
+
+---
+
+[1:42:21](https://youtube.com/watch?v=d_OqpeU0c9A&t=6141s)
+
+have to update but we'll make that available in the simple sights course we should have that probably late this evening for you in the new version okay so it's been an hour 45 we've covered a lot of stuff I hope you guys have enjoyed this I hope it's starting to make sense again if you're watching this on YouTube go get simple sites at simple sites bonus com it's going to walk you through the rest of it I usually don't put our like highly paid coaching videos on YouTube I'll be doing it this time because we didn't go into the like big money stuff so I feel okay putting that there we will go into some other stuff as well this will be in the simple sites under the setting up shop portion we're also going to cut it and chop it and make it easy again if you like this if it made sense go get the tools the tools alone are worth their weight and gold get yourself the simple sites course simplified bonus calm for the rest of you we will have this in addition to some other stuff as well in your what do
+
+---
+
+[1:43:24](https://youtube.com/watch?v=d_OqpeU0c9A&t=6204s)
+
+you call it in your summer time coaching so really good stuff go through start messing with this start working on it follow the steps make it work again that's simple sites bonus calm you can go in and start working and again as a member of simple sites big profits you can have us look at your sites and help you work them let's go ahead and see if we had anyone take the jobs yet usually it takes like an hour so cool so it looks like two people took the job so like if we go to my projects we should be able to see under business tax write-offs like these guys have taken the job and they got good reviews this guy works all the time so they're working on it we should have some content which means by tomorrow we'll be able to put a site together so I hope you guys have enjoyed this our next summer time coaching webinar is going to be next week it's going to be on Thursday at 10:00 a.m. Thursday at
+
+---
+
+[1:44:26](https://youtube.com/watch?v=d_OqpeU0c9A&t=6266s)
+
+10:00 a.m. so watch for that next week we are starting normal hours summer time is over so we'll be starting normal hours for webinars and coaching and everything like that if you have any questions will let me know again simple sites bonus com go there get the tools sign up let's work together let's make money again if you thought this was complicated just try it out do it the first one is going to be a little difficult after that it'll be really easy so thanks again for watching I'll get this replay up as soon as possible and we'll see you in the next webinar you

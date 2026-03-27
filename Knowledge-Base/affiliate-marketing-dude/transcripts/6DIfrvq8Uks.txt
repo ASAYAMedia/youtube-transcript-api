@@ -1,0 +1,159 @@
+[0:00](https://youtube.com/watch?v=6DIfrvq8Uks&t=0s)
+
+Google News and Claude AI, a match made in heaven for those who want to make money online. Let me explain. If you were to go out there and look at current news items, yeah, that's stuff that's basically getting traffic right now. So, if I can get in on what's already working without having to reinvent the wheel or create some new traffic strategy or anything like that, well, then I should be able to get people to my website fairly quickly. But there's a catch. We need something on our website that's actually worthy of the news item we find on Google News. This is where Claude AI comes in. I'm going to be using Claude AI to create a tool for one of these news items so that I can get traffic and make money. And I'm going to show you the whole process as if it was a take your friend to work day and you're that friend. Yep, that's right. Smash the like button if you're excited because I'm going to show you everything. I'm just going to fire up the computer, walk through the steps that I would take if I wanted to build this website for myself. But before we
+
+---
+
+[1:00](https://youtube.com/watch?v=6DIfrvq8Uks&t=60s)
+
+get started, yes, this is a niche with a lot of traffic, and yes, it's tied to a huge industry with lots of money, but this is just a video. I'm showing you different things that I do on a daily basis to profit online. And I need you to know that the vast majority of people trying to make money online make nothing. That includes people that binge watch videos, buy courses, set up websites, and the whole nine yards. Most people make nothing. Yeah, this is a business. So, treat it as such. And I also want to bring up the fact that using news items, we want to make sure that we do this in an ethical way and always focus on helping people. So, make sure that you always have the utmost ethics and focus on serving your visitor first. This is key. I mean, let's face it, there's plenty of money out there in the internet world where you could literally just help people and get paid. And that's what today's video is all about. How to use Google News Items and Claude AI to build a business that helps
+
+---
+
+[2:01](https://youtube.com/watch?v=6DIfrvq8Uks&t=121s)
+
+people and hopefully makes you some money in the process. Come on, let's go to [Music] work. All right, so let's dive in. This is actually pretty cool. Now, the number that we see here, the traffic potential of 40,000 visitors a month, I think is actually a lot more right now because this is a news topic. And the value of 373, I mean, I don't think we're going to be making $7 a click in this market if my math serves me correctly. So, take this with a grain of salt. I would think that on this one, I'm probably going to be less than a dollar per click, probably less than 50 cents a click, depending on what I promote. Now, there are some things that we can make a lot of money with, but we need to understand this. Now, we can also see that this is on the rise. Like the trending chart here is basically off the charts. So, let's dive in. Let's talk about how this works. Let's take a look at the trends here. This is the Google Trends where we found the news item. And again, with this news item, you don't need to be some news king to be able to use this
+
+---
+
+[3:03](https://youtube.com/watch?v=6DIfrvq8Uks&t=183s)
+
+one. This is actually one that uh you know, we all know exists. And you could see the trend is even bigger here if we spell it correctly. Who would have thought, right? Now, remember, I'm not the only one spelling things wrong, so that could be a way to get traffic as well. Now, looking at this, what we're going to be doing is we're going to be looking at the tariff news. This is news that is huge. It's affecting trade. It's affecting global commerce. It's affecting drop shipping. It's affecting nearly everyone. And it's going to get probably, the estimates are saying it's going to get worse. So, what we're going to be doing is we're going to use this niche to help people out and help them understand what's going on. Now again, I cannot stress it enough. When doing this, make sure you're ethical. Don't bend anything. Don't do anything weird. We just want to go through and make something very straightforward that will help people, like a little tool or a calculator or something like that. So, we want to keep this in mind. And it's probably not the best idea to get political with this. Like, you don't need to. We're just going to go through
+
+---
+
+[4:04](https://youtube.com/watch?v=6DIfrvq8Uks&t=244s)
+
+and make a tool that helps them out. Much like my niche finder tool, this is a very simple one. I did this years ago when the prime rate interest rate was going nuts. I made a website that calculated the prime rate. Made a lot of money with that. Several hundred,000 and it wasn't that hard to build. Now again, that was me. I've been doing this for 25 years. This is what I do for a living. Most people trying to do this make nothing. Now looking at this, we can see that the tariff keyword is actually getting quite a bit of traffic. We could see over here that even like tariff calculator is getting a lot of traffic. And if we go to the root word tariff, we could see yes, it's getting a lot of traffic. Now, we can also see that if you were to Google the word tariff, you're going to see news items coming in here and all kinds of stuff like that. Basically, the whole first page is all about news and things like that. So, you know, looking at this, this is pretty cool. There's a lot of traffic here. Now, again, looking at this, we want to focus on helping people. What can I make that's very simple, very non-threatening, very easy, just something very basic that we can help
+
+---
+
+[5:05](https://youtube.com/watch?v=6DIfrvq8Uks&t=305s)
+
+people with? And what I'm going to do is I'm actually going to do the tariff calculator type thing. So, what we're going to do is we're going to go to Claude and we're going to create some content. My thinking is, okay, if I can make some kind of calculator that would help people understand what's going on, a lot of people will use it if I promote it correctly and I should be able to get some traffic and hopefully make some money. That's the idea here. That's what I've been doing for years. And the idea is to make something very good that we could drive traffic to whether it's free traffic, paid traffic, news traffic, video traffic, whatever it is. We want to make this very quickly and take it to market. Now, that's not to sacrifice the quality. We need to make sure we have the quality here. So, looking at this, I want to go through and say, okay, what what would this look like? So, if I wanted to make a tariff calculator toolbar, I'm going to go over to Claude, right, like this, and I'm going to start creating something like this. I would say, let's make a tariff calculator tool for my website. Now, it's very important that when you
+
+---
+
+[6:07](https://youtube.com/watch?v=6DIfrvq8Uks&t=367s)
+
+say for my website, you differentiate what you want. Like, is this a PHP website? Is it HTML? Is it React, which a lot of programs are going to default to React. I don't know how to use React, so I need to tell it to stay out of that. And we could say like HTML. Now, if you start with HTML and convert it to PHP later, you'll get a nice preview. If you start with PHP, it won't give you a good preview. So, we'll go right like this, and we'll make a little tariff calculator tool. Now, I went through and made one last night just to test this out and see how it works. I'll show you that in just a minute. While we're waiting for this to build, and you can see it's making it look pretty, which is good, right? That's what all this stuff is. What we're going to do while we're waiting is we want to take a look at this niche and see where the money's at. So, right here, I could see tariff like a 100,000 searches a month. We could see that there's an average of 76 cents a click is what they're saying. This is a news type item. People using a calculator for tariffs are not necessarily looking to buy stuff. So, I
+
+---
+
+[7:08](https://youtube.com/watch?v=6DIfrvq8Uks&t=428s)
+
+think again it's probably going to be less than 50 cents, maybe even less than 10 cents per visitor, right? Probably. We got to look at this, take it with a grain of salt. Just having a tool doesn't mean we're going to make anything. That just gives us a tool where we could put ads. However, we could see there are a lot of different things people are ranking for and there is money in this market. So, as we go through, we're going to see what's going on. And I can even ask ChatGBT or Claude whatever I want about this. And I said, I have a website with a tariff calculator. What are some good affiliate offers I can run with people worried about the economy? That's what we're tying into. They're worried about the economy. They're worried about finances. We're going to make something that hopefully helps them understand what's going on. So, the niche we're doing is tariff calculator. Okay. Now, very important. I am assuming this is going to be a shortlived business. In 6 months, it's probably not going to get any traffic anymore. Hopefully. Hopefully, this stuff is blown over in 6 months. But
+
+---
+
+[8:10](https://youtube.com/watch?v=6DIfrvq8Uks&t=490s)
+
+after 6 months, I need to figure out what I'm going to do next. maybe tackle a new item or maybe use this to build a mailing list. Sometimes we can take a news element, make some good stuff about it, build a mailing list and then live on that mailing list for a long time. It works really well if done correctly. Again, this is a business. We got to look at all the moving parts. Now, we can see here currency and precious metals, which I really liked cuz I was like, okay, I know that different affiliate programs and the clicks pay a lot. Like if I do where to buy gold or something like that, you're going to see that the amount per click shoots up big time. So we got like $5.93 a click. We can even do like gold investing something like that. Okay. Now again, of all the people using a tariff calculator, how many are actually going to click on an ad or buy gold investing? Very, very, very, very little. But it pays a lot. So, you know, this is something I can use and if I build a mailing list and say we'll
+
+---
+
+[9:11](https://youtube.com/watch?v=6DIfrvq8Uks&t=551s)
+
+update you on all this stuff and we'll have new tools and stuff, I think it can work fairly well. All right. Now, we can also see that investments people are flocking to when it comes to recent tariff is like gold. I mean, look at this. We could see the gold chart is off the charts again. There we go. Right. So, year to date, ever since this tariff news kind of hit, which was I think around March, yeah, this has kind of gone up quite a bit. Pretty cool. Now, I'm not an investor. I don't know much about investing and stuff like this, but I do know, hey, I could probably profit by showing people different alternatives to investing in downturned economies. I did this back in the 2008 recession where I talked about real estate and prime rates and different stuff like that, and I did fairly well. Now, going through and looking at this stuff, we see there's a lot of traffic, a lot of things going on. We also have high yield savings, stocks, all kinds of stuff like this. These are like the money things that we can tie people to. So, what we're going to do is actually pretty simple. Let me see if I have my whiteboard here. And we're going to show
+
+---
+
+[10:12](https://youtube.com/watch?v=6DIfrvq8Uks&t=612s)
+
+you how we map this out. Again, if you appreciate these videos where I just show you what I do at work all day, what I've been doing the last 25 years, let me know because that's what I like doing. I love teaching this stuff. You know, the hypy get a lot of views stuff is is difficult for me to make and I can't really teach the good stuff. So, if you guys appreciate this, watch these. Smash like buttons. Let me know as a comment below. So, going through what we're going to do is we're going to make our tariff calculator tool right like this. Then, we're going to have ads and affiliate offers and maybe even like an opt-in box on the tool. Optin opt. So, we could get a mailing list much like I do at gotnitches.com. Like if you went over there, right? I use this tool. People use it. They go to gotnitches.com. They put their name and email. I build a mailing list. I send him other helpful stuff and I build a business out of it. So looking at this is pretty cool. Now let's take a look at what calculator it came up with. So we have tariff calculator origin country. All right, we're getting stuff from
+
+---
+
+[11:13](https://youtube.com/watch?v=6DIfrvq8Uks&t=673s)
+
+China. Product category electronics. Product value $1,000. Shipping cost. Now this is something I noticed last night when I was building a tool like this. I'll show you the one that I made with the logo and the whole site and everything. It had a shipping cost, which for the vast majority of people, like if I'm buying something on Amazon and I want to know how much it's going to cost when the tariffs kick in, I'm not going to know the shipping cost. So, I I took that out of my tool. HS don't know that one. Trade agreement, I I don't know much about that. Now, if you want to promote drop shipping courses and e-commerce courses, you could probably make one for businesses, like how much money will you lose with the tariffs or how much should you charge more? Something like that could work. Just looking at the different angles. Mine I want a vast majority of people. So I'm going to go for the consumers. Let's see what comes up. So calculate tariffs. I just put it like this. It looks like it's not working, which is common. It's not working. Please fix. And we'll see if it'll fix it for us. It
+
+---
+
+[12:13](https://youtube.com/watch?v=6DIfrvq8Uks&t=733s)
+
+should be pretty easy. And let's see here. Okay, so now it's going through. It's fixing it hopefully. And let's see. It took me about nine tries last night and I'm very picky about how I make these and how they work because it needs to serve the market. If I'm serving the general public, I'm going to have that stuff about, you know, hey, how much is the product? What category? Where's it coming from? What am I looking at here? Now, with this, it's going to go through and build this out. Now, if I was doing drop shipping, I could go through and I could do something like dropshipping business or something like that. And you'll see the cost per click is going to go up. Again, this just tells us that there's money in the market. It doesn't tell us how much we're going to get. It just says, hey, advertisers are paying that much per click. Airgo, the affiliate offers, the ads should pay more than if you're promoting, you know, a fluffy bunny website or something like that. So, going through here, we could also see like Shopify or something like that or increase sales, stuff like that starts
+
+---
+
+[13:15](https://youtube.com/watch?v=6DIfrvq8Uks&t=795s)
+
+to get more clicks. So, we're just kind of seeing, okay, can I take this, put it to something that makes money? Now, let's see if it fixed it. It's still working. All right. Now, as I was going through last night, I bought the domain name tariff toolbar.com. Okay, so tarifftoolbar.com. This is what it looks like. I actually had uh Gemini Claude. So many AI tools now. Are you guys like overwhelmed with AI tools? Let me know. uh Claude AI. I I made this homepage and I had it do some disclaimers and things like that which was pretty cool. And it actually parsed in some news items so people can come here, they can see the page, then they can open the calculator, which I'll show you in a minute. But it actually had like new stuff like, okay, here's the new tariffs, here's this, here's this. All kinds of cool stuff of what's going on. It even had most effective products like, okay, 25% tariffs. The average vehicle could go up 2500 to $10,000 per
+
+---
+
+[14:16](https://youtube.com/watch?v=6DIfrvq8Uks&t=856s)
+
+vehicle, much like we saw with the chip shortage where it got out of hand. All right, so this could get crazy. Electronics going to go up crazy. That TV you buy, it's going to go up big time. Clothing big time. All of this stuff is going to go up. Now, we don't know what's going to happen in the news. I'm not a tariff expert. I don't know much about all this stuff, but I do know people are interested in what it's going to cost them, and that's all I care about is making something for that. So, tariff toolbar I got for $11. It didn't have any backlinks. It was a brand new what we call hand regge domain means they register it by hand. It was never owned before. Pretty cool. You can find all kinds of uh different things like this. I got videos on domains you can check out in the description. Now, when we go through, let's see if it finished. So, we have select country, China. Product, electronics, product value, 1,000. Shipping cost zero. Nothing. Let's do one of these. Again, it's not working. Still not working. Now, what I
+
+---
+
+[15:18](https://youtube.com/watch?v=6DIfrvq8Uks&t=918s)
+
+would do is I would go through and say remove trade agreement shipping cost and HS. This is for consumers based on current trade tariff prices and increases. And hopefully it'll do this here. And I'll show you what mine look like here, which is actually pretty cool on a tariff calculator. I got this idea from my simple sites big profits. This is the new course I'm coming out with. And we created all these cool little uh tools that pop up, which is really cool. and they pop up and you can use them and everything like that. So, pretty cool. Now, I got to type in tariff toolbar. There we go. Or tariff calculator. Let's just put tariff in there. Okay. So, monetization strategies here. I'm looking at gold investing. I'm looking at um let's say drop shipping tools, maybe even like rewards,
+
+---
+
+[16:22](https://youtube.com/watch?v=6DIfrvq8Uks&t=982s)
+
+credit cards, right? You could say, "Okay, beat the tariff by getting 5% off or something." and then show them like an Amazon card that gives them 5% off or coupons or something like that. Coupons, um, deal finders, different things like that. Maybe even talk about um, different things that this is affecting. Is it affecting mortgages? Is it affecting this? Ask your AI and really dig deep to get info that's going to help them. So, let's say we have China electronics. Let's say you're getting a $1,200 TV. Okay, for some reason it's not calculating. All right, so again, you have to go through and kind of work this. It might need to be on a website to work, but I'll show you what we came up with with mine. So, if we look at the chat, and I'll actually share the notes from my chat so you can see how to do this over at gotnitches.com. So, we'll email these out when they're all fancy and ready. And we can see here uh the calculator homepage. You can see what it looks like here. I think we can go to it
+
+---
+
+[17:23](https://youtube.com/watch?v=6DIfrvq8Uks&t=1043s)
+
+did it in PHP but basically it is this page here the tariff calculator homepage recent stuff news all of this which I thought was helpful this is good then I can go through and take a look at what else we did which was the calculator up here and I did all this in one chat I did have to upgrade because I was using it a lot so I was I upgraded last night to the $100 plan right so I thought it was worth it definitely going to be using this all the time. So there's the homepage. This is a calculator I had and I actually had it created first. It created in React and then we converted it over. So here we have the tariff calculator. Obviously I wanted to remove the name because I didn't want to get political. But I could see here this is how it works. So basically it's a tool. They put the product value $1,000. Where's it coming from? Boom. Shows the tariff. That's helpful, right? That's like, okay, this is pretty cool. So, if I got a $1,000 TV, now it's like three
+
+---
+
+[18:24](https://youtube.com/watch?v=6DIfrvq8Uks&t=1104s)
+
+grand. That sucks. But at any rate, hopefully it's shortlived. You could see it's got little notes here. It also has the NES on the news on it, which is cool. Um, so there's not going to have stacking. That's a good thing, I guess. And then it shows the different tariffs on the different places. So, pretty cool. Then it shows products with the highest impact. And also, it went through and did like cargo shipments. It shows all the news of like are the shipments down? I know that's something a lot of people are talking about. I don't know if it's true. I don't live that close to a port, but you can see exactly how this works. Now, when I uploaded it to my site, all I did was convert it to PHP right like this. Okay. Copy the PHP, go to my web host, go to file manager, go into the page, create a new file. We can call this test.php. Obviously matching the code that we had there. create new file and then I would just do like this. You'll see it does not exist. Test.php. Nothing there. If I add this
+
+---
+
+[19:26](https://youtube.com/watch?v=6DIfrvq8Uks&t=1166s)
+
+stuff there, edit. We can see. Boom. Here we go. Now we have Well, we should have our calculator. It's probably caching. If it caches like that, we can just use a different browser. And I might not have saved it. That might be the issue. Marcus, pay attention, please. Okay, so I did save it, but you can see how it works and just, you know, get past the caching and stuff like that. Now when looking at this what I did is I actually made this to open in a new tab. So in Chrome or not Chrome in claude what I did is I said now make it uh put my logo on it. The logo I actually created in chat GPT over here. So we have yesterday we had logo design here and then I made different colors and stuff like that. Very simple little bit of tweaking. I changed the text. I didn't like theirs and I didn't like this little box there. What I came up with was this. I thought that was pretty cool. All right. Now, I gave that and said, "Okay, my my logo is on my site as logo.png." So, I just told it,
+
+---
+
+[20:27](https://youtube.com/watch?v=6DIfrvq8Uks&t=1227s)
+
+"Okay, make the logo." Okay. And then it created the logo in here somewhere. There we go. Logo here. Boom. Done deal. And then I said, "Now make a homepage with it popping up as a toolbar." This was cool because what I wanted to do is I wanted them to come here, click the tariff calculator, and this thing pops up so that they can go and be like, "Oh, hey, check it out. Here I am on Amazon. The product I want to buy is $500. Where's it coming from China? What's it going to cost me?" Boom. And it'll give like an overview of how it works. Obviously, we have a disclaimer on it, but you could see exactly how this works. And again, it's got the news, the tariff rates, all kinds of cool stuff like that. And of course, our disclaimer on the bottom. Now, again, I'm not a lawyer. Make sure you talk to a lawyer if you're worried about this stuff. This, I think, is pretty straightforward, but again, you know, if someone's thinking, okay, I'm going to use this and whatever, we want to be careful of that. So, always follow all the legal rules and the rules of what
+
+---
+
+[21:29](https://youtube.com/watch?v=6DIfrvq8Uks&t=1289s)
+
+you can and can't do. But, I think looking at this, this is a pretty solid calculator, right? It's a little calculator, harmless. We tell them it's for information purposes just to kind of give you an estimate. Pretty basic. All right. And it pops up. Very cool. We can have other tools like maybe you'll have one for drop shipping, uh, one for this or one for that. And we can go through and say now make one for drop shippers to estimate what it would cost them. Okay. And then we go through and make a little tariff tool for uh these people. Okay. Pretty cool. So, we could also add like drop shipping, sales, tools, all that. Okay, traffic methods. Now, with the traffic methods, this is a newsworthy item. So, I could do a video. Now, what's cool about having these tools is I could just be like, "Hey, here I am showing you how it works." Pretty simple. It will get traffic because it's in in the limelight. Now, will you get a bunch of traffic? No. You might have to be a little creative with it and watch my traffic videos, but it
+
+---
+
+[22:30](https://youtube.com/watch?v=6DIfrvq8Uks&t=1350s)
+
+is something where you can use. You can also do a press release. This is pretty easy. Happens all the time where I say, "Hey, tariff toolbar announces this new tool that helps you calculate tariffs or whatever." Very simple, very basic. Keeping it very surface level, very fun. Hey, this is just a calculator made to help you out. Now, the competition level on this, I'm going to say, is low to medium because using the news angle, the video angle, it's not a lot of people doing this. Profit potential, I'm going to say, is is medium. Like, you could do pretty well, but you're going to need a lot of traffic. Again, most people trying to make money online make nothing, but we know the offers to promote are pretty solid. We got gold investing, business helping, drop shipping, high paying ads, different things like that that we can use. Now, again, remember the disclaimer and the earnings and and what you're going to add to your site because this is a business. We want to go through and use it. Traffic methods for quick results. We could use SEO where you're using press releases and things like that. Um, I think SEO could work here if you have a really, really good
+
+---
+
+[23:31](https://youtube.com/watch?v=6DIfrvq8Uks&t=1411s)
+
+calculator that people start to link to and have your, you know, press release going to your site. I think that could work pretty good. So, profit potential, I'm going to say low to medium. Audience size is pretty high. There's a lot of people doing this. Growth trend, it's growing. So, again, it's going to leave. It's not going to be around forever. This is a quick get in there, build a mailing list, make some money, get out type of niche. Ease of entry, I'm going to say easy to moderate. Now, the pay-per-click flip evaluation. This is where we get into like the gold was paying like $5 a click and the average cost per click. If I was to buy traffic for this, again, it'll probably be pretty regulated, but you can buy traffic pretty easily as long as you're following all the rules and being ethical. Pretty simple. I'm going to say I could probably get traffic for less than 30 cents a click. Estimated earnings per click is five bucks. So, this is pretty good. Now, again, that's a rule of thumb. I'm not going to get five bucks. It's not going to happen in this market with a calculator. Everyone who visits is not going to make me five bucks. Probably going to be less than 10 cents, but it shows you overall there is
+
+---
+
+[24:33](https://youtube.com/watch?v=6DIfrvq8Uks&t=1473s)
+
+some money in there. Okay. Affiliate offer quality, I'm going to say solid. Investing stuff pretty good. Direct path to profit, it's mid-range. It's not like people looking up a calculator are like gonna go invest in gold or something like that. List building potential, I'm gonna say medium. Can you create your own product? Yeah, you can you can make maybe the drop shippers guide to surviving the tariffs or something like that. There's all kinds of things you can do. Really, really cool. Um, again, focus on really serve that customer, really serve that visitor. Expansion opportunities big time. Like I could build a list, expand it big time. Personal interest. I'm interested in this. I think it's kind of interesting. There you go. Right. But looking at this, there's a lot of things we can do. And having our little calculator is pretty cool. Having this stuff work pretty simple. That's where it where it works is having these tools and stuff like that. Having tools in the simple sites course is what took me from making like very little to very lots. Having these little tools and things that help people is key. Now, let's go ahead and
+
+---
+
+[25:35](https://youtube.com/watch?v=6DIfrvq8Uks&t=1535s)
+
+generate the report. See what we're looking at here for this niche. I think this is looking pretty good. It's got a score of 74. Making the tool with Claude AI, I think, is pretty solid. Building it takes a little bit of a learning curve. You're going to have to test and work with it. You do need web hosting to be able to have this. So, you know, there you go. Now, if you wanted to do this without web hosting and without any money or anything like that, you could do this as a custom GPT, right? That would be pretty easy. You can make a custom GPT. I have videos over at gotnichitches.com on how to create custom GPTs. I've had students that have made them and done really well. One of them in the investing niche, which is cool. So, you think about all the news stuff. Could I tie it into things that would help? How can I provide good things to put people at ease and say, "Hey, there is another way." Um, that is something I learned early on in life is there's always a third way. When people are looking at two different ways to do something, there's usually a third option. There's usually something you can come up with creative that would help all parties and get you what you want. And as I believe it
+
+---
+
+[26:38](https://youtube.com/watch?v=6DIfrvq8Uks&t=1598s)
+
+was Zigg Ziggler said, you can have anything in life you want if you help enough other people get what they want. So utilizing this, making cool little tools, I think is a great way to use Claude to tackle niches that have money. And if you want to learn more about this and get the report on the niches and the keywords and different stuff like that, check out gotnitches.com. And as always, smash the like button. Let me know what you think as a comment below.

@@ -1,0 +1,184 @@
+
+[0:00](https://youtube.com/watch?v=1HXLWIp79p4&t=0s)
+
+Today we are looking at ChatGpt agents and the new agent builder. This is big news in the world of AI, but what does it mean for you when it comes to making money online? That's what we're going to go over cuz I think some of these things can be a distraction. However, some of them can actually help us make money in very very specific ways. In fact, one of the things that I did as a test with the chat GPT agent was giving it full control of a WordPress website and letting it do all the content. The results were kind of stunning. So, we're going to show that in just a minute. Make sure you stay to the end of this video. There's a lot of things we're going to cover and some stuff that'll help you get ahead in the world of AI so that you could build a business and make some money. So, if you're excited, smash that like button and let's go to work. All right, as you can see here, pretty much everyone in their brother is talking about this new OpenAI agent builder. Just yesterday, OpenAI announced that they have this builder
+
+---
+
+[1:00](https://youtube.com/watch?v=1HXLWIp79p4&t=60s)
+
+where you can actually make an agent that goes and does stuff for you. Now, this is a huge play in the world of agent building because we can actually use this and sell it to businesses as a solution for whatever they're doing. So, let's say they want to come in and say, "Okay, I get calls on a phone number. I want to transcribe it and send those people an email or a text." Yes, it can actually do that kind of stuff. And it can tie into different modules and different types of apps online like Zapier and all kinds of crazy stuff. I saw one here where it actually even ties into Teams. So somehow you could link it with Teams and have it talk to people or something like that. Now, for the vast majority of people, I think that this is going to be a little bit on the complicated side. However, I will give you a little tip on how to use it and how to learn it in a very quick way. This is something I tested this morning that worked really well. Now, we're also going to go through and talk about how I used a chat GPT agent, gave it full control of my WordPress blog and had it go to town and make post. We're going to
+
+---
+
+[2:02](https://youtube.com/watch?v=1HXLWIp79p4&t=122s)
+
+show you the results of that in just a little bit because I think this can be a gamecher and I think it can help us go through and get like a to-do list of what to do each day. So, we could go out there and say, "Hey AI, I need you to find news in my industry. Turn it into blog posts so that I can edit them and make them live." This is super important and this is something that we didn't really see before. And there's one little thing hidden in the chat GPT agent when you allow it to use WordPress that I want you to pay close attention to. Now, going through and looking at this, the agent builder is pretty cool. It is a little complicated. So, going through you are going to have to learn it. It's a lot like make or nadn where what you're doing is you're giving it different if then tasks. If this happens, then do this. Go do this and then do this. If the report comes back this way, edit it or whatever it is. Now, going through, you can see that it ties into different tools, web search, code interpreter, it could write software, all kinds of stuff like that. Now, going through and looking at this, I want you to pay very close attention
+
+---
+
+[3:03](https://youtube.com/watch?v=1HXLWIp79p4&t=183s)
+
+because in the age of AI, there's a lot of distractions. Every day there's a new AI tool that promises to make us more productive and make us more money. But while all of that is happening, I want you to focus on these facts. 16 billion searches are done each and every day on Google. A lot of people are saying you need to learn AI search. However, the people that are ranking in Google right now are still making money handoverfist every day. Obviously, ranking for terms that work. Again, this is a business. You want to remember whenever it comes to making money and business, the results are not typical, implied, or guaranteed. The average person makes nothing. However, with that said, there are $6.7 million worth of domain names sold at auction, new domains, all kinds of things each and every day. Not only that, there's $46 million made each and every day through legit affiliate marketing. These are people selling products and services. Not much to do with the make money niche. This is all
+
+---
+
+[4:03](https://youtube.com/watch?v=1HXLWIp79p4&t=243s)
+
+over people selling cameras, coffee makers, Amazon, pay-per-le, paper call. Affiliate marketing is a huge industry. It's happening right now whether you're using the new AI tools or not. Also, AdSense is paying out an average of $82 million each and every day to publishers, YouTubers, and all kinds of content creators online. Not only that, but there's also $18.6 million billion dollars, sorry, with a B e-commerce sales each and every day. So, keep this in mind as you're going through AI tools and ask yourself, is this AI tool helping me get where I want to go, which is getting some of this money through affiliate marketing or AdSense or whatever it is. Again, this is about building a business and doing it the right way. Now, over at Profitscoop.com, we talk about this. I'll have the notes, all kinds of stuff. We have a course there where you can sign up and learn about AI and how to make money with it each and every week. Now, going through
+
+---
+
+[5:04](https://youtube.com/watch?v=1HXLWIp79p4&t=304s)
+
+here, let's take a look at the agent builder and then we're going to take a look at the agent and the WordPress stuff that I put together and show you kind of how it works. Now, going through here, looking at the chat GPT agent builder, what it's designed to do is is primarily help businesses. Think about a dentist, a call center, different things like this. A blogger, maybe you could go through and say, "Every day when I post a new blog, I want you to run it through Grammarly. I want you to make a video script and 10 social media post." This is what an agent does. It goes and does stuff for you. Now, up until now, we haven't seen a lot of agent builders other than NAN and make and different things like that. Now, going through that, we want to understand where this is because the first big agent that came on the scene was Manisim. Manis will go through and it'll do all kinds of things in a linear fashion. So, it's kind of like give it a prompt. It'll go out there and figure it out and it'll do succession. So you could say step one, find these websites. Step two, make a slideshow. Step three, turn it into a
+
+---
+
+[6:06](https://youtube.com/watch?v=1HXLWIp79p4&t=366s)
+
+program. Very robust. If you're not using Manis, I I think that everyone who wants to make money online needs to use Manis in some way, shape, or form. We're going to have a video on that in an upcoming training, probably next week. So keep an eye out for that one. Now going through here, what it's doing is it's building intelligent conversational agents that reason and perform complex tasks much like NADN where it's a workflow. It's going through and building it. The core strength is that it is orchestrating and building AIdriven aenic workflows. An agent is different from just AI because AI I go and I chat and I get an answer. I ask it for a code, it gives me a code. I give it a task like maybe in Manis and it'll go and do that task for me, build it out and there we go. When we're talking about a workflow, it would be much like if I had Manis do a certain thing and then pass it to email and then pass it to this other AI and have it do more of like an employee versus, hey, go do
+
+---
+
+[7:07](https://youtube.com/watch?v=1HXLWIp79p4&t=427s)
+
+this, right? It's like, can you take the trash out versus this employee knows how to clean the whole kitchen. That's kind of what we're looking at here. The user interface I found to be kind of difficult at first glance. However, I was able to go through and ask chat GPT how to use it, which worked pretty good. It told me kind of what to put in, how to make it work if I wanted to do something. So, what I did is I started with, hey, this is what I want to do. Can you help me build that out? And it actually gave me the stuff. I would give it a screenshot. It told me to where to go through and make them work and all kinds of crazy stuff like that which worked really really well. Now again, you do have to register a business and verify it before you can actually use the tool. That's something I didn't really like about this because I mean I pay for the tool. I should be able to use it now. I think this is going to be Chat GBT's play for like a big expensive tool where we talked about a video earlier where they're getting into like $20,000 a month agents. This is a push
+
+---
+
+[8:09](https://youtube.com/watch?v=1HXLWIp79p4&t=489s)
+
+towards that. I think this is their push to like we want to stop losing money and we want to make money. Now, it's really cool because it's kind of like in the old days when you would set up functions in your like your uh keep your clickfunnels or something like that where it'd be like if this guy hits this page, send him this email. If he opens this email and clicks it, send him this sales letter. It would be like an if then kind of thing, which I think if you understand if then, you're going to understand AI much better than other people because that's all it is. It's calculating probabilities and looking at if this equals this, then that equals that. If they say these two words after each other, then it's a joke, not a fact. Something like that. Very, very important to look at. And when going through, we can actually build these. It's got guard rails, so you could say, "Hey, don't do this. Yes, do that." or maybe tie it into um different things that you want like moderate this or save it or if it's a hallucination, put it in the recycle bin or something like that.
+
+---
+
+[9:11](https://youtube.com/watch?v=1HXLWIp79p4&t=551s)
+
+Okay, so very very cool. Now, when going through this, I think this is a long-term play. If you're into businesses or you want to automate processes, this can work for you. However, I think Manis for the vast majority and maybe even make if you want to do that can work as well. Now, let's get into one of the things that I think a lot of people are sleeping on, which is the chat GPT agent. When we get into the chat GPT agent, what we have here is regular chat GPT. And then you're going to navigate to a new chat, and you're going to drop down to agent mode right here. And this is basically going to give it access to your computer or whatever it is you want, right? I got to log into GoDaddy or something like that. Now, at first off, I want to give you a warning. Whenever you have an AI log into something you own, there's always a risk it can go rogue and and do crazy stuff. Couple months ago, I think like six months ago, one of them deleted a website I had. Now, luckily, we were able to get it back through backups. And
+
+---
+
+[10:11](https://youtube.com/watch?v=1HXLWIp79p4&t=611s)
+
+I I had a hunch it was some kind of rogue script or something, but I couldn't verify it. It could have been some it could have been anything. But going through here, you want to be careful. What I always do is I make dummy login. So I would go through into my web host and I would actually make a new password each time. So I could just click here, get a password, copy it, save it, and then I would be able to log in through that. And then you can actually log it out when done. One of the features I found in WordPress is you could actually go into users. I believe it's right under users here. And you can log out a user. So, I could go through here and say, uh, log out of everywhere. I think there was a button that said, you know, log everyone out or something like that. But you can go through and do that, which is really cool. Um, that's something you definitely want to pay attention to. And when I'm done using the AI on my blog, I always log it out and change the password just in case.
+
+---
+
+[11:12](https://youtube.com/watch?v=1HXLWIp79p4&t=672s)
+
+Okay. Now what this allows us to do is I can go through and say let's work on my WordPress site. I'll give it the login right like this and then I'll give it the WP admin here and then I can actually give it a task. So if I go through right like this I think it's actually going to ask me to log in. I believe that's how it works. So let's do it that way. That way it never really gets the password, but just in case. I mean, if someone's able to log into WordPress, there's a lot they can get. There's a lot they can mess up. So, very important. Let's go ahead and try this again. It looks like it's givingven us a little error here. Uh, there we go. So, it's going to open up a browser, right, like this, and we'll be able to log in. And then what we'll do is we'll give it instructions. And I'll show you in real time how it works. Now, when I went through and used this, I was able to have it create posts. The posts were not great. I mean, it was pretty basic and
+
+---
+
+[12:12](https://youtube.com/watch?v=1HXLWIp79p4&t=732s)
+
+some of it was like tables and stuff like that. So, I would have to, you know, kind of edit it, which you should always do anyway. I would never be a big advocate of like just let AI run the show because yeah, there's some problems there. But like something like this, you can go through and make it work um in code and stuff like that. So, now let's go through and we'll just hit take over and we'll be able to log in here, right? like this. Boom. Let's see if it'll paste. It should paste it. Uh, allow. Paste. There we go. So, now it's going to go through. It should fix that. Let's see. Let's see if we can get our password. Save. And here we go. Sometimes it's a little buggy. Um, but going through it's actually going to get this done and it'll help us in a really cool way. So now it's going through. It's a little slow, but I think at the end of the day
+
+---
+
+[13:13](https://youtube.com/watch?v=1HXLWIp79p4&t=793s)
+
+you're going to see this can help you by setting up test posts that we can go through and use. Let's see. Why is this not working? Okay, there we go. Now we're in. And you can see I can control the the screen here pretty easy. Right, like that. I can control, I can edit, everything like that. Now, when I click finish controlling, it now has access to my WordPress, which is pretty cool. And I can go through and say, let's say this site is about interviews and questions. Let's get some info online news recent about uh let's say I think it's for receptionist jobs. receptionist jobs being taken over by AI and other AI job related news. Let's do seven posts. Please add them
+
+---
+
+[14:17](https://youtube.com/watch?v=1HXLWIp79p4&t=857s)
+
+now with summaries of the news and links. And I actually found out this would actually go through and find affiliate offers for you and put them within the content, which is pretty cool. So like if there was a a job interview type offer, I could put that on there and you know, maybe it'll go find it at ClickBank or whatever. So going through here, you can see it's actually logging in. So we can go and look at posts right here. And you'll see it'll actually start editing the site, which is really cool. And one of the things I really liked about this is the ability to come back to it, which this was something I just figured out this morning where I was like, "Okay, if I come back, could I come back each day and say, now add these, now add this." And it'll actually do that. And what's cool about it is you can see how it's working in real time. So, if we were to watch the agent here, you could see it's actually going through and reading different news articles about uh replacing jobs and things like that. and
+
+---
+
+[15:18](https://youtube.com/watch?v=1HXLWIp79p4&t=918s)
+
+it's going to go through and do all the work and then it'll add the post. All of these posts here were added by um chat GBT agent. So, it actually went through and added them and you could see kind of what they look like here and you could see when they were made so you can see how long it takes. Now, again, these are not that great. I would go through and have it do like, you know, 1500 words or 2,000 words or make a table or something like that, which is what I was testing here. I was trying to make little tables in the content. And what we'll do is we'll track this and show you like, do they actually rank in Google? Do we actually get traffic? So, if I go through here and just put table, I can just go to code, replace table with table, and it should work. See how it made the table there. Um, so pretty easy. We could go through and start using this. I also found that these were pretty good at passing plagiarism scores and stuff like that. Now, if you use the chat GPT agent with your blog and the blog profit network plugin, I mean, this
+
+---
+
+[16:19](https://youtube.com/watch?v=1HXLWIp79p4&t=979s)
+
+is kind of a game changer because this will do all the busy work for you. And then I could go through and be like, okay, let's see what the intent is on this. And then boom, it'll actually go through, find the intent, and help me edit the stuff as well. So, like if I go here, click on intent, it'll go through and it'll take that title and it'll read the blog post, run it through AI and get us all kinds of cool stuff that we can use, which is really cool. So, we can go through and we can use that in a very cool way. There's all kinds of other stuff in the BPN plugin as well, and you can learn about that at blogprofitnetwork.com. Now, let's see how the agent's doing. It's starting to summarize now. So, it's saying, "Yeah, a 100 million jobs could be up for grabs there or taken away with AI." And then once it's done, you'll see it does like its own little computer here. It'll show you what's happening behind the scenes. And when it starts opening posts, you'll see that. See how these were all put within like a couple minutes of each other. That was pretty
+
+---
+
+[17:19](https://youtube.com/watch?v=1HXLWIp79p4&t=1039s)
+
+cool. It went pretty quick with AI. So, now let's take a look at this one here. here. If I guess accuses you of bad service, what would you do? All right. I I did notice it had some weird numbers in here. I don't know where it got those. But again, this is why we would want it to do them as posts rather than have it set up the whole thing. Now, going through here, I'm going to show you what I use this for. So, now it's going to open the the browser. Ring Central Transforms customer communications. Okay. Don't know if that was relevant. Let's see if it's actually making him understood. I'll gather information. Jobs created by news-driven. This is where your agent builder would come into play because you could actually have it do this and then have checks and balances like if it doesn't fit my content, reject it. If it does fit it, post it. And you could even tie it into like Grammarly and different things like that where your entire workflow would be in the agent builder. And that would be
+
+---
+
+[18:20](https://youtube.com/watch?v=1HXLWIp79p4&t=1100s)
+
+where you're building the agent for yourself and you're like, "Okay, if it passes, do this. If it fails, do this." Or you can have a user approval where let's say you had an outsource team and you're like, "Okay, your job every day is to approve or reject these posts so that they go on the blog and as soon as they click approve, boom, there you go." Much like, you know, there's workflows that Google and YouTube and other companies have where it's like, "Okay, if this is flagged, then send it to this guy for approval or nonapproval. If it's not approved, do this. If it is approved, do that. So, what it's doing is like a string of functions, which is super important. So, now it's going through. It's trying to open up some page here. Looks like it might get a little stuck, but we'll see how it goes. All right. Proceed. Okay. So, now it's creating the post. Let's see if it's in here. So, it should show right here. It'll say, okay, it's editing. And it should say AI test is editing. So, here it goes. Clicked the wrong tab. All right. So, he clicked the wrong tab. Let's see what we got. Need
+
+---
+
+[19:20](https://youtube.com/watch?v=1HXLWIp79p4&t=1160s)
+
+to return to WordPress. Okay, here it goes. And you can see it's thinking, too, which is pretty cool. And I would venture to say that this is probably faster than the average person trying to blog, which is pretty crazy. So, like they're going to go through and the AI can fix this up. It could even go through and you can make all kinds of different stuff. Let's see why it's struggling. Okay, there it goes. So now see it's clicking post. Watch. You'll see it working in the blog in real time. Drop down. Apparently it has to like learn all about it. All right. It should pop up here any second. Page didn't navigate. Might still be loading. Come on now. Let's see if it's even There it is. Okay. So study reveals generative AI is replacing entry-level workers and software and engineering customer service. So you could see it's actually
+
+---
+
+[20:21](https://youtube.com/watch?v=1HXLWIp79p4&t=1221s)
+
+editing this in real time. And you can take a look at what it looks like and you can just do a preview. I'm not going to mess with it because it'll it'll take him out or her or the agent as it were. Right? So we'll watch and see where this is going. And it's usually pretty quick. Like there we go. study reveals generative AI. Okay. And you can even say, you know, make the post more clickbaity or something like that. Right. So now it actually did post the content. So now it's publishing it. So let's see what it does there. It should have it here. Press the save draft. Now I'm waiting to confirm the draft has been saved. A spinner is shown. That's pretty crazy how it just knows everything there. Let's see. It's trying leaving the site without saving since
+
+---
+
+[21:21](https://youtube.com/watch?v=1HXLWIp79p4&t=1281s)
+
+the draft was already saved. Did it leave? Let's see if it saved the draft preview. There it is. So, now it has that. And again, it's got these weird numbers. Let's ask it what this is. So, it's got the the reference there. And this would be good as a publisher because like what do these numbers mean? Let's see if it actually if it stops it. Yeah, I'm not sure if that stops it. But this is actually pretty cool because as a publisher I could go through and I could have it create like an infographic or whatever about this. Let's see. Looks like it's trying to answer. Think we might have stalled it. Let's see if he's making any other posts in here. All posts. So, yeah. See, it's doing another AI is redefining. So, it's actually going to work while we're talking to it here. Now, it looks like
+
+---
+
+[22:23](https://youtube.com/watch?v=1HXLWIp79p4&t=1343s)
+
+Okay, it looks like it is. Is that the other one? Okay, the notation is in my messages as reference. Okay, cool. Okay, keep going with the posts. Make sure um they have good short titles and summaries and then it'll go through and what would be cool is okay, I could have an outsourced worker come in here every day and be like just check the stuff that's here, update it and everything like that. And I think we can also do a post. Let's see. And this is something that the BPN plugin would do for you as well where it would go through and and create an infographic. I think we have an infographic button down there. So it turn your content into the infographic. So there's the report one. Let's see if it's loading it. There we go. So that would be kind of cool. Now I can say like now make a clickbaity infographic
+
+---
+
+[23:25](https://youtube.com/watch?v=1HXLWIp79p4&t=1405s)
+
+for this post. I'm not sure if the agent does this. It'll be kind of interesting though like if it shows what it would look like from the agent like oh I'm actually creating the image. Let's see how this does it. It might not in the agent one but we'll see. And then again see how you can connect to different things here. That's getting into the agent realm as well where you know that's where these agent builders are going to go is thinking about like the things that I'm asking it here. This would be the flow be like log in to site, find news, do this, run it every day. Boom. It'll run it every day without me having to come here. Now, if you wanted to just come here and do this, I could just keep this open like I started this last night. And now I can go through and be like, okay, continue on. Let's get some news reports today. So, now it's going to generate the image. This will be interesting to see what it looks like. There's the there's the title or the prompt. See how it turned that into a prompt? That's kind of cool,
+
+---
+
+[24:26](https://youtube.com/watch?v=1HXLWIp79p4&t=1466s)
+
+right? And it had the quote, so I didn't even have to find the quotes. It went and found them for me. And let's see what it looks like. But now seeing this, it's kind of giving me the stuff and all I have to do is go and post it, right? So, all I would have to do is check it, post it, tie it to an affiliate offer, which you could even tell the AI, hey, make sure that these have some way to tie into this free guide or book or affiliate offer or program or whatever. Like, if you're doing mortgage stuff, make sure it ties into reverse mortgage or whatever it is you're trying to sell. This can work in a really, really good way. So, let's see if it's still adding other ones. That'd be kind of cool if it was like adding blog post and making that at the same time. Go to all posts. Okay, looks like it did stop, but they are drafts, so that's cool. Let's see how this did. AI is redefining tech roles. Okay, so it has like a lot of stats and stuff. And this is brand new, so that's good. It is brand new news. Um, well, a
+
+---
+
+[25:27](https://youtube.com/watch?v=1HXLWIp79p4&t=1527s)
+
+day old as it were. So, like if you had an AI news site and you wanted to post content about AI news, this would be a game changer. You could go through and use this in such a cool way where you're literally just helping people out and finding news. Um, hey, look at that. It actually did make it. Let's see what it looked like. I don't know if I can I probably have to do a new one there, but this looks pretty cool. That's a good infographic. And that's the kind of thing I can post on Facebook, link to my post on the blog, and boom, now I'm ready to go. This is pretty gamechanging stuff because for most people who want to make money blogging or build a publishing business or whatever it is, this is going to help big time. Is it going to do everything for you? No. But it can help. Let's see if it's actually going to post it. I don't know. Let's Let's see if it's posting. Okay, so it is adding the image. This is really cool. Let's see if it adds the image. I mean, we did this a year ago or six months ago with a AI model with make and
+
+---
+
+[26:31](https://youtube.com/watch?v=1HXLWIp79p4&t=1591s)
+
+it was not this detailed. So, let's see if it actually gets that image. I don't know where it saves it on his computer. Look, I think it uses Linux, but I'm not sure. Come on. is a little on the slow side. Let's see here. Posts. Okay, so it is still adding I think. Is that the one it's adding the image to? I think it is. I'm still in the selection. Okay, there we go. So, it did save the image. Guys, this would be super cool because if it put them on our blog now, I would have the thing to post. I would have it on the blog. I'd be ready to go. And you can actually train it and be like, "Okay, I wanted to have my URL at the bottom." Now it's doing I mean, this is like having an employee. This is this is pretty cool stuff. All right, so now it's trying to zoom out the view. Okay, scrolling down and let's see if it showed up in our media.
+
+---
+
+[27:34](https://youtube.com/watch?v=1HXLWIp79p4&t=1654s)
+
+It did. So there it is. That's pretty cool. This is amazing. I mean, thinking about how you could use this with your publishing and your blogging and your content empire, game over. And all you would have to do is train it. So, in AI Profit Scoop, I'm going to have some prompts that I'm messing with. I actually went through. I have 150 page prompt guide here that we're using. I will put this in AI profit scoop. If you're not a member, go to alirofitscoop.com. I think we have a member button there where you can click and join. Um, if you just want to be on the list, just, you know, put your info there or you can click join AI Profit Scoop and we have a call today at three. We have calls every Tuesday and Friday um to help you make money with AI. But what I'll do is I'll go through and test this. I'll have my team test it and we'll make some good prompts so that we can get really good info out of this because if you can have it do this and you understand what you
+
+---
+
+[28:34](https://youtube.com/watch?v=1HXLWIp79p4&t=1714s)
+
+want, that's the key to AI. That's the key to having employees. That's a key to outsourcing is understanding what you want, seeing your business as a whole. Like we went through in yesterday's video where we're talking about the um invitation, wedding invitation niche. Okay, where am I taking this? How is it going to look? How would I bake that into this AI or the agent workflow and make it work for me? This is where we're going to get to the next level. And these are the kind of things where we're teaching AI automation and things like that where you're going to understand and you're going to be on a next level from the people who just want to make money with AI. This is big stuff here. And the fact that it actually uploaded the image, I mean, I can even have it make an email for it, right? And then once I have that set up, right, like the prompt that I'm going to build, the master prompt that we'll put in AI profit scoop. Once I have that, now I can do that for everything. It's like, okay, make the image, make the email, brand the image, make the blog
+
+---
+
+[29:36](https://youtube.com/watch?v=1HXLWIp79p4&t=1776s)
+
+post. All of this very, very important. And you can see it just keeps going. It's just adding new posts. Here it goes. It's going to keep doing the seven. Uh, which is really cool. And maybe it'll start making infographics for each one. That'd be kind of cool. And now you're seeing, okay, this agent feature is a game changer. I messed with this a while back and it wasn't as kind of like, okay, what what gives? It wasn't working. Now, it seems like they fine-tuned it and it will absolutely work. So, if you want the giant prompt and the notes from this video, as well as some other prompts, and I'll show you some of the stuff that it's making, check out apiprofitscoop.com. Make sure you watch the videos in the description, yesterday's video and Friday's video. Very important because if you go through the 7-day blog challenge we're doing, and you use it with these tools, it's going to put you so much farther ahead and it's going to take the busy work out. It's almost like we're in the realm of like no excuses mode. You either want to do it or you don't. Very, very important. So, apiprofitscoop.com. Check out the videos in the description. Smash the like
+
+---
+
+[30:36](https://youtube.com/watch?v=1HXLWIp79p4&t=1836s)
+
+button if you enjoyed this.

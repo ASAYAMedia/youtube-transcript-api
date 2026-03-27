@@ -1,0 +1,123 @@
+[0:00](https://youtube.com/watch?v=7te3UcO7zC8&t=0s)
+
+so you got your page set up you're ready to go you can collect names and emails of interested people on your website but what do you do next what are you supposed to do with all these names and emails well today we're going to talk about how to make backend profits by mailing your list setting up an autoresponder series and driving people back to your site and we're starting right now alright so let's get started and talk about setting up the autoresponder series and your mailing list to go out and make profits now what we have here is a sample of a squeeze page this is a page that I use on my affiliate marketing dude comm website you can see that the user can put their name and email in the box and they get whatever it is we promised them so in this example we're promising them a really cool affiliate marketing dude toolbar which is great so they fill that
+
+---
+
+[1:01](https://youtube.com/watch?v=7te3UcO7zC8&t=61s)
+
+out they watch the video they get their toolbar everything's wonderful everything's ready to go what next now what happens next is in our a weber or whatever autoresponder we're using I like to use Aweber what we're doing is we're creating a list of emails that are gonna go out in succession once someone's puts their name and email so if they put their name and email they can get in a message instantly the minute they fill it out and here's how we set it up all we have to do is go over here and I usually use the HTML editor we're gonna go right here and we're gonna set up a message it's very easy to do and the way we're gonna set this up is we're gonna choose a subject line now you've got to remember that when you are talking to someone you have to think about what their mindset is so right now they're thinking hey Marcus I want that toolbar you promised me right so I can go ahead and go in here and say hey name if I want to put their name in here I could put subscriber info and put their first name so if it's like Bill would be like hey Bill comma your tool bar download is ready okay or if I
+
+---
+
+[2:07](https://youtube.com/watch?v=7te3UcO7zC8&t=127s)
+
+want to make it more specific I could put your affiliate tool bar download is ready really cool that's going to be this subject of the email then I would just go in and say hey name we'll go ahead and put their name in here again hey name thanks let's put a bill enter here thanks for joining my mailing list you are gonna get tons of killer videos and tools just for being my subscriber right really easy we're just talking in a conversational way okay there we go so be on the lookout for my next emails they are gonna be good okay but let's do an intern but for right now download
+
+---
+
+[3:08](https://youtube.com/watch?v=7te3UcO7zC8&t=188s)
+
+your affiliate marketing toolbar here okay now what we're gonna do is we're gonna link to the page where they can download this toolbar okay so I have it on affiliate marketing dude calm slash download dot HTM okay so this is the page where they can download it really cool so I'm going to go ahead and go into my message here I'm gonna highlight this this phrase that I want to link to and put my link in here boom there we go and bada bing there it is okay so when they get it they'll be able to click it go to the page bada bing bada boom now this is how you get more traffic back to you because if you take a look at some of my example autoresponders you're gonna see that some of these are getting like 50 percent open rate almost 50 percent and a lot of people are clicking okay this is on one of my bigger lists so it's more generic on my more tight niche list we get a much better rate sometimes as much as 80% or more open rate and click the rates even higher net a little bit lower than that obviously
+
+---
+
+[4:08](https://youtube.com/watch?v=7te3UcO7zC8&t=248s)
+
+it's usually about half alright so we're gonna go in there so but for right now download your affiliate marketing toolbar here now I'm gonna put some more stuff about the toolbar this toolbar will give you dot-dot-dot instant access - killer affiliate programs you can use to profit fast okay let's put another little bullet point up to date info on what is working now in the affiliate marketing world plus access to my weekly live trainings videos and more go ahead and download your affiliate toolbar now okay again we're gonna copy this one
+
+---
+
+[5:09](https://youtube.com/watch?v=7te3UcO7zC8&t=309s)
+
+here click the link boom there's our link it's gonna drive them back to our page so every time someone clicks the link in the email that's like getting another visitor that already knows who you are so it's really really profitable because as these people get to know you like you and trust you through the good content you send they're gonna be buying your stuff checking out affiliate offers and stuff like that so if you're in like the mortgage industry you'd be like hey check this out here's how to find the best rate hey check this out here's how to get a zero down hey check this out the rates just got lowered or whatever it is that fits your market that helps them out so really cool now we're gonna go ahead and do this so we have our main template here talk soon Marcus and then I usually include a PS I usually like to include the link in each my email about three times maybe three to five at the most really cool okay that way you get more chances for people to click on them PS be on the lookout see how I'm getting them prompted for tomorrow's email it's going to have my
+
+---
+
+[6:15](https://youtube.com/watch?v=7te3UcO7zC8&t=375s)
+
+killer video on how I set up a brand new site and made 68 dollars and 99 cents the first day online okay then I'm gonna put the link here yep let's see let's put the link here I'll just copy this one put it right there and there we go okay and then you can put your disclaimers and stuff below and usually what I do is put a dot enter dot enter dot enter dot introduct enter dot about five or six times so that it breaks it up a little bit and then of course Aweber is gonna put your automatic footer with your address and everything like that which is good usually if you're gonna put your address I would recommend highly that you get a P o box that way you know people aren't writing you at home or something like that which no one ever writes but just in case get a peel box they're like $30 a year or something cheap like that okay once we're done we're gonna go ahead and hit save and exit then we're gonna go
+
+---
+
+[7:16](https://youtube.com/watch?v=7te3UcO7zC8&t=436s)
+
+through and we're gonna say okay and let's see did we do this in the right spot messages well I guess you follow up okay I think I might have done this in broad kiss we'll just go ahead and copy it we're gonna go into legacy follow up sequence here I guess you follow up HTML editor okay it should be working here let's take a look I'll just copy this all right like this that way I don't have to type it again and I think it should ask me like the time that you want to do this as well so it's the air save and exit okay Oh add to follow up series there we go gotta have a brain to do this right so we're gonna add it to a follow-up series we're gonna do here's the subject interval follow-up number one is the welcome messages your scribers get immediately after they sign up so as soon as they fill out that form they're gonna get this yes we want to track
+
+---
+
+[8:17](https://youtube.com/watch?v=7te3UcO7zC8&t=497s)
+
+clinks clicks and then we're gonna add this to our follow-up series boom there we go and there we go alright so that's number one hey first name your affiliate toolbars ready now we can go ahead and create another one we'll just go ahead and do HTML editor here and then of course what we would do is we just go ahead and find some kind of content or whatever now the key to using your autoresponder is to send them back to your blog okay that's why on my blog what I do is I have it structured the way that we teach in the simple sites course over at simple sites bonus com where we actually have the structure of the five pages on top or a couple pages on top and then everything else is hidden behind the scenes now you can find it if you know what you're doing which obviously we made the blog so we do know what we're doing and we could just go through and we can link to these other pages here and you can see all my other content here so if we wanted to go through and say hey you know what we want to send them the $68 a day video or whatever let's say it was called this
+
+---
+
+[9:18](https://youtube.com/watch?v=7te3UcO7zC8&t=558s)
+
+passive income one or something okay so what I would do is I would now copy this link and then I would go ahead and create the new message we're going to create the new message here and it'd be hey name let's do first name here hey first name check this out or we could do something if we know they're gonna check it out we could do something like simple affiliate site profits sixty-eight dollars a day and they're gonna they're gonna be interested in this because that's why they opted in to your list okay so you gotta make sure it's interested I wouldn't want to be like hey you know here's how to trade Forex because they didn't come to me to learn how to trade Forex or Bitcoin or whatever they came to me to learn affiliate marketing okay so I want to keep it very tight-knit very in the realm of why they signed up in the first place so very important
+
+---
+
+[10:18](https://youtube.com/watch?v=7te3UcO7zC8&t=618s)
+
+there okay simple affiliate site profit six sixty eight ninety nine its first day online watch this new video okay there we go now I have to do is be like hey name as promised let's do enter as promised my as promised here is the video I mentioned in yesterday's yesterday's email dot dot dot click here to download and watch the video and you might be wondering why I use the word download a lot that's because it gets a lot of clicks okay so the word download is like the magic sauce for email marketing alright so click here to download and watch the video and then I'm just going to go
+
+---
+
+[11:19](https://youtube.com/watch?v=7te3UcO7zC8&t=679s)
+
+through this video will show you how to find untapped niche markets to profit with affiliate marketing three ways to get your visit tours to click the stuff that gets you paid Plus learn how I make money without even selling anything and obviously you want to make all this stuff true which in this case it is but for yours you want to make this stuff true as well so whatever you're doing if it's like a review of someone else's product if it's you know like getting them for hosting or something which I'll show you in the next one we can go through and use that as well okay so hey name as promised here's video I mentioned in yesterday's email click here to download and watch video this video will show you blah blah blah click
+
+---
+
+[12:20](https://youtube.com/watch?v=7te3UcO7zC8&t=740s)
+
+here to download the video thanks again Marcus PS keep an eye out for tomorrow's getting started email that that will have all the info you need to get started with affiliate marketing ok dot dot dot click the link again there we go and there we go so there's that one okay so we're gonna hit save and exit and now we have two messages we'll do add two follow-up series and we're gonna do follow-up to sent one day after previous that means they get email one instantly after they sign up an email twos going to come one day after that or 24 hours after that okay so go ahead and do add to follow-up and boom there we go now you can see in our follow-up series we have two messages and you could do
+
+---
+
+[13:21](https://youtube.com/watch?v=7te3UcO7zC8&t=801s)
+
+this like you could do this every day for a year you can do it every week you could do it every two days whatever the more you email your list the more money you usually make obviously within reason you don't want to email them 50 times a day they'll get annoyed and unsubscribe but if it's information that they really want you can do this really really cool ok imagine if you had recipes or a Bible site and you had like new Bible verses every day and you can get them to go back to your site write the name of the game here is getting people to come back to your site get them to come back to you back to you back to you because the more times they visit your site the more you're going to make because they're gonna click on things the more times your ads will be shown and everything like that so super super easy and you want to pay attention to this stuff all right so now I'll show you how I do it with an affiliate marketing offer okay so I'm gonna go through and I'm gonna do create a message HTML editor okay now what I'm gonna do is I'm going to use the page that I use for hosting now
+
+---
+
+[14:23](https://youtube.com/watch?v=7te3UcO7zC8&t=863s)
+
+notice if I go to start here first this is a video and a page designed to get people into a web hosting affiliate offer now this is good because this gets you around a lot of the blocks when it comes to affiliate marketing one there's a block where you know if you're just doing direct affiliate marketing there's all kinds of stipulation some companies don't allow it some people don't like email marketing some companies don't like you to buy traffic if you're doing affiliate marketing so what you're doing is you're in essence promoting your own site to promote other stuff right so I'm not sending them directly through the offer I'm sending you to a page that explains what the offer is okay so if I was doing a Bible verse one I would send an email that's like hey you know here's your inspirational Bible verse of the day hey today's inspirational Bible verse is great it's helped me through tough times click here to see the Bible verse + a blurb ok now on that page the main idea would be hey here's the Bible verse you were looking for and then secondary I'd be like hey do you want more Bible stuff download the Bible
+
+---
+
+[15:23](https://youtube.com/watch?v=7te3UcO7zC8&t=923s)
+
+toolbar ok that would be my affiliate offer now really cool it works extremely well and you could do this in any niche market ok so notice how that's done this page here and you can see this page on my site if you want to see how it works right little video explains how to sign up this is an affiliate offer okay so I'm gonna copy this link I'm gonna go over to edit my message and I'll do need help getting started with affiliate marketing question mark I can put their name in it if I want so I'll just put name so be like Bob need help getting started with affiliate marketing question mark need to get started name ok here is a little video I made on the fastest way to get your first affiliate marketing website up fast
+
+---
+
+[16:26](https://youtube.com/watch?v=7te3UcO7zC8&t=986s)
+
+I call this the hub site method click here to watch video and get started this will help you get your first affiliate site off the ground in as let's do in as little as 15 minutes yeah it's that easy want to start your first affiliate site in 15 minutes click here for instructions ok and then I could do go start your site now Marcus
+
+---
+
+[17:28](https://youtube.com/watch?v=7te3UcO7zC8&t=1048s)
+
+okay and then PS I included a PDF download that walks you through the steps to get started best it's really easy and put the link again okay let's go ahead and add the link here boom and boom and we'll go ahead and just take a shortened version of the link like that into your inter interpret the gold dots and save and exit okay so as you can see it's really cool these are emails that can go out right away and it's gonna be sending these emails out to people who have signed up for my list so like if I get a hundred people to sign up today that means a hundred people get the message today tomorrow 100 get the second message the next 100 get the second message so you know if like 20% clicks
+
+---
+
+[18:29](https://youtube.com/watch?v=7te3UcO7zC8&t=1109s)
+
+on each message that's a lot of extra traffic for you usually you know you get a good rate and the more messages you have the better it's going to be okay so I'll send this one day after previous really cool so that's how you want to do it for an affiliate program as well so we can go through and do that now here's another cool thing that you can do as well as you go through you can get these emails in here and you can actually go through and you can send a broadcast right so if I have a broadcast I'm like okay well I just want to send a message right now and send everyone on my less this cool thing you can do that as well and all the other people will still get their message just like they're set up this one will just go out on top of it which is cool right so really easy really simple to do again you just want to focus on again you just want to focus on you know how it works focus on talking in a conversational style focus on helping your market out and focus on driving people back to your site where your offers are gonna be where your content is gonna be and every piece of content should be geared to lead them to the next step notice that one is like
+
+---
+
+[19:31](https://youtube.com/watch?v=7te3UcO7zC8&t=1171s)
+
+here's how to get started but I'm trying to get them into web hosting okay I could also do another one that's like hey here's how to start your email list click here to get an autoresponder or something like that now in the simple sites big profits course I'm going to teach you a lot of little tips and tricks that I use with email marketing including using custom variables passing variables on to affiliate sites and your own sites how to structure messages to get the best click-through how to structure affiliate offers how to bond with your list how to make money with your list in everything and we'll help you out we'll go through and check out your messages and see how you're doing and help you get a better rate so you can check that out over at simple sites bonus com but I wanted to make this video to give you a little overview of how to get started with your mailing list so you can send some messages out and get some stuff done the key is remember always provide good content based on why they filled out the form in the first place and if we look at that why did they fill out the form well they want it well let's go to the right page here if they came to my page and filled out this form on affiliate
+
+---
+
+[20:33](https://youtube.com/watch?v=7te3UcO7zC8&t=1233s)
+
+marketing toolbar then they're interested in affiliate marketing if they filled out yours for like a mortgage quote then maybe it's like mortgage oriented or maybe buying a house or maybe recipes or Bibles or whatever and you want to utilize your list and pump it full of a good bunch of good messages that will help these people out and again remember these messages go out while you're sleeping while you're not working while you're on vacation they're out there getting people back to your site and hopefully making you money over and over and over again so this is how you do newsletter marketing we're gonna go through and do some other videos on this as well so make sure you subscribe to my channel if you like this stuff and check out the next video and also check out our simple sites big profits course at simple sites bonus comm and get some sample templates of emails that you can use to get people back to your site to make more money thanks again for watching I'm Marcus from affiliate marketing dude calm and I'll see you in the next video

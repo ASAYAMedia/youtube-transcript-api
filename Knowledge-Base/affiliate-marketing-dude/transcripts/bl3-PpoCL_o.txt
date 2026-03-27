@@ -1,0 +1,177 @@
+[0:00](https://youtube.com/watch?v=bl3-PpoCL_o&t=0s)
+
+could 2025 be the end of making money online well that's what people have been saying in fact some of the recent videos about certain web apps like the honey app and Pi have been threatening to suck money out of creators and bloggers Pockets automatically is this all just a bunch of hype or is making money online facing extinction in 2025 well today we're going to get to the bottom of this what are apps like the honey app and the pi ad blocker extension threatening to do to us Affiliates creators bloggers and people looking to make money online and what do you need to know going forward in 20125 to actually put money in your pocket and insulate yourself against Ai and all the businesses trying to take money out of your pocket in a few of my previous videos I talked about the honey app and the threat that it poses to affiliate marketing in fact you
+
+---
+
+[1:02](https://youtube.com/watch?v=bl3-PpoCL_o&t=62s)
+
+might have seen this video from four years ago but what you might not know is there's another app by the same team lurking around in the shadows trying to take money out of your pocket and yes I don't just mean Affiliates creators and influencers your pocket as a consumer According to some experts these apps are silently causing inflation within the market meaning the cost of the things you buy every day is going up expon eventually and most people don't know why which is why today we're talking about Pi p p p this web browser known as an ad blocker has gotten over a million new users in just a couple of months but what is it what does it do and is it as Sinister as people are saying I mean let's face it ad blockers have been around for quite some time you might
+
+---
+
+[2:02](https://youtube.com/watch?v=bl3-PpoCL_o&t=122s)
+
+remember this little doozy right here the to this box threatened an entire multi-billion dollar a year ad industry why because armed with the to and the remote you could now skip past those pesky commercials nobody really wanted to watch anyway and when too came out ad Executives were up in arms wondering what is the future of advertising on TV fast forward 255 years later we can see that advertising now is much different than it was when too first came out and this begs the question was too doing something unethical were they sidest stepping the rules by dipping into the pockets of the TV advertising networks the actors the crew and even the guy picking up the chords in your favorite movie or TV show yeah this little scheme runs deep yet it was perfectly ethical and legal so how do companies get away
+
+---
+
+[3:04](https://youtube.com/watch?v=bl3-PpoCL_o&t=184s)
+
+with skipping ads and taking money out of your pocket well we're going to get into that in just a minute and we're going to show you exactly how and why Pi is going to do the same thing only in a little bit more Sinister evil way all right so let's dive into these ad blockers and what the effect is like on the industry right now the ad blocker industry is worth about $8.8 billion as of 2023 and expected to grow to 82 billion by 2030 now that number seems a little high to me I'm not sure if it'll get to 82 billion but we shall see because when you're dealing with ad blockers that's money that comes out of someone else's pocket so this isn't like something where they're inventing a new business or anything like that they're literally just taking from one pocket and giving to another as of mid 2023 they estimated that there was 9912 million ad blocking users with an increasing amount so this is on the grow but how does this actually work in just
+
+---
+
+[4:06](https://youtube.com/watch?v=bl3-PpoCL_o&t=246s)
+
+a minute we're going to get into installing it and showing you how it works but before we do I want to kind of give you the Good the Bad and the Ugly of what's going on first of all the idea is very simple we want to remove ads and then as the pi company is doing they want to show their ads and pass some of that money back onto the consumer where if you were to look at some of the quotes that he mentioned in the talks I was listening to he basically acts like an altruistic person saying we're going to give the internet back to the people which is where Pi comes from the people's internet experiment I think is what it's called or something like that where they're going through and trying to give the internet back to the people but that's not really giving back to the people if you're taking a cut for yourself that's being another big business that you're supposedly hating on in my opinion again all of this stuff is alleged we don't actually know what's going on but I'm going to show you how this thing works so that you can make an informed decision for your yourself so the idea is we're going to go through and we're going to remove ads how does this work well the way that this works is actually quite simple what they do is
+
+---
+
+[5:07](https://youtube.com/watch?v=bl3-PpoCL_o&t=307s)
+
+they have a list of known ad sites and platforms Google has their own ad platform eoic has theirs Yahoo has one all of these big ad places tabula all of these have tabula that says tabula all of these places have ad platforms hosted on domains what the tool does is it goes in and takes the domains and it says when this domain shows up remove the part of the website that has that domain thus removing the ad same thing happens with videos again I think ad blockers are in my opinion not the most ethical way to be a consumer online it'd be kind of like if you were you know going to a a movie and taking your own drinks is that something people do yes is it ethical no should the people charge $10 for a soda the size of my house probably not that's contributing more to diabetes than it is wasting money but at any rate we have to look at this and understand what's going on so going through and
+
+---
+
+[6:09](https://youtube.com/watch?v=bl3-PpoCL_o&t=369s)
+
+looking at this and saying it's removing the ads and then they're saying you can have a choice to put ads back on but you're going to see our ads effectively being the middleman saying any AD you see online if you have this is R ad and you get a small portion of money back so what's happening is this list of ads and AD sites that they have goes into a database it tells the installed toolbar hey when you see this block it and it blocks that ad and calculates how much space it saves based on the size of the ad this is all stuff that is basically in HTML anyway if I was to go to New York Times right like this you are going to see that there are certain ad places on here that they will remove same with the sponsored l here they know that that's an ad the tool would then remove that again I don't think it's very ethical because if Google wasn't make money they wouldn't provide a good search engine I mean that's just the way
+
+---
+
+[7:10](https://youtube.com/watch?v=bl3-PpoCL_o&t=430s)
+
+it goes and sometimes ads are actually pretty good but what it's doing is it's going through and it is taking the ads out of the website in a very simple way Facebook we didn't test it with Facebook but I'm pretty sure it will remove some of the ads on Facebook and uh Instagram and different things like that as well so that's what's happening it's going through it's removing the ads that part unfortunately that is what the consumer wants so if the consumer doesn't want to see ads then us as marketers as businesses that advertise things we need to rethink what we're doing and I'm going to get into that in just a minute I'm going to show you how to survive thrive and make more than ever thought possible in 2025 and hey that rhymes so smash the like button let's install this and check it out we're going to add this to Microsoft Edge just because this is a browser I don't use that much and you know you never know what you're going to get but over here we can kind of see what it does so from a consumer perspective what would you think of this like are you intrigued by the idea of blocking ads or I'm aware but I believe
+
+---
+
+[8:12](https://youtube.com/watch?v=bl3-PpoCL_o&t=492s)
+
+like a lot of people will use this ad because it seems useful for them both by blocking their ads and bringing uh money if you watch something my only concern is that as any other extension the main purpose is to get profit so it again can kind of control of what you see and what you don't like if the advertiser paid you you promote them if they didn't you'll never know about them yeah and I think it's interesting too because you know this company has an altruistic view where they're like oh we're saving the internet from businesses but this is founded by one of the biggest Chrome extension businesses ever to exist yeah and they are they're genius in this because they do provide your value as a user and if you don't think too deep you won't even notice something is wrong exactly kind of like too like it did affect the industry so let's go ahead and click on get let's see what happen so right here um one of the things to pay close attention to is what an extension can and can't do so this can
+
+---
+
+[9:12](https://youtube.com/watch?v=bl3-PpoCL_o&t=552s)
+
+read and change all your data on all websites so you log into the bank it can it can change things now can it go in and do things on your behalf an extension can we saw that with the honey app where it put coupons in on behalf but again it would need to be in here so that's kind of like okay you got to watch out for that manage your apps extensions and themes M so this can manage all other extensions that's interesting so from a person who knows computer and you know computer pretty good this kind of scary yes it is scary because as you get something useful from it but at the same time you also trust them a lot with your data and with how your overall experience going to look like mhm okay so now we've installed it I did see it popped up here so let's go ahead and pin this to the bar so we can see it at all times and see kind of what pops up so ad block is enabled on this site so they have an ad block on their own
+
+---
+
+[10:14](https://youtube.com/watch?v=bl3-PpoCL_o&t=614s)
+
+website that's kind of weird um choose your ad block mode okay visual watch ads vanish off the page okay earn rewards no thanks because we don't want to sign up unlock more cash back now one of the things I saw in this is they they were very liberal with the word invest mhm which was like how what are you guys asking me to invest in that was kind of interesting I think that could be a play for later maybe they're going to have some kind of platform or investment kind of deal um one of the things I would look at is like never underestimate someone who's made millions or billions when they're not making that much anymore because so true they will do so much to get it back and we think as normal people like oh they got billions what do they care about um and that's something look at so let's do here's an interesting one ad pie shopping now one of the interesting things here is this is not in the extension this is on the website M so technically this entire website is
+
+---
+
+[11:14](https://youtube.com/watch?v=bl3-PpoCL_o&t=674s)
+
+controlling our experience yes so they're talking back and forth to each other so add pie shopping I'm guessing this is going to be like add honey to pie but yeah it seems like it's the same thing exactly yeah cash back to you so they're kind of making like a rutin add blocker play add coupons which I don't know depends on how long their non-compete was with PayPal I mean that could be you know I don't know I don't know anything about that it's all alleged let's ad pie shopping and see what we got so now we have the the tool installed so if I was to go to like New York Times let's see if it does anything with the ads here space save 5% so we did see that space save 39% it is blocking them that's that's an interesting thing it's literally blocking the ads now for me as a marketer and a consumer I was mad when my wife bought too because I liked watching commercials I was like you know I'm kind of interested in this stuff um
+
+---
+
+[12:16](https://youtube.com/watch?v=bl3-PpoCL_o&t=736s)
+
+we could see Microsoft shopping is also trying to give us some stuff there um but yeah let's see let's try like vimo is vimo the Vio vimo that one um so boom got rid of ads there 10% cash back this is Microsoft I'm not sure so here's Vimeo do more with video okay that's not what we're looking for what is that other one maybe twitch yeah that's a twitch yeah twitch I know they they talked about um and I am not I think ad blockers are actually a bad thing for the industry um but let's see here yeah I heard the concern exactly about Twitter that it doesn't block everything mhm so let's see I think I can shut this down so twitch Sports paid promotion so it is showing me an ad but it is it says it's blocking it but it's not does it cut it shorter it could have cut it shorter blocking
+
+---
+
+[13:17](https://youtube.com/watch?v=bl3-PpoCL_o&t=797s)
+
+ads 10 12 seconds saved I mean so what do you think is for the user experience is this do you like this or not like this um I don't understand it that easily yet I feel like it's doing its job and I feel it will be helpful for people who are really annoyed by the app so if you're struggling to actually ta tell apart the real content and the app you'll probably use that but also for me personally I would say i' I'd rather not M because I can still skip some of the ads pretty efficiently on my own and when I don't it seems like maybe P don't either yeah and and you're also giving them control to take the ad so here's the thing in my opinion we need to stop thinking that billionaires have our best interest at heart because I've never had one knock on my door and say how can I make your life better even politicians don't do that yes there are two sides of it all the time like yes it gives benefits to you but it also gives
+
+---
+
+[14:18](https://youtube.com/watch?v=bl3-PpoCL_o&t=858s)
+
+benefits to them and it's a question of a time of when they actually going to overuse this yep and they just took all the ads off Google which is like I don't know if that's necessarily good I mean when I was buying this house as our office I found an ad on Google that was the best refin ads company I've ever used yeah I agree sometimes ads are useful what I like what they said in what they said is that you can have control over which advertisers to see which is a nice idea for the user because you can choose what you are interested in and what you are not but at the same time again remember that there's also control from back end of it like they will only choose those people who are collaborating with them and maybe there is Advertiser a small company that are trying to be on the market and you would be interested in them but you will never see them absolutely and I think also like what they're doing is they're like okay we're going to take the user here this is our user and the user is like okay I'm not going to see ads anymore unless I get
+
+---
+
+[15:19](https://youtube.com/watch?v=bl3-PpoCL_o&t=919s)
+
+paid so now the user is like okay get rid of all the Google ads and all these other ads and now only show me ads that are from PI so now essentially pi is taking all the money from all the creators and gives you gives you like not even that it's more like that and don't worry this is fake I use fake money because it makes sense exactly and you know it's it's I don't think the proposition is good just from the standpoint alone of like the power you're giving this over your computer I'd rather watch ads and have a safe computer not saying it's not safe but they have access to a lot of things if they so choose to use it and I mean how many times do we need to learn like if you give someone an inch they take 10,000 miles yeah and they put you in the bubble of what they involve only there and I heard that with too it was an issue when too started actually to promoting their own ads instead like where is the guarantee that the pi is not going to do the same yeah well and
+
+---
+
+[16:19](https://youtube.com/watch?v=bl3-PpoCL_o&t=979s)
+
+eventually if there's no ads and Pi is making the money and giving some back to you one nobody's going to make content because they're not getting paid I mean let's face it I like teaching affiliate marketing but if the paycheck stopped I'm going to go do something else exactly and that is going to take away the content and yeah just the the settings that this has is is insane it will be like you will only get something of it if you go to py and be their partner exactly and free premium features that right there that phrase says that they are going to charge for this in the future mhm right there it's like okay that's what they're going to do this is something where I think I think it has some Sinister bad things in it I think you know one watch ads who cares right like I I miss the old ads I don't think uh you know advertising is bad per se and I think that using these tools is going to undermine a lot of
+
+---
+
+[17:21](https://youtube.com/watch?v=bl3-PpoCL_o&t=1041s)
+
+creators and a lot of websites now with that said have you ever been to a website that has a million ads on it that drives you nuts I mean if you were to look up like let's say piie recipes apple what you're going to see is there are so many sites here that have ads all over them like boom there's one there's one and and more importantly like the smaller sites where you have like a little spoon Farm or whatever they're going to have ads everywhere boom yes and I think that's what people think exactly when they imagine the ad that pie is going to be blocking like because you saw this annoying page with a ton of it that's blocking of view and doesn't let you see the main information there exactly and you're gonna see okay a lot of these are going to go by the wayside and a lot of them are going to be like aoic um different places that just bombard you with ads it's yeah I could see the the appeal however to those bloggers using Those ads to those
+
+---
+
+[18:21](https://youtube.com/watch?v=bl3-PpoCL_o&t=1101s)
+
+influencers just relying on ads you are wasting so much money it's not even funny and you're irritating your Market by just relying on that um in you know different places we have settings of where our ads go and how big they are and how long they run where I have found that I make far more really serving my market than I do just running ads and I think that's important but yeah looking at this looking at the install looking at how it actually works I'm not impressed yeah me too I feel like it will take yes from the people who bombard you with the ad M they will but they will also take from people who have a targeted highquality ad that you might have need it even MH and they will take their money and make it theirs exactly and like if you were to go to Amazon it is going to pop up get rid of the ads and it is also going to um when you go to checkout it's going
+
+---
+
+[19:21](https://youtube.com/watch?v=bl3-PpoCL_o&t=1161s)
+
+to apply the coupon with their affiliate link which you know I mean that's it's kind of a gray area is it ethical is it legal yeah it's gray area um but they're kind of bundling everything together which I don't like and one of the thing that's interesting is is the ad still being paid for I think it is I think the ad blocker technically is a bot seeing the ad mhm I'm I'm not sure we'll look into that but yeah I think this is this is kind of a dangerous slippery slope when it comes to making money so Elena thanks for on a pie at me appreciate that and thanks for your input on this app let's dive in and talk more about how this is going to affect the industry what you can do and how you can insulate yourself in 2025 all right so now that you see how that works let's take a look at what the impact on the industry is projected and is right now we can see that ad blocking is forecasted to cost Publishers $54 billion in 2024 alone
+
+---
+
+[20:25](https://youtube.com/watch?v=bl3-PpoCL_o&t=1225s)
+
+that's a lot of money that is taken out of the Publishers pockets and again remember when we're dealing with this stuff the big businesses always get theirs first so who this is really going to affect is going to be the creators like you me influencers and bloggers so this is going to get pretty bad now we can also see that in the United States 32% of Internet users employ ad blockers I thought that this number was way high like I I thought that it was going to be like 4% or 10% knowing that 32% of Internet users are using these tools I'm not a fan of them I think it's actually not the greatest way to go about using the internet um with the exception I mean obviously bloggers should be mindful of how many ads they put but I don't see the benefit I've never used one I don't tell people to use one but unfortunately it is at the end of the day the consumer's responsibility when we went through and had too if people didn't buy to they
+
+---
+
+[21:26](https://youtube.com/watch?v=bl3-PpoCL_o&t=1286s)
+
+would have gone out of business but people bought it and they're still in business today I don't know how but they are people are still paying to remove ads on Hulu and remove ads on on Amazon and different things like that so unfortunately this is in the consumer ballpark like having them install it that is up to them now one of the things that I thought was interesting Ryan is the guy who created the honey app and is now behind the PI app I thought it was interesting that one of his big business philosophies was I'm not a sucker and it feels really bad to get taken for a ride okay interesting coming from you know someone who's made a billion dollars and looking at that and saying wait a minute what's actually going on here is this the philosophy you go by or is it business money money's everything because I think there are people that are are getting taken for a ride with these ad blockers and I I don't think it's that good also when he was talking about the honey app he said we are the last button that people are clicking before they choose to buy anything
+
+---
+
+[22:26](https://youtube.com/watch?v=bl3-PpoCL_o&t=1346s)
+
+online which means yes they are getting in there at the end of the checkout process they are getting the commission they are essentially taking that out of the pocket of the Creator in a roundabout way but again we have to remember it was the consumer's choice to install this now are they upfront about all the stuff that the app is doing no is the general consumer not aware of what these things can do no I think we need more educ and I think we need more checks and balances of hey this is how it works did you know that if you install this this is what's going to happen I think that's very important I think we see some changes in the real estate market when it talks about that as well another thing here which I thought was a good quote from him was the thing people overlooked fundamentally with extensions meaning these browser extensions we talked about them I have some videos in the description about that was the user Behavior he was talking about the user
+
+---
+
+[23:26](https://youtube.com/watch?v=bl3-PpoCL_o&t=1406s)
+
+behavior of skipping ads going past things checking out looking for coupons and different things like that and I think one of the biggest worries I have about these is the fact that it does in fact act on our behalf like I the worst part that I saw in the honey app was the fact that it put the coupons in for me that means it's actually filling out a form on my behalf at the checkout process where all of my sensitive data is stored and theoretically a browser extension can actually access that data if it's allowed right so it does have to be upfront like hey we are accessing this but then again how many people actually read what this stuff means I mean if you know more than the average person about computers they word these things in ways where it's like yeah it seemed harmless but it's not so looking at that what a browser extension can do read and modify the content of a page whatever page you're on it is manipulating that content it can inject scripts and styles into web pag
+
+---
+
+[24:29](https://youtube.com/watch?v=bl3-PpoCL_o&t=1469s)
+
+meaning theoretically they can have a oneclick upsell they can have something that charges you they can have something that does all kinds of things do they I don't think so doesn't seem to be but it can and that can is where the worry is very important it can change your browser settings and actions interesting it can control manage tabs Windows history Network request storage if the cookie permission is granted interaction with the user interface inter extension communication interesting I didn't know it could communicate with other extensions native application communication permissions and user data this one's a big one can it access our emails stored passwords different things like that and then on and on we go so looking at that I think this is something that's far bigger than I just don't want to see ads which you know that is going to affect the industry I mean we are seeing that it is estimated $54 billion just this year is is lost in advertising Revenue because of this
+
+---
+
+[25:31](https://youtube.com/watch?v=bl3-PpoCL_o&t=1531s)
+
+stuff and when looking at that 54 billion amongst you know web creators that's a lot of money I mean you talk at Google AdSense the whole platform is probably somewhere in the neighborhood of maybe a 100 billion or something like that um without YouTube included and looking at that it's like okay this is taking money out of the pockets of people with blogs and advertising this is something much more Sinister than here's a coupon app that does this but again at the end of the day it is up to the consumer to decide what if all the consumers decide they don't want to see ads anymore this thing goes viral boom now we got to find a different way to make money and that's what this is about if you are a Creator if you own a Blog if you get traffic of any kind we need to be in the habit of owning our audience we need to get a website get a domain name build your audience build something that people know like and trust build a tool or app using AI you can create a tool like this maybe you have you know Bob's cooking tips or whatever your site's about and you have a little app where you know it'll go through and find the best cooking
+
+---
+
+[26:33](https://youtube.com/watch?v=bl3-PpoCL_o&t=1593s)
+
+utensils for whatever recipe they're on or something like that make something better be better give your audience more and you will make more these people out there that are putting just aoic on their blog and making less than two cents a click those days are numbered if not over the people that are just making videos and relying on ads alone to make money those days are numbered if not over so getting a tool or an app getting people to something else building your brand but not in the sense of a brand of I'm Marcus no no no go to my site to get these things that's the kind of brand that we want to build and we want to go through and build a list being able to email my audience has made me a lot of money whereas I wouldn't be able to before if all I did is rely on automatic generated ads on my websites I would not even be able to afford any part of my business because it would be so small a lot of people don't know this but ads is literally less than 7% of my total
+
+---
+
+[27:35](https://youtube.com/watch?v=bl3-PpoCL_o&t=1655s)
+
+income promoting bigger stuff is where the money comes in if you're out there and you're promoting a certain type of pan and it's on Amazon and you get a dollar to sell it why not enter Drop Shipping and say well I'm going to drop ship that I'm selling it anyway I might as well get $30 instead of one or maybe I can make a course or a membership site or make a software or something like that that's very important the problem here is that when it comes to influencers and people in general there's an old business saying that says people will do more to save $10,000 from being taken than they will to get a new $10,000 meaning they will put a hedge around that 10 grand they will work hard to keep it but they won't work as hard to get a new $10,000 and that is what we are seeing here people are fighting this which is a battle you can't win I mean it's something lawyers and governments need to get involved in if they decide that it is not an ethical way to run
+
+---
+
+[28:36](https://youtube.com/watch?v=bl3-PpoCL_o&t=1716s)
+
+business however what I'm going to do in the meantime because nobody's looking out for us creators and influencers except us so what we need to do is we need to focus on how am I going to make that new money how am I going to take my audience and make money in new ways and build and grow in new ways ways that'll bypass these affiliate hijacking cookie SK or ways that will bypass the ad blockers or whatever it is because as far as it is right now there's nothing that can detect when I am sharing something in my video like right now if I say hey you want notes from this video and you want some tools and right now for our New Year's special we're actually giving away domains to everyone who joins which means hey if you're an influencer we'll go out there we'll find you a good domain that we think is good that we can acquire and we'll get it for you all you have to do is be an AI profit scoop and will'll show you how to build it which is a pretty sweet deal because you can cancel whenever you want and the domain is yours which is great and if you're not an influencer we have tons of other domains that'll help you get started as
+
+---
+
+[29:37](https://youtube.com/watch?v=bl3-PpoCL_o&t=1777s)
+
+well so going through and looking at this and saying how can I be better how can I serve my market better how can I spend the time and think about these as people rather than I got a million views and made thousand bucks we need to think of these as people think about what we can do to make more money and serve our Market better so if you enjoyed this video smash a like button and if you want to check check out airofit scoop airofit scoop.com I will have notes from the video including some of the screenshots information on how this stuff works and some other videos about how to make money online in 2025 thanks again for watching and check out the links in the description

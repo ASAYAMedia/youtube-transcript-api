@@ -1,0 +1,249 @@
+[0:00](https://youtube.com/watch?v=OQxI0SIewE0&t=0s)
+
+GPT image 1.5. Is this all it's cracked up to be? And can it help us make money online? Well, today that's what we're going to be looking at. We're going to dive deep into the image creators with the AI tools and see which one is going to help us most with affiliate marketing. There's a very specific criteria I'm looking for when I generate images. And one of these tools has it and the other does not. Actually, the other two get kind of close, but they miss it by a small sliver. And that sliver can be the difference between making money and not. I'm going to show you how to detect it and figure out what's actually going to work, how to see images that won't work but might look pretty, and how to get more clicks, more traffic, and make more money. This is super important. So, today we're going to put GPT image 1.5 to the test. We're going to look at Gemini with Nano Banana and Mana's AI, also using Nano Banana. We're going to put them side by side and show you exactly what you need to know to make graphics that get clicks, engagement, and ultimately
+
+---
+
+[1:00](https://youtube.com/watch?v=OQxI0SIewE0&t=60s)
+
+affiliate marketing sales. So, if you're excited, smash the like button because we're going to fire up these three AI tools and show you which one is going to help me make the most money, including a little test we did that more than tripled the response on images that I created. This is super important because the more traffic you get, the more people will visit your site and the more money you can make. So, let's fire up these AI tools and show you which one is the best image creator. Come on, let's go to work. [music] All right, so in this corner over here, we have Chachip 5.2 with the image creator, Gemini with Nano Banana, and Manis AI also using Nano Banana, but with a secret little something we'll talk about in just a minute. What we're going to be doing is looking at how we can go through and make images that get clicks. I'm thinking stuff that we can put on our website as banners, things we can run on other sites as banners, known as arbitrage, where we can go and get a lot of clicks and run affiliate offers
+
+---
+
+[2:01](https://youtube.com/watch?v=OQxI0SIewE0&t=121s)
+
+and things like that. The name of the game here is getting clicks on our banner because that's where we're going to get a lot of people to our stuff that eventually hopefully will make us some sales. And it's very important that we follow a very strict structure. When I look at image ads, a lot of people come to me and they say, "Marcus, your websites, your images, your banners look like they were created in 1990." And that is by design. Actually, I've tested these out. And the stuff that people can't stand the most, the things that they think are the worst designs are more often than not the ones that get the traffic, get the clicks, and get the sales. This is super important. We need to take whatever we think about design and throw it out the window and look at facts. And the way we're going to do that is use images to actually get engagement and get people to really want something and and curiosity and everything like that. So, what I did here is I started out GPT image 1.5 with a question. And I said, "Tell me the top banner ads of all time, direct response, clickbay, focused on traffic and what they have in common." What I'm doing
+
+---
+
+[3:03](https://youtube.com/watch?v=OQxI0SIewE0&t=183s)
+
+here is I'm framing the idea of go out there and research. figure out what gets the most clicks. Not what's the prettiest, not what people pay most attention to, but the stuff that actually works. Now, using this prompt to start is going to change the output that you get. If I was to go through here and open up a new chat and I say something like, let's make a banner ad for, let's say, a magic turmeric vitamin, right? What's going to happen here is this will go through and it might understand it because I'm using this, but in most people's chat GPD account who haven't gone through all this stuff, it's probably not going to. But if I go through here and say, let's make a banner ad for a magic turmeric vitamin and I drop down to images and I say something like very curiosity driven, right? It's going to go through and it's going to make that ad. Let's see what it looks like. it'll probably
+
+---
+
+[4:03](https://youtube.com/watch?v=OQxI0SIewE0&t=243s)
+
+be very visual and very nice looking. Whereas what we want is something that's going to get the clicks. Now, you'll notice here I did the same thing over here with Gemini where I prompted it saying, "Tell me the top banner ads of all time. Direct response, clickbay, focused on traffic and what they have in common." Same thing over here with Manis where we're getting that layof the land kind of idea of what's going on. Now, I went through and I did some research and looked at what the top banner ads have and I kind of made it more concise with the things that I know actually get clicks. So, what we're going to do is we're going to look at the anatomy of a clickable direct response banner. And you can actually go through and paste this in as the prompt. In fact, over at aiprofitcoop.com, we'll have the notes from this video, this breakdown, and also a prompt that I use to get pretty much nearperfect banners every time. Obviously, you're going to need to know your market. you're going to need to know what site you're on or where you're getting the traffic from so that you could do even better. If you're using this on your blog, think about why people are coming. Put that into the AI
+
+---
+
+[5:04](https://youtube.com/watch?v=OQxI0SIewE0&t=304s)
+
+before you get the image so that it understands who's going out there and who's going to click. So, looking at this, we want an unmistakable call to action. So, that was the number one thing in the anatomy of a clickable direct response banner. We're looking at direct response because this isn't the kind of thing where we want branding where you see Coca-Cola, AT&T, and all kinds of fancy branding type banners. What they're doing is they're looking at like how do we get people to recognize our company where we don't have that luxury. We need someone to click now. We need them to click fast and we need to get that traffic to do something. That's very important. Next up, we have curiosityinducing headlines, high contrast, attentiongrabbing design, emotional and psychological triggers. Again, looking at these is very, very important. Now, when we look at like Coca-Cola and other branding stuff, usually they're having like the logo aesthetically pleasing, vague or non-existent call to action. We want stuff that's going to get them very, very closely, quickly, and very important, like get them to click on the
+
+---
+
+[6:05](https://youtube.com/watch?v=OQxI0SIewE0&t=365s)
+
+thing they want. So, looking at this, if we take a look at the first shot, you can see discover the secret. What's inside the magic turmeric vitamin? It's curiositydriven, but it looks like a video game, so I'm never going to click it. What we want something is that we want something that's going to get that click in a very important way. And I wanted to show you this because if we do this in all of the different AI tools, let's say we go to Gemini. I think I can open a new one in a new tab here. Yeah, we'll do something like this. Make a banner ad for turmeric vitamin. And then if we do the same thing over here in Manis, you're going to see kind of what it looks like without that prompting. And this is why we need to understand which AI is going to do the best. Is it GPT 1.5? Is it Manis? What are we looking at? Okay. So now Manis actually went a step further and said, "Hey, why do you want this for? And what what scheme do you want? Do you want brand details, call to action, style, preference?" So let's go through and let's say I'm going to do number two
+
+---
+
+[7:07](https://youtube.com/watch?v=OQxI0SIewE0&t=427s)
+
+on size. Then we'll do uh brand details. No. Uh, so we'll do one equals number two. Two. No details, just white background. Usually a banner is going to work best with white background. I don't know why people fight that or ignore it, but it always works best unless the site has a different color. Like if it's a blue site, then maybe I'll do a blue one. Going through here, we'll do no details, just white background. Call to action. Yes. Click here to see the report. And then we'll do style preference. We'll do uh clean, highly clickable. Okay. So, that there already is doing better than Gemini did. Okay. So, Gemini didn't ask us anything. Gemini did. Okay. That looks like ginger. That's a weird looking turmeric. This is a little bit better. Like, I like the direction of it, but again, not the greatest. All right. Let's see how
+
+---
+
+[8:07](https://youtube.com/watch?v=OQxI0SIewE0&t=487s)
+
+Manis does here with the images. It should do it with Nano Banana. Sometimes you have to ask it. And let's see what happens if we do. So chat GBT had the video game one. Gemini has this weird looking one. And then Manis. Let's see how that does. Now going through these, we want to understand exactly what's going on so that we know where we're going with these banners. We need to understand this in a very, very straightforward way and really, really focus on what's going on. So now we're going to go through and we're going to look at why we would create images obviously using these AI tools. We can make banner ads. We can make social media images, Pinterest, Instagram, Facebook, and everything like that. We're going to go through and look at the tips of what actually works. Again, creating images is fun and cute and cool and everything, but we need stuff that's going to get engagement and get clicks so that we can make money. Without that, it's not going to matter. I mean, you can create cute little images for social media, but at the end of the day, we need something that's going to drive sales, and that's what this is about. Now, going through and looking at social
+
+---
+
+[9:08](https://youtube.com/watch?v=OQxI0SIewE0&t=548s)
+
+media image marketing, we want to look at like immediate attention, high sharability, emotional connection, search visibility, high resolution, brand consistency, and everything like that. Now, going through, we need to have an image tool that is going to do this for us. There is one that that does this. I think chat GBT image 1.5 can do it, but it loses its way as we go through. I'm going to show you how that works so that you can set yourself up and make stuff consistently so that you can build and grow. So, looking at this, here's the chat GBT. Here's the Gemini and the Manis. Manis actually nailed this one on the on the head here. Like, this is really good. So looking at these images, scientists can't explain this turmeric discovery. See the report here. That's the best one. Clean and simple. This works like crazy. While you might think this looks great, this is going to get more clicks. How do I know? I've
+
+---
+
+[10:08](https://youtube.com/watch?v=OQxI0SIewE0&t=608s)
+
+tested this on billions and billions of ad impressions. Not this exact ad, but I've tested banners. Simple. Works every step of the way. Here's another one. The tumeric secret. whatever. Now, would I do this for the health market? No. But you can use this for other stuff. I just did this to kind of show you the idea. Now, in this one, I would probably do a red or blue button. That would make it stand out better. And one of the cool things about Manis AI is I can actually go through and circle this. I can say, "Hey, you know what? I want to change this one thing." And it'll change it for us, which is cool. I think we use this. Yeah. So I could say make button green with bold text and say download the report. Download the report if I could type correctly. Report right
+
+---
+
+[11:08](https://youtube.com/watch?v=OQxI0SIewE0&t=668s)
+
+like that. Right? And this will go through and it'll make it better for you. Um that's one of the things I really like about Mana so far. Now going through here, when I went and prompted these, I had the top things about the banner ads. It went through and looked at them. Then I said, now using the elements, I need a white background banner for Simple Sites, Big Profit. Simple site makes 128 daily. That way I can play on something I know worked. What I wanted to do was see which one was going to get closest to my winning ad. I had a winning ad. I still run it today. It works like crazy. I started running it in 2007. it still consistently outperforms every other ad test I do. What I wanted to do was see how close I could get to that ad. And I'll actually put the the real ad in the notes for you over here um over at aiprofitscoop.com so you can use it and say, "Hey, make something like this." And it'll actually prompt from that. Now, going through, we did this. It looked at the psychological hooks. It did some little tests and found some
+
+---
+
+[12:09](https://youtube.com/watch?v=OQxI0SIewE0&t=729s)
+
+images and things like that. And then as I went through, I said, "Now make the image." And I did find that in order to get the chat GBT 5.2 image maker to make an image, you actually do have to drop down to create image. Otherwise, it'll make these weird little version three things where it's like, oh, hey, uh, version one, version two, version three, and it makes a code. We wanted the actual images. So, I went through and said, now make the actual images. And it did pretty good. I was actually pleasantly surprised with these. It does have the select the area. So, I could say yes. Now, make make this blue or something like that. Um, and it'll actually do that for you. But these were actually pretty good. I like that it had the underline. I like that it had a simple website makes 128. Click the website. That was pretty cool. It did some variations with dropdowns. Choose a site. Choose a site 128 per day. That's terrible. That won't get clicks. Simple website earnings. That's interesting. I think there's too much going on. Live on
+
+---
+
+[13:11](https://youtube.com/watch?v=OQxI0SIewE0&t=791s)
+
+one page, one no funnel example. That's pretty good. I like this daily earnings. Kind of cool. And then we have different variations of colors. Now, I also tested it with some some Christmas gadget ones cuz again, we want to base this and see how close it can get without us telling it how close can it get to winning banner ads that actually get clicks. When you're looking at YouTube thumbnails, how close can it get to things that actually get clicks? I was testing this. One of these tools did triple my response, which was fantastic. I'm very pleased in it. It did better than my example that I made from my brain of what works. So, AI can be very powerful, but you need to know what to look out for that's not going to work just as much as what to look for that does work. Because in the age of AI where we can create anything we want, we need something that's going to work. And sometimes we get lost in like, oh, this looks great, pretty cool. Rather than I need this to actually convert and make
+
+---
+
+[14:11](https://youtube.com/watch?v=OQxI0SIewE0&t=851s)
+
+me money. So going through here, I went and asked for some other hooks and then I got some other examples down here right there where it had those ones and then different colors. And then I tried it with like different niches. Could I do something for like uh show how this electric bike earns 128 daily? That's pretty good. Like that's a banging banner right there. That thing will get some clicks. This electric bike uh bike basic site profitable. Click here. Nice. This electric bike shows $128 a day in earnings or whatever it is. Obviously, it goes without saying. You need to make sure everything's honest and true. If you have an earnings amount, if it's even if it's true, you need a disclaimer. Just like right now, I'm going to tell you the vast majority of people trying to make money online make nothing. So, these are just examples to show you kind of what's going on. This would be based on a real site that I made where, you know, you'd want to honest make sure it's honest. AI is not going to do that for you. So, you do
+
+---
+
+[15:12](https://youtube.com/watch?v=OQxI0SIewE0&t=912s)
+
+need to put that in there, which is super important. I also had it go through and do some Christmas designs where I wanted to get very close to this site that had a banner for it where it was selling um this product over here that was umundred and or no it was $56 for the product and I actually found the product for $9. More about that in an upcoming video. But looking at this, we wanted to look at why it sold and why that banner got the clicks and it was all about curiosity. So, what I did is I said, "Now, make one clickbay. Top must-have Christmas gifts." And I went through and it said, "Top must have Christmas gifts." This is lame. This will not get any clicks. This is the worst banner I've seen in my life. It's terrible. Now, I went through and said more examples with one clickbay product image. It was like, "Get the must have decoration almost sold out. That's better. Inflatable Christmas tree." What happens here is it's going to isolate anyone who doesn't want an inflatable
+
+---
+
+[16:12](https://youtube.com/watch?v=OQxI0SIewE0&t=972s)
+
+Christmas tree. So like, okay, that's not going to do that good. However, this little order now one looks kind of interesting. I don't know what that product is, but it's kind of interesting, right? I don't know if we can open this in a new tab and zoom in. Yeah, there it is. So, it looks like some kind of like oven or something. I don't know, but it's interesting, but not interesting enough to get clicks like that in order. Now, that's that's terrible in terms of banner ads. You failed. Let's see what else we have here. I went through and did like a Roomba one zero clean floor, zero effort. Eh, whatever. Not good. Top Christmas gifts, USB phone. That'll get the clicks. I mean, it's kind of a a clickbay thing because is the radio that small? No. But, you know, you kind of have to look at creativity and things like that. Obviously, make it honest. Maybe you could say like not real size or something like that. Um, but that was based on an ad. This one they had this this image that looked kind of interesting. Um, so going through that.
+
+---
+
+[17:12](https://youtube.com/watch?v=OQxI0SIewE0&t=1032s)
+
+Here's another one. Charge your phone and wake up in style. Decent. Okay. So, it did okay. Like it did like the little buttons here. So, if I had a website about alarm clocks, that would be an an ad that would work really well. That would actually do good. Click for buy now or I instead of buy now I would do add to cart or read the report or learn more. Right? That would be what I would want to do. Now going through and doing the exact same thing with chat sheet or with um yeah I think we did the same thing with Gemini. So the same thing with Gemini. We went over here and we had top clickbait banner ads. I went through the same thing. So, we had tell me the top, here's all of our tips with the websites. This actually got better websites. So, I think the starting point on Gemini was actually a lot better cuz it's like, okay, we're looking at banners that actually work where Gemini went like AT&T and a different route. So, now it's going through and I said,
+
+---
+
+[18:12](https://youtube.com/watch?v=OQxI0SIewE0&t=1092s)
+
+now using the elements you just learned, make a white background banner for the simple sites big profits. Again, same exact task going through here with what I know about banner ads. This was pretty good. Like the simplicity of that will get clicks. Now I would go through I would make click to view live example bigger. But in terms of like how this banner looks, that's pretty good. I might make I might make the 128 daily red. That's pretty cool. Um and then click to view live example. That's that's good. Uh let's see what else it came up with. So I said, what are some other hooks I can use? So I asked it for more things that it could use. the checkbox everything like that exactly same as I did over here in chat GBT so nothing was different then I went through and I had the toggle switch things like that and what it created was this here how much can a simple site make electric brake that's actually really good I might reward it to like how much the
+
+---
+
+[19:13](https://youtube.com/watch?v=OQxI0SIewE0&t=1153s)
+
+simple site makes or something like that um having them able to choose or seemingly choose because obviously this is a banner So it will not drop down. I would have the drop down on my website. This would probably get some good good stuff here like see how the site works or something like that where they can go through and look at the different niches. I did like that one. Going through even more. Don't buy another gift till you see this. So these are the Christmas ones. I actually like this gift alert low stock. That's pretty clickable. Which of the seven gadgets do you want most? Invisible drone. Invisible drone. I don't know if that even exists. Um, self-heating mug, the laser keyboard, top seven Christmas gadgets. That's kind of cool, I would say. I mean, when you look at this, what you want to do with a banner is kind of like close your eyes, look at something else, and then look back and see what you notice first. I noticed two first. I noticed this one and this one. So, those are kind of cool, but again, I would
+
+---
+
+[20:14](https://youtube.com/watch?v=OQxI0SIewE0&t=1214s)
+
+want more curiosity. There's not much curiosity there. Like, oh, what's out of stock? Maybe the FOMO angle. I don't know. Um, let's see what else. So, now add some pictures of products. Okay, so don't buy another gift. Looks like a little drone. Coffee mug. Again, this one with flying colors. The gift alert. Flying colors. Maybe we can even do something. It's like, you know, December 18th. Maybe we could do like here's stuff you can get by Christmas or whatever. Um, something like that. like, "Hey, bro, you're late on Christmas gifts. Go get this." Or whatever. So, these are okay. Would I use them? I would use them for ideas, but I would not use them as is. Okay. So, like this one, I'd probably put something a little bit better. So, I'd do Let's use the last one, low stock alert, and have the top product. but curious. Curiosity
+
+---
+
+[21:17](https://youtube.com/watch?v=OQxI0SIewE0&t=1277s)
+
+driven with no real way to tell what the product actually is or something like that. That might do better. But again, so chat GBT good for image style banners, but you do have to really know what you're doing to get a banner that's going to work. This is okay. Okay, if you had a Christmas site, it might get clicks. But what I'm looking for is if I make a banner and the banner is shown to a million people, how many of them are going to click? I'm looking for 1% or more, which in this industry is actually pretty hard to do. A banner ad getting 1% on a site that you're running it on, okay? A site that's not yours, that's going to be hard to get the 1%. If it's on your own site or your own blog, you might get like 10% or more just depending on what it is. But again, remembering we need to get the most clicks possible because if they don't click, we're not
+
+---
+
+[22:19](https://youtube.com/watch?v=OQxI0SIewE0&t=1339s)
+
+going to get sales. This is the problem people have is traffic. If you crack this code, if AI can help us, if these image creators can help us, well, then that's going to get where we need to go. So, looking at this again, this was a fail. Let's see how this does. So, don't buy another gift. So, this one did low gift alert, low stock. That's decent. I'm kind of like, what are these? So, that looked okay. I might just screenshot this and say, now do more of these. That could be what I do. Now, let's take a look at how Manis did because Manis was our winner for the tumeric one, and it was the hands down winner. There wasn't even a close second. So, if we go through here and we look for our direct response banner ad one again, I gave it the same exact thing. And what we're going to see is what it came up with. So, we'll close this, which I do like the side by side in Manis because we can actually work with it. That was something I I didn't like the flow of these. You have to kind of wait click out of it and go through to make it bigger, which if I want to
+
+---
+
+[23:20](https://youtube.com/watch?v=OQxI0SIewE0&t=1400s)
+
+work fast, I want the side by side. Manis hits the nail on the head there. So, looking at this here, I did the same thing. Tell me what banner ads of top of all time were the best. Boom, boom, boom. Went through there. We got our report. And then I gave it the simple sites big profits one. That's pretty solid. Like actually, in my experience, knowing what I know about making banners that convert, this is going to be the winner right here. Right there. Simple site makes 128 daily. Boom. That is the jackpot. looking at this one. Just that part right there. Click to view. Boom. That thing will convert. That'll do better than the entire thing together. And I don't really need to use simple sites big profits because I'm not branding. Simple sites big profits. This one with it in quotes. That'll get the clicks. Reveal the niche. That's pretty good. This is a a really good banner. When we're seeing this compared to what these made, Manis is night and day
+
+---
+
+[24:22](https://youtube.com/watch?v=OQxI0SIewE0&t=1462s)
+
+different. I don't know what it is cuz Manis uses Nano Banana, but going through and like, okay, well, why is it better here? I don't know. Maybe it's the prompting or whatever. But looking at this here, simple sites, big profits, electric bike makes 128. These are a lot better. They're cleaner. They're easier to click on. They work really well. Now, we went through even more. Let's do the Christmas example. I'll give it the same exact prompt and we'll do make more with the top seven Christmas gadgets images. Please use nano banana. Boom. Let's see how this works. And now it'll do that. And Gemini does. I mean, it's okay. It's just you're going to have to do a lot of prompting and copy and pasting and cutting and editing to make a good banner. And again, what I'm looking for here is for someone who doesn't know what makes a banner good. You might not
+
+---
+
+[25:22](https://youtube.com/watch?v=OQxI0SIewE0&t=1522s)
+
+know what's good or bad about these. You might not know which one's going to work. It seems like Manis kind of does where it's like, hey, you know what? We know what banner ads work. We're going to make those work. So, understanding that's key and looking at, let's see how it goes even more. And while we're waiting on that, here are some of the things we can look at for social media marketing. uh Pinterest going through with Pinterest and making infographics is key. So I can say like now let's make a top three Christmas gifts of 2025 infographic and CTA is click to see what's in stock or something. Although let's do click to see more. Something like that. Okay. Um let's see how this works. And we'll do this with Mannis as well. So number one selling. This is terrible. I actually don't like
+
+---
+
+[26:24](https://youtube.com/watch?v=OQxI0SIewE0&t=1584s)
+
+this. I don't like it because of the wording. See how the wording gets kind of hidden there? Like the border is cool, but I need the wording to be better. The $29 gadget grandparents are obsessed with. Watch the reaction. That's terrible. Losing their minds over this toy. That's If this was like regular white text, that might work. Viral Tik Tok sensation. It has the elements of like, whoa, I need to get your attention. I think the execution's not that good. So, like maybe I can go in and use the tool edit in canvas. And let's see. So, we'll edit this one. Let's see if we can actually edit I don't know how we edit it. I know there's a way to do that. Maybe this. And maybe we can click here. Let's see. We'll click this. I think there's a way to bring it up over here. Let's say make
+
+---
+
+[27:25](https://youtube.com/watch?v=OQxI0SIewE0&t=1645s)
+
+text on headline white. I It might do that. We'll see how that works. But it has the good idea. Like it has the thinking behind it that makes this stuff clickable. So, I like that. It's all in all it's going to give me a better starting point. Kids are losing mind over that. Okay. I don't know how we get them to show up over here. Maybe click out of that and click that. Does that allow us to edit in canvas? That's again letting it Okay, so maybe we can zoom. That's kind of a pain, but okay. Maybe we can move it over. Yeah, I don't know how to get that uh over there, but we'll see how that works. So, let's see. Uh, top three Christmas gifts for 2005. This is a terrible one. I would never run this. I'm just going to burn up the clicks if I don't do that. I'm not going to get any clicks on that one. Let's see how Gemini does for this infographic. And I think I think it automatically
+
+---
+
+[28:27](https://youtube.com/watch?v=OQxI0SIewE0&t=1707s)
+
+uses the nano banana. And let's see how this infographic works. Let's see. So we'll do the infographic in here as well. Again, what we're looking for is it needs to understand. So that actually came out. All right. That's pretty cool. And I would even have like maybe a phone all like weird looking like what the heck is this thing? That's kind of cool. Like that would get clicks. Obviously, you know, be responsible when you advertise and everything like that. Uh seven gadgets under 50. See how the red just it's hard to read. No, I do like the little characters though. That's kind of cool. But that's not going to get clicks. I mean, it might be cool looking, but husbands are buying this in secret. Find out what it is. I would make her face bigger. And then maybe husbands are buying this. I don't need like the secret part. I think that's kind of weird. Um, top
+
+---
+
+[29:27](https://youtube.com/watch?v=OQxI0SIewE0&t=1767s)
+
+seven gadgets everyone wants but no one knows about. That's kind of cool. I like this idea because this idea kind of reminds me of like, you know, see what's really there or something like that or you won't believe number four. It understands what I want better. So here's top three Christmas gifts of 2025 future. Like this is good for like blogging if you don't expect a bunch of traffic. What I would do with this, actually, what I would do with this if it was a banner, um, I would say, now let's make this with a click to view button under each one. Have the background totally white, nothing but the blocks with the items, and make nine items. Tim grid all with a button on each. This would
+
+---
+
+[30:27](https://youtube.com/watch?v=OQxI0SIewE0&t=1827s)
+
+get clicks because then it'd be like here's the choice. And whenever you give people choices, it works. I did this on a Bible site that I used to run. And what we did is we had like here's the NIV, here's a New King James, here's this version, that version, all of the different versions that they can click. And the click-through rate was like 90%. Now, that was a blog I owned. it was traffic coming to it that were looking for Bible versions. So that's why we got 90%. But if I just had something boring like like this, oh hey, the best Bible is this. Nobody's going to click on it. You get like 2% where I got 90%. Again, understanding that. Now again, remember, we don't know what clicks we're going to get. You have to test. It's not guaranteed. We want to get closer to the things that actually work. And what I'll do over at aiprofitscoop.com is I'll have a list of the top converting things that I did. I actually did a webinar a couple years ago. I'll put that on the site and it'll show you what got clicks and why. Very, very important because if we understand that, that's the key. So, now we have let's
+
+---
+
+[31:28](https://youtube.com/watch?v=OQxI0SIewE0&t=1888s)
+
+make this with the buttons on each. Um, so top direct response this one here. It's okay. Now, let's make a top three. Let's do the top three infographics in this. See what this comes up with. So, the fact that Gemini got that, but again, I know what I'm looking for. I know what I want. Is Gemini gonna do that? Maybe, maybe not. I think it got closer. I think if you don't know what you're doing in terms of banners, Manis is the clear winner. Chat GBT, I'm going to say image 1.5 for what I want. No, it did get the idea of simplicity, which I like, but we're going to have to prompt it a lot more. So, understanding, okay, I need to figure out what prompts are going to get this caliber of stuff. Now, this works good. Okay. So, I would do remove
+
+---
+
+[32:30](https://youtube.com/watch?v=OQxI0SIewE0&t=1950s)
+
+the little hand icons. Make it 3x3 grid. Have red bold headline. Get these before Christmas. Gifts that wow or something like that. Okay. gifts that wow. Let's see how this works. Hopefully, it doesn't add all those, you know, Christmas balls and stuff like that because we don't want that. We want it simple. Like, this is pretty good. This will get clicks. That'll do the job. Uh 3D food printer. I don't know why it has a jacket there, but apparently that's that's I think it messed these up. So, it did start messing up like Gemini did start. So, smart fabric jacket that goes over there. easy fix. But again, these are things that, you know, I want my AI to do the stuff that's gonna make me money. I don't want an AI that just does fun
+
+---
+
+[33:31](https://youtube.com/watch?v=OQxI0SIewE0&t=2011s)
+
+little images. Uh, get these before Christmas gifts that Wow, it messed up with the images. However, I can fix it. Levitating whatever that is. Yeah. So, it kind of missed and it did not do the 3x3 grid. So, it did not understand what I wanted with the 3x3 grid. Okay. Let's do copy image. Three gifts for Christmas. Too much words. This is way too hard to look at. Um, let's do how about like this concept 3x3 grid with the products. You pick them. Don't use what's in image unless you think it's good. Make sure text matches
+
+---
+
+[34:31](https://youtube.com/watch?v=OQxI0SIewE0&t=2071s)
+
+and have big red headline and we'll put that gifts that wow. So we had gifts that wow. There we go. Get these before Christmas. Gifts that wow. that would work on a Christmas site or a a product site. This is what we want. We want clean. Clean always outsells confusing. You confuse your customer. You confuse the person you want to click on the ad. They ain't going to click. It ain't going to work. Also, going through um you can look at some of the image sizes. I think I had some of the top ones down here. Where were they? Top ones. Affiliate banner ads. So, you have like 728 by n uh 90. That's a very popular one. 300x 250. This is one of the higher converting ones. If you can get a banner that size, uh 336x 280, that's those two are like by far the magic. Um then going through 970x 250. Hard to find ads for
+
+---
+
+[35:34](https://youtube.com/watch?v=OQxI0SIewE0&t=2134s)
+
+that. But if it's your own blog, you can do it. If it's your own blog, you have pretty much cart blanch. You could do whatever you want, whatever size you want. If you're doing this where you're advertising on another site or using like an ad network, you would want to make sure it fits whatever they have. So that's why you'd want to do like 728 by 90 or whatever. Let's see how this looks. Fix images and text, please. 3x3 grid. I just It's kind of getting stuck there. Let's see if this one does it. Okay. So, we did chat GPT. Let's say same thing we did over here. Copy. Make it something like this. 3x3 grid white background match top images with buttons.
+
+---
+
+[36:34](https://youtube.com/watch?v=OQxI0SIewE0&t=2194s)
+
+So, let's see if it gets this. That would be kind of cool because what we want is we want something that's gonna get the clicks. If it don't get the clicks, we're just gonna struggle and not make any money. Okay, so get these gifts before Christmas. This is actually decent. That would convert. I don't like the click to see more. It did get the top offers, so that's good. Let's do more simple white background button on each item or below it. Let's see how that works. So, Gemini is working. Get these before Christmas gifts that Wow, it did fix them. Good. That's a cool lamp. That's That's decent. That could actually work. um gifts that wow click to view. I would go through I'd say make click to view
+
+---
+
+[37:35](https://youtube.com/watch?v=OQxI0SIewE0&t=2255s)
+
+red with white bold letters on each. So it's like a button rather than just you know an outline. Very very cool. Now let's see um if this one did the trick. How is chat GPT doing? Chat GPT 1.5. Drum roll please. Looks like it's going to is it's going to hide it a little bit. Right. There we go. Get these before Christmas gifts that Wow. Buttons are on point. It did get kind of the same type of stuff. Let's see. Okay. So, there we go. Doesn't let you zoom in. So, we got the assistant. This here. Click to view. It's okay. 559. It doesn't know how to count clearly. Messed up the jacket again. Yeah, I don't know about chat GPT. This would probably not be the one I would want for banners. This one here, that's that's on point right there. That's pretty close. That's what we're looking for. Why? Because it looks like,
+
+---
+
+[38:36](https://youtube.com/watch?v=OQxI0SIewE0&t=2316s)
+
+oh, I'm going to click this. Going to take them to big report with all the stuff like like on uh the example we showed you earlier. Here we have these good. The images work. They match. That's That's actually pretty darn good, I'm gonna say. I I thought I was going to go Manis all the way with the proper prompting. Gemini with nano banana. That's the best. If you don't know what you're looking for, Manis is going to find it. Like Manis for ideas right now. Manis obviously has its it's better ideas, better things that we can use. Gemini, it was okay. It gave us some ideas and it gave us usable stuff right out of the gate. Manis did that. Yeah, it gave us usable stuff out of the gate. So, the best if you want traffic, the best image generator with AI is hands down Nano
+
+---
+
+[39:37](https://youtube.com/watch?v=OQxI0SIewE0&t=2377s)
+
+Banana. Either way you use it, whether it's Gemini or whatever, that's that's the big kahuna. That's the one that works for me. Um, looking at this, I'm going to go out on a limb here and say that it's going to work across the board because once it understands the simplicity and what gets the conversion, it doesn't matter. You could use that for infographics, images, whatever. If it gets the click, it's going to get the click on all platforms. So, understanding that's absolutely key. We got the sizes here if you want to do gifts and blog images and things like that. Super super cool. You can get this whole list over at apiprofitscoop.com. We're going to put together some prompts that you can use over there, too. So, you can see kind of the prompts that we use to get the overview and the images we like and the very specific stuff that we want. So, overall, I think the winner is Gemini in terms of getting the picture perfect. Manis for ideas. Chat GPT sadly for nothing. So, Chat GPT 1.5,
+
+---
+
+[40:37](https://youtube.com/watch?v=OQxI0SIewE0&t=2437s)
+
+I think they rushed it out of the gate. I think Nano Banana still wins there. And I think Gemini understands direct response marketing better. So that's pretty cool. Again, knowing what gets the clicks is all of the battle. If you get that wrong, it doesn't matter how pretty your image is, you're not going to get the click. The click leads to the traffic. The traffic leads to the sales. Without that click, you're dust. So understanding that's absolutely key. Manis for the ideas, Gemini for refinement. I think that is a match made in heaven. Aiprofitscoop.com for more videos on this. Check out the video in the description. There's one that I did about banner ads and ads and making simple websites that sell. Definitely want to check that one out. Um, there's other videos in there as well about banner ads and things like that. So, smash the like button if you dug this video because we dove in. We showed you the real deal here. Check out apiprofitscoop.com for the notes and the prompts and everything. and I'll see you
+
+---
+
+[41:38](https://youtube.com/watch?v=OQxI0SIewE0&t=2498s)
+
+in the next

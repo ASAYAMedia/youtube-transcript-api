@@ -1,0 +1,581 @@
+# Plugins And Tools For Wordpress And Affiliate Marketing
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAVleon3Wj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=xAVleon3Wj8&t=0s)
+
+Okay. So, hello and welcome. We are ready to go. We're going to get started with this webinar. Uh, this webinar is about how to use tools to profit online. Right? How many of you guys out there feel like you're not getting anywhere because you don't have the right tools? Like you're like, "Okay, I'm trying to build this house, but I don't have a hammer or nails or anything like that." Right? So, what we're going to do is we're going to talk about how to make this work and we're going to talk about some of the tools that we use and then we're going to give you an opportunity to uh join a club where you get all the tools that I use, right? How does that sound? It's like, okay, what tool is Marcus using? All right. Well, here it is, right? And you join the club and you get the tools, right? So, that's what we're going to do. And what I'm going to do is I'm going to keep all these tools in one area and as I get new tools, they'll just be put in the area. So you'll say, "Hey, this is what Marcus is using now." Which is pretty cool, right? How many of you guys think that that would give you a heads up to what's going on in the industry, give you a heads up to what I'm using, give you a heads up to everything, right? So it' be
+
+---
+
+[1:02](https://youtube.com/watch?v=xAVleon3Wj8&t=62s)
+
+pretty cool. And we're going to make it easy. We're going to make it reasonable. And we're going to focus on giving you guys the tools that you need. All right? So really cool. And we're also going to give you guys some training with the tools and stuff like that and keep you updated. Right? A lot of people know that the internet marketing industry changes, right? There's things that change. Sometimes WordPress has an update. Sometimes, you know, Google does a change or sometimes we come up with a new idea that's working. And we want to keep you guys on top of that so you're not in the dark. So, if you're tired of being in the dark, put no more dark or turn on the lights or something like that. All right. Cool. Make sure you guys are all there. All right. Cool deal. All right. Lights, camera, action. All right. So, what we're going to do is we're going to take a look at this. And let me ask you guys another question, right? If you could set up a simple blog in about an hour and profit about $32.17 or more every single day from that blog, how many simple blogs would you set up?
+
+---
+
+[2:05](https://youtube.com/watch?v=xAVleon3Wj8&t=125s)
+
+Right? And what I want you to do is I want you to simplify everything because up until now, you might be looking at internet marketing and you might be saying to yourself, you know, how do I do this? How do I get to $30,000 a year or $10,000 a year or $100,000 a year? How do I make a million a year? Right? Real quick before we get started, I want everyone to type in your short-term income goal. Right? What would you like to see? Would you like to see, you know, $10,000 a year? And don't go crazy. Just focus on your yearly goal. What would you like to make each year from internet marketing? Right? Short term, like what do you see that you can actually do? Okay, cool. Richard says 10,000. Uh, Michael says uh 30,000. A couple people say 100,000. A lot of people say 50. Some people just want to make $1,000 a month or whatever. Right? Eric says $13,000 a year. Robert's very specific. He wants to make $108,000 a year. All right. So, we look at that and we say, well, let's take a look at what we want
+
+---
+
+[3:06](https://youtube.com/watch?v=xAVleon3Wj8&t=186s)
+
+to make and let's break it down. Okay. So, let's break it down. You might be saying, "Well, Marcus, you know, $32 a day isn't that much." But if you take that $32 a day and you times it by 365 days per year, right? You get $11,000 a year from one simple little blog that makes 32 bucks, right? How many of you guys ever thought that $32 a day would do that, right? Like, wow, that that's like almost my mortgage payment or a car payment or put my kids through private school or whatever from a $32 a day goal, right? You say, "Well, you know, Marcus, what if I what if I set up, you know, five of these, right? That'd be about 160 bucks a day times 365. Now you're making almost 60,000 a year, right? A lot of people try to make $60,000 a year, but very few people focus on a little goal of like 160 bucks a day, right? And to make this more real for you, all that would take is like two sales of an $80 product or one sale of a $200 product or whatever. Okay? If this
+
+---
+
+[4:07](https://youtube.com/watch?v=xAVleon3Wj8&t=247s)
+
+is start starting to sound a lot easier for you, type easy in the box and you know, let me know because this is how I simplify things, right? What this webinar is about is getting you to think like me and getting you to use the tools that I use to get this stuff done, right? Because when we do this, this is what I think about. It's like you look at the addiction site I'm starting, right? I look at that and I say, "Well, you know, I think our best day was like $9." And people say, "Well, N bucks, you know, that's nothing." and I say, "Yeah, but $9, you know, that's almost four grand a year and I haven't even started yet. If I could double that, eight, if I could do 10 times that or whatever, right?" That's how we build these things. But the problem is is when most people see the nine bucks, they quit because they say, "Well, you know, it's not really working for me. I can't live on $9, right?" And they give up and they stop. And that's why people like me end up doing well because we keep going. We look at that goal and we say, "Hey, it's something." Right? I want you to write this down if you're taking notes that
+
+---
+
+[5:07](https://youtube.com/watch?v=xAVleon3Wj8&t=307s)
+
+the goal of the internet marketer is to look at results. Okay? All we want to do is look at results. That's all I do for a living. I go out there, I look for results. I say, "Okay, I got 100 clicks. Did anyone click on anything on my site?" Well, yeah. You know, 75 clicked on this thing over here. Well, did you make any money? Well, no, I didn't. But I I know that they clicked on it. So maybe if I take those 75 people over here, then I'll make money. Whoa, check it out. Cool. You know, here's what I made. Okay, does that make sense to everyone? Okay, everyone still with me? Excellent. So that's the deal. Now I want to show you guys a real world example. You can see that I took this screenshot about 40 minutes ago uh before this webinar started on today's date. This is a This is a website, a blog that I set up on February 19th of 2015. It's almost two years ago. Okay, I set it up two years ago and my goal was to make, you know, like 50 to 100 bucks a day or whatever.
+
+---
+
+[6:08](https://youtube.com/watch?v=xAVleon3Wj8&t=368s)
+
+Okay, I set it up as a demo. You could actually go back through my YouTube and find this the uh webinar just like this webinar where I actually set it up and I showed you guys how I set it up. Okay, so there's nothing hidden from you. It's all out in the open. Okay, I set it up as a demo and it actually made some money the first uh month. I think it made like 300 bucks or 230 or something like that. So, it's pretty cool. I was like, "Yeah, 230 bucks. Neat. Good. Great." Um, and then the next month I I think we did 510 and on and on. But if we look at it, we take this amount that I've earned so far. This site's made $40,000. Okay? If you made a site 2 years ago and you were doing your taxes this year and you're like, "Whoa, that little site made me 40 grand." How happy would you be on a scale of 1 to 10, right? 10 being super happy, one being, I really don't care. I want to make millions, Marcus. I'm on the wrong webinar. You don't own jets, so I'm not going to listen to you. Right? Well, I can go rent a jet. Okay? But, um, we
+
+---
+
+[7:10](https://youtube.com/watch?v=xAVleon3Wj8&t=430s)
+
+look at that and we say, you know, this is how it works. How many of you guys honestly would be happy if you saw $40,000 from your website? Okay. Okay. Pretty cool, right? I think I have one guy who says, "Uh, no, he wouldn't be happy." All right. If if you wouldn't be happy, you're probably on the wrong webinar because we start small and we grow big. Okay, cool. So, if you're not going to be happy with that, I'm sorry. I can't help you, right? go to the guy who's promising you the world for $12 and, you know, buy his ebook and get pissed off when it doesn't work. For now, for the rest of us who live in the real world, let's talk about starting small and building big. Okay, so we take a look at this. This little site made 40 grand. I'm happy with it. Why am I happy with it? Because I know I can make like 10 of these sites or 20 of these sites or I could build this site up and make even more. Okay, that's how this stuff starts. Now, this is almost $1,688 a month from a simple blog I set up in about 3 hours total.
+
+---
+
+[8:14](https://youtube.com/watch?v=xAVleon3Wj8&t=494s)
+
+And what if I told you that this is one of my smaller blogs, right? This isn't like my big huge income earner or something like that, right? How many of you guys right now your life would change if you had an extra 1,700 bucks a month? You'd be like, "Dude, that yeah, you know, that that would change some things. pay some stuff off, you know, maybe maybe my wife could not work. Maybe, you know, we wouldn't have to struggle, whatever, right? How many of you guys that would be kind of a gamecher? Okay, pretty cool, right? Excellent. Okay, so we take a look at that and we say, "Good. That that works." Now, first, let's backtrack. Uh, for those of you who don't know, my name is Marcus and the year was about 2003. At that time, I had moved from Los Angeles to Portland, Oregon because I wanted to start this business, right? We went there. Um, I had my first kid over a year ago and we were living out of this little uh three-bedroom house. We rented a couple of uh rooms in it and um at that time I was 19 or I think I was 21 years old at that time, maybe 22, I
+
+---
+
+[9:15](https://youtube.com/watch?v=xAVleon3Wj8&t=555s)
+
+think I go with the year, right? And my search engine ranking business was doing okay. The first year I did about 20,000 part-time. The second year was about 67,000 and we were on track that year to make about $160,000 a year, which at that time it was like my super big goal. I was like, if I can make 160 grand a year, that would be good, right? I thought, you know, hey, not bad for a 23 year old who barely made it through high school and never really had a real job for more than 6 months. Now, it did take some work. I had to find clients. I had to rank sites, but I was able to stay home with my wife and kids, which was cool. All right. Now, how many of you guys that's that's your thing? Like John says he wants to retire with his wife. Um, you know, that that was always my goal. It was like, you know, fancy cars and stuff, you could have it. I don't don't really care about him too much. Um, I've had some. Not a big deal. What I really care about is being able to stay home, being able to call the shots, being able to do what I want when I want without having to go to work. Right. And that's exactly what I've done for the last 17 years, which has been kind of cool. All right. All right. Like Michael
+
+---
+
+[10:17](https://youtube.com/watch?v=xAVleon3Wj8&t=617s)
+
+says, he wants to, you know, call the shots and Eric wants to supplement his disability. Uh, Richard wants to change his zip code. Right. Those things are easy to do. You know, we look at that and we say, "Well, these are the goals. These are the real things because if you have a reason, right, if you have a reason, this is going to be a lot easier and it's going to be a lot better. If you're just out there without a reason, then you know it's going to be kind of hard to do. Okay, so there we are. And um there I was. I was like, "Cool, staying home." My dad used to make fun of me. He was like, "Ah, you just play with your kids all day." And I was like, "Well, isn't that kind of the goal? I mean, is that a bad thing?" And for some reason, he thought it was a bad thing. He was like, "You need to go to work and you need to have a briefcase and you need to get an office." And I'm like, "Well, you know, if I could stay home and make money automatically." I thought that was kind of cool. So, if you agree with me, you know, that's kind of cool. All right. Now, the key to ranking these sites was pretty simple. Instead of focusing on keywords that the people wanted, right? People would come to me and they were like, I want to rank my site in Google. Here's the keyword I
+
+---
+
+[11:18](https://youtube.com/watch?v=xAVleon3Wj8&t=678s)
+
+want. And I would say, well, you know, those keywords are pretty competitive, right? They'd say, "I want mortgage or diet or whatever." What I would do is I would focus on finding super targeted stuff, right? Instead of, you know, something like gas scooters, I would go for like gas powered scooters for cheap. That exact phrase, gaspowered scooters for cheap, was typed in um I think it was like 300 times a day. And that exact word made me about $16,000 a month on a simple little gas scooter website. Okay, pretty cool. So, we look at that and the idea for me was that so many people searched online for so many different things that there has to be tens of millions of profitable keywords out there, if not more. Right? How many of you guys agree with that? You've been on my webinars, you've looked at it, you say, "There's got to be keywords out there that other marketers aren't using. I mean, Marcus finds like 50 on a webinar, so I'm sure I could find one." And it seemed like the easiest way to profit back then was to sell these website ranking packages, right? I I was
+
+---
+
+[12:19](https://youtube.com/watch?v=xAVleon3Wj8&t=739s)
+
+able to sell the package. I got like $1,000 upfront. I ranked their site. It seemed pretty easy. It was pretty cool. Now, at that time, I had built my fair share of websites for other niches and affiliate programs, but they never really made all that much money, right? They didn't they didn't do that good. They never hit profit quickly. Um, and because it didn't hit profit quickly, I just I just didn't continue with it. Now, one fateful day, a few months later, after things started to take off, our second daughter was born and doing well. And we actually rented two apartments in the same complex in Oregon. We had one here and we had one about 50 yards from there, right? I was able to afford them both, which I thought was kind of cool. They weren't small. They were pretty big. And I had the other one, which was my office, and it had its own fridge and everything like that. And the day started out normal. As I was taking calls to sell my little marketing package, I'll never forget a call I got from a guy who I just finished getting rankings for, he called me up and he said, you know, I got this site, you'll remember, we ranked it for how to teach a parrot to talk. And after he ran after we got the
+
+---
+
+[13:22](https://youtube.com/watch?v=xAVleon3Wj8&t=802s)
+
+rankings, he said that the traffic that he got from me, which was free, actually converted better than the paid traffic, which was really cool. was like, "Dude, you know, you're paying Google like a dollar a click or whatever, and the traffic you're getting from me, which is free other than, you know, paying me to get it, um, is actually converting better and you're doing well." And of course, you know, you get traffic all the time. Now, we got to talking about life and family and business just because, you know, I like talking to my clients. I care about you guys. I care about how you're doing and uh what you're up to and what results you're getting. And in the middle of the conversation, we're sitting there just shooting the breeze. He was telling me how much that stupid little parrot site was earning and here's a guy and like he's got this book about here's how to teach your parrot to talk and he's making thousands of dollars per month selling this book. So I was like naturally I'm like dude you know when did you become an expert in parrots when when did you you know get your PhD in pariting? And he's like dude I I don't
+
+---
+
+[14:22](https://youtube.com/watch?v=xAVleon3Wj8&t=862s)
+
+know anything about parrots. I don't even have one. I just paid some ghostriter to write this book and now I'm making money which is kind of cool. I was like, "That's kind of cool, right? He doesn't even know about these things." And he got someone to write this book and he's making money, which was kind of cool. And so he said to me, he said,"Marcus, you know, I know you get these rankings. I know your traffic's really valuable." Now, remember this is before Google AdSense and all the things that make internet marketing easy for us today. This is back in the trenches day when we had to like go find a client to buy our traffic. Um, now you just stick an AdSense code on and get paid. So he said to me,"Marcus, if you can get these rankings in any niche using your keyword method, why the heck are you dealing with customers? I was thinking, I was like, "What are you getting at here, dude?" He said, "Why don't you just find these words, rank some sites, and send people to affiliate offers?" And that got me thinking, "Wow, what if I didn't have to deal with phone calls, customer support, billing, and all that stuff? What if I could just pick a bunch of words, make little sites, and drive
+
+---
+
+[15:24](https://youtube.com/watch?v=xAVleon3Wj8&t=924s)
+
+people to affiliate offers, right? How many of you guys think that that's like an easy way to go? It's like, well, let's say this guy created the parrot book and he charges 27 bucks and he'll give me 20 if I sell it, right? That's a lot easier than going and figuring out what to write, figuring out how to do it, spending money, having this book written and everything like that, right? It's very easy. So, I thought to myself, what if I could just pick a bunch of keywords, which I'm good at, right? That's my strong suit. Still is today. Make little sites and drive people to affiliate offers. It's pretty cool, right? That how many of you guys on this call, you're like, "Yay, that's exactly what I want to do, right? I don't want to like build a big giant high-rise like Trump or something. I just want to make money sending people to affiliate offers. That's all I want to do." Right? You don't really care about all the glitz and glamour. You just want to make it work. Right? Cool. That's how we all are. All right? So, what if I could do that? So, that's what I did. And I'm saying so way too many
+
+---
+
+[16:25](https://youtube.com/watch?v=xAVleon3Wj8&t=985s)
+
+times. I mean, I had done similar stuff before with my gas scooter website that I told you about that did like $16,000 worth of scooters, but I had to take the calls. I had to arrange the drop shipping and I I never believed I could do this kind of stuff without like selling. Okay. Now, keep in mind again, this is before AdSense, CPA marketing, or any of the stuff that we now know was popular. So that week I set up two websites. They took me a total of about 2 to three hours to set up completely. I got them done before a trip down to Southern California. At that time we were in Oregon. Okay. And uh it was about a 10-hour drive. Why we decided to drive, I don't know. But because we drove, we stayed for like 2 to 3 days. We headed out that night around 9:00. Geniuses. I'm like, "Hey, if we leave at 9:00, the kids are going to sleep, right?" How many of you guys have ever had that thought? You're like, "We'll drive all night while the kids sleep, and then we'll get there looking like maniacs." And we did, right? Here's a picture of the 2001 caravan we had back
+
+---
+
+[17:26](https://youtube.com/watch?v=xAVleon3Wj8&t=1046s)
+
+then. And whoever decided that it was a good idea to make a four-cylinder minivan obviously never heard of this thing called Hills because there was a huge pass from Southern Oregon to Northern California. And when we hit it, this van would rev and it would try to shift, trying to squeak every little ounce of horsepower out of those poor little four cylinders. and it made this loud sound and it woke the kids up, woke the wife up. And obviously when you wake them up, they're not happy. As you can hear in the background, there's some kids that are woken up. And now I had to drive with screaming kids. And just when they got back to sleep, it did it again. Repeating over and over and over again, making me crazy. And finally, looking like a crazy person with no sleep and no quiet, we arrived at my dad's house. And for those of you wondering what this has to do with internet marketing tools, we're going to get to those in a minute. It all ties in. You're going to it's all going to come together for you, right? And while we were there that weekend, those little sites that I made did their thing and I didn't have time to check
+
+---
+
+[18:26](https://youtube.com/watch?v=xAVleon3Wj8&t=1106s)
+
+them or fix them or anything. And those little sites made 1,200 bucks in profit. So, here I was. I spent a few hours, made some sites over that weekend while I was gone, unable to check, got 1,200 bucks. I was like, "Hey, that's pretty cool. Awesome stuff." How many of you guys are like, "Dude, I want to spend a few hours." and have sites make me 1,200 bucks. That's I like that. That'd be cool, right? And profit. And it was a huge aha moment for me because if I could make money consistently off something I set up once, then I can make more and more sites and create a killer passive income stream and have a fun life. Pretty fun. Now, this little thought changed my life. I went from thinking how do I get my next sale or client or whatever to how many sites can I manage and set up on autopilot so I can make money even when I'm not working. That was the goal. Set up something, make money when I'm not working. Yay. That's cool. Uh what I did is I I went like crazy and I set up 300 sites and weird little niches from mortgages to printable games to anything really. And
+
+---
+
+[19:26](https://youtube.com/watch?v=xAVleon3Wj8&t=1166s)
+
+then it happened as I was researching niches for my simple sites business. I came across a term about smiley faces. And now, how many of you guys up until now, you thought that we had to be in money words, right? We had to be in mortgage words. We had to be in big affiliate niches. We can't be in something like smiley faces. And how many of you guys right now, you're like, "Okay, smiley faces. Is a guy like crazy uh or does he like know something that might help me make money?" And I remember thinking, "Wow, here's all these people on Google. They're looking for happy faces." And so I thought something and this one thought changed things forever. I said, "Marcus, how can you get paid for this smiley face traffic that is so cheap and non-competitive?" Like, right now, if I could get paid for um something like uh you know, weather. So many people look up weather and no one advertises for weather. How could I make money on it? If you could learn to make money on that, how many of you guys agree that you could probably make something? You'd
+
+---
+
+[20:27](https://youtube.com/watch?v=xAVleon3Wj8&t=1227s)
+
+make a lot because there's a lot of people searching for it, right? And if I was to fire up the Google Adwords tool, you'd see that millions of people every month search for weather. So asking myself that question was a big pivot point because up until that point, the only way to make money that I knew of was to sell stuff on ClickBank or something or AdSense or whatever. Okay, that's until I heard of CPA marketing. And back then it was crazy. You could actually get paid to give away free downloads, right? So, like here was this program and they're like, "If you get people to download these free smiley faces, I'm going to give you.7 cents." And I was like, "Wait a minute." So, millions of people look for happy faces. This guy pays me.7 cents to get someone to download a happy face, right? How many of you guys would be like, "That's a no-brainer." And it was a no-brainer. I wish I could tell you that I was a lot smarter than that and I came up with some code, but I didn't. That's all I did is put them together. And to me, this seemed like a lot at the time. And I was like, "$.7? Shoot. If I could get 10,000 people a month, cool,
+
+---
+
+[21:28](https://youtube.com/watch?v=xAVleon3Wj8&t=1288s)
+
+let's do it." And it seemed like a lot, but now you can get like $2 to $3 or more per download. And the kicker was that it cost nothing, right? They didn't have to pay. They didn't have to opt in. They didn't have to credit card. Nothing. They just download free smile. He's like, if I was to tell you, hey, you could get a free plugin right now that's going to help your WordPress site make money. How many of you guys would want it? Right? If I was like, you don't have to put your email or nothing. I'm just going to put it in the box. Like, how many of you guys would be like, "Dude, yeah, that's cool." And we'll try that out at the end. So, if you want that, put yes. And at the end, I'll give you a cool plugin. Okay? And I want to see how many yeses we get because if we get everyone to say yes, I'll actually give you guys some other stuff, too. Okay? So, right now there's a bunch. All right? Right. So, if I was getting paid like $4 a download, which is actually pretty low for a plugin, because a plugin's pretty targeted, I would have made a couple hundred bucks just right now on this webinar, right? How many of you guys are like, "Whoa, aha moment. You serious?" Okay, how many type money signs if you think that's a little aha
+
+---
+
+[22:28](https://youtube.com/watch?v=xAVleon3Wj8&t=1348s)
+
+moment? And it should be. If it's not, we need to go over that again. So, let me know, right? Think about that. I would have made a couple hundred bucks just like that. Okay, cool. And that's how it works. Okay, so here were these people that got smileys and I did the same thing. I made $70,000 the last few months of 2003 and even more throughout 2004. It felt kind of weird talking about this site with my family as I told you earlier in this that my dad thought, oh, you know, he's just playing baby or whatever. Um, they thought it felt like I wasn't working, so I felt like I was cheating or something. Now, my dad always taught me to be an entrepreneur, that's what he does, and work hard. But this felt like cheating. I mean, I was making 150 bucks to $200 a day in profit from a site that I made almost a year earlier. And I remember thinking, "This can't be real, right?" How many of you guys would like to pinch yourself and have this kind of epiphany or whatever you want to call it, right? Put it in the box. If you're like, "Dude, if I make 200 bucks a day from smiley faces, I probably wouldn't tell my family, but
+
+---
+
+[23:29](https://youtube.com/watch?v=xAVleon3Wj8&t=1409s)
+
+I'd be pretty happy." Right? Now, guess what? It actually got worse. In late 2004, I stumbled across another little niche. This one was about MySpace layouts and backgrounds. How many of you guys remember MySpace is before Facebook was out and everything like that. Okay. And so we had this MySpace thing and all these people were looking up MySpace and I was like, what could I do with it? And so I I didn't know what to do. It wasn't buyer oriented and no one knew how to directly profit from this niche at the time. So it was kind of like how you going to do it? And so with all this traffic, I thought to myself, I need a way to profit. So, I set up another little site and directed people to mouse cursors. I was like, "These people on MySpace. What if they could turn their little mouse cursor instead of this little arrow, it turned into like a soccer ball if they like soccer?" And then when people went to their MySpace, everyone saw a soccer ball, right? It's be pretty cool, right? How many of you guys think that would get popular really quick, right? If they like baseball, it's a little bat. If they like, you know, tattoos, it's a little skull or something. If they like God, it's a little cross. Okay, that's
+
+---
+
+[24:30](https://youtube.com/watch?v=xAVleon3Wj8&t=1470s)
+
+what I did. I made a site with all these little cursors and at that time I was getting $185 a download. Now notice cursors have nothing to do with MySpace, right? They didn't. What I did was I made them have something to do with MySpace. Okay, that's that's a big key point there. If you guys write that down, it's going to click in your head towards the end of this webinar because you have to find something that doesn't really have to do with it, but it kind of does. Like yesterday I was talking to Mark about his site and he's like well you know I want to go for these wedding budgets but there's no affiliate offer for wedding budget and I said yeah there never will be. No one's going to sell a wedding budget, but your goal is to say, well, how can I help people save money on weddings? Then what can I offer them, right? Like this. Like, how can I make people have a cool MySpace? Well, one of the ways would be put a little soccer ball. Okay. Now, again, cost nothing for the user. They loved it, right? And mark see if there's a wedding toolbar or coupon toolbar that could help, too. But I also use the background toolbar so they could use backgrounds as well. Again, within days, I was making over
+
+---
+
+[25:32](https://youtube.com/watch?v=xAVleon3Wj8&t=1532s)
+
+$300 a day from free traffic. Right? Think about that for a minute. $100,000 a year from free traffic from one little website. I kept making these sites, ranking them, and making money. I was up to about $1,700 a day in profit. Right? Remember how we said, "Hey, would you be happy if you made 1,700 a month?" How would you feel if you made 1,700 a day? Right? Think about that for a minute. Again, results not typical. I have no idea what your site will do. My goal is to help you make as much as possible, but I just simply don't know. There's a lot of variables. Um, some people are scared off by the variables. They say, Marcus, I don't want to, you know, test things. I don't want to figure it out. I just want it done for me. Right? If you're that kind of person, this probably isn't for you. However, if you're willing to take a day and test something and see how it goes and be very diligent, you know, this might be for you. Okay? So, we look at that. How many of you guys are like willing to do that? you're like, "Shoot, I'll test something out. I mean, I'm not going to lose all that much if I play it smart.
+
+---
+
+[26:32](https://youtube.com/watch?v=xAVleon3Wj8&t=1592s)
+
+Um, maybe I can get free traffic, whatever. I'm willing to test it." Okay. I mean, heck, willing to try anything once. If you guys go to work eight hours a day um for a paycheck to me, I'm like, "Well, shoot. That's a lot more risk than testing something once, right? Is anyone on the same page as me there?" Hopefully, you are. So, there we are. I'm 24 years old and I bought my first house in Northern California. Um, everything after that, right after I bought my house, I have this little joke that Google like doesn't like when I buy houses. Um, but everything crashed and for some reason Google decided to be a pain in the butt, which is kind of normal, right? Sometimes they do that. Just part of the game, right? It's like the day that your boss is like, "Oh, hey, you need to do this." Same kind of thing. Google's like, "Well, hey, you need to do this." Right? It's a job. Treat it like a job. Um, luckily, it's a lot easier. Like last month, I didn't work much at all because I didn't feel well, right? So, I was like, "Not going to work. don't feel good. Uh throughout the summer, I barely worked because we just moved to Florida and uh I didn't want to work, right? So, you know, I work like a couple hours a day, but it's
+
+---
+
+[27:33](https://youtube.com/watch?v=xAVleon3Wj8&t=1653s)
+
+pretty cool. So, we look at that. Uh here's the first house I bought in California. This one uh actually did tank in the crash. We lost a lot of money on this house, but you know, at any rate, our business still did okay. Um but what happened after the Google crash is we went from about $1,700 a day down to like 200. And I was flipping out. And I was like, how am I going to live on 200 bucks a day? Okay. Now, what happened at that time is our ranking method was copied by one of those internet gurus who made a software about it and people bought the software. So now thousands of people were doing the exact same thing as me except they weren't really like serving the market. They were just spamming the market. Because of that, Google kicked everyone out, right? So, uh, because it was based on what I was using, Google was just like, "Hey, everyone's out." I went from 1,700 to, uh, 200 bucks a day. Now, in hindsight, I probably should have made things more, um, more quality sk sites and everything. And I probably should have kept my mouth shut when I was talking to
+
+---
+
+[28:34](https://youtube.com/watch?v=xAVleon3Wj8&t=1714s)
+
+the guru guys because I got ripped off basically. Um, and I would have made more. So, I decided, hey, let's test this out. Let's see if this works on paid traffic. So, I decided to buy some traffic. I started with a little mortgage site and uh within you know days I was making money. I started to put the MySpace site back online with paid traffic. Now paid traffic for me was easier and faster because I didn't have to worry about waiting for Google. I was like dude boom click. There's my ad, right? It was like same same thing. I had the screen open where I just click the button to start the ad and boom, I was running. Um and I was like this is cool. Uh where' we go? paid traffic was easier and faster. And I remember u after like one day I started reaching 1,200 2500 even $4,700 in revenue each day. I mean think about that for a minute. You're sitting there. You're like whoa I just went down to 200. I'm kind of scared. A couple weeks later you're at $4,700 a day and you're like whoa. Okay. Uh you know this uh doesn't
+
+---
+
+[29:35](https://youtube.com/watch?v=xAVleon3Wj8&t=1775s)
+
+seem like a big number anymore. Okay. Now it was insane. I remember waking up. It was now summertime around 9:30 a.m. I'd get my coffee, check, check my numbers, and I was like at 900 bucks at 9:00 a.m. without having done anything, right? I go swim in the pool. I check my stats later and relax all day. And money just came in and it was really cool. We even took a trip to Hawaii and we couldn't spend as much as we were making. I checked it every day and I was like, "Whoa, what did we spend today?" We spent like 3,500 bucks. We made like 5,000, you know? So cool. It was kind of cool, right? How many of you guys are like, "That's cool. I like that idea." And uh here's the second house we bought in 2009. Uh this one actually was less than the first one because of the crash. So we did good on that one. Did bad on this one, good on that one, which is kind of cool. Uh we sold this house in 2014 if you want to hear that story. It was my story of alcohol addiction and insanity and craziness. Um but you can hear about that. And uh in 2016, we actually bought our house here in Florida, which is pretty cool. I don't
+
+---
+
+[30:35](https://youtube.com/watch?v=xAVleon3Wj8&t=1835s)
+
+have a picture of it, but you can see our yard here. It's kind of cool, right? I like it. And my office is over here somewhere. I think it's there. Right. So, kind of cool. But I like it here. We always wanted to move here and we finally did. And I like it, you know. Cool. I love living outside. So, Florida is the perfect place for that. Okay. So, back to the story. How many of you guys are enjoying this story so far? Cool. So, it was early 2006 and I was on track to have my first million-doll year. There I was. I was 26 years old. I was going to do a million dollars in my business. And we hit a million63 that year. As always, I like to stay on top of the new stuff. And that year is all about blogs. How many of you guys remember 2006 where it was like everything was about blogs, right? It was like get a blog, get a blog, get this. Everything's a blog. Blah blah blah blah blah. All right. and getting tired, I started to look into it and I
+
+---
+
+[31:36](https://youtube.com/watch?v=xAVleon3Wj8&t=1896s)
+
+said, "Can anyone really seriously make money blogging?" And more importantly, my problem was this. Tell me if this resonates. Right? You don't get into blogging because you don't want to blog every day. Right? That's why I didn't do it. I was like, my little MySpace site just kind of sits there. It does its thing and I don't do anything to it. So, if I get into blogs, do I have to like, oh, hey, here's a new cursor about baseball. If you like baseball, here's a new cursor. I didn't want to do that. That was stupid, right? Why would I make more work for myself? Um, and more importantly, do I have to write every day like those lame people on Facebook and Twitter who tweet or post every time they leave a house and they're like, "Look, I got a new soda. I got this. Wow, look at that. Look at this." And it's like, "Dude, shut up. I don't care about that." Right? And now being used to setting up simple little websites, how many of you guys are annoyed at that? Be honest. Right? Drives me nuts. It's like, "I don't care what you bought." Right? I mean, if I would cared, I'd sit behind you at the store and look in your cart, but I really don't care that much. Okay. At any rate, to each his own. A lot of people make
+
+---
+
+[32:36](https://youtube.com/watch?v=xAVleon3Wj8&t=1956s)
+
+money doing that stuff. That's cool. Whatever. Um, okay. Being used to set up I won't get started on Trump and his social media, but anyway, being used to setting up little websites and banking 5, 10, $50, or $100, or even $1,000 a day, the last thing I wanted to do was set up a huge content site. I mean, couldn't I just set up my simple sites? They they made like uh There we go. They took like 45 minutes to an hour to make and they rad it in big time. Sometimes the same day I put it up. Like how many of you guys if you set up a site in the morning and it actually made money by the nighttime, you'd be pretty happy, right? So there I was. I was listening to countless videos, teles seminars, and webinars. I was reading all the ebooks, buying all the courses. Serious info overload, right? I can relate to you. When I got into blogging, there was like movable type, there was WordPress, there was some other thing, there was this other thing. It was like crazy. Okay, if you're an info overload, we're going to end that today. Okay, so write a little
+
+---
+
+[33:36](https://youtube.com/watch?v=xAVleon3Wj8&t=2016s)
+
+note. Say info overload ends today. Squirrels are jumping around in the tree making all the leaves fall. All right, so serious uh info overload and burnout. Uh John, we're going to get you out of education mode and into making money mode. So there I was. I was done, right? How many of you guys have felt like giving up the giving in the towel or throwing in the towel because you're like, "This stuff is just too complicated. It's too complicated. I don't want to do it because it's too complicated. There's this. I got to have web hosting. I don't even know what a web host is. I got blogging. I don't even know what a blog is. I got to put blo plugins on my blog. I don't even know how that works. And something about a domain name." And then this other guy says, "I need to get Twitter people. And then I got to get a Facebook page. And then I need a mobile thing so people can look at my website. I don't do that stuff, right? How many of you guys that's a relief to you? Like Marcus doesn't do that stuff. Really? Seriously? Okay. I keep it simple. So there I was. I was thinking about blogs and I was done. I felt so tired of
+
+---
+
+[34:37](https://youtube.com/watch?v=xAVleon3Wj8&t=2077s)
+
+trying to get my head around the blogging. It made me sick. And I gave up right then and there. I threw in a towel. I said, "You know what? I don't need a blog." I was on track to single-handedly make a million bucks with no blogs, no employees, no outsourcing, just some little stupid sites that look like a fifth grader made it. Then 2007 came. Still, ah, I don't need a blog. Still making 750 that year. Got it handled. 2008 came and I was like, hm, some of my sites are getting quality scored, slapped, other nonsense. Still decent income. We were in the mid6 figures. Perhap, you know, learn a little bit about this blogging thing. It can't hurt, right? We'll check it out. Now, ringing in my ear in the summer of 2009 again was blog, blog, blog. You got to get into blogs. That's what all the big boys are doing, so it must work. Now, I got to tell you, I was going to do blogs on my term. No posting daily. No lame stuff. I don't really want to be the next Perez Hilton. I don't want the legal crap like fail blog. I don't I just want to earn a decent income from
+
+---
+
+[35:38](https://youtube.com/watch?v=xAVleon3Wj8&t=2138s)
+
+home. Was that too much to ask? All right. Was that is that too much to ask? How many of you guys are asking yourself like all I want to do is you know supplement my income or something. Now late that year I discovered the WordPress blogging platform and it was confusing at first and you know I got around it finally. I I spent like a month being confused about something that if I just like did it would take me like minutes. So finally after a month of him and haing I was like okay I'm going to sit down. I'm going to make a blog. I set up my first blog in 15 minutes. It wasn't fancy. It wasn't pretty. It was like the regular template, you know, we're welcome to WordPress crap. But I did it and I was proud. And little did I know the next day, this was like, I went back to 2003 again, right? And the next day I woke up. I was like, dude, I got ranked on the top of Google in 12 hours. This it hadn't been this good since like 2003. And no metatags, right? That dates me. If anyone remembers, how many of you guys remember metatags?
+
+---
+
+[36:40](https://youtube.com/watch?v=xAVleon3Wj8&t=2200s)
+
+No submitting, no directory listing. What the heck was going on? Google actually liked these blogs. So, I got some paid traffic accounts and tested paid traffic and it worked. Some of them got leads and made money almost instantly. So, now here I was. Instead of spending an hour or two setting up codes and and sites and HTML and all these things, I actually banged out a site in 12 minutes. I didn't even have to upload it because WordPress did all that for me. But there was one little hiccup and they got ranked in the search engines. The one little hiccup ha I can't talk today. The one little hiccup was that building sites gave me the freedom to have whatever I wanted wherever I wanted. See the key to making this affiliate marketing thing work. And for those that have stuck around, we're getting to the tool part right now. You're going to love it. Um the key to making the affiliate marketing thing work for me was conversions. Right? if I had to like rely on some blog or something and it just wouldn't work because if the blog didn't convert the visitors, we're dead in the water. Like I was talking to
+
+---
+
+[37:41](https://youtube.com/watch?v=xAVleon3Wj8&t=2261s)
+
+someone yesterday and I'm like when I get a 100 clicks, I need to know that 10 of them opted in or five of them download this thing or whatever. I need to know exactly and I need them to do it. I can't I can't guess, right? When I'm buying traffic or getting free traffic, I need to know they're going to do it. Okay? And in the website world, I was really good at getting conversion. one of the best there was using weird little obscure niche market keywords like MySpace layouts or printable coloring pages or something like that or even guitar tabs, right? The niches that other marketers don't touch because they aren't buyer markets. Blah. Those were my best money makers, right? Those are pretty cool. Now, for those taking notes, here is your blog conversion checklist and guide. And then we're going to talk about how the tools do this for you. Number A, letter A. Who am I trying to reach? Am I trying to reach people on Google searching for how to lose 10 pounds? Am I trying to reach people on um you know, whatever, MSN, YouTube, wherever? B, what do I want them to do
+
+---
+
+[38:42](https://youtube.com/watch?v=xAVleon3Wj8&t=2322s)
+
+most? Okay, if you don't answer, if you don't ask these questions, then I can't help you, right? These are these are very simple. Who am I trying to reach? What do I want them to do? So, I'm reaching people who look up smiley faces. What do I want them to do? I want them to download smiley faces so I can get.7 cents or three bucks or whatever. Okay. And you could have different uh answers like join a mailing list, click an affiliate ad, watch a video or whatever. See, what does my ad or site headline promise? Okay, what does it what does it promise? Lose 10 pounds tomorrow, free blog setup guide, whatever. Okay, now how many of you guys you wrote those down? We're good to go. Type good to go when we're good to go. or GTG or G2G or whatever or a smiley face or something. Anything, right? Just let me know we're good. Okay, here is how to make your blog convert in 3 seconds or less. Remember, if your blog doesn't convert in 3 seconds or less, the people
+
+---
+
+[39:42](https://youtube.com/watch?v=xAVleon3Wj8&t=2382s)
+
+are going to leave and you are going to waste money and people. Uh, which is bad. Wasting people is worse than wasting money because you could have got more money. Number one, does my site blog cater to the type of user I'm trying to reach? Make sure it's not too technical. If you're marketing to an 84 year old grandma's, make it easy to read, big font, simple click here buttons, and other um on the other hand, if you focus on people searching for cell phone gadgets, make it hip and fun and cool. Right? How many of you guys are like, "That's not rocket science, but it is. I needed to hear it." Okay, number two. Can my visitor find the promise in less than 3 seconds? This is your promise. If they can't find it in 3 seconds, they're going to leave. Remember, your visitor came to your site because of the promise found in your advertisement banner or search in the listing. They're on your site because they want the goodie. If they can't see the promise in 3 seconds, they're gone. Note, you don't have to deliver the whole promise up front or in one sentence. You can have a headline with the promise and an opt-in box saying,
+
+---
+
+[40:43](https://youtube.com/watch?v=xAVleon3Wj8&t=2443s)
+
+"Put your name and email to get the promise." Very simple. Three, is my site focused on what I want the user to do most? Right? Notice how this is B. Okay. Focus on the goal you set up in B above. If your visitor, if you want your visitors to opt in, make the main point of your site to opt in. Don't distract with visitors with AdSense and links and banners. Keep it one-sided. If you want them to opt in, say, "Dude, opt in so you can get this." Um, the content should lead the user into getting them to opt in. If you have a video, the video should say opt in, right? Pretty simple. I wish it was I wish it was harder, but it's really not. Uh, whatever your big promise is, uh, if there are images, put a caption or blur out the part and tell them to enter the name and email for the promise. Four, do my colors and themes complement or distract from my message? This is something people get wrong all the time. And remember that a simple color change can make the difference between profit and money loss. If you're marketing Halloween people, they probably don't want a pink flowery site, right? If
+
+---
+
+[41:44](https://youtube.com/watch?v=xAVleon3Wj8&t=2504s)
+
+you're marketing in wedding people, they probably don't want skulls on the site. Pretty simple, but people don't do it. Um, if you're going for wedding, you know, uh, don't make your site black. Tips: Make your headlines red. Make your links that you want clicked on blue. Make your buttons easy to read and click. Make directions clear and concise. Cool. Everyone good to go? Want to make sure you get this. Okay, cool. So, the question was, how can I make the blogs do exactly what I want when I want? That was the question. So, these seven things here. Okay, answer the question. If I don't do these seven things, if my blog can't do them, then I don't need to be blogging. All right, so the question was, how can I make these blogs do exactly what I want when I want? Now, here are some of the top converting things I had on my sites. Now, these are going to blow you away because they're not what you would think. You would think that order buttons and credit card forms and things would convert. But actually, these little tools are crucial to the success
+
+---
+
+[42:44](https://youtube.com/watch?v=xAVleon3Wj8&t=2564s)
+
+of my sites. They offer interactivity. They make people click. They make people buy stuff, download stuff, fill out forms, all the things that puts money in our pockets as affiliate marketers. Now, late 2010, after blogging a year, I decided to look into the outsourcing thing because I wanted the blogs to do what my sites did, right? I I was like, they have to do what I did. Okay? Because that's what converted in the real world. If I bring it to blogs, it'll work. But the cool thing was is when I had the outsourcer make these tools, I wanted him to make them easy, right? So, you don't have to do codes. Like, I used to have to go and I would have to do the code. So, like there would be, you know, this code that I'd have to edit and I'd have to understand coding. Okay? Now, none of that's in blogging, right? the tools that I actually had created for me which I'm going to give to you um at the end of this webinar. Those tools instead of knowing the code like you just simply put your affiliate link or you just simply put a a a line like a URL or whatever, right? Very simple. Um here's
+
+---
+
+[43:45](https://youtube.com/watch?v=xAVleon3Wj8&t=2625s)
+
+one I had which was the custom uh search box, right? This helped me make a ton of cash. Um, it made money with downloads, it made money with gas prices, and it simply asked them to enter their zip code. It passed that on to the affiliate offer, and boom, I had made money. Right? How many of you guys are like, "Dude, that's pretty cool." Like, if I was looking for gas prices, I would put my zip code in there, right? Of course you would. It's like, how am I going to know to find you cheap gas unless I know where you live, right? Duh. Okay. Again, these are like total duh things, but it works. Okay. I wish I could tell you that I'm a genius, but you know, it just works. Sometimes the genius is the simplicity, okay? And that's the part I'm good at, right? Maybe I'm a simpleton or something. All right, so we have this custom search box plugin with a blog. Uh, this is actually included in what we're going to talk about today. Now, I made this tool. This one is directly responsible. How many of you guys heard about the lottery website I had? This is a site that I had. Uh, I set it up in the morning when the
+
+---
+
+[44:45](https://youtube.com/watch?v=xAVleon3Wj8&t=2685s)
+
+lottery was crazy. It was like 600 million. And um by that night it was making money. Okay. Uh in 2013 was the time I tested this. I would still run it today, but the offer is not around anymore. Um this one made over $1,300 in a few days. I think it's best day was actually 1,300 bucks. This was uh the little download thing. Uh the number the keyword I used was lottery numbers um or check lottery numbers or mega millions. all the all the Powerballs, Megaillion, stuff like that. Now, what I did, um, is it sound okay? Ben says he's got some distorted sound. Sounds good. Okay, cool. Um, now this was a little drop down. So, we used this zip box. We had the little drop down box, which they would drop down. Um, and this site actually I got I think it was if I got a,000 people to the site, like 1,300 actually went to the drop down box. It's like you're like, "How does
+
+---
+
+[45:46](https://youtube.com/watch?v=xAVleon3Wj8&t=2746s)
+
+that work? How do you get more people?" Well, they were clicking on multiple dates, which was cool because that meant more people went to the thing. Now, Mark says, "Well, how do you code that? How do you make that thing?" Well, yeah, it used to be difficult. It used to be something we had to code, but I actually put it into a plugin where all you do is put your affiliate link in there and then where you want the little uh variable like in this one, you just put zip. That's it. You put affiliate link and then you put zip where you want the zip code and boom, it's done. Uh, this drop-own box is simple. You put, "Here's what I want it to say. Here's where I want it to go. Here's what I want it to say. Here's where I want it to go." Boom, boom, boom. It's done. Okay. All of these plugins are in what we're going to be talking about today. And if you're like, "Well, Marcus, I don't want to stay around for another offer." U, you do because this one will blow your socks off. And everyone on this call can afford it. I guarantee. Okay. So, that one's also there. We also have one for mailing list. We also have one for um doing the uh sidebar things and everything like that. So, pretty cool.
+
+---
+
+[46:47](https://youtube.com/watch?v=xAVleon3Wj8&t=2807s)
+
+And they're all they take no coding. You click a button, it installs, and boom, you're done. Like literally 2 seconds. Okay. So, it was important for me that these plugins by be made by me. Okay? I spent like $100,000 making these plugins because I'm totally anal and I wanted them to do what I wanted them to do, right? They didn't want those plugins like you see on ClickBanks and JVZoos that are just, you know, I mean, some are good, but they don't do what I want them to do, which is like make me money, right? How many of you guys are like, I want my plugins to make me money, not just to be cute, of course. Right. There we go. All right. So, now it was important that they were made by me. I didn't want autogenerated get you banned from Google things. No lame untested plugins by marketers who only sells crap to other marketers, right? How many of you guys see people like that? They're like marketers who are just like, "I made $1,000 selling you a product that was $1,000." And you're like, "Well, that's kind of stupid, right? How am I going to duplicate that?" Well, you're not. Duh.
+
+---
+
+[47:49](https://youtube.com/watch?v=xAVleon3Wj8&t=2869s)
+
+This needed to be real world stuff. Like, how many of you guys are like, "I can make money with smileys. I can make money with with uh lotto, right? These are things that actually work that provide good to people other than just other marketer people. Okay, this need to be based on real world stuff and niches that have nothing to do with ClickBanks or AdWords or anything. Here are some of mine, right? Check this out. These are my banner ads. And I'm pretty good at banner ads. And we can see here that some of my banner ads, even the best one, only gets like a 1% click-through rate. Okay? And that's that's standard. How many of you guys have heard that? Actually, 0.1 is standard. 1% good, right? How many of you guys, if you could get 1% clickthrough rate on a banner, you'd be real happy? Of course you would, right? Most people are getting less than that. So, check this out. I wanted to do the same kind of thing with plugins, but I wanted it to be based on my stuff. So, here's a plugin, and here's the click-through rates we're getting with the plugin. I tested this one. Okay, this one here has
+
+---
+
+[48:49](https://youtube.com/watch?v=xAVleon3Wj8&t=2929s)
+
+an 89% click-through rate. And you might be saying, "Well, Marcus, 89%. I mean, you know, would you get like three clicks and and two of them clicked or whatever? No. We actually tested on 2500 visitors here and 1,400 here and it's all paid search traffic, right? Imagine that. Here's these guys getting 1%. I get 89%. How many of you guys would like to know how to do that? Right? It's very simple. It's if you How many of you guys think that so far this webinar has been pretty easy to understand, right? And on a scale of one to 100, 100 being, dude, I totally get it. This is easy. And one being, um, I thought this was going to be about football, right? Okay, cool. So, check out the ads. You can see how it works. Here's one that got in 18%, another 18, another 18, and another 18. Lots of traffic. All right. Overall, we got 70% click-through rate. Compare that to AdSense. How many of you guys have tried AdSense and you haven't made money? Right? Type AdSense in the box.
+
+---
+
+[49:50](https://youtube.com/watch?v=xAVleon3Wj8&t=2990s)
+
+or maybe you made like four bucks. Okay, if you haven't tried it, good. I'm going to save you some time. If you have tried it, you're going to understand this real quick. All right, here we go. I got 14,000 clicks. How many of you guys think it's difficult to get 14,000 clicks, right? That's a lot of people. Okay, that's like as many if you have ever been to a hockey game, that's like getting all those people in the hockey game to click. That's a lot of people. Okay, out of those people, only 448 clicked. That's 3% right up here. We're getting 80. Here's three. And I made 350 bucks. Right. Uh Eric, no, not the Penguins. I'm sorry. The Red Wings. All right. We're just going to argue about that. The Red Wings. Uh that's my team. Although now I I do kind of like um Tampa Bay, which is pretty cool. I like them mostly because you could get tickets for like 30 bucks. It's pretty cool. All right. We'll have to get together a marketing group and we'll go and see Tampa Bay for our uh for our uh
+
+---
+
+[50:50](https://youtube.com/watch?v=xAVleon3Wj8&t=3050s)
+
+Florida people. All right, if you're interested in that and you're here, let's go see a game. All right, so imagine I would have gotten 10,000 clicks if I was using the plugin and made over $8,900. So tell me, right, would you rather have 360 bucks or $8,900 bucks? Right, let me I'm going to ask everyone to type their answer in because I want to make sure we're on the same page here. Uh, John, I'm sorry. I don't like Minnesota Wild. They are pretty good, but I I just don't, you know. Okay, cool. So, there we go. Right. Uh, and you can make money like with hockey tickets, too. We'll show you more about that. Bottom line, you need to convert your clicks and figure out what your market wants fast. Okay? You got to figure it out fast. Here are some more stats for you. Here's a screenshot from paid traffic for the term football, right? Hey, I lied. This actually is about football. So, how many of you guys are like, "Okay, we're talking about hockey. We're talking about football.
+
+---
+
+[51:50](https://youtube.com/watch?v=xAVleon3Wj8&t=3110s)
+
+That's a market. That's pretty cool. I'd like to see you make money in that market." We actually have a site. The first day I put it online, it made $108 or actually no, I'm sorry, uh, $86.88 or something like that. It was like86 or $87 it first day online. Okay. You can see it on YouTube. Use the plugin. Check this out. I was getting a 43% click-through rate. 6,800 clicks, 2,900 clicked on the thing, and it made me money. Here is one that I run on the footer of one of my sites, right? How many of you guys, you know that the least valuable property, excuse me, on a website is the footer, right? Like, no one scrolls down to the bottom of the site and clicks on the stuff at the bottom. Very little. Okay, now it's valuable if it's like an order button, but we're talking about not an order button. I'm even getting almost an 8% click-through rate on my footer, right? Most people get.3. I'm getting 8%. Pretty cool. And I stuck
+
+---
+
+[52:53](https://youtube.com/watch?v=xAVleon3Wj8&t=3173s)
+
+this way down at the bottom of one of my plugins. Okay, I put it at the bottom of the plugins and everything like that. And it got a bunch. We also have plugins that do this. The exit pop-up plugin that has a little guide to click on little videos. We have the lead generating plugin. We had the little plugin on the Bible site that made money. Lots of plugins, right? Pretty cool stuff. This actually this one here, uh, increase the opt-in while learning about your market. This one's cool. You're going to love it. All right. So, that's well over $700 worth of my plugins that you're going to get today when you join Blog Blog Profit Club. Now, for those of you saying, "I've heard about Blog Profit." You haven't. This is new. It's something different. Okay? So, sit tight. It's different. Promise. And I'm going to show you how to get over 150 bucks in free advertising so you could test on the house is done. That's like 800 bucks in your pocket and you haven't even started yet. How many of you guys are like, "Dude, this is cool. I like this. This is this is different." Okay, if you think it's cool, type cool. Part of the reason I ask you questions is so that I could drink my coffee.
+
+---
+
+[53:56](https://youtube.com/watch?v=xAVleon3Wj8&t=3236s)
+
+And you didn't know that. I was being kind of sly there. Okay. So, when I ask questions, it's like, "Hey, how you doing today?" you know. Yeah. Don't mind me. All right, cool. So, got 800 bucks. We haven't even sold anything yet. Okay, now real stuff that would work for niches like hospital scam, which is actually a niche I did. Facebook layouts, one I did. Downloadable Bibles and other random stuff that you can get super cheap traffic in. All after all, that was my specialty. Why fight it? So, it's go time. And there I was. I was like, I got my plugins, my programmer made them. I spent like a h 100red grand getting them done, but I got them. And um I went like crazy. I made blogs for membership sites where people paid 1,200 bucks for access. Uh some that were like a dollar for access. I made little blogs for little niches, bigger blogs for big niches, and they all made money. This was awesome. You could build sites fast, get by with no coding, HTML, or any crazy tech stuff, right? It's really easy. How many of you guys are like ready to ditch the tech stuff and get
+
+---
+
+[54:56](https://youtube.com/watch?v=xAVleon3Wj8&t=3296s)
+
+the plugins and make some money? Of course you are. All right. You could rank them without being an expert. Most of the time they rank. Now here we are in 2017. I forgot to update that to a seven. My blogs are rocking and rolling. Only one was hit by the latest Google thing back in 2003, but I didn't pay much attention to it. So, you know, I was making like three bucks a day. The important part to realize is that you can make profits by creating a simple blog in a simple niche and letting it do its thing. Here's a lot site. 1,300 bucks almost for like, you know, couple of clicks there. Pretty cool. 12 cents a click. Awesome. I was paying three cents a click. How many of you guys would like to throw three pennies in the well and pull 12 pennies out of the well? And then how many of you guys would like to do that like a thousand times a day, right? It's big well. All right. Now, these are the results from the lotto site. Notice this was paid traffic, so it wasn't all profit. Um, but you know, three like eight cents a click profit. Now, it's important to realize that there are many ways to get paid online. Very important for those taking notes. It's not just AdSense, ClickBank, and Amazon. You can get paid per click. You
+
+---
+
+[55:57](https://youtube.com/watch?v=xAVleon3Wj8&t=3357s)
+
+can get paid for sale. You can get paid for downloads. You can get paid I'm running out of fingers here to get people to fill out forms. Heck, I even got paid when people printed coupons. Like there was this ad where they paid me $150 if someone clicked print on a thing that was like click print to print out a $100 glasses coupon, right? And they'd print it out. They go to like Lens Crafters or whatever and they got a $100 thing. Okay. Is our audio still there? If the audio is here, type a yes or something. Okay, cool. All right, so I mean, how many of you guys think that would be easy? Like 150 bucks. They print out a coupon, they're going to get glasses anyway, and I get paid a buck 50. Cool, right? And so there we go. Uh, how easy can that be? Here's a screenshot where I made 835 grand. You could see that most of it was like these little tiny dollar10 offer, $269,$140, right? But I got a lot of clicks. Like this one got a million visitors. And I made like $317,000.
+
+---
+
+[56:58](https://youtube.com/watch?v=xAVleon3Wj8&t=3418s)
+
+I That's pretty cool, right? So, you know, I was averaging 20 cents a visitor. I paid 2 cents a click for that, right? So, there we go. We see that lots of money. Uh you can see the AdSense. I made over 200 grand with that. The po the point here isn't to say, "Look how much I earned. Yay, great." It's to say, I know this stuff, right? If you get 7 million visitors and you're making profit, you know how to convert, right? How many of you guys would agree with that? Aside from the numbers, it's like, dude, if you can make 20 cents a click on happy faces, you know, pretty cool. All right. Now, I even made over 100 grand in referral revenue teaching students like you to profit online. I got like a little kickback um on the people that I sent to the affiliate networks and uh it was pretty cool. Didn't even come out of their check. It's just like if I made 100 grand making two to 5%, imagine what my students made that year. Pretty cool. Now, remember, these results are not typical, and I have no idea what you're going to generate. I just don't know. We don't know what you're going to do. But if you could set up a simple blog in about an hour and generate 8 to 27 bucks
+
+---
+
+[57:58](https://youtube.com/watch?v=xAVleon3Wj8&t=3478s)
+
+a day, how many blogs would you make? So, that's the deal. That's the spiel. Um, what we're going to do is we're going to talk to you about these plugins. How many of you guys you like these plugins? You're like, "This is pretty cool. I like these. I know that these are going to help me make money." If that's you, you know, cool. We'll talk about that. All right. So, um, these plugins work with blogs. We teach you how to do blogs, everything like that. And did you know that over third every 60 seconds over, I think it's like 6 million people search Google and everything like that now. But as you could see, these things work. Here's the Bible site. There's results, right? 13 cents a click. And we do a lot more than that. So, here's the deal. Before, what we did is we had a software that you had to buy in order to get the plugins. But what I've decided to do is this. Because the plugins aren't cheap. You guys know they cost me $100,000 to build. I have to update them every time WordPress updates. I have to update them every time I get a new idea. Every time I want a new plugin, I got to pay to get that built. So, they're not cheap. But what I want
+
+---
+
+[58:59](https://youtube.com/watch?v=xAVleon3Wj8&t=3539s)
+
+to do is I want to give you access to them. How many of you guys want access to these? Type want. You should. I mean, obviously, right? And how many of you guys think that in addition to access, you'd like me to give you the new ones I come up with, you'd like me to update them, make sure they work, right? Hire someone full-time, make sure they're all working. You guys think that's pretty cool, right? How many you guys think if I charge like 500 bucks for that, you know, that'd be probably worth it. I'm not going to, but how many of you guys think it'd be worth it? Spent I spent a h 100red grand on it, so, you know, pretty cool. Okay, type 500 if you're like, "Yeah, it probably would be worth it." How many guys are like, "Well, u you know, if you charge me 127 bucks, that that's pretty cool." Like like Lisa says, she doesn't have 500, but yeah, it's worth it. What if I told you that in order to do this, what we're going to do is we're going to have a little club and instead of charging 500 bucks, like I probably should. We're just going to charge 37 bucks a month, right? That's like you're getting all the plugins
+
+---
+
+[59:59](https://youtube.com/watch?v=xAVleon3Wj8&t=3599s)
+
+today for two bucks each. And how many you guys are like, "That's pretty cool. I like that." If you do, I mean, it's kind of a no-brainer. I don't need to sell it. I don't need to be like crazy or anything because all you got to do is go here and for 37 bucks a month. Now, you might be saying, "Well, Marcus, is this one of those membership things?" Well, yes, it is. I mean, we want you guys to get everything each month. But here's the deal. We're actually going to teach you how to cancel right here on this webinar. So, if you ever want to like cancel out, um you will have to pay more to get back in because it's going to be $77 a month. So, if you want to like save a bunch, you want to join now. Okay. How many of you guys are like, "This is pretty cool." Um, yes. This is in addition to simple sites. Uh, this is very recommended. If you have simple sites, this is highly recommended. Um, and what I'll do is I'll show you what it's all giving you. Let's see here. Okay. So, um, here's what it's going to give you. It says, "Get instant access to Marcus' private stash of killer plugins and tools to make you profit with your affiliate websites and blogs.
+
+---
+
+[1:01:00](https://youtube.com/watch?v=xAVleon3Wj8&t=3660s)
+
+The new plugins and tools are added every month." So, every month you're going to get the plugins. Now, Mark says, um, "Do you teach us how to use them?" Yes. Every plugin has a video on the plugin. So, when you download it and install it, says, "Hi, I'm Marcus. Welcome to your new plugin. Here's what it does, and here's how to do it." Okay. Now, every month we're coming out with new ones. So, every month you're in this club, you're going to get new plugins, right? We have them all the time. My programmer has ideas and he's like, "Do you want me to make this?" Half the time I say no because I just don't know what to do with it. But now, I'm going to say yes and we'll give them to you, right? Pretty cool. um you use the ones you want, you download them, you can use them forever. Okay, so that's the first thing. That's like if you were to buy them on their own, it'd be 197 bucks every month just to buy them. Okay, we're also going to keep you up to date with all the changes happening with blogging and affiliate marketing. Hey, that's cool. So, we're like, "Hey, dude, check it out. We made this plugin and um you know, it works for this." So, Google's really cool. Like um a couple days ago, we came up with um a new plugin that actually
+
+---
+
+[1:02:02](https://youtube.com/watch?v=xAVleon3Wj8&t=3722s)
+
+changes words. So like if you have the word make money on your site, you can actually make that all the instances of that clickable and go to an affiliate offer. Pretty cool, right? Um you also get uh up totheminute training live in your members area. You can also submit your site for personal reviews. Be like, "Hey dude, what do you think about my ads? We'll check it out and look at it." And we're going to have live trainings just for people who are in the plug-in club and more. So, if you guys think that this is worth like a dollar a day, which I mean, if not, I I don't know if I could sell you anything, right? Um, everyone should be joining this. Um, and you get in there and you could get in there. You could sign up right now. You could go download everything and you can write us and hit cancel and you can cancel whenever you want. I don't care. I want you to be happy with it. Right? So, what we're going to do is help you. And here's the deal. When you join, let's see. When you join right now for just 37 a month instead of our normal 77. So right now you're saving big time. You get all
+
+---
+
+[1:03:03](https://youtube.com/watch?v=xAVleon3Wj8&t=3783s)
+
+these bonuses plus my blog software. We're going to give you guys some cool blog software as well free for trying this out. That's another 127 value yours to keep forever. So how many of you guys are like, "This works. I'm going to do it." And this is a brand new um members area we're starting for you. Uh new plugins. Most people haven't even seen uh nine of the plugins that are in there. If you think it's fair, if you're like, "Dude, I got 37 bucks. I know I'm probably going to go to dinner and, you know, waste it anyway." Um, you know, so we'll get this. Cool. Um, yes, we do have a replay for this. Um, however, on the replay, I don't know if we're going to raise the price yet. We're actually going to keep a look at how many people. Um, and we'll go go for that. Uh Ian, let's see. Just got Simple Sites. Um haven't set up any sites. How I use the plugin. It's kind of a supplement. What this is is it's like the coaching of Simple Sites. Um but we're making it more of a software
+
+---
+
+[1:04:03](https://youtube.com/watch?v=xAVleon3Wj8&t=3843s)
+
+thing. Okay, cool. So, let's take some questions while you guys are sitting uh getting signed up. The uh URL is blogprofitnetwork.com/join. Okay, you could see this if you say, you know what, I think this will work for me. Um, again, this is the blog software you're going to get. It actually takes you, if you say, "Well, Marcus, I don't know how to set up a blog." There's actually a 7-day blog course, which we're redoing as part of this, which we're going to go through. There's 12 webinars on um how to do blogging, new plugins, and everything in your plug-in area, uh, tools, and everything like that. Now, um, we're also going to put the tools section in here because we're also updating those. So, this is a way of us keeping on top of everything and updating all your tools and everything like that. So, what we're going to do right now is we'll take some questions, which again is my way to drink some of my drink here. All right, cool. So, an uh put your questions in the box. Um, let's see here.
+
+---
+
+[1:05:05](https://youtube.com/watch?v=xAVleon3Wj8&t=3905s)
+
+Lloyd, no, this is not all right. And again, what I'll do is I'll give you guys a little bonus for uh joining tonight. Um I'm not going to mention it on this, but you guys are going to love it. I'll stick it in your members area right now. Um let's see here. Ben Marcus, I do not have simple sites, but I'm comfortable with WordPress. Is it okay to get the plugins? Yes. If you are brand new and you've never bought anything from me, you could start here. I mean, it's a way to say, well, Marcus, you know, 37 bucks, whatever. I mean, let's try it out. Let's get the plugins. Let's make it work. Um, and my goal is to knock your socks off and to show you, hey, look, there's so much value in what we're offering that you buy other things, right? That's the idea. Um, so we want to go through that and we want to show you how it works. And also, Ben, uh, when you sign up for this later on when you're ready to get Simple Sites, be like, "Dude, hey man, I've been a member of your, um, your blog thing. Um, do you have any deals for Simple Sites?" And we'll be like, "Yeah, dude. We got a
+
+---
+
+[1:06:06](https://youtube.com/watch?v=xAVleon3Wj8&t=3966s)
+
+deal. We appreciate you sticking around and, you know, doing this stuff." So, we'll go from there. Cool stuff. All right. So, any other questions about this? Let me know. Everyone should be signing up. There should be no uh no reason you're not. If you do think you have a reason, type it in the box and we'll talk you about that. Um Mark, no, this is different. This is different from any other course. This is a way to keep on top of all the plugins. Okay, PJ. Um I think so. We'd have to check with yours. Okay. Uh, FE to sign up, uh, let me put this link in the box. It's actually, um, blogprofitwork.com/join. I'm going to put this in the chat box. You guys could click it now. Let me see if I can copy it. Okay. Do you guys all see that in the chat box? Let me get rid of these little arrow thingies.
+
+---
+
+[1:07:07](https://youtube.com/watch?v=xAVleon3Wj8&t=4027s)
+
+Okay. Okay. I was not able to see all the recording. Which recording? Okay. And you can use the link to sign up there. It's blogprofitnetwork.com/join. Okay. And you should get this page here. Uh when you get to this page, make sure you just you read it. You look at it. This is all you're getting. Here's your bonuses. This is the terms here. Okay. Um cancel anytime. All you got to do is go to marcusupport.com. Say, "Hey, cancel or whatever." and uh we'll take care of that for you. Uh what you want to do when you get to this page, make sure it's secure, and then uh put your first name here, last name, put a good email. Your uh password and your um username is based on your email. So, whatever email you use all the time, use that. Okay? That way you make sure it gets it. Uh put your phone here. That way, if we ever need to get you. Um street address, city, state, zip, postal code, country if you're in Upper Vulta. I don't even know where Upper Volulta is, but if you're there, choose Upper Volulta. Uh, choose your card type. We
+
+---
+
+[1:08:09](https://youtube.com/watch?v=xAVleon3Wj8&t=4089s)
+
+take all these four. Um, can you guys see the screen? Okay, there it is. There. Um, so you'll go here. Says everything. Put your first name, last name, email, phone, street, all this stuff of Revolta. That's That's why I was saying that I'm not just crazy for those that didn't see it. Uh, put your card number here. Expiration little digits on the back. Okay. This tells you your terms every month until you cancel, right? Put your initials in there. Click the button and you're good to go. If you have any questions, you could always get us on live chat. And we're going to have special webinars where you could actually get in there and we just talk about blogs, right? So, I don't have to sell anything because you're already in there. Um, we'll just talk about blogging and everything like that. So, if you think that's fair enough, if you're like, Marcus, I'll help you make these plugins so I can use them. That's what we'll do there. Okay. All right. So any questions let me know.
+
+---
+
+[1:09:14](https://youtube.com/watch?v=xAVleon3Wj8&t=4154s)
+
+Okay. And again that is blogprofitnetwork.com/join. blogprofitnetwork.com/join. Okay. And you'll be able to get uh the plugins instantly. I do want to let you know we are redoing the the members area, so it's going to change a little bit. Um, but we'll get you guys sorted out in there. Uh, make sure that you get signed up now. We'll get you guys all squared away and everything like that. Um, there's a special offer uh on the second page if you want to get a done for you blog. If not, just ignore it. Um, and we'll go from there. All right. Looks like a lot of people are joining right now. Um, do you post at all to get traffic using the plugin? Yes, we do have some traffic plugins. Um Tracy, this is a different offer. Uh go ahead and sign up for this and then shoot us a message and we'll make sure that you're not getting duplicated. Everyone who joins today, uh we'll make sure you're not getting um duplicated. Effie, go ahead and sign up.
+
+---
+
+[1:10:15](https://youtube.com/watch?v=xAVleon3Wj8&t=4215s)
+
+It is uh I'll put the raw ugly link in the box here. Um so there's the ugly link. Um, and if you guys need help finding the link or anything, um, you can actually go to any of my sites and you can find the little chat guy that looks like this. And what I'll do right now is I'll actually turn live chat on and that'll change. So, if you have any questions, um, what'll happen is this will change and it'll say I'm on live chat and you can just click this link um, and it'll it'll pull up the live chat and you can talk to us directly if you have any questions. Uh, but what you want to do is you want to make sure you get signed up right now. It's blogprofitnetwork.comjoin down here at the bottom somewhere. All right. There we go. Okay.
+
+---
+
+[1:11:18](https://youtube.com/watch?v=xAVleon3Wj8&t=4278s)
+
+All right. So, any questions, let me know. And we have the live chat open if you guys have any questions as well. But it should be a no-brainer. I mean, it's like, you know, you're getting the the whole bit and all the plugins you get. Uh blogprofitwork.com/join. There it is. um is going to help you out. You're getting the software, so even if you don't know how to blog, if you've never set up a blog, we're going to help you with that. Uh make it easy. Um and we're updating the videos as well, so you're going to get the cool stuff as well. All right, so I'm going to stick around till everyone on this call signs up or gives me a good reason while they're not and we'll go from there. Um let's see here. Raul, uh I would have to check. Um you can either sign up now and we'll double check and make sure you're not duplicated. um or you can contact me on live chat and we'll we'll go through that together. But I'll make sure that no one is doubled up um so that we get you in there. But this is something brand new. So very cool. All right, Lloyd. Um
+
+---
+
+[1:12:18](https://youtube.com/watch?v=xAVleon3Wj8&t=4338s)
+
+this is something brand new. So it's not in that list. Okay. All right. Cool. And this is just for the plugins and the coaching and everything like that. Okay. So, any questions? And I'm going to sit here till we all get signed up because I believe on this. I know it's going to help you. And uh it's costing me a fortune to make these plugins. So, you know, help me out. Join. Let's get you guys some better plugins and uh make it work for you. All right. Cool. So, any questions? If you're not joining, tell me why. Uh Ian says, "Is there a one-time offer?" Uh what do you want? Like a a year of this or something, Ian? I don't know. This is a monthly because you get all the updates. Um Effie, what do you need help with? Let me see if I could put the link in here.
+
+---
+
+[1:13:20](https://youtube.com/watch?v=xAVleon3Wj8&t=4400s)
+
+Um let's see here. Send to all. I think that'll work. Effie, let me know if that worked. Okay. Ian wants a lifetime. Ian, hit me up on live chat. Uh, put your email and, uh, we'll we'll get you a link for that. If anyone wants a lifetime, I know some people just don't like monthly things. I don't know why. They make it cheap. Um, but if you want that, we could figure out a way to do that. And again, we're going to stick around till everyone does this because it should be a no-brainer. Um, if you're a beginner, does this teach does this membership teach all the stuff your other sites teach? Well, it's different stuff. So, if you're a beginner and you want to make money blogging, this will help you. Um, the other sites like Simple Sites, Big Profits is more for if you want to do affiliate marketing like professionally, um, like full-time kind of deal. Uh, that's for that. This is this will get you going. So, if you're looking for a place to start, start here. Peter, I'm in. But does call.
+
+---
+
+[1:14:25](https://youtube.com/watch?v=xAVleon3Wj8&t=4465s)
+
+Okay. I can't read all that. Okay. Yeah, we'll have to we'll have to get that later, Peter. Um, but glad to have you in. We'll we'll make sure we could read that later. It's all jumbled up for some reason. Okay. And again, everyone should be signing up. If you're not signing up, tell me why. All right. And uh if you're on live chat, uh just sit tight. We'll get you squared away. Okay. Okay, Lisa says, "Help. Baby steps is nice for those who have never done that." Yes, this is Baby Steps. Um, yes, these plugins are working. This is the idea behind this course uh or this club, Jan, is to keep them updated all the time for you. That way, they're always rotating. They're always in there. We're always updating them. Uh, you could always get the latest version, stuff like that. And uh one of the things we're also going to do is if you guys come up with an idea where you're like, "Hey, you know what? Um I'd like to have a plugin that does this." Uh we
+
+---
+
+[1:15:26](https://youtube.com/watch?v=xAVleon3Wj8&t=4526s)
+
+can help you with that as well. Okay. All right. So, while you're getting signed up, let's take some more questions. And hopefully I can see this live chat thing. It's like the tiniest thing. Okay. Eric said he got in with his PayPal card. Okay, cool. Yeah, you could use your PayPal debit card uh if you want to link it to PayPal. Um, whatever you want, you know, we're here to make it easy for you. Um, so yeah. And yeah. All right. So, any other questions? Where'd our questions go? I had the question. There they are. Okay. Okay. Cool. There we go. Uh, Lisa, yes, this is good if you've never done it. Uh, Ian says, um, I I'm new to this, but I see potential. Excellent, Ian. We'll get you squared away there. All right. Any other questions? And again, I'm going to stick around till we all get you in there. Um, Robert says, "I got enough information." Robert, this is not information. This is actual tools. Um, so you definitely want
+
+---
+
+[1:16:27](https://youtube.com/watch?v=xAVleon3Wj8&t=4587s)
+
+to get in there and get those those tools because that's what this is going to do. Um, one of the things we're doing also, I'll see if I can load the tools. Bear with me one second. I'll see if I can load these tools. We're actually going to give you guys um a new tools area. Let me see if I can find it. All right, bear with me one second. It's got my password stored on the other one. So, I got to switch browsers, which is not easy to do on a webinar. All right. Uh let's see. Okay. Okay. So, what we're doing also as part of this coaching club is we are migrating our Simple Sites tools over. Um, and for those of you who know about the Simple Sites tools, they look like this. Um, and we actually have over 30 of these that we're putting in your members area. Um, and you can see there's tons like trigger word tool, HTML tool, tracking, um, backlink finders, ROI calculators, and they're
+
+---
+
+[1:17:29](https://youtube.com/watch?v=xAVleon3Wj8&t=4649s)
+
+really, really easy to use. And we're bringing those up to date and getting them all sorted out. buy now button, search box, countdowns. Um, so there's tons of them. So when I say like 37 bucks, this is absolutely ridiculously easy. Um, it's like a bribe to get you to get started so that I could get you guys some results and get you to join my other stuff. Um, and if you think that's fair enough, if you're like, "Dude, Marcus, that's awesome." I mean, yeah, I'll take that bribe. Okay. Uh, Oscar, um, you'd have to get us on U live chat. Okay. Ben says, "This is practical and a great help." Yes, this is the idea. Like, I want you guys to get off the fence. If you've been watching my stuff or if you bought a course and you haven't used it, get off the fence, get in here, sign up, and let us help you. Right? That's that's the idea here. Okay? So, any questions on that, let me know. And don't make me stick around too long because I need to go take a head headache thing. Um,
+
+---
+
+[1:18:32](https://youtube.com/watch?v=xAVleon3Wj8&t=4712s)
+
+Harold, uh, go ahead and sign up for this and I'll get your email when you sign up and I'll email you about that other one. And again, I'm going to stick around till you all join because I know the value of this and uh, yeah, you need to get in. All right, cool. And you can um hit me up, Harold. I actually found you in here. So, uh if you have a question, get me on live chat or marcusupport.com. And for those of you that are just sitting there on the order page and not clicking the button, you need to click the button so we can get you in there. Okay. Lisa says, "I was one of those who got simple sites and I need to get off the fence." All right. Get off the fence and get in there. It's easy. Um, let's see. Lloyd, put in a ticket for that.
+
+---
+
+[1:19:33](https://youtube.com/watch?v=xAVleon3Wj8&t=4773s)
+
+Okay, any other questions? Let me know. And for those of you on the fence, get off the fence now. Uh, Effie, let me see if we see you in there. No, I do not see you in there. Might be a little delayed, but I don't think so. It's usually pretty quick. Okay. Okay. And if you want to say your name and check if you are in, um, let me know because we got a lot of people that are joining right now. All right, cool. Okay, Dan, uh, you are registered. I see you in there, Dan. You're good. Okay, Ernest, headache may be due to dehydration. Drink more water. Yes, I do have water. I got this here. Um I think it's from talking too much. Sometimes when I talk too much, my head just gets tired. Uh Dave Dave N. No, you are not in.
+
+---
+
+[1:20:36](https://youtube.com/watch?v=xAVleon3Wj8&t=4836s)
+
+Okay. Uh Dan, uh Dan, you'll get your login via email. Um if you don't get them in like 30 minutes or so, just let us know, but you'll get them via email. Okay. And everyone else, go ahead and sign up. And again, this should be a total no-brainer. This is kind of like a bribe test and see, are you paying attention? Um because all the plugins, if you go download them right now and and cancel, um like you're literally going to get all the plugins for like two bucks. And there's a lot of people sitting there on that order page. Um click the button. Okay. Where' our questions go? I always lose these questions. Okay, Eric. Um, let's see. Okay, try four glasses of water as fast as you can. Yeah, I'll try that after. Cans of water. I like my little cans of water.
+
+---
+
+[1:21:38](https://youtube.com/watch?v=xAVleon3Wj8&t=4898s)
+
+All right, cool. Oh, I'm going to sit here and wait till everyone signs up and enjoy my pipe. Okay. Uh Tracy, I see you here. Um go ahead and get signed up for that and uh we'll get you going. If you are looking for your profit blog, all you got to do is go marcusupport.com and um we'll get you sorted out. Uh Tiffany is there. She actually works. We got her all the time. She's there to help us. Um and she'll help you out, right? if you ever need to cancel, if you ever need anything, uh, you just write her via Marcus Campbell support and she'll take care of you. I mean, she's she's on it. She's faster than me. So, talk to her. And she even schedules stuff like we scheduled a call yesterday and had a good one. All right. Um, and as you can see, we used to charge like a lot more for this. So, cool.
+
+---
+
+[1:22:38](https://youtube.com/watch?v=xAVleon3Wj8&t=4958s)
+
+Uh, Nico, get us on live chat. You probably have it done already. So, yeah, you just got to go from there. All right. So, go ahead and get signed up. And I'll sit here till everyone signed up. I'm watching y'all. Cool. And if there's a reason, like if you have a valid reason that you're not signing up, tell me. Let's let's deal with those because I want to make sure everyone does not miss out on this. All right, Lisa, good to have you on board. All right, cool.
+
+---
+
+[1:23:40](https://youtube.com/watch?v=xAVleon3Wj8&t=5020s)
+
+And while you guys are signing up, are there any internet marketing questions you want me to answer? If there are, let me know. All right. So, otherwise, I'll just sit here and smoke my pipe till you guys sign up. So, let alone it's up to you. We could talk about marketing or whatever. Benjamin likes it. All right. We're watching you. Go get signed up. Don't delay.
+
+---
+
+[1:24:43](https://youtube.com/watch?v=xAVleon3Wj8&t=5083s)
+
+Okay. Uh, Nico, you got to get in. You got to talk to us on live chat or something. Your site's probably done. Um, so whatever's going on. Tiffany hit gets them all sorted out. Our turnaround time is pretty good right now. Okay, Benjamin's got a question. I like that question. How do I actually bring people to my offer? All right, Benjamin, what's your offer? if you have an offer or a site or something. Uh if you do, that would that would help. Not decided on any, but we'll be putting aside up. Okay. Well, yeah. First, you got to know uh what what market you're
+
+---
+
+[1:25:44](https://youtube.com/watch?v=xAVleon3Wj8&t=5144s)
+
+in. And Nico, if you want to type your email in the box, I could check on it for you. Okay, for the rest of you, get signed up. Um, hello Marcus. When do you think simple? Uh, I think simple all the time. Um, yeah. All right. Okay, Nico, I will check on that uh once we close out this webinar. Benjamin's thinking along stuff like nutrition. Okay. Well, Benjamin, um the key is going to be um the key is going to be finding a backdoor to nutrition. Um so, you would want to find things like nutrition information for um let me see if I can get in my AdWords planner here. I don't know if this has it saved or not. Adwords tool.
+
+---
+
+[1:26:46](https://youtube.com/watch?v=xAVleon3Wj8&t=5206s)
+
+It might be saved. Can you guys see that? Do you guys see my uh screen here with the Adwords tool? Okay. Uh Nico, if you if you only get Tiffany on live chat, you could actually schedule with me. Um, so you could use that. Okay, I think I'm in. Let me see if I can get in the right account so I can show you. Hopefully I have it here. Okay. Uhoh. I don't know if I remember it. Let's hope. Ah, look at that. First try. Hey, how many of you guys feel like you win the lotto when you guess your password on the first try? Please tell me I'm not the only one. You're like, "Yes, I got it." Um, all right. So, here we go. We're gonna go in here. Um, when you do, um, sorry, I just thought that was hilarious. I spent half my day
+
+---
+
+[1:27:47](https://youtube.com/watch?v=xAVleon3Wj8&t=5267s)
+
+laughing at myself, just to be honest. Um, when you go in here, if we go to our, uh, keyword tool here, Google keyword planner, uh, Rachel, we could take a look at that site here. now if you want. Uh I have to start the barbecue any minute, but we'll we'll take a look if we can. Okay, so we got um nutrition information for you can type in something like this in your Google keyword planner. And then what you want to do is you want to base your your site on a keyword. Okay, just so you know, for those of you sticking around, this is why I'm starting the $37 a month club because I have a lot more fun helping Benjamin find stuff than I do trying to sell stuff. So, my goal is is to get everyone in this course and cumulatively you will pay me enough to where it's like, hey, we're affording to do the plugins, we're affording to train you, and all I could do is teach. Because that's really what
+
+---
+
+[1:28:48](https://youtube.com/watch?v=xAVleon3Wj8&t=5328s)
+
+I want to do. Like, if I could teach you guys all free and make the same amount as I do selling, I'd be totally happy with that. That's actually what I really want to do. If you like that idea, go sign up at blogprofitnetwork.com/join. Um, the whole idea is that 37 bucks a month is nothing for you. But if we get like a,000 members in there, I could just teach you guys how to make money all day. How many of you guys are like, "Dude, that's cool. I like that." Okay, that's the idea. All right. So, uh, nutrition information is okay. Nutrition information for nutrition information. Let's try it like this. Okay. Um, information, nutrition, nutritional information. Well, what you could do, this is low competition, is you could do like a um like a what do you call like a conspiracy thing like nutrition information they don't want you to know and you could do a report about that. Um that would be a good way
+
+---
+
+[1:29:48](https://youtube.com/watch?v=xAVleon3Wj8&t=5388s)
+
+to get this traffic because there's like 14,000 people and I doubt a lot of people are advertising on Bing. One advertiser and he's not even like doing that good. Um, so yeah, like Google probably has no advertisers. So yeah, pretty cool. Cool. All right, so that's how that works. That's what I would do. Uh, no advertisers here. Um, so yeah, pretty cool. All right, so there's a lot of traffic for it. You just got to use it the right way. Okay. Um, Rachel making can of butter. Okay, let's see. I don't know what a making can of butter is, but we'll take a look at your site. Oh, cannabis butter. Okay. Um, well, I don't know. Is there anyone looking it up?
+
+---
+
+[1:30:53](https://youtube.com/watch?v=xAVleon3Wj8&t=5453s)
+
+I don't know. I don't know what pot toast. I I don't know. Well, yeah. Hey, good niche. I like this. Um, yeah. So, so when you're doing this, these people are actually looking for ways to make this or to buy it. Um, so you're going to want to focus on, okay, hi, welcome. Nah, this site's not ready to go. Yeah, I got too many opt-in boxes. Um, these don't really speak to the market. Like, what you have to do is you have to focus on this. Like, they are searching for this. Why are they searching for it? They either want to buy it, they either want to make it, something like that. Okay. Now, as a tip, when there's subcategory keywords like this, okay, this is telling you what they want. So, most of these people want to buy it. Okay. Um, so that's what I'd focus on. Here's some people who want recipes. So, your little buttons here should be like, um, you know, buy the butter, make the butter, um, stuff like that. Okay? You probably get away with two of them. Do you want to buy it or make it? Um, and
+
+---
+
+[1:31:54](https://youtube.com/watch?v=xAVleon3Wj8&t=5514s)
+
+then you can get them into like the recipe toolbar. Um, you can get them into I don't know, there's probably like like where to buy buy cannabis or something like that. Okay. Um, and see where your profit margins are. Let's see, a little bit higher there. Buy cannabis oil online. Um, figure out, yeah, do you need the oil to make the butter? You know, figure that out. Um, and you can do a lot with it. You just really have to to focus. Okay. All right. So, any questions about that? Uh, let me know. All my pictures are advertising. That's fine, but you have to focus. Like Ben says, "Hey, focus is the key.
+
+---
+
+[1:32:55](https://youtube.com/watch?v=xAVleon3Wj8&t=5575s)
+
+All right, for the rest of you, go ahead and get signed up for blogprofitnetwork.com/join. I'll stick around for a couple minutes to answer some questions." Um, and this is what we're going to do in the course is we're going to answer these types of questions. So, if you like this stuff, get signed up blogprofitnetwork.com/join. All right, cool. Okay, Rachel says she also has blogprofit network.com. Blogprofitguide.com. Okay, we'd have to check that out as well. We'll check that out in a minute. Okay.
+
+---
+
+[1:33:56](https://youtube.com/watch?v=xAVleon3Wj8&t=5636s)
+
+Okay. All right. So, any other questions? Let me know. Uh Effie, let's check in your sign up. Make sure you're in there. Yes, Effie, I do see you. Okay, for the rest of you, go ahead and get signed up.
+
+---
+
+[1:35:31](https://youtube.com/watch?v=xAVleon3Wj8&t=5731s)
+
+All right, guys. So, any other questions? Let me know and we'll go from there. Again, I told you I'm going to sit here till you sign up because it's that good of a deal. All right, so any other last minute questions? Please let me know. And okay, you guys got uh about three minutes to sign up and um we are going to take away some of the bonuses there. I'm going to take away the 127 software bonus in about two minutes. So if you want that bonus, get in now. All right. And again, remember this also includes looking at your sites, giving you the tools. Um, and the tools alone should be worth it. So, I mean, I'm not going to
+
+---
+
+[1:36:32](https://youtube.com/watch?v=xAVleon3Wj8&t=5792s)
+
+beg you to join. Either see the value or you don't. Again, that's blogprofitnetwork.com/join. Jason, let me take a look. Are you asking if I see you um in the in the signups? Uh, yes. We have a Jason in there. Um, we have a couple of them actually. What's your last uh initial W? Yeah, we got you. It was just now, right? All right, cool. All right, so we got three minutes to get that extra bonus. And Jason made it for the bonus, so that's cool. All right, so any other questions? We are going to shut down in just a minute or two. All right, cool deal.
+
+---
+
+[1:37:32](https://youtube.com/watch?v=xAVleon3Wj8&t=5852s)
+
+Okay, so I'm going to go ahead and shut down if you have any questions. He ordered while driving home. Well, you never want to order while on like driving. Um, no texting and driving. No phone and driving. Just driving while driving. But at any rate, glad you got involved. Um, for the rest of you, go over to blogprofitnetwork.com/join. Get signed up right now. Let's hook you up. Let's get you some bonuses. Make sure you do it in the next three minutes. If you have any questions, get me on live chat. Get in there. Let's make some money. Let's have some fun. Let's get some cool stuff. All right. Thanks again. That's blogprofitwork.com/join. And I'll see you on the inside.

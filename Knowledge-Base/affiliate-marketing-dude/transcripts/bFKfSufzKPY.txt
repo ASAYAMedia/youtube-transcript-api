@@ -1,0 +1,159 @@
+[0:00]
+
+It's Saturday morning. I'm tired. I got to go to the gym in just under an hour. And I have a webinar scheduled for 3:00. Only I'm not ready. I don't have any notes. I don't have a sales pitch. None of that fancy stuff that helps me make money. So, what do I do? I fire up AI and I asked it to create me some webinar notes. Only I gave it a very specific prompt instruction. I got back from the gym and my notes were ready. And I had this crazy thought. What if I just read the notes and slides on the webinar exactly as AI made them without any major embellishments, changes, or anything like that. Guess what? It worked. It actually sold better than some of my human generated webinars. And in just 108 minutes, I pocketed over $17,000. And here's the kicker. There was only like $140 people on the webinar. So yeah, what you're about to learn works like crazy. And today I'm going to show
+
+---
+
+[1:01]
+
+you the whole process. And if you don't have an audience, following or mailing list, don't worry. We're going to cover that, too. So if you're excited, smash that like button. Let's fire up the computer and create webinars that make money online. All right, let's dive in. First of all, when doing AI webinars, we want to remember that this can be done without your voice or face. You can use something like 11 Labs and just do like a voice over kind of thing. Or you can do this with your own personality, your own voice, and your own face. That's what I like to do, and that's what we did in the example here. Also, this can be done starting from zero. So, if you don't have an audience or anything like that, don't worry. I'm going to show you how to do everything start to finish. Yes, this does take work and effort. And yes, this can be repurposed and used as an evergreen webinar. The one that I created on Saturday is one that we're going to use over and over. We actually sent the replay out that even got some sales. So, this works really, really, really well. Now, before we get started,
+
+---
+
+[2:02]
+
+obviously you guys saw I made money with this. I've been making money for a long time with many different things with AI and everything. But, we need to remember the disclaimer. That is the average person trying to make money online makes nothing. That's the average of everything. Like going out there and saying, "Okay, I'm going to make money. What am I going to do?" Most people struggle. And I think a lot of times it has to do with bad information, lack of follow-through, the wrong niche, the wrong product. There's a lot of variables here. But I don't want you to think, "Oh, I'm going to fire this up and make a webinar and it's just going to pour money from the heavens." That's not how it works. It does take work. Now, what we're going to do is we're going to look at the flow of how this works. What we need to do is we need to understand our market in a specific way. We need to understand where people are going to come from, why people would watch our webinar in the first place, and what we're going to do with those people once they buy something. Now, this can be done with affiliate marketing. I'm going to show you some products in just a minute of how it works. Before we dive into that, I want to show you kind of how I prompted this and made it work. This is the prompt
+
+---
+
+[3:03]
+
+where I went through and learned about webinar sales. I'm not a super expert in webinar sales. I've done a lot of them and I've made money, but I don't really know how or why some of the stuff works. I've just kind of chocked it up to, okay, maybe I'm just good at selling. Now, what this prompt did is it actually went through and found out why certain webinar experts sell really well and what the framework looks like. Having that framework is everything when looking at building and making money with AI, the framework is literally everything. That's why I created personality prompts over at personalityprompts.com because a lot of people don't understand the frameworks of what makes money and so they're just doing busy work with AI which doesn't make money and tends to be a big struggle. Now looking at this, we need to look at the flow of what's going on in our niche market. I'm going to show you exactly how this works in just a minute. Let's go ahead and fire up the whiteboard software and I'll show you what this looks like in a real world way so that you know what's happening
+
+---
+
+[4:05]
+
+because there is a flow and there is a process that you need to follow and it starts with where you're getting traffic to where you're taking them to the next step. This is very important because this is going to help you when you create your actual webinar. So what we're going to do is we're going to look at okay we need to first get traffic of people interested. So, if I'm doing a webinar on the best fruits to put in your smoothie for feeling better, well then I would need to get people who are interested in making smoothies or eating fruit or feeling better. If I'm going out there and I'm promoting something like one of the products we're going to look at in just a minute, which could be like this uh landlord software, Goto My PC, or even the Amazon Audible uh program that pays like $20 per sign up or something like that. They have a promo going on right now. or even some of these clickbank offers like soulmate story or piano for all or something like that. What we want to do is we want to look at this product in a very specific way. So when I went through and I did mine, we were like, "Okay, the personality prompts product. Who does it
+
+---
+
+[5:05]
+
+help? What does it do?" Then we're going to go through and we're going to get the flow of traffic and we're going to look at where people are at. Now the traffic we can do is social media traffic, paid ads, joint ventures, and even like SEO or something like that. But what we need to do is we need to look at the parts of a hole so that we understand where this traffic's going to come from. So if I have something like the soulmate sketch, okay, I need to go through and I need to think about like what do these people want? Who would actually care about this product? Because for me, I've been married 25 years. I'm not super interested in finding a soulmate on the ClickBank offer, but other people are. So we would go through and say, okay, what kind of people are looking for this? like maybe how to find the perfect date or how to find that one person or different things like that. Or if we're using go to my PC, that type of thing, maybe I could go for like how to use a a computer remotely or how to back up your files so that you can use them at home or something like that. What we're doing is we're looking at the parts of a whole
+
+---
+
+[6:07]
+
+method. Now, when we go through again, parts of a hole have to do with a process. So the process is in the prompt. So, we're going to go through and look at these niche research prompts which are going to go and help you understand this in a specific way. So if we do something like a master analysis, I can take this prompt and I can go over to something like chat GPT and I can say in the soulmate sketch market run this and it'll actually run this analysis to show us exactly what these people want. That's what I would make content about. If you make content like here I'm making a video about webinars. I could go through and take those people and send them to a webinar to make money with AI because that's essentially what they want. Now I can say now answer nonJSON something like that and it'll actually go through and it'll help. But you can see here like soulmate sketch psychic
+
+---
+
+[7:07]
+
+artist aura reading digital love manifestation all of these things here that would help promote that. And if you wanted to answer nonJSON that would give you a better format. Um, or you could just say like format it and what's going to happen is you're going to get that content that would promote the webinar. So, what you would do is you'd be like, "How to interpret a soulmate sketch." Okay, cool. Have them put their name and email, build a mailing list, and then we'd say, "Oh, hey, by the way, [clears throat] on Saturday we're going to have this webinar about how to find your perfect, you know, match or something like that." And that kind of thing would work really well. And you can see the content ideas it's bringing out for you as well. And you could see the power of these prompts. And remember, like this works. This is something that's that's very very structured and very thought out. Much like the webinar prompt we're going to go through in a minute. I went through and before I started, I asked it to do research on all the different people talking about webinars, what they do, how they work, and then I boiled that down into a prompt that I could use that will literally spit out a pretty darn
+
+---
+
+[8:09]
+
+good webinar with a little bit of editing. Obviously, you want to make sure everything's true and the affiliate offer is good, but it would spit out a really good webinar that I can go through and promote. Very cool. And this works for anything. Say you're like helping realtors get more sales. This will work really, really well. Again, using that parts of a whole where I'm going through and saying, "Okay, here's the different parts that would promote this." Right? So, now I could say now answer non-JSON. It'll give me that strategy of, okay, here's the foundation of the niche. Here's the core concept. here are the parts of a hole that will promote your webinar or your mailing list. So, going through and looking at that, what we want to do is look at the process of building the mailing list. It's not too difficult to do. I mean, if you just doubled down on social media or SEO or you did a press release or some kind of something to get people to your stuff, that would be the key. And you could even go through and start with a product like maybe landlord software or go to my PC or even Amazon um influencers. So if I went through and I
+
+---
+
+[9:11]
+
+took this prompt for the master analysis of the niche, I could go through with chat GPT and let's say I wanted to promote the Audible affiliate program. I could do tell let's do the anxiety niche and talk about how audible books can help them and also top anxiety books. Right? So what you would do is you would talk about how listening to books on tape help with anxiety. This is something I know works. It's something I've done ever since I've I've uh been in recovery where uh with anxiety I listen to different books and things like that. And so now we can run this get the parts of a whole and we can see okay these are the things that would promote it and they have tied in traffic methods. So like if they see oh hey here's this anxiety book that book has traffic methods we can use that to talk about how it helps and then get them
+
+---
+
+[10:12]
+
+into Audible and you know make $20 a sale as commission for that. Again, that's a promotional thing. So, um I think it's normally like $10, but now we can see, okay, here's the audience. Here's the keyword strategy. Here's the consideration longtail keywords. So, now we're saying, yeah, I could go out there and I could promote. So, I would go out there and I would say my content is now going to be about anxiety, anxiety books, audio books, anxiety uh things to listen to, anxiety videos, all that stuff. And that is all going to promote my mailing list, which is going to lead into my webinar. Right? It's very, very straightforward. And and now we're like, boom, here we go. So now we have the top recommended books. We have all these things for content ideas. This is all the stuff that you're going to build. Now once you're done, what we're going to do is we're going to start getting traffic that way, building up
+
+---
+
+[11:12]
+
+the audience and stuff like that. And really focus on helping people. Like forget about selling for a minute. Just find the best books. Learn about them. Figure out what they want. Figure out what what makes them tick and what's going to help them. Very very important stuff. Like if I was in the the anxiety niche, this would be one where I would want to go through and think about it. Then what we're going to do is we're going to take the webinar the ultimate webinar prompt over here and I'll include these two prompts over at personalityprompts.com so you can test them out and see if you you want to go deeper and get all the prompts that we have. I think you're going to find that this is something that's absolutely going to change the game when it comes to making money online with affiliate marketing and webinars and all the things that we do on a day-to-day basis. So, let's take this master webinar prompt. I can go through and I could say now I want to make a giant webinar on why Audible is a good fit for people with anxiety.
+
+---
+
+[12:16]
+
+to listen to books, right? And then of course you would just have the link ready on your audible or on on your webinar rather and then you would get them in there. Very simple. So now it's going to do the webinar, how listening to audible books can calm anxiety, rewire your mind and transform your daily life. I would watch that webinar. That's a pretty good webinar. The origin story, the emotional hook. When I was battling anxiety, I couldn't sit still long enough to read self-help books. Then one day I put on the power of now and something clicked. I realized healing doesn't require silence. It requires presence. And then it goes through and has the whole gamut of what's going on. Now with chat GPT, you can do pretty good with this. I don't know if it'll make a slideshow. You might be able to have um Copilot make a slideshow. What I've been doing is I've been doing this with Manis and Manis has been doing fantastic. You can see here when I went through and created the webinar slideshow that I used Saturday,
+
+---
+
+[13:17]
+
+it actually went through and created the whole thing. So, what I did is I fed it my product and then it created the entire slideshow from that product. I edited a few things. You can see I changed a few slides as we went through, but the whole thing was like boom, here you go. And it did such a fantastic job and the thing actually sold, which is great. So if we go through what it'll do is it'll do research on the product so that we can get slides that are specific for what we want which is an absolute game changer. Now Manis is one of the more expensive AIs but I think it is definitely worthwhile for doing this and what I can do is just literally paste this whole thing and then say make the the webinar for that and I could put that in manis. it'll make the slides or I could go through and think about the parts of a hole as the stepping stone where they're going to get what they want next. Right? So the parts of a hole are here's the anxiety books. The stepping stone is on
+
+---
+
+[14:19]
+
+this webinar, you need to get an Audible subscription or buy this thing that's going to help you with X, Y, and Z, which is what all the parts of the hole were about. Now going through here, if I go to Manis and I say, you know, uh maybe I want to promote, let's say, the soulmate or even like this piano one, right? If I go through the parts of a hole would be, oh, here's how to play a G. Here's how to play this. Here's how to play by ear. All of these things that whatever it is this product does would work. Or maybe even let's say we want to do landlord software, right? The parts of a hole would be the landlord stuff. Now, what I would want to do next is I would want the AI to figure out what this product's about so that I can sell it, right? So, I would go through with Manis and I'd say, um, here is our ultimate webinar prompt. So, I'd give it this prompt right here, master sales webinar prompt, and I'd say, I want a sales webinar slideshow complete for
+
+---
+
+[15:21]
+
+Soulmate sketch offer ClickBank. And it would probably help too if you actually gave it the link to that. So, like if I went through and I found the link to the offer, like if I was doing go to my PC, I'd put that in as well. Um, sometimes it'll recognize it, but it's definitely going to help if you have the link because it'll go through and it'll dissect it and think about where it's coming from. Now, what we can also do is we could go through and get our parts of a whole stuff and put those together. So, if I go into Manis and I'm like, "Okay, let's do let's use this webinar to sell Audible or whatever, right?" You could do that or you could even sell like an anxiety product on ClickBank or something. But let's do Audible because I think that's easy and it's something like everyone has an Amazon account so this will convert like crazy. Um, now we have all that info which is from our anxiety and everything like that, our
+
+---
+
+[16:22]
+
+anxiety thread that we had. And I'll just go ahead and put this in. Boom. And full slide show, please. And then boom, there you go. And you can even have it go to a special website where they would actually purchase whatever it is you're selling. So very specific, very straightforward. and going through you're going to see the power of how these work because it'll just go to work and start making this. So let's see slide count let's say 40 plus. So I just answers questions one 40 plus and then we could do modern two. Let's do modern or actually let's do yeah modern is good. modern relaxing. That way we get the vibe. If I was doing the soulmate one, I might do the romantic angle and then output three ppt x for the uh PowerPoint. And then boom.
+
+---
+
+[17:22]
+
+Now it'll go to work and create that for us. This one looks like it's already it knows what it's creating. It's going to work. So pretty cool stuff. I think it's actually looking at um anxiety statistics and stuff. This is I mean the stuff that you get using these prompts is absolutely next level. And what's going to happen is you're going to realize okay now I go through I get the flow I promote the content. You can do paid ads, social media, joint ventures. If you're looking for a way to do this without paid ads because that can be risky. You could do social media and SEO and stuff like that where you're literally just sharing good stuff to people who are worried about anxiety. like you can make a really good tip and share it in in you know Facebook group or Instagram or something like that. Again, focus on helping and sharing and the people will find you, right? You can brand it with your URL like this video is branded with personality prompts obviously because I want you to go there and get the the stuff. That's how you build my ma that's how I build my mailing list by giving value. Again, I
+
+---
+
+[18:24]
+
+focus mostly 90% on giving you good value and tips and things and then I'm like, "Oh, hey, go get this over here." So, if I was doing this for anxiety, maybe I have a cheat sheet. Here's the anxiety cheat list. You can print out or keep it on your phone and it'll help you when you get anxious. Very simple. Okay? Or if it's the soulmate one, here's the 10 things you need to know for the soulmate sketch. Or if it's the the PC one, here's some things you need to know or some tools that'll help you. And you can actually sell before the webinar even happens by getting people over to your page, your website, and stuff like that. Now, when we go through, obviously, you're going to want to double check this because Manis is going to um, you know, it's going to make a really good hard-hitting selling thing. So, you need to make sure the stuff is true. Same with Chat GBT. When we go through and use this, make sure that it's true and make sure that that it's honest and good. But it's giving a really good straightforward, hey, this is content that would actually promote
+
+---
+
+[19:26]
+
+my free giveaway, which would lead to a webinar. And using this, you could do this with a three-page blog, the opt-in page, the thank you page, and the sales page. Boom. That's all you need. You don't need some fancy crazy stuff. Keep it simple. Make it work. Focus on the content. Focus on getting followers and people that actually want more content from you. Then we're going to go through and sell with the mailing list. Figure out what they want. Send them cool things. Send them links to helpful anxiety stuff or or soulmate stuff or whatever it is, PC stuff, if they're doing that one, and and then drive them to the webinars from the email list. Okay? I always get them back to my blog. On the blog, I would have a link to the webinar. Hey, go over here and watch the webinar. And then after you can put the replay of the webinar. Works really well. We're going to drive them to the webinar and then we're going to sell on the webinars. Now, in order to do this, you could do this with Zoom. You could do this with Goto Webinar. Um, I think Zoom has the the lowest price one. I think it's like 20 bucks or something.
+
+---
+
+[20:27]
+
+And you can do webinars with a small group. Test them out. See if they work. But the cool thing is is you're building anticipation of, oh, hey, this guy's going to have this big webinar where we talk about whatever it is I'm interested in. Keeping everything super congruent is key. I think where a lot of people struggle is they're trying to do too much. They're trying to be like, "Oh, hey, I'm not just the anxiety guy. I'm the feel better everything guy." And that's not the best, right? We want to keep it tight-knit, do something very focused, and then maybe later we could branch out. But understanding that these tools can actually make you the webinar and make you the slides is absolutely mind-boggling. I mean, when you see the slides that this put together, knowing the fact that it did sell. Now, I went through and I gave it a couple of pictures and things like that, but it did a really, really good job. And over at personalityprompts.com, you could watch the webinar. You guys could see the actual webinar that I did um as a replay and it did really really good.
+
+---
+
+[21:28]
+
+And it I literally just went through the slides. I think a couple of times I I went to chat GPT and showed an example, but 95% of it was just literally reading the slides. So, very very cool. We'll go ahead and see what this one looks like. It looks like it's making visuals for us and then go from there. But again, having this ready to go, driving them to that webinar is pretty cool. And go to webinar has all the things to get people to sign up for the webinar. You can use something like Aweber or uh I think there's other list building things you can use as well to build a mailing list. I happen to like Aweber. I think it's just very easy and simple. But going through having our own domain name, getting the traffic, building it up is really cool. Like if I had the piano one, I would want a domain name that has the word piano in it. Something small, something easy to remember. Um same with the soulmate, you know, or or the anxiety one. I would want something very very straightforward. And then everything we do is going to point to it. Every piece of content, every text,
+
+---
+
+[22:30]
+
+every webinar is going to be repurposed. And all these things are going to fit in a very straightforward way. And the key is to understand your market. Figure out exactly what they want. All right. So, it took about an hour for this big one to be done, but it was like almost a hundred slides or a little bit over a 100 slides. And you can see here it did a really, really good job. We'll pull the other one open here as well. We have our anxiety one and this one here which is about the soulmate stuff which is really cool and it actually went and found facts from the website got some good images that fit and kind of the whole nine yards. So this is doing a really good job of getting the kind of stuff that we want and then of course at the end it has the call to action where they can buy. Now you can go through and you can edit each slide on its own. I could edit right here like this or I could go through and ask it, you know, hey, on ch on slide 52, change it and put this URL or something like that. You can also see over here for our giant anxious mind one, it did a fantastic
+
+---
+
+[23:33]
+
+job. The colors are really good. There's a few things like I would fix this font, maybe make it go down on the next page or something. Um, but you can see it does a fantastic job of creating these. And then once we're done and we have it the way we like it, we can even have the AI go and write the voice over. So like if you're not if you don't know your product that well and you you don't know how to sell, you can actually get the full write out for you. Now, if you wanted to do this, you can see it has like little books and stuff like that. If you wanted to do this without using your voice, you could quite simply just go to like 11 Labs or something like that and have this create the text for you. And then you could either read it yourself or just play the file from 11 Labs and make sure that your webinar software is sharing the audio from your computer. That way they get that audio. But you could see this is doing pretty good. It even has like, you know, disclaimers and stuff which is pretty cool. It's got a Q&A, all kinds of different things like that. It's got like a little countdown. Obviously, you want to go through and make sure all
+
+---
+
+[24:34]
+
+this stuff's true. Uh the prices and things like that, but you could see this is doing a fantastic job. It even has like the value stack which I used in um Saturday's webinar that did extremely well and you could see this just takes the cake. I mean it does all the work for you. So I would highly recommend using webinars as part of your money-making strategy whether you're doing onscreen face ones or something like that or whether you're just using 11 Labs and AI or maybe even like a a live voice AI generator. Sometimes you could use that where you'd go through and answer questions and things like that. But this is actually working really, really well. I was shocked at the sales that we got from this. I didn't think it was going to be nearly as good. I remember before the webinar, I was like, I'll be shocked if this webinar gets 10% conversion rate. We actually hit close to 38% conversion rate. Now, again, results not typical, implied, or guaranteed. I have an audience to send things to, but then
+
+---
+
+[25:34]
+
+again, I'm showing you how to build that audience. So, you want to remember the average person makes nothing. What this is doing is it's helping you see how to sell in a different way. And once you have that, you're ready to go. I mean, you could see here the the cost of uh Audible and things like that. It breaks it down. Makes really good stuff. Got data from from things and stuff like that. Now, again, make sure that it's true. It is your job. You are on the hook for what you say. Even if it's not your voice, you are responsible as your business person for what is said in selling. So very important to look at. You can even go through and say, you know, make this more simple. Don't go into like the brain stuff or whatever. But what we're doing is we're gleaning from things that work. And that's the key. A lot of people say success leaves clues. And when we go through like with AI, success basically gives you the whole path. So I could go and model what works from great webinar people, from salesletter writers, from people who do content, different things like that. And
+
+---
+
+[26:35]
+
+that's what personality prompts is all about is understanding how to make your AI think differently instead of just write an a webinar or an article or a blog post. We're now going through and saying, "Here's what I want the blog post for. Here's the people I want you to emulate from. Here's the style we want." Boom. And we're getting a much much better output. And we've tested these alongside other things and we've found that going through and really thinking about how you want the AI to think is literally everything. So check out personalityprompts.com. I'll include one of the webinar ones and the content sideways nichefinder one there too. So you can test them out, see if you like them, and then you could go through and check out personalityprompts.com and sign up as a member if you want to go that route. There are some other videos in the description about how I sell stuff online. If you want to make money online with AI, this is the best place to be. Smash that like button. Check out the videos in the description.

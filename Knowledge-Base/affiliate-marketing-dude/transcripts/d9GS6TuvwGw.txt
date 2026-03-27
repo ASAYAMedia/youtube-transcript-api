@@ -1,0 +1,197 @@
+# Claude AI PC  - HUGE Ai News!
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d9GS6TuvwGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=d9GS6TuvwGw&t=0s)
+
+I just turned this old computer into a claw robot to get me free money and in today's video I'm going to show you exactly how this is Alina how you doing today I'm good thanks all right tell us about this robot you have a camera here you got his screen here how's this whole thing work so basically it R on CLA ey only the better version so far which uses your computer to use the programs on it and do a simple tasks cool so it basically takes over our computer but it's on like its own virtual machine so it's not actually on Windows true okay cool now check this out we actually set this thing up like its own robot so we can come over here and you can see we even have eyes so it's going through and it's seeing everything in real time which is really cool we have a microphone which isn't yet set up but we're going to show you exactly how all this stuff works so let's go ahead and dive into the computer here and show you what this thing can do okay so here we are in the cloud machine and what we're
+
+---
+
+[1:00](https://youtube.com/watch?v=d9GS6TuvwGw&t=60s)
+
+going to do is we're going to take a look at how it works first of all Elena tell us how how did you install this I know we have some some info here and we can see that it's running a workspace and then like a chat box but it's actually on a website how's this whole thing working so basically we install the docker we run the virtual machine on a Docker and we use an API code from the tropics that it provides for the better testing and we open uh through the virtual machine we page that basically presents like a desktop okay and for those that that went over your head like me we have some notes for you over at airofit scoop.com you can go there you can get these notes it's going to show you how it works but basically what's happening is Docker is a program like this which is basically like docking new virtual machines on our machine yeah right cool so what we're doing here is we have this set up and you can actually go to each instance and you're going to
+
+---
+
+[2:02](https://youtube.com/watch?v=d9GS6TuvwGw&t=122s)
+
+run it by clicking play yep y cool so pretty simple pretty easy then what happens is it's going to open up the virtual machine which I lost so how do we find that it's in the browser over here okay okay so it's actually in a browser it's a vet page yeah got it but it's on its own machine interesting that's very interesting so for those again that that are a little lost don't worry uh what we have is the Local Host so this entire thing is running on a computer on its own drive then because it's using the Local Host that means it's locally hosted which is on your drive then here we actually have Firefox so the desktop actually if we go to toggle screen control that's going to give us control of this machine which you can see here pretty much behaves supposed to let's see vice versa if you put it on oh like on okay so we want on so it pretty much behaves like a desktop you can see it's got the icons down here it's got yeah like Excel I think this is
+
+---
+
+[3:02](https://youtube.com/watch?v=d9GS6TuvwGw&t=182s)
+
+the version of excel they have and the cool thing about this is I could be like please use this Excel to make a mortgage calculator and it'll actually go through it sh turn it off so now we have to turn toggle screen off so it's very important that you toggle back and forth otherwise it's not going to work and it toggles back and forth like my chair very nice right so what we're going to do is we're going to see how this works and there's several things that this can do while we're waiting for this can we can we do anything or no pretty much no it takes control over the computer it takes the screenshots of every action it does it all created for control over AI so it's all in a locked environment only with um limited access to some of the applications and it gives you the full script of what's it doing got it okay so let's see how this works here looks like it's trying to do something so it looks like it had a little bit of an error but it did create the calculator which is kind of cool now
+
+---
+
+[4:03](https://youtube.com/watch?v=d9GS6TuvwGw&t=243s)
+
+some things that we wanted to go through where we're going to test this thing out really had to do with having to do online stuff so when we go through here I think we're going to toggle we want to do on mhm okay so we're going to toggle here and what I wanted to do is I wanted to oh maybe it was maybe other one um I wanted to go through and see what this would do online and this is where this thing gets really impressive because what's going to happen is instead of regular AI where we go to um you know like chat gbt and give it one task this is the kind of thing where we can go through we can save documents we can manipulate documents we can have full documents and some of the things I wanted to go through right here again on our notes we're going to see here that we have um how it works again we're going to install Docker we're going to get the um download from I believe this is from Claude AI computer use where you can get that at anthropics website look for access to computer use beta and you
+
+---
+
+[5:05](https://youtube.com/watch?v=d9GS6TuvwGw&t=305s)
+
+have to join a little weight list or something like that but it's actually really easy some other questions we had is like is it actually remembering and retaining data now between a session it does not which means I fire this up I do all my work I can keep it open for a couple of days once I close it gone so we actually found a workaround that no one has shown yet but I think it's really cool and the workaround is actually using files online because since this is a virtual machine right now it's really difficult to take files from Windows and actually put them into the cloud so what we're going to do is we're just going to take a URL like this where I've actually uploaded files to my WordPress that way I can download them and since I'm downloading them into my virtual machine this is actually going to do the the work for me and I can have the files on my virtual machine as you see here so now what happening is it's loading it within the virtual machine and I can actually edit these which is pretty cool so if I go here I can find
+
+---
+
+[6:07](https://youtube.com/watch?v=d9GS6TuvwGw&t=367s)
+
+the downloads which sometimes it's a little tricky but we could go here and open the folder we should be able to open it there we go um so we'll go ahead and open this right like this and here we go we should be able to unzip it um or have it unzip it we could probably have this unzip it downloads there we go so I could probably go over here or we're going to need to toggle off so we'll toggle off and I'll say please let's see here please unzip these files and let's see if it does it and this is actually pretty interesting because we're going through and we're like okay now we have this working with files on our computer where we can manipulate them we can change them all kinds of things like that and the cool thing about this is we can actually give it multiple tasks right so like I could say take the the txt files make them PDF and then brand them yeah pretty much going to make more complicated tasks
+
+---
+
+[7:08](https://youtube.com/watch?v=d9GS6TuvwGw&t=428s)
+
+than I originally was doing multiple step uh ones and what it tells us is that in the future when this is not a better version when its program is actually using your computer and running on the open internet it can basically do the task that a person working a full full time is doing during his day that's crazy yeah that's really cool so let's see if it'll actually find the files I think this is important because a lot of people want to know about the files and it should be able to do this hopefully now one of the things we're going to do after this and it is there it goes it's unzipping them um and using them in this environment you can see it's inflating which I guess unzip for this is inflating um and it'll go through and it looks like it got a little error but we should be able to open these and see the files um that should be something we can work with okay we'll get back to that in just a minute oh we got toggle off again there we go yeah we should be able to
+
+---
+
+[8:08](https://youtube.com/watch?v=d9GS6TuvwGw&t=488s)
+
+open these there they are right so now we have our Pinterest pins and we have our articles here which is cool because I could say now take all the txt files and add a line that says visit airofit scoop.com and let's see if it does this this will be kind of interesting toggle off toggle off all right boom got to remember that toggle we need like a big foot pedal yeah that would be good maybe we'll work with it that would yeah we'll have to get a foot pedal or like a a button and actually we have right here our our red button when you push the red button that's uh that's our security for the AI it is it it just doesn't want to work while we're on camera now it is running okay so let's see so now it's opening the file and it's going to say to add this I Noti there isn't a one okay so it did get the pure one and let's see
+
+---
+
+[9:09](https://youtube.com/watch?v=d9GS6TuvwGw&t=549s)
+
+txt okay let's see we got to probably write the full name of it yeah let's try that let's go toggle and do txt we'll do this one bad am I toggled on or off yeah off off okay so when you're on you have access off so let's do let's try this one copy location please try on this one and it looks like the issue is because there wasn't a number one file so maybe this will work that's interesting yeah it's so complicated oh that's our API so delete that please try on so we'll say please try on this one txt I think it'll know hopefully let's see up toggle off again we need that foot pedal yeah we need a foot pedal maybe like if it's only like if you write the full file we can use a flex La one since it's shorter
+
+---
+
+[10:09](https://youtube.com/watch?v=d9GS6TuvwGw&t=609s)
+
+okay let's try that let's see it might get this one 7xt oh okay I'll add the line okay so it is adding it okay so let's see toggle back boom and then this is cool because the ability to actually do things here is going to be key because I can have it do multiple things at once which is cool so going through this we're looking at it we're like okay it does have the ability um to create files work with files now it is kind it's in beta so it's not exactly 100% there yet but I did find something that we can use this for to actually help us make money in a really crazy way and that was the ability to actually log into like a WordPress or a uh you know some kind of online file service or something like that and we can actually go through and I could say let's make a new post and watch what happens I can say let's toggle off right like this and I'm going
+
+---
+
+[11:10](https://youtube.com/watch?v=d9GS6TuvwGw&t=670s)
+
+to say please always say please because you know you want the robots to be nice so we'll say please make a blog post on this page about how to make money with AI and it's actually going to go through now it does take a minute or two but it'll go through and it'll do the work for you which is really cool so we'll just toggle off so now it's going to go through and do its work let's check this out and we see it actually came up with a title 10 innovative ways to make money with AI in 2024 and it looks like it's doing all kinds of work like saving and all kinds of things like that and basically we don't even have to be here like we could go to lunch and this is going to post on our blog for us with new content that no one's ever thought of yep that's pretty cool and so now it's going through and it's like okay here's our content nice and it's it looks like it's formatted kind of weird so maybe we can go through and have it format it m yeah you can try
+
+---
+
+[12:11](https://youtube.com/watch?v=d9GS6TuvwGw&t=731s)
+
+to ask it form yeah yeah let's ask it you want to ask it to format oh it's doing a lot of content this is actually more than you'd get from one pass with chat gbt so now we have this here okay so now it looks like it's done running still running how do you know when it's done good point I think when this one stops when he stops okay so when the running guy stops mhm or maybe so it does work on sle station screen even if you have control over it cool and it's actually telling us how it made it catchy title income potential good good good now let's say now add a title and format this with images let's see if it could actually do images it might be able to I don't know that might be above it's pay grade but we'll see so do I need to toggle or I'm good no you're good I think I'm good okay so we'll go like this and see if it'll format it are we running let's see I think it takes a
+
+---
+
+[13:11](https://youtube.com/watch?v=d9GS6TuvwGw&t=791s)
+
+while to even take the task okay so has no tide oh there it goes hey check it out okay I'm not doing nothing it's all magical no results found okay I'm I'm going to leave it alone I don't want to get it mad it's doing its work I wouldn't want someone coming in here and doing doing this while I was working yeah it's funny how it deals with all the stuff that it's not supposed to see like some of uh popup windows in programs and everything it is it's actually very interesting that's interesting we can actually so what I see is I could literally and and disclaimer this is why I put this on a computer with nothing on it there's literally nothing on it but a brand new Microsoft account that's not tied to anything so what I could do here is I could give it a task and say Hey I want you to Google stuff on the web and find 100 different websites for this and it's not going to do like chat jpt where it's going from a database it's actually
+
+---
+
+[14:13](https://youtube.com/watch?v=d9GS6TuvwGw&t=853s)
+
+going to go out there and find the info for you which is actually pretty crazy yeah well like human likee so what it tells us it can actually read the interface the way people do understand the programs it's using and click the things that usually people click yeah so do the Tusk yeah it's an interesting thing because it's actually doing what we would do in succession seeing what we would see and then fixing it and that's actually going through like it's actually using the paragraphs and everything there it goes and it's screenshotting of course because it likes to to show its work unlike me in math class this does like to show its work you cannot pretend you worked all day exactly so even though he's not charging me by the hour he is going to help help me out oh look it it's actually uploading a an image we'll see yeah we'll see that is pretty cool he's doing something he'll probably tell that there's no file like there's no file there's no image you no so far it's not good at uploading stuff more even more
+
+---
+
+[15:15](https://youtube.com/watch?v=d9GS6TuvwGw&t=915s)
+
+it's like limited in this function for again safety purposes mhm it' be interesting to see if like it could go into my clip art and get an image or you know be interesting if if we went into chat GPT with this and had it used chat GPT that could be interesting and terrifying at the same time um but yeah let's see if it'll absolutely let's let's try let's try that with the free chat GPT yeah because I think um we can go to the free chat GPT yeah we can so chat or let's let's leave that alone we'll do chat GPT I think you just do like that there we go they changed their URL so let's see try chat GPT please use chat GP to get information about the top side hustles from sites like cnbc.com and put it in a t txt file and put it in a txt file for me great point
+
+---
+
+[16:18](https://youtube.com/watch?v=d9GS6TuvwGw&t=978s)
+
+because you know that's where it's actually going to be a lot faster where it's saving things on the Fly which is cool so let's see here am I toggled yeah it just takes time okay so now we'll wait and see if it'll computer talking to the computer wait okay we might have timed out yeah let's see here let's do this again oh there it goes okay so it wasn't toggled okay let's see if it does this this will be kind of interesting apologize but I should clarify well what are you going to clarify let's see I cannot directly access chat GPT or generate content from copies some sites like seey write an article okay can you search something in the page you are on let's see if it does this and I
+
+---
+
+[17:19](https://youtube.com/watch?v=d9GS6TuvwGw&t=1039s)
+
+wonder if it knows I have multiple Pages open that could be kind of cool so yeah I think having this is going to be a game Cher in terms of being able to use it to do multiple tasks like right now it doesn't seem like it's there yet but there are some things like having it go through I mean I could probably have it create several different versions of pages on um on WP City or or whatever WordPress I'm on let's see toggle oh there it goes actually I think it's doing it it took over we don't exist anymore it is only the AI Yeah so basically what's the main thing that we can see is the interaction with the software that it does Okay and like creating files potentially uploading files to the internet right now downloading those files from the internet MH working with them absolutely
+
+---
+
+[18:21](https://youtube.com/watch?v=d9GS6TuvwGw&t=1101s)
+
+and I think when you pair this with the other videos which all included the description you can use these in tandem to where this will do work that you might not be able to do because of time limitations like you could set this and go to work and it'll do some stuff for you and then you can come back and refine it which is really cool um and then you can even give it specific commands or specific uh txt files that are like okay execute this execute that um yeah potentially you can give it to dusk like create 10 files with like this and this information mhm and put them in a folder named this and I think we might have froze it mhm did it freeze how do how do we fix it if it freezes we press the button press the button okay there we go um it restart or or what are we looking at oh there we go escape there it goes so Escape kind of like woke it up I think looks like it it did okay so go back to Wordpress close Firefox and reopen it so it's actually knows what to do which is really cool yeah so it Sayes
+
+---
+
+[19:22](https://youtube.com/watch?v=d9GS6TuvwGw&t=1162s)
+
+what's open mhm and what's we're working with actually this would be really cool if you had a computer like like this and you were working with WordPress like I I Envision maybe you can go to like your themes file and you can say hey make my font 10 where like I don't know the code so you know we can go in and do that uh which is pretty cool but I think we I think we busted it here y let's see I think let's try like restarting it probably restart the whole thing or just the oh wait here we go there yeah I think it just restarted itself and just do asks about like finding something new okay so let's try create 15 txt files that's much that's by version okay TR five txt files that are PHP redirects named 1 through five.
+
+---
+
+[20:22](https://youtube.com/watch?v=d9GS6TuvwGw&t=1222s)
+
+PHP with a 5c redirect let's see here this will be interesting because if we can do this then it's kind of like having your own computer programmer here which is pretty cool so now it is creating them so I could probably let's try something kind of cool I'm I'm getting kind of excited here because now I could go through and say okay well let's say I wanted this to be like a ClickBank or whatever um I can go in and put my ClickBank so let's do now make the redirects as follows one google.com 2 yahoo.com 3 airofit scoop.com for affiliat marketing dude.com well okay we're only getting four because I hit enter too soon I don't know okay let's see here so it's already exists let's see if it'll overwrite it is apologize for the error
+
+---
+
+[21:25](https://youtube.com/watch?v=d9GS6TuvwGw&t=1285s)
+
+that's okay it's all right we still like you so now it is actually creating the file so if I had a template it could change a thousand templates like that yeah we can ask it to open the file to see for example we can open file four open three. PHP okay so here it is and we can make it oh I didn't even notice this toggle here so this will do full screen okay that did that doesn't help pointless um okay so there it is redirect to well we could just scroll here like the oldfashioned way mhm AI profit scoop so it actually it actually did the titles which is cool and it has it does give us the abity to copy it so we can actually copy past it on local files now soon it might be able to do it on the actual computer I'm thinking open the folder on my desktop where these are I think we can probably put these to a zip drive or we can probably
+
+---
+
+[22:29](https://youtube.com/watch?v=d9GS6TuvwGw&t=1349s)
+
+n that's not it we want this here we could probably go through and upload via WordPress I'm guessing let's see okay so actually it looks like we can kind of toggle back and forth M yeah so let's do yeah that's nice um WP City slcl so this is a new instance of Wordpress that I put there it is there's our folder so I could probably take this um let's see let's do I wonder if I could zip them here properties open with maybe I could do you can ask it to do though okay zip these files please probably should have set together yeah it might have been too much though it might have been like no I will not zip the files okay yeah need to installs it so it doesn't have there it is oh it did cool okay so now
+
+---
+
+[23:29](https://youtube.com/watch?v=d9GS6TuvwGw&t=1409s)
+
+if I'm thinking properly which is rare we will do WP admin and let's see here now we should be able to go media and then I should be able to take those and upload them let's do media add new where's add new this is a little difficult to work with but but I I think we there we go add new media file it's only difficult if you don't see the button like me okay so there we go so now we should be able to drag and drop redirect do you want to stop it like I I don't know what it's running uh I don't know let's see so did it work yep haha so now I should be able to go here and on any other computer or on the web I can now download the redirects like that so like now anyone can download them and
+
+---
+
+[24:30](https://youtube.com/watch?v=d9GS6TuvwGw&t=1470s)
+
+I'll actually put a link to these so you guys can see how it's working which is really cool because like maybe I could go through and go to an HTML web page like let's say I want to go to like download myot notes.com downloaded myot notes.com right like this and then say take the HTML code from this page and make make a txt file from it let's see how this works here and it looks like the toggling is actually maybe you have to toggle when you give it a command or no it's going so it seems like it's doing pretty good the page I on in Firefox bad request error it's probably is connected to like not copying the code existing page yeah let's see how it
+
+---
+
+[25:32](https://youtube.com/watch?v=d9GS6TuvwGw&t=1532s)
+
+does here all right I think it timed out well maybe we can do a view Source let's do there we go uh let's do a view Source view page Source can you see this source code and did it get my command no it's an error again okay can you see the code on this site it looks like it might be having a little trouble here maybe it's memories oh there it goes it might be a memory issue I mean this is a pretty beefy computer it should be okay it might just be you know what let's see I'll bet if I did this and copied it then I could go through and give it the file say manipulate it this way or make a bunch of files from it um that's pretty cool so I like that I like that we can do WordPress I like that it allows you to do the WordPress stuff and you can upload download files manipulate files um it did the redirects
+
+---
+
+[26:33](https://youtube.com/watch?v=d9GS6TuvwGw&t=1593s)
+
+without any prompting which was really cool um you can even say you know let's try other things in WordPress that you know cuz like a lot of people spend money on um funnel Builders and fancy things and stuff like that so this could actually save you a ton of money and actually time because more important than money is the time that you waste trying to figure things out cuz I know a lot of people are like I want my WordPress to be blue and I can't figure out how to make it blue that could be kind of tedious and difficult with this I think we can do different let's go through and I'm actually going to I'm going to revert back to the old plugin here let's see plugins where's our plugins there we go let's do add new plugin I'm going to go back to the classic editor because I think it's going to have a better time figuring this out rather than the block editor so let's go now and do new post and let's say um please make a
+
+---
+
+[27:39](https://youtube.com/watch?v=d9GS6TuvwGw&t=1659s)
+
+countdown timer for Wednesday or let's do 10 31 24 on this page let's see if it does it toggle I always forget which one we want on or off okay here we go so let's see how it does do you think it'll do it I not sure is it an error already it might be given us an error computer user I wonder if we're having an issue yeah I think with the API yeah okay let's try restarting and we'll be right back after these commercial messages M you can open good so open this y okay oh just click on oh just click it okay okay so now let's go back on here and then we'll do WP
+
+---
+
+[28:40](https://youtube.com/watch?v=d9GS6TuvwGw&t=1720s)
+
+city.com and notice how when you restart it clears everything out I'm G to tilt this a little bit there we go it clears everything out so we're going to go Claude wp-admin admin and see if we can get in there okay so now we should have all posts edit and we can see the post that it actually made Let's do okay so there's that one let's go here please add a countdown timer for 48 hours from now to this WordPress post let's see how this does looks like it is timing out we might have hit our yeah we might have
+
+---
+
+[29:40](https://youtube.com/watch?v=d9GS6TuvwGw&t=1780s)
+
+used all of our API rates which I think yeah I don't think they were cheap I think I bought quite a few of them but yeah so you could see exactly what this does I think right now is it a perfect Money Getting machine no in the future will it be is this something you should learn yes I think everyone should get an old computer dig it up work with this mess around with it because this is what the future of computing is going to be Microsoft is already developing laptops and desktops with AI chips with um the the co-pilot in it so this is where the future is going to be um is it quite there yet with this no not yet there are some things this can do that that the co-pilot cannot and there's a lot of things co-pilot can do that this cannot I do find it a little bit slow right now but that's not to say it's not going to get better over time which if you've learned anything from AI since the end of 2022 it moves really fast and stuff
+
+---
+
+[30:42](https://youtube.com/watch?v=d9GS6TuvwGw&t=1842s)
+
+happens very quickly so the quicker you learn this you'll quick the quicker you'll be able to use it to be able to make money whether it's blogging creating files fixing things going through and fixing HTML websites that are old from back in the day converting files all different things like that where it's going to be more custom and more based on exactly what you want and having the ability to to have this I mean I could go in and say hey Skype these people at at 3:00 send an email at 2:00 or send an email every day to these people or whatever it is it's something that I think is going to be an absolute GameChanger so definitely don't sleep on this and check out the videos in the description for more info on how to make money with AI and to get the notes from this go over to airofit scoop.com we'll have the notes the codes the instructions on how to install this again use a computer with nothing on it get an old computer out wipe it clean just put this on it mess around with it see how it works and we will keep you updated on how our robot develops over
+
+---
+
+[31:43](https://youtube.com/watch?v=d9GS6TuvwGw&t=1903s)
+
+the times when this gets new when we get the updates when we learn more and exactly what you can do to profit online so thank you Elena for being here and making this robot work because I wouldn't have been able to figure it out so awesome stuff have fun let us know what you think in the comments below and we'll see you in the next video

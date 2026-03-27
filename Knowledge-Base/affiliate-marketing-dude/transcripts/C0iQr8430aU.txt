@@ -1,0 +1,136 @@
+
+[0:00](https://youtube.com/watch?v=C0iQr8430aU&t=0s)
+
+Manis AI just introduced custom AI skills. And today I'm going to show you how this works and how it compares to a $75,000 a year employee. Yep, that's right. We're going to talk about how you can program these skills to do jobs that make you money. This is super important because in the past it took a lot of people to do a lot of work to get one thing done. only we're seeing here that Mark Zuckerberg is saying now one person who knows how to use AI correctly can do the same work as an entire team which means more money if you know how to use this the right way. So get ready cuz we're going to fire up Manis and show you exactly how to set up Mana Skills to pay the bills. Smash that like button. Let's dive in the computer and I'll show you exactly how this works. >> [music] >> All right, let's go ahead and dive in. As you can see over here, if we go to Manis over here in your dashboard, when
+
+
+
+[1:03](https://youtube.com/watch?v=C0iQr8430aU&t=63s)
+
+you click this little settings button here, you're going to see this new tab called skills. This is where you can go through and program different skills according to what you want. Maybe make a spreadsheet, maybe the certain way that you design a website or a certain project you're working on. You can also go through there and add custom skills or check out the official library where they have skills from various different people and user generated ones and everything like that. This is super important because what a skill does is it's like a buffer between you and your prompt. So you might have a prompt where you're like, "Hey, I want to build a new page for my website." But the skill is going to go through and it'll have the programming of what your website's about, how it works, how you like everything, and kind of like the structure of what you actually want. This is super important because I find myself going back to AI often where I'm like, okay, now make it like this or now look at this website or I'm giving it my logo or something like that where having a skill I could just go through and be like, give it the affiliate marketing
+
+
+
+[2:04](https://youtube.com/watch?v=C0iQr8430aU&t=124s)
+
+dude framework or something like that. This is super super big because it attaches to what you're doing and has that framework. Now, we're going to be using this and I'm going to show you how this compares to a $75,000 a year employee and what you can do to actually use this to make money. This is super important. But before we get into all the money-making skills and everything like that, I want to have a little disclaimer. And that is that the vast majority of people watching AI money make money online affiliate marketing videos makes nothing. The vast majority of people trying to make money online make nothing. So, you want to take this with a grain of salt and understand that this is a business. There's risk, there's reward, there's things that work, things that don't work, and there's all kinds of variables. But my goal here is to show you exactly what works for me and show you the framework of how to work it for you. Super important. So, we're going to go through and look at this. First of all, if we were to break down what a $75,000 a year worker looks like, we can look at the typical roles in a digital marketing
+
+
+
+[3:06](https://youtube.com/watch?v=C0iQr8430aU&t=186s)
+
+agency. That's what we're doing here. Digital marketing, affiliate marketing, SEO, all of that. The typical roles you're going to have for this type of worker are digital marketing specialists. So, they're going to know exactly how digital marketing works, social media marketing, everything like that. You could also have a content marketing manager that'll go through and manage your content, come up with a flow of ways to create stuff. This is important because when I go and I train someone to do something, I'm very meticulous and kind of a pain in the butt when it comes to how I want the output. It's a very strategic output. It's not difficult. It just needs to be done the same way every time so that we get consistency. That's where a content marketing manager will go through and make sure you have the consistency. However, I'm going to show you how Manis will do that as well with the skills. You can have an SEO specialist that's geared towards getting you ranked on Google, web developer, marketing analysis, and more. Then we could look at the capabilities of what these people have.
+
+
+
+[4:07](https://youtube.com/watch?v=C0iQr8430aU&t=247s)
+
+Content writing and editing, basic SEO, landing pages, and on and on we go. Then we can look at the limitations of a human employee. There are limitations where mostly you're going to be like 40 hours per week or 2,000 hours per year requires management. You have to make sure they're doing everything right. Sick days, all kinds of things like that. Limited expertise. If they want to learn something, they need to go spend a long time learning it. Whereas AI, it kind of already knows it. Think about AI like the Matrix, right? the Matrix, you get Neo and he goes there and sits down and learns jiu-jitsu in like 5 minutes through a program. That's how AI learns. It doesn't have to take that big long experiential route to learn something new. It's just plug and play. And with these skills, it's even quicker. Then they have vacations, singlethreaded work where they're doing one thing at a time. Now, when we go through and look at the various tasks, we're going to go through and look at manis when we have the skills. Now, it's important to note that
+
+
+
+[5:08](https://youtube.com/watch?v=C0iQr8430aU&t=308s)
+
+when I was creating the notes for this video in Manis, I went through and asked it about the skills, their specialized workflows, you can have tool integration, domain expertise, or even bundled resources. So, what I could do is I could go through and say, okay, I want you to first run this, do the research this way, then I want you to take that research, apply it to this. So, let's say I'm in the niche where maybe my my channel where I talk about addiction and recovery. I could go through and I could say we are going to find various different items like maybe psychology terms. Then we are going to apply those psychology terms to addiction. Then I want to apply it to my personal framework which is here's how I think about it. And then we can go through and have it run that on everything I give it. So I would literally just go into Manis and say here's this psychology term. Run the skill. Boom. It'll run that on it. or for tools. Oftent times we're making tools or PHP codes or something like
+
+
+
+[6:09](https://youtube.com/watch?v=C0iQr8430aU&t=369s)
+
+that. We can actually go through and program the way we want the tool. Here's where I want the icon. Here's where I want the logo. Here's what the domain is. Here's what the footer is. Here's where you put the live chat, the opt-in. All of those frameworks would be in the skill. So, you're basically teaching AI. This is how I want this. Now, if you're doing this on your own business, it works fantastically. If you're programming domains and and selling them as businesses or maybe building websites, this will make it so that you can take on 10 new clients without doing 10 times the work. Super important there. Domain expertise or even bundled resources. Oftent times I will use Manis to create prompts or bulk files like we created the uh blog blogging to the bank. We created this on yesterday's webinar. Let me see if I can find it here. Blogging to the bank. There we go. Uh, blogging to the bank we created where it has tons and tons of different files and they're all based on this layout, right? The layout's the same. So, the skill would be the layout and
+
+
+
+[7:11](https://youtube.com/watch?v=C0iQr8430aU&t=431s)
+
+then I could just give it new stuff every day and create new pages super super fast. It'll know the structure, everything. Building websites, this is a gamecher being able to have that skill in there. And when you go to create a skill, you can go right over here to the regular skills. I can click on add. It'll allow me to build a skill, upload, add from official, or even get from GitHub. Super important. Now, what I'm going to do is I'm going to use build with Mannis or upload. As you can see in the notes of this video, as I was going through, it gave me the idea of how they work, right? So, you have your skill. This is going to run on different things. You can have scripts, references, templates, all kinds of things. Kind of like a custom GPT, but for Manis and for bulk output. If I'm creating lots of things, maybe I'm doing a faceless video channel. I go in, I'm like, "Here's the framework. Here's the niche. Here's what I want. Here's what I don't want." Some niches I might go through and be like, "Well, I don't want you to talk about this topic." I can make that a negative topic in the skill, thus programming the AI to understand
+
+
+
+[8:13](https://youtube.com/watch?v=C0iQr8430aU&t=493s)
+
+exactly what I want. Now, when we create our own skills, we're going to have understanding. We're going to provide concrete examples of what it should do. Planning. Use reusable scripts, templates, and reference materials. Give it as much as you can in that tight-knit confine. If you're making checklists, show what you want it to look like. If you're having stuff for a brand, right, you can go in and do branding for social media companies. Boom, boom, boom. Give it that brand. It'll do that every time you run that skill. And unlike custom GPTs, I can run the skill within my main account rather than going over to some other GPT. This is a gamecher initialization where you can go through and structure it, test it out, deploy it, delivery and then refine it. Super important. Now, as we go through when I was doing this, I was talking about skills that I use in my business and it actually made those skills for me. So, programming it here. See, I gave it this content. I basically went into chat GBT. I gave the year- end review. I said, "Hey, ChatGBT, what do I use you for all
+
+
+
+[9:15](https://youtube.com/watch?v=C0iQr8430aU&t=555s)
+
+the time?" It boiled it down and then we pasted that into skills and it actually made the skill down here. It just shows what it is. So market intelligence, skill and uh conversation conversion and direct response systemization and scaling toolbased content. All of these were frameworks for skills that worked really well. And then Manis actually said, "Hey, you can make these and add to your skills." So, if I go add to my skills like this, now I can try this out and say, um, can you demo it? And it'll demo it. Really, really cool stuff where you're literally training the AI what you want. Therefore, making it easier on yourself, right? Because now I don't have to think about it. I just say, "Hey, run this skill set." Almost like if you were to go to an expert who knows how to build things and you're like, "Hey, dude. I need you to fix the 2x4s." And he knows how to do it. You don't need to teach them every single time. Very, very cool. This is going to save a lot of time in prompting. And for those paying attention, this is new. We saw
+
+
+
+[10:17](https://youtube.com/watch?v=C0iQr8430aU&t=617s)
+
+Claude come out with skills. We saw Manis come out with skills. This is super new, which means you can actually sell skills. This is an emerging business. I'm getting in on this. We're going to put some skills in AI Profit Scoop and over in Personality Prompt so that you can start using some of the skills that I use. But it'll go through and it'll start to understand the market intelligence on that. Then we can go through and look at what the skills would do. So if we had a market researcher or opportunity identification, this would be like if you hired a researcher, they would spend 3 to five hours researching using standard tools, basic competitor analysis, obvious keywords, and then you get like a 1 to two page summary report. Usually the whole thing's going to be about four to six hours and it'll cost roughly $300. Using Manis, this is done in 15 to 30 minutes and can be done for a dollar. You're going to have systematic niche deconstruction as we see with this skill being ran right now. You're going to have very custom things that you can
+
+
+
+[11:18](https://youtube.com/watch?v=C0iQr8430aU&t=678s)
+
+have buffers of what you want, what you don't want, deep structural analysis, proven patterns, and monetization focus. So, you can even have a skill that is programmed for maybe you have 10 or 20 affiliate programs with your affiliate links and it'll push them out and you can say, "Let's write an email. Let's make a blog post. Let's create a video." All of this is going to be in sequence, which is going to save you time, money, effort, and everything's going to be consistent. The advantage is 10 to 20 times faster with deeper insights. You can also do landing page creation where if I give it my main landing page and I say, "Well, I want 50 different versions of this." It'll follow that skill, make 50 different versions. Usually the cost to create one landing page one at a time, 4 to 8 hours, anywhere from $180 to $400. Even Clickfunnels and stuff, this stuff takes a while to do. I'm actually finding I'm getting a better result with Manis and other AI where we create this stuff in a very very simple
+
+
+
+[12:19](https://youtube.com/watch?v=C0iQr8430aU&t=739s)
+
+way. With Manis Plus skills, you can appro apply proven landing page structure and checklist. Use direct response copy formula. I can train it on my favorite copywriters or maybe even examples of what I use. Generate HTML with inline CSS. So, I get one single file 10 to 20 minutes and instead of 400 bucks, I'm getting them done for 50 cents to a dollar. 20 to 30 times faster. SEO content where I have a worker. If I was paying someone $75,000 a year just to do SEO, they'd do one to two articles per day if we're lucky. That's without AI. Anywhere from 1500 to 2,000 words, manual competitor analysis, 20 to 25 articles monthly output. Now, having been someone who has spent close to a million dollars on content for my websites and websites for my clients, I know how this works. And this is an accurate cost. Two good articles would be about $100 each. Whereas with Manis now, it's going to go through with the skills. Do cross domain keyword research
+
+
+
+[13:20](https://youtube.com/watch?v=C0iQr8430aU&t=800s)
+
+patterns, 50 variations, structured content, and you can actually get file output. For me, I like to have my content created in txt files. Now, one of the other things you could do with SEO content, you could say, "Here are the SEO things I want on each of these metatags, names, headings, and you can even tie it into Grammarly. Have it checked for plagiarism and everything like that so that you know you're getting unique content." Again, cutting the cost by a lot. Understanding how these works is absolutely key because a lot of people use AI like it's some cute tool. I think the worst thing that ever happened with AI is the fact that it came out at $20 a month. When you have a tool that comes as $20 a month, people don't value it for what it's actually for. At the get-go, I was like, I don't care how much this is. I care what it can do. A lot of people are looking at the cost and looking at the $20 as a buffer, saying, "Oh, well, it must not be that good. It's only $20."
+
+
+
+[14:21](https://youtube.com/watch?v=C0iQr8430aU&t=861s)
+
+Oh, contr these tools can do a lot more for you. Right now I'm at one of the highest levels of manis. I think I pay like $500 a month or more for my manis. And I have a couple others for my employees as well. Why? Because of the output it does. If you understand how to make it work like an employee, like a business, this is where the rubber meets the road. We stop playing at AI and now we start using it for systematic approaches. Understanding what can and cannot be done. understanding that you could literally create whatever you want and have those buffers work in a very strategic way. Email sequence creation. This is one that used to cost anywhere from $100 to $300. Even I even saw they're doing this with uh Aweber where now you can tap into Claude and use Aweber with Claude or something like that. Whereas now you can do this with Manis. It'll make those for you. And think about this for a minute. If I program a skill set where I'm like,
+
+
+
+[15:21](https://youtube.com/watch?v=C0iQr8430aU&t=921s)
+
+"Hey, man. I'm going to give you a topic. I'm going to give you a prompt with that topic. You're going to go through, you're going to make a blog post, a video, an infographic, and an email I can send to my list." Bada boom, bada bang, you're off to the races. Now, this is doing stuff like a worker. It'll apply direct response, objection handling, batch generation, and on and on we go. Again, the cost is like 1 500th of what it would be the other way. Calculators and tools development, getting a new idea. Like a lot of times I'll get a new idea. You guys see I have been really big on my Clifter program lately because I like to throw all the ideas in here and have AI help me make sense of them. You can actually go through and start taking ideas like I do. You can see all these ideas here. And you can take those ideas, put them into Manis with a custom skill. It'll go through and it'll say, "Here's a calculator for it. Here's a tool for it. Here's a white paper. Here's a checklist." Whatever it is, it's going to do that for you. And I don't even have to think about it. I just plug and
+
+
+
+[16:22](https://youtube.com/watch?v=C0iQr8430aU&t=982s)
+
+play. It'll use the single file. It'll use the codes that I want. It'll remember, hey, I want this for C panel, PHP, or whatever you like. Also, we can go through with batch production and scaling. I can create with a worker, $75,000 worker, create assets one at a time, linear scaling. there gets fatigue. They forget things. Manual Q&A required. You're gonna have to go through and and quality and check it. Going through here, this stuff cost a lot to do bulk. When I'm doing content at bulk, when I was having humans write content, I mean, we were spending $10,000 a month on content on some busy months where now, I mean, it's like three grand a month or something like that, and we're doing way more output than we did back then. This is a gamecher if you understand it. Using Mannis Plus skills, you can have a template one time, apply it to hundreds of different things. Systematic quality control, consistent quality across the batch, and on and on we go. This kind of
+
+
+
+[17:22](https://youtube.com/watch?v=C0iQr8430aU&t=1042s)
+
+thing will take 2 to four hours with Manis, 50 to 100 times faster, and the cost is $20 versus this is creeping up at $20,000. Capability comparison matrix. Let's take a look at what this would be. Now again, I'm going to have each of these skills boiled down. I'm just going to take these out of manis, all these skills for you, and we will have those at aiprofitscoop.com so you can get them. Looking at market research again, you can see the comparison, landing pages, SEO content, batch content, and on and on we go. Take a look at this. It is a gamecher. It will save you time. It will save you money, and it'll get things out quicker. A lot of times, it's not just about the time and money. It's about speed to market. I made something a couple months ago and because I used Manis, I was able to get it done same day versus if I was doing this with humans, it would have taken like a month or two. And that month or two, even though I know I could probably do that with people, understanding that I
+
+
+
+[18:24](https://youtube.com/watch?v=C0iQr8430aU&t=1104s)
+
+wouldn't like, okay, a month later that idea is going to be back burnered. So, being able to take these to to scale quickly is key. What the worker can't do if you have a worker, they can't do the cross-domain pattern recognition. They're not going to do the systematic batch production, operational prompt engineering, and integrated framework. They can get close to some of this, but the depth of thinking that Manis has is like it's unparalleled when you're talking about actual workers. Now, the real comparison with monthly output, if you had a $75,000 a year worker, maybe 20 to 25 SEO articles, 3 to five landing pages, some emails and calculators, monthly cost would be around $8,200. Whereas with Manis Custom Skills, we can get way more done and the cost is less than a 20th or around a 20th of what you're looking at here. Now, when you understand looking at how this works and understand, hey, I can get this set up today. I don't have to hire people. I just go get Manis. I program it. You're
+
+
+
+[19:26](https://youtube.com/watch?v=C0iQr8430aU&t=1166s)
+
+off to the races. You can see with employees and stuff, there's direct cost, indirect cost, and opportunity cost. The true annual cost of a $75,000 employee is going to be in the range of like 100 150 to the employer because you're always paying for more stuff. There's always different things in the mix. Whereas Manis, I'm literally like, "Okay, I pay $500 a month for my Manis." You could get the $40 account or whatever works for you, but that's literally all I need. Now, where humans will win, relationship building, calls, and networking. This is always going to be human wins. But here's the cool part. You can pay for that because that directly impacts your bottom line. Whereas creating a bunch of articles, we're going to hope they work and and they probably will, but that's not bottom line. So I can now have Manis do the stuff to get people in. Then when the people get in, I can have a human call them or however we do that. Nuance judgment's not going to be there. Personality is not going to be there.
+
+
+
+[20:26](https://youtube.com/watch?v=C0iQr8430aU&t=1226s)
+
+Physical presence and long-term strategic ownership will not be there. Where manness and skills dominate is speed, scale, consistency, cross-dommain insight, and availability 247. What I like to use as a hybrid model. If I set these skills up and I give access to Manis to my employees, they can actually go through and create things super fast. We actually have Valyria who does a lot of our sites here. She loves using Manis and the reason is is it'll do a lot of this stuff at bulk and you can kind of just use it over and over and over again and it'll remember what you want and just keep going. Now with skills, it's like that times a thousand because now instead of it hoping it remembers it, it's going to have that file that says here is what you need to follow. What I'm seeing here is this is going to save a ton of money. Obviously results not typical and blight are guaranteed. We don't know what it's going to save you. It might not save you anything. It depends on what you're doing. But if I could start to understand, hey, what do people do in a social media agency? Hey,
+
+
+
+[21:27](https://youtube.com/watch?v=C0iQr8430aU&t=1287s)
+
+what do people do when they create content? What do coders do when they create tools and codes? What are scripts? How does this work? And I start to understand that this is now opening up the barrier of entry to be literally nothing. I can make this work in a very strategic way. Program skills into my manners and get custom output. This is huge. I'm going to start using these right away. We've already started using them. And you can see it just understands exactly what we want. Consistent every single time. This is big. So go to apiprofitscoop.com for the notes. I'll have these five skill prompts that you can plug into your manis or your claude. Start using right away. Test them out. See how it works. Always have a human in the mix. Always make sure it's doing good and everything like that. But once you understand this, it's key. And you can even train your skill set on you. Like if I want custom videos the way that I like to research them, it'll do that. So aiprofitscoop.com for the notes. Check out the videos in the description for
+
+
+
+[22:27](https://youtube.com/watch?v=C0iQr8430aU&t=1347s)
+
+more info on how we use Manis to make money and build businesses. Smash the like button and I'll see you in tomorrow's video.

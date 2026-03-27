@@ -1,0 +1,207 @@
+---
+url: https://www.youtube.com/watch?v=aEFTiyM5CNU
+---
+
+# Honey Influencer Scam - Exposed Over 4 Years Ago!
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aEFTiyM5CNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=aEFTiyM5CNU&t=0s)
+
+4 years ago I made this video exposing the honey app and what it actually does on people's computers and in the affiliate marketing industry and just a couple days ago this video went viral along with this one and this one and this one and that one all talking about the honey app as if this is something new and I got to warn you some of you might not like what I have to say in this video but watch the entire thing because you're going to get a full education on how money is made online this is super important even if you don't want to make money online it's going to help you understand exactly how tools like the honey app coupon websites rutin and countless other companies use affiliate links to make tons of money and at first glance a lot of people think that the honey app is a complete scam designed to take affiliate commissions from unsuspecting Affiliates that are none the wise
+
+---
+
+[1:00](https://youtube.com/watch?v=aEFTiyM5CNU&t=60s)
+
+but I think there's something bigger going on here in fact when I did my video 4 years ago we uncovered something kind of sinister that I think you're going to want to pay close attention to and after you watch this video you're going to see that the honey app is actually small change compared to what you're about to see welcome to the world of affiliate marketing online ads and making money let's hop in the computer and I'm going to show you exactly what's going on with the honey app how it affects creators how it affects affiliate marketers and what this means for you as a Creator or just someone trying to use a coupon app to save money so smash that like button we're starting right now all right so first of all who am I my name is Marcus and I've been an affiliate marketer for over 25 years and an influencer since before it was even a trend or cool and so making money over the last 25 years as an affiliate marketer has taught me a lot about different ways affiliate links work
+
+---
+
+[2:01](https://youtube.com/watch?v=aEFTiyM5CNU&t=121s)
+
+different ways promotions work clicks and kind of what's going on behind the scenes of the internet and one of the things that I learned with this video that was talking about the honey app was that yeah a lot of people don't know what's going on behind the scenes when they browse the web so today I want to talk about that talk about is this a scam some of the things that this video got wrong and lots of other videos are getting wrong and how this stuff actually works I first came across the honey app probably right around 200 17 I believe is when it first started might have been 2018 when it was just a little app and they would pay us as Affiliates to promote that app and we got paid per install so the idea was I promote it they install it I get paid when they install it now when we were looking at the videos here with exposing the honey influencer scam I think it's kind of a stretch what he's saying but we're going to go through that in just a minute and I think it's an even bigger stretch when they say this is the biggest scam in YouTube history I think there's a lot of bigger fish to fry but first let's talk
+
+---
+
+[3:02](https://youtube.com/watch?v=aEFTiyM5CNU&t=182s)
+
+about what I think they got wrong here first of all what we need to understand is how affiliate links work and how people get paid affiliate links work in a very simple way essentially what happens here is the affiliate gets a link this is a custom link that is just assigned to the affiliate so that they get commission some of them will be like an Amazon link some of them will be a CPA Network a link some of them will be a link to like Radio Shack or Best Buy or something like that and when that link is clicked a cookie drops on the computer of the person who clicked it and this cookie says hey we need to pay Marcus if this person buys something that is what's known as the trigger so the cookie only really matters at the end of the sale when Boom the person makes a purchase now an affiliate link and an affiliate cookie can be overridden so if I come in and I say hey you need to buy this new coffee cup at Amazon and then they do research on it and someone says oh well this coffee cup is good because of X Y and Z and then
+
+---
+
+[4:04](https://youtube.com/watch?v=aEFTiyM5CNU&t=244s)
+
+they click that link then affiliate number two is going to get the commission as the closer it's always the last cookie wins unless in other cases now this is one of the things this video got wrong is they said that you know the only way to get paid is through last cookie wins which is actually not true there's lots of ways to get paid there are some affiliate programs including one of the ones that I run which is based on a lead what they do is they track the lead and when the lead buys for fills out a form clicks something or whatever it is that the trigger is then we get paid and some of these will pay for life meaning once you get the lead you're going to get Commission on that person for life now these are rare in the influencer industry but they do exist so I think it's worth noting what we also need to understand about what was wrong in the video is the fact that these influencers were paid to promote honey this is a sponsored ad so they basically sold out by taking the check from honey saying yes I will promote
+
+---
+
+[5:05](https://youtube.com/watch?v=aEFTiyM5CNU&t=305s)
+
+this knowing full well what it would do or even if they didn't know they didn't do their due diligence and for me as an influencer affiliate marketer it is up to me to figure out what products are good and what products are bad I've been saying this for many years that our websites need to promote things that are good and stay away from stuff that is bad now is the honey app a full-blown scan well I think it was pretty straightforward they were pretty honest about how it worked they said hey we're going to use these affiliate links and that's how we get paid obviously they need to get paid somehow so if these influencers are like oh wow I think Honey's just an app trying to help people find coupons and not making money well then how did they get the money to pay you for the ad yeah we got to look at these things and I think going forward in the age of AI we're going to need to understand the internet a heck of a lot more than we do now and what kind of blew me away is the vast majority of people not understanding how
+
+---
+
+[6:05](https://youtube.com/watch?v=aEFTiyM5CNU&t=365s)
+
+these links work so I think that was pretty important now the toolbar did find coupons but I think there was a little bit of shady stuff going on now what was exposed in the video was the fact that okay here's a honey app here it's got 19 million users here it is here they're making about 51 million a year and you know they were going through saying well these coupon links open new tabs well that's been going on for years every coupon page you look at is going to do that if we were to look at this one here promo codes we can see that they're kind of doing the same thing you click the button it's going to open a new tab over here boom it goes to Lenovo which means now they are cookied for Lenovo the same thing is happening all the time this is a lot like something back in the day where you would have those videos that went through and talked about watch this video before you buy product X we'll get to that in just a minute now the parts that I did find Shady about the coupon app is they were jacking commissions
+
+---
+
+[7:06](https://youtube.com/watch?v=aEFTiyM5CNU&t=426s)
+
+from places where they didn't actually have coupons so was it a terrible app yeah if it didn't find the coupons it was probably pretty bad so looking at that and looking at the fact that they were actually getting businesses to pay them to get crappier coupon codes yeah that doesn't sit well with me but to call this the biggest scam I think is a stretch now coffeezilla even weighed in on this saying this is insanely predatory great investigation every YouTuber who promoted this needs to tell their consumers what's actually under the hood and I do agree with this the influencers should have done their due diligence in the beginning saying yeah what is this app about how am I promoting it back in the day when I promoted a bunch of apps and toolbars and downloads I actually had a computer in my office where I tested them to make sure there was no viruses or funny stuff going on and a lot of the apps that I that I promoted they were very close it was like click this button make sure you understand this is doing X Y and Z on your computer now with the honey app let's take a look at their their page on
+
+---
+
+[8:08](https://youtube.com/watch?v=aEFTiyM5CNU&t=488s)
+
+the Google store and see what they're doing here we can see trusted by 17 million members save time and money the best coupon sites so they are touting it as yes it's going to find the best coupons does it actually deliver on that maybe maybe not then going through we could see okay they got great deals load up on cash back nowhere to buy compare Amazon sell honey is part of the PayPal family and so we're going through and it talks about the cash Redemption the honey browser and actually in the video I think it was the original video they were saying that they only got 89 cents cash back when the commission was $35 however up in the corner it did say you were getting 3% of the commission cash back which actually equals that exact number now am I defending the way that they have a terrible app I'm not but calling this the biggest scam I think is is kind of a stretch now going through here what we're doing is we're looking at how this works and is it
+
+---
+
+[9:08](https://youtube.com/watch?v=aEFTiyM5CNU&t=548s)
+
+telling us anything about what they're Gathering are they getting a paid with Affiliates because one of the big things here is there is an affiliate disclosure that as an affiliate I need to say so if the honey app nowhere says we are Affiliates that's how we get paid well then there's a big problem that's where the compliance issue comes in because you need to tell people you're an affiliate much like the influencers who promoted this need to say hey this is a paid ad I don't love honey I got paid to tell you I like honey so looking at that is very very important now if we were to go over to the honey website like this let's take a look at what they have so looking for help they have their help page and everything like that let's see if when I go to add it does it say anything okay it says we we use cookies all right that's normal then we could see okay how it works add in seconds shop like normal we do the work is there anything that says we are getting paid
+
+---
+
+[10:08](https://youtube.com/watch?v=aEFTiyM5CNU&t=608s)
+
+affiliate commissions when you buy stuff and it looks like uh let's see here the tracking and price honey and Amazon are not affiliated uh that's that's a little misleading they are affiliated if you are an affiliate of them that is literally the definition of affiliated now did Amazon pay them we don't know but there is an affiliate now we can see the average honey members are getting $126 in average savings 30,000 participating merchants 17.9% average discount let's see if those numbers actually add up we're going to get to that in just a minute but first I want to see is there anything about affiliate marketing and there's not so this part nobody's talking about they don't have a disclosure when I go to install this I don't think there's any disclosure that says hey you know what this is actually an affiliate tool so that's something
+
+---
+
+[11:09](https://youtube.com/watch?v=aEFTiyM5CNU&t=669s)
+
+interesting let's see what happens if we go to the Firefox add-on and I'll actually add it here so we can see they do have terrible reviews that might be recent reviews because of the video but again over here it does not say anything about affiliate marketing they do have terms and conditions but I don't think that's prominent enough because obviously people are not understanding hey this is not just an altruistic coupon tool they are making money as an affiliate let's go ahead and add this to Firefox and actually see if that happens so access your data for all websites okay eek I don't really like that uh it can run in private Windows if we check it let's click on learn more helpful do you install let's see if there's anything about affiliate nothing it doesn't even say the affiliate word so yeah installing this it doesn't say they're an affiliate so I'm seeing some trouble there it's installed now we have this here got it okay review settings let's see if there's any settings here looks like
+
+---
+
+[12:10](https://youtube.com/watch?v=aEFTiyM5CNU&t=730s)
+
+it's just this I accept thing and of course now if we were to go to amazon.com let's see what happens does it actually cookie me it probably does when we click the the honey link so looking at that I think is important also the permission request to have those little drop Downs pop up is something that you allow a lot of people don't know how to not allow this so yes it is Shady I think definitely it's shady I think definitely they are not exposing they are Affiliates which you need to do that is a bare minimum so going through and looking at this um mark applier back in 2019 said where does honey get the money well he probably should have watched my video If you were to do a simple search on honey which is something that kind of bugs me about this video he clearly didn't do the due diligence research because he said nobody was talking about this however look at all the videos that came up just in the last couple hours and then if you keep scrolling down you're going to see the video that I put up which has been at the top of Google
+
+---
+
+[13:12](https://youtube.com/watch?v=aEFTiyM5CNU&t=792s)
+
+search on Google for the honey app for over four years and you could see here I was talking about this in the thumbnail it shows how the opening of the cookie works the opening of the new page and how it works this is nothing new it's something we've seen for years much like we saw on this example with the coupon site where every time you click it is opening to get that cookie okay very very interesting a little deceptive again they're not disclosing they are an affiliate like that's something I think people need to know like hey I'm an affiliate these coupon codes are going to give me commission for whatever it is because obviously there's a vested interest whenever there's a vested interest that an influencer a website or an affiliate has where they're getting paid they need to disclose it because if I say hey this is the best phone in the world and you guys go buy it thinking well Marcus likes it it's good enough for him well I was actually paid to tell you that I might not actually use that phone on my own and a lot of people don't know that and I think going forward with affiliate
+
+---
+
+[14:12](https://youtube.com/watch?v=aEFTiyM5CNU&t=852s)
+
+marketing and AI this is going to get worse so that's why I'm making this video I want you to understand links as they are now looking at this we're going through we see a lot of people were complaining about it saying okay the affiliate link and everything like that so we discussed how affiliate links work the question is is is this actually a scam and before we get to that I want to show you some other things so that you could see what's going on rutin same kind of business if you were to look at rutin same deal they have a toolbar that finds the coupons give some cash back if you add it and bada bing bada boom there you go is it saying that they are Affiliates I'm not seeing it at first glance which it needs to be at first glance we can see that since uh 1999 they've been paid 3.6 billion dollars average cash back per member I mean you could probably find that making your own affiliate links it's owned by Ebates huge company we could see yeah that's pretty much what they're doing but it does not say upfront that they are an
+
+---
+
+[15:13](https://youtube.com/watch?v=aEFTiyM5CNU&t=913s)
+
+affiliate so is this a scam well they're not charging for the app and not giving you anything so it's probably more of a racket and a misleading racket at best but looking at this let's go ahead and do join for free that's for their mailing list add to Chrome let's see if they have a disclosure here 3 million users again does not look like they're saying this one does have like a terms and conditions how it works with the cash back but again they're not disclosing they are Affiliates which I think is a problem in the affiliate marketing industry I need to disclose that now let's take a look at some other things here if we look over here on offervault you can see that the honey Chrome extension is what's called a PPI pay per install mean for any affiliate marketer no matter how big or small you are they will pay you $4.50 when someone downloads and installs this to their Chrome so this is affiliate marketing at its finest and they pay pretty good these kind of things convert like crazy I've promoted
+
+---
+
+[16:14](https://youtube.com/watch?v=aEFTiyM5CNU&t=974s)
+
+some like this I never did promote the honey one um but we had some other ones that I promoted that did really well they were based on search versus based on coupon type stuff and you know you get paid for that you can see there's lots of other affiliate offers over here here uh if you were to type Chrome extension in offervault you're going to see ad blockers um different things like that which I'm not a big fan of the ad blocker there's a really good video that's talking about the future of ad blockers which I think is is bad I I don't think that's a good idea the creators need to be compensated for their ads but again this is the part of doing business this is part of the game much like people talked about back in the day click fraud where you know there'd be Bots clicking on things well do I like that I don't I hate Bots clicking on things they make things very difficult but in terms of the affiliate industry it's just going to make the clicks cheaper okay it all gets washed out in the end and um it is part of doing business much like we're going to talk about with the honey app which you know talking about it like the big scam
+
+---
+
+[17:16](https://youtube.com/watch?v=aEFTiyM5CNU&t=1036s)
+
+and stuff like that I actually made this calculator here so that you can see what it looks like the affiliate marketing industry is a 17 or 14 I think it's A14 billion a year industry the honey app revenue is about $55 million a year which is roughly like 200 Grand a day which sounds like a lot but for a p but for a company like PayPal it's nothing and in the grand scheme of things it's really not taking that many of your affiliate commissions I guarantee a lot of the Affiliates who promoted honey and also are Affiliates probably did not see a decline since they they did that I don't think they saw any money loss because I don't think it's big enough to hit the radar is it shady is it borderline unethical I think so in my opinion again I'm not an expert my opinion would be they need to disclose their Affiliates they need to make it to where it actually finds good coupon codes regardless of who's paying them the
+
+---
+
+[18:17](https://youtube.com/watch?v=aEFTiyM5CNU&t=1097s)
+
+first job like Google set out years ago to say hey our job is to provide good search and they did that did they do monopolistic tactics and things that were kind of not above board they did that was what they did with business and the same thing here with the honey app I think we can learn from it that it is a a really good idea to Market that way using something a homepage um a a dashboard they can use for shopping a coupon tool an app those make a lot of money but again looking at this the amount they're making assuming that AI calculated this right which I think it did the amount they're making versus what Amazon's making and the affiliate industry is really nothing so I I don't think this is the big Wahoo crazy expose that a lot of people are claiming now looking at this what we want to do is we want to go back to Shady affiliate tactics because that this is they do have Shady affiliate tactics I think
+
+---
+
+[19:18](https://youtube.com/watch?v=aEFTiyM5CNU&t=1158s)
+
+where they're looking at like okay they're not exposing their an affiliate that's check one and also their tool does not find the stuff like if I say I have this tool that's going to help you save money on your house and I know full well if you don't use my tool you're going to get an extra $1,000 but I do it anyway because I'm going to make more money yeah that's not that's not ethical that's not good I would not do that however if you make a good tool that actually works that gives people what they want that is good now back in the day with affiliate marketing I think it was 2003 2004 this got really popular what happened is you would have people who would look up a product and then look up the reviews of a product this happens all the time because a lot of influencers don't know that this is going on if you were to go over to a tool like ahrs or something like this and you were to sign in and look up a keyword like review let's say people want to review a product we go to keyword Explorer we type in the word review and you're going to see that millions and millions of people every
+
+---
+
+[20:19](https://youtube.com/watch?v=aEFTiyM5CNU&t=1219s)
+
+month are looking for review and reviews right what reviews are there on these products so we can see here there's like reviews on books how to get paid for Amazon reviews that's actually a pretty big one there but let's say we have something like maybe fit espresso reviews so this looks like some kind of coffee product all right yeah looks like a coffee product and there are over 45,000 people a month looking for this product and you also have this with other products as well like it's you know very very minute if we were to go through and look up something like obsbot 2 reviews you're going to see people look up the OBS bot which is the camera I'm using and you can see there's like 80 20 so like you know about 600 people globally every month looking for reviews on this camera so if I could teach people about this camera and rank for this which the KD is one which means
+
+---
+
+[21:20](https://youtube.com/watch?v=aEFTiyM5CNU&t=1280s)
+
+it's pretty easy to rank for then I could cookie them for the product and actually make money but this is where it actually gets tricky what happened back in the day is you would have affiliate marketers that knew people were looking for reviews on different products so maybe there's a course or an ebook or a camera or whatever it is usually things that pay high commission where we're looking at like $100 or more commission sometimes it was like the $30 range but never for stuff like that pays a penny or something like that and what these people would do is they would take the big keyword and they would actually go through and say don't buy X till you watch this or they would say product name scam so maybe you say honey app scam you're getting a bunch of traffic this is what happens this is a basics of affiliate marketing why are these guys getting traffic because the honey app is Big that's what's happening so if he was out there it'd be like if this guy said exposing the honey influencer scam and then he said well why don't you go get
+
+---
+
+[22:21](https://youtube.com/watch?v=aEFTiyM5CNU&t=1341s)
+
+rutin or the Capital One Shopping tool right that would be kind of what we're talking about here would that be ethical no would it get him a ton of sales yeah can you do that in an ethical way yes but not specifically to piggy back on the rankings very important because what you're doing is you're using a brand trademark term and you're diminishing the brand to promote your own thing which can get you sued a lot of influencers don't understand what can get them sued and what they're on the hook for they just promote everything because money comes in I mean every single day I get at least 5 to 20 email saying promote this thing promote this new crypto promote this website promote this new trading app and you know what I do I don't answer them because I know a lot of those things are super Shady at best and some of them are a complete scam and I don't want to promote that stuff I don't care how much money they give me I'm not going to do it I want to run things that are legit and that actually work so understanding that we
+
+---
+
+[23:23](https://youtube.com/watch?v=aEFTiyM5CNU&t=1403s)
+
+need to understand hey influencers you need to actually treat this like a business and you need to understand what's going on and if these influencers I think they had 300 influencers that were paid to promote this product and by paid I don't mean $4 as an affiliate I mean they came to him and said here's a box of cash tell people you love it that I mean they were paid they were paid they were paid to say that what happens after that I mean you took the check you can't really take the check and complain later you were part of the transaction if it was your job to do the due diligence and understand how it worked and if you didn't do that that's you know it should they be Shady no but should the influencer be looking out for you yes now this gets into a lot of gray areas because now okay what if an ad shows up on a video well technically I'm paid for that but I'm not endorsing it there's a lot of gray areas here that a lot of people don't understand and a lot
+
+---
+
+[24:24](https://youtube.com/watch?v=aEFTiyM5CNU&t=1464s)
+
+of people don't understand how money is made on the internet and if you want me to make a big video on how money is made on the internet I'll do a big deep dive and show you how it works from someone who's been doing this for over 25 years and looking at the back end of the business and what goes on I've hung out late at night in the conference Halls where there's people that you know I I just sit in the corner and listen because I don't want to work with some of these people because of the things that they have going on and I think understanding that and realizing you know not everything in life is free very few things in the internet life are free there's Sunshine there's air there's all kinds of stuff that is free but when it comes to business they're getting paid somehow and if you don't know how they're getting paid then don't promote it like if that guy who said I don't know how they make money still took the check and said go buy the product or download it then yeah that is a huge problem so I think what we need to understand is what was right the honey
+
+---
+
+[25:26](https://youtube.com/watch?v=aEFTiyM5CNU&t=1526s)
+
+app does have some things that I don't like personally I don't like that they're cooking people even though there's no coupon okay is that bad well you installed the app you're supposed to know what's going on this doesn't tell you what go is going on it doesn't tell you it's an affiliate like if you guys use the app but you didn't know it was an affiliate say didn't know as a comment below because I I assume that people kind of new I guess that's that's my bad uh maybe just being in this industry but again looking at this as 50 $5 million a year I don't think that this is the big Juggernaut that people think it is when you're talking $200,000 a day I mean you look at that in comparison with what's going on they're barely cracking $1,000 since I loaded the page and Amazon has made a bunch uh the affiliate industry has made over 20 almost 250,000 so far Amazon's made like a bazillion dollars and what I actually did also is I was very generous with
+
+---
+
+[26:28](https://youtube.com/watch?v=aEFTiyM5CNU&t=1588s)
+
+this I don't think it's this High what I did is I said let's say 10% of Amazon sales come from Affiliates I think the number is actually a lot lower but let's say it's 10% this is the number we get here so we're seeing that this is very very very small potatoes compared to what's going on and I don't think they're taking that much but what we can learn from this is number one know what you promote if you're an influencer know what you promote dig into it don't sign the check till you dig into it there have been products where people have paid me and they say Okay review it and I say okay well I don't really know your product so what I'm going to do is I'm going to promote it honestly I'm going to tear into it I'm going to give it my opinion and I'm going to tell them I was paid to do that hey this company paid me come on in let's check out the product it doesn't even affect sales it actually sales go up it's actually pretty cool and understanding how this works we need to be responsible number two don't do Shady stuff if you're doing a toolbar download and number three if you want to make money onine online there are good
+
+---
+
+[27:29](https://youtube.com/watch?v=aEFTiyM5CNU&t=1649s)
+
+things we can learn from this can you make a portal where people can you know maybe have a bunch of people interested in gardening or streaming on YouTube where you can list all the streaming products keep them in the loop get a mailing list I mean how many influencers don't have a mailing list to me that's just Insanity you are just literally throwing money away left and right and then number four if you can understand that we can make tools and and things that people can use that will pay us money you will understand that this business is gigantic it is bigger than so many people think a lot of people think it's like a dude in a basement making $4 on ClickBank no ladies and gentlemen the affiliate marketing industry is huge and if you want to make money online in the affiliate marketing industry I have tons of videos here you can watch for free you can check out airofit scoop.com and get notes from this video and all kinds of other stuff we're doing to make money online and understanding that yes there are some shady things but do I think this is the big Juggernaut scam I don't think so I think I think there's
+
+---
+
+[28:31](https://youtube.com/watch?v=aEFTiyM5CNU&t=1711s)
+
+more going on that we need to look at I think looking at these coupon sites I mean this has been going on since the dawn of time they should be disclosing that they are getting paid I think at bare minimum but I think a lot of people don't understand okay how is this working I'll bet if you looked up fit espresso like this does it work or is it a scam this guy is doing exactly what I'm talking about here's another one look at this YouTube real customer Fit review 570 views now this is a bigger scam going on where a lot of times what will happen is people will take over an account and put it with affiliate scam you can see here this was a music account and then they took it over and started putting spam on it for these products and I guarantee it's probably just garbage videos if you've seen these let me know a lot of it is garbage videos and what are they doing they're trying to get you to watch this video which probably says nothing I mean if we look at the transcript it's they're probably just reading this and they're trying to get you to click
+
+---
+
+[29:32](https://youtube.com/watch?v=aEFTiyM5CNU&t=1772s)
+
+these bitly links are affiliate links again they're not disclosing they're an affiliate they're just doing the bit.ly which gets them cookied this is kind of how the industry works is this Shady do I like this I don't because what they're doing is they're saying warning which damages the brand much like with my videos you're going to find people on Reddit and people in forums and websites dedicated to saying marcus' stuff is a scam D it's not good why are they doing that they're doing that cuz I get traffic they want that traffic to promote their own thing this was a method that was made popular again back in like 03 to 06 where you would bad talk some product to get your stuff going now ladies and gentlemen pay close attention because you can actually be sued for a review that is not honest based on something you actually tried I actually had a buddy who lost his house to this and he actually did try the product he just didn't answer the the P or something like that but looking at this if you don't try a product and you say it's bad you could be sued for that
+
+---
+
+[30:33](https://youtube.com/watch?v=aEFTiyM5CNU&t=1833s)
+
+so a lot of those websites that are out there saying Markus bad this good they're just using my traffic to get the rankings and same thing here like using traffic is not bad if you do it right can I do an honest review of something actually try it this is where affiliate marketing needs to head we need to be honest we need to be ethical we need to use honest tactics there's plenty of traffic out there without bad talking stuff but starting to look at this and understand okay these people were paid there are some shady things going on but I think all in all it's a pretty smart affiliate play of course X Out the fact that they didn't do the affiliate disclosure X Out the fact that they're not actually finding coupons and they're being paid allegedly to find coupons that pay them more I don't know if that's true but if it is I I don't like that but again looking at this and understanding the the affiliate marketing industry is huge it works on cookies it works in a realistic way and I think we need to learn how the
+
+---
+
+[31:34](https://youtube.com/watch?v=aEFTiyM5CNU&t=1894s)
+
+internet works if we're going to continue to use it because a lot of times you know like people who got in the latest crypto uh issue that happened with an influencer like a lot of us were like H how did you fall for that like it doesn't even make sense logically how did it work well someone was paid a lot of money to do something that other people knew what was going on is that person at fault yeah they are you can't go out there and claim hey I took the check but I'm a victim too well then give the check back oh no you're not going to do that oh sorry yeah we're not going to do that well then there's a problem and you are at at worst at best somewhat at fault not saying you're completely at fault but you are somewhat at fault for it now I think that uh definitely we need to disclose things and look at what's going on but I think this is a lot bigger than people are saying and the fact that the guy came out and said he couldn't find any info talking about how it worked uh sorry my video's been there for like four years there's
+
+---
+
+[32:35](https://youtube.com/watch?v=aEFTiyM5CNU&t=1955s)
+
+lots of other videos in the affiliate industry we've known about this for years so check out that video and if you want to learn more about affiliate marketing check out my other videos here on the channel I'll link to some about the honey app Wiki by rutin the Capital One shopping app and other companies in the description below I highly urge you watch those they're going to teach you how the affiliate marketing industry Works how links work how tools app apps and chrome add-ons work and how money is made online so that you understand what's going on when you make a purchase thanks for watching smash the like button I'm Marcus and I'll see you in the next video

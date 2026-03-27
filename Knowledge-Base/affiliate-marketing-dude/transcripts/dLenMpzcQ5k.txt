@@ -1,0 +1,99 @@
+[0:00](https://youtube.com/watch?v=dLenMpzcQ5k&t=0s)
+
+do you want to learn how to make high converting landing pages opt-in pages squeeze pages and pages to sell affiliate stuff really fast all on one website that's right today I'm going to show you exactly how to make multiple landing pages sales pages lead pages and everything on one simple WordPress site without having to deal with all this different software that we're starting right now hey guys welcome back I'm Marcus aka the affiliate marketing dude and if you like this kind of stuff and want to learn more about affiliate marketing and building pages that convert and sell and put money in your pocket then make sure you subscribe and click the little Bell notification icon that way you don't miss anything and you can join us live every Wednesday at 10 a.m. here on the channel where we teach you all kinds of cool stuff live but for right now you're here because you want to learn how to make multiple landing pages on the old WordPress and you'll notice right here behind me we have a
+
+---
+
+[1:02](https://youtube.com/watch?v=dLenMpzcQ5k&t=62s)
+
+basic install of WordPress for our site anxiety free guide.com now this is a site that I bought and set up in our last video to show you exactly how to go into a niche and make money with affiliate offers really fast that video is going to pop up at the end of this one so you can check it out along with some other stuff but let's go ahead and dive right in and go into the WordPress dashboard and talk about how this works the first thing we want to do before setting up any landing pages is change our theme now you can go through and go to appearance and themes you could choose tons of different themes from the stuff WordPress provides for you to anything remember you can go to add new and you can go to all kinds of different themes that they provide for you now these themes are not made to convert and they're not made for multiple landing pages so if you want to set up multiple landing pages what I would recommend is using a theme that we custom developed for you that you can find in your members area over at Marcus mentor m-e you can also get some themes that we have floating around there for you if you go over to affiliate marketing dude comm slash themes we have
+
+---
+
+[2:04](https://youtube.com/watch?v=dLenMpzcQ5k&t=124s)
+
+a couple that you can get for free as well now what we're going to do is we're going to scroll down and we're going to use a custom theme from the members area called social profit side this is a very simple theme that you can install and activate right away and start making landing pages in seconds as you see here we have it now if we go back to our main site like this you're going to notice that the page has now changed from the anxiety cactus or whatever it is over to a simple white clean theme very easy so you'll notice here we have our main content here then we have our sidebar widgets over here the second thing we want to do is go ahead and get rid of these sidebar widgets we're gonna go over to widgets under appearance and we're just gonna take all those different things and drag them away so you can see here if I take the search drag it over here it disappears like magic right like that alright so we're gonna take that now we're gonna go in and we're gonna do that with all of these here okay that way all we have is a plain blank site
+
+---
+
+[3:05](https://youtube.com/watch?v=dLenMpzcQ5k&t=185s)
+
+right like this okay next thing you're gonna do is we're gonna go over to settings we're gonna go to general okay make sure everything's okay on general looks good we're gonna go over to reading I believe it is under reading we want to make sure that instead of our latest posts we're gonna do a static page and we're gonna do sample like that we're gonna hit save then we're gonna go into permalinks right like this now we're gonna change it to post name save done we're ready to make this a landing page machine you can see that now instead of this we actually have our sample post or sample page rather as our main thing now we can go through and we can make a landing page right here like this if we go to edit page and we just start editing this right like this now you can use the Gutenberg plug-in which is this here or you can uninstall it I'm actually not going to use Gutenberg so we're gonna go over to plugins and go to installed plugins and we're going to turn this off okay so we're gonna go Gutenberg deactivate now all that does is make a
+
+---
+
+[4:08](https://youtube.com/watch?v=dLenMpzcQ5k&t=248s)
+
+little heck of a lot easier to change our page right if we go back to that editing page you're gonna see that now instead of Gutenberg we have the old style which works a lot better we just put a title to our page we could do something like anxiety free guide here okay let me just go down here delete all this stuff go to visual and we can make our page look however you want we could say welcome or we could say something like are you tired of anxiety and worry here are some tools to help you okay right like that we can make our page like that we put whatever content we want very simple very easy and as you can see it's actually editing it anxiety free good calm it's actually editing it right here so you can see are you tired of anxiety worry now you can actually edit these however you want so if you want to make this big centered read and let's say we
+
+---
+
+[5:10](https://youtube.com/watch?v=dLenMpzcQ5k&t=310s)
+
+want it to be big right like that you can see edits quite easily right are you tired of anxiety where are you here are some tools they'll be pretty easy now you can pack this with affiliate links you can make an opt-in box whatever you want now we're gonna do this based on an opt-in box because my hunch is that you guys probably want to build a mailing list now the way to do that is very very simple what we're gonna do is we're gonna go to plugins we're gonna go to add new and we're gonna choose one of the plugins from the Markus mentor em II members area you can go there you can sign up you get all kinds of plugins videos tools themes everything to help you make money online and personal support and coaching so if you want me to help you you can say check out my site what do you think or what kind of traffic would you use or what's a good affiliate offer for this and we'll help you out with that as long as you are a member and get all that stuff for like less than the price of a cup of coffee a day so it's insanely cool and easy and good and affordable and it's gonna help you now if you want to do this stuff free you can you just need to use the codes and do a little bit of work around
+
+---
+
+[6:11](https://youtube.com/watch?v=dLenMpzcQ5k&t=371s)
+
+but if you're not good at codes I would highly recommend my coaching course alright so we're gonna go in here we're going to upload one of the plugins from the members area this plug-in is called funnel voodoo now what funnel voodoo does see we can find it there it is what funnel voodoo does is it allows you to put opt-ins on your pages on your posts wherever you want and control your blog in a really cool way so we're gonna activate this you'll notice that funnel voodoo is gonna pop up right over here cool all we got to do is click it remember how I said in those widget areas that you don't really want anything in there well that's because the only thing that you want in there to control your blog is the funnel video okay so we're gonna go to appearance we're gonna go to widgets and we're gonna drag the funnel voodoo up there where we took this stuff out and what that's gonna do is it's gonna give it control okay so if we go into our funnel view let's say we want to make an opt-in page or something like that we're gonna go into our funnel voodoo like this we're gonna click on opt-ins we're gonna choose opt-in number one we're gonna click enable hide title and we're going to choose pages very simple okay next
+
+---
+
+[7:13](https://youtube.com/watch?v=dLenMpzcQ5k&t=433s)
+
+we're gonna go down and put some content okay so if you're giving them a free anxiety book like I showed you in the previous video we're gonna go through and we're gonna type in download your free anxiety guide here okay we're gonna go ahead and go to visual Center make it bold right like this make it a little bit bigger we'll do like heading three I'll make it red because red captures the attention of people and gets them to look at it now we can go through we can add some arrows if we want to add arrows we just do add media and select some images from your computer we're gonna hit select files I'm just gonna choose some arrows that I have here I think I call them arrow like this choose these arrows and when they're done uploading we hit insert into post and they'll be right there right really cool then we're gonna go through now if you're using Aweber just put your info in here right just the list name that's all you need if you're not using Aweber click this and put your code in here a little bit trickier I recommend anyway
+
+---
+
+[8:15](https://youtube.com/watch?v=dLenMpzcQ5k&t=495s)
+
+because they're good for affiliates and stuff and it works with our plug-in really easy so we're gonna use Aweber in this example next we're gonna go over here and we're going to put our listening so if your list name is anxiety tips put anxiety tips we're gonna go ahead and use one of mine which is simple Marcus right like this now we're going to choose our thank-you URL this is where you want them to go after they put their name and emailing okay so the easiest way to do this is go to your dashboard go to posts add new okay we're just gonna call this will call this anxiety book download okay right like that and we'll hit publish okay add some other stuff later but for right now we'll just leave a blank then we're gonna copy the link right like this put this as our Thank You URL very cool next we're gonna put bullet points which are kind of like benefits of what we're giving them and anxiety now five ways to combat crazy racing thoughts plus three
+
+---
+
+[9:18](https://youtube.com/watch?v=dLenMpzcQ5k&t=558s)
+
+tips to stop panic attacks before they start but now all we got to do is choose what we want now it's got an automatic privacy policy so that'll be automatic if you want to put your own you just type it in there next what we do is we choose our theme there's lots of different themes you can choose from from different colors to different buttons everything I'll show you how that works in just a minute for right now we hit save now watch what happens if we go to anxiety free guide calm you're gonna notice boom now we have a really cool opt-in box on our page right when they fill this out they put their info in here right like this boom they're gonna go to they're gonna go straight to your thank you post really easy right like that okay so we're all set up now you can check out the different now you can check out the different types of themes we have here like theme with the white one you can go to let's say you want to go to green okay this is just gonna change the way
+
+---
+
+[10:19](https://youtube.com/watch?v=dLenMpzcQ5k&t=619s)
+
+that your box looks so depending on how you're making everything work you can make it convert a little bit better go through and change the way it looks based on how your site looks which is really cool okay now I find that usually the white one is the best so I'm gonna stick with that but you can see there's tons of them that you can work with as well the next thing you want to do is just edit the content over here so that you have some kind of draw to get them in to get them to opt-in so like let's say if you had a video okay let's say like if you were to take my video for alcohol and anxiety let's say this was a video that said hey opt-in or whatever obviously you want to do that if we want to put this on our page we can just go share embed and then we just copy this embed code here alright like okay copy we're going to take that over to our page we'll just hit edit page and then I'll just put the code right down here okay so super easy super simple and you can see once we're done boom now we
+
+---
+
+[11:22](https://youtube.com/watch?v=dLenMpzcQ5k&t=682s)
+
+have a little video they watch the video they opt-in yeah they go to our Thank You page or a post which is really easy so awesome really cool now if you want to have multiple pages on your site multiple landing pages or opt-in pages all you got to do is control it with the funnel voodoo and did you set up a new page just click on add new page and let's say we wanted this new page to be anxiety tips for women or whatever okay obviously base it on your traffic source and then you put your content in here now if you're having multiple pages make sure that you click on show in pages menu if you don't want it to show in the menu right so like if you go to affiliate marketing be calm and you see the pages up here in the menu like this and you don't want it to show in these then you would just go and click do not show so we're gonna click no right there okay and then we'll hit publish and you'll notice we have another page right here which is anxiety tips for women we got our opt-in now if you want to make a different opt-in then you would go back
+
+---
+
+[12:23](https://youtube.com/watch?v=dLenMpzcQ5k&t=743s)
+
+to your funnel voodoo and then you would go ahead and choose opt-in number two and set up opt-in number two there with a different list name or whatever it is that way you can have multiple different opt-ins multiple different things for your thank-you pages and stuff like that so if you want to do like a Thank You page right we just go to our thank you all right over here post and then we just get our page name which looks like the name is 23 let's just double check here and it looks like this our thank-you page looks like this right now and let's say we wanted to put like an affiliate offer or something like that so that when they put their name and email they go to the affiliate offer all we would have to do is go to our affiliate network right like this okay and we could just choose whatever banner we want let's say we want to use this one here we'll just get the tracking code copy like this boom then we're going to go right over into our funnel voodoo go to thank you number one we're gonna enable it and put it on posts and a boom all we got to do is put our code in here and you'll notice that
+
+---
+
+[13:23](https://youtube.com/watch?v=dLenMpzcQ5k&t=803s)
+
+now we should have our offer here really cool right so we could go in here we can edit this and we could say something like hey you know what thanks for joining my anxiety mailing list be sure to watch or emails from Marcus at anxiety free guide.com that is that is where I will send your ebook and then you could do like for now please check out these anxiety resources boom right like that okay I think I did it in tax or switch over to visual like this and then you can put different different stuff here like if you have a Clickbank anxiety you could just go here and be
+
+---
+
+[14:23](https://youtube.com/watch?v=dLenMpzcQ5k&t=863s)
+
+like anxiety for women or whatever and then we just go here put your affiliate link name in here and then create and then boom we'll just copy this link you could put this link wherever you want so you could do like anxiety help or women okay I just highlight it and then you would just put your affiliate link in here boom right like that I always like to open in a new tab and then boom now you have a thank you post that's looking pretty good okay so there you go really easy you could Center it you can make it not centered whatever you want to do it's it's super easy okay and then that's what your page would look like which is cool so now if you want to have multiple landing pages all you would have to do is go to create a new page add new create a new page make a different opt-in box or use the same opt-in box if you want and then start driving traffic to it and boom there you go now another cool feature of this is that your blog the way that we teach you
+
+---
+
+[15:24](https://youtube.com/watch?v=dLenMpzcQ5k&t=924s)
+
+to set it up over at Markus mentor m-e and our coaching is a complete hub for every so for example let's say you write an article or make a video or make something new for your newsletter subscribers you could just go in to add a post or a page let's say we want to add a page and say you know anxiety tips or whatever anxiety let's do eating right for anxiety right then you could send out an email to your people send them to this page give them the tips on the anxiety stuff and then you know have whatever you want on it whether it's a opt-in or an affiliate offer or another video or some content and then boom you're off to the races and you have a site that is set up so that you can have multiple landing pages some landing pages doing affiliate offers some doing opt-ins whatever you want you have full control now you can do this on your own using widgets and stuff like that it's a little bit confusing so I would recommend using the funnel voodoo plugin because as you can see it's super easy
+
+---
+
+[16:26](https://youtube.com/watch?v=dLenMpzcQ5k&t=986s)
+
+now remember this because you can have as many pages and posts as you want and you can customize them so that you can make it however you want and then you send your traffic you make some money you get some opt-ins make more money and then you're off to the races so I hope this helped you understand how to make multiple landing pages on your WordPress very simple to do and go set them up so really cool check out the next video that's going to pop up in just a minute and will help you guys learn exactly how to set this up for your niche so that you can start driving traffic and making some money thanks again for watching I'm Marcus check out the next video subscribe and I'll see you next time

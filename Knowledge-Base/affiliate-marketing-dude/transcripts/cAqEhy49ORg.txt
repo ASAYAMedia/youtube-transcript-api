@@ -1,0 +1,141 @@
+[0:00](https://youtube.com/watch?v=cAqEhy49ORg&t=0s)
+
+Sam Alman and the team over at ChatGpt OpenAI just announced the Atlas Chat GBT browser, a fully functional web browser enabled with AI. Yeah, it's not like a button on the AI browser. It's an actual AI browser that controls everything, which comes with some big warnings. More about those in just a minute. But just yesterday, I came out with a video where we talked about the Perplexity comment browser and we talked about the referral program where they're paying people to get others to download it. This is huge news. Now, when we go under the hood of the ChatGpt Atlas browser, I think there's some things you need to pay attention to, some things that can help us make money online, and some downright scary things that we need to pay close attention to. Because let's face it, we're in a world where billionaires are calling the shots and there's very little regulation. So, while this might seem like a good idea to download and test right now, I'm going to urge you to hold back a minute, watch this video,
+
+---
+
+[1:01](https://youtube.com/watch?v=cAqEhy49ORg&t=61s)
+
+and then decide if Atlas is the right browser for you. So, if you're excited to learn about this, see the ways it can help you make money, smash that like button, and let's go to work. All right, so let's first take a look at this and unpack what's going on. What is the difference between an AI tool and a browser? Well, an internet browser basically controls everything you do online through that window. It's much like a few years ago when Mark Zuckerberg offered to help a bunch of countries by providing phones to them for free. Only there was a catch. The catch was you had to go through Facebook to access the internet. So everything you saw online was through that lens. Now when we look at a browser, this is the thing that stores all your passwords, your financial info, all kinds of data about you, including history and all kinds of stuff that in the wrong hands could not be that good. So it's a very powerful thing to have a web browser that controls stuff. This is
+
+---
+
+[2:02](https://youtube.com/watch?v=cAqEhy49ORg&t=122s)
+
+why we saw earlier, I think it was last year or earlier this year where Google was hit with a monopoly lawsuit because the browser controlled everything. They control a huge portion of the browser market. Now, according to chat GBT, it says that Google Chrome is 66 to 70%. I have seen some some stats that say it's a lot higher than that, which means the Google Chrome browser, the one that I'm using right here, is controlling most of the people on the internet. It is what most people use to browse and access the internet, which defaults them to the Google search. That's how Google search got so big is by providing a browser. People typed stuff in the browser bar. They went to Google. They liked Google and they kept using it over and over and over again. This is a practice that has been used many times throughout history where there's been a browser or a tool. And that tool, while it's free to use, it also is advertising. It's always that that acronym or whatever it is that saying where it says if you don't know what the product is, the product is
+
+---
+
+[3:02](https://youtube.com/watch?v=cAqEhy49ORg&t=182s)
+
+probably you and you're being sold to advertisers in the form of data. And that's what's going on here is browsers are looking for data. They are data gatherers trying to figure out what people want, what they search, what they buy, all things like that. We did a video several years ago before it was even in the news where we talked about the Honey Browser app where people were using a little app like this, a little extension, and it would help them find coupons online and different things like that. And it came under some hot water because of the data tracking and things they were using. Again, it was a free tool promising to give you coupons and help you save money, but at the end of the day, it wasn't even that great of a tool and it had a lot of privacy concerns and a lot of, you know, different things with affiliate marketing and not having the right disclosures and stuff like that where it could have been done better. Now, what I'm seeing with ChatGpt Atlas is a very, very common thing where it was rushed to market. We saw them come out with the videos where they talked about what it does and doesn't do. We're going to get into that in just a minute. And talking
+
+---
+
+[4:04](https://youtube.com/watch?v=cAqEhy49ORg&t=244s)
+
+about some of the good things that it does that I liked. Now, this is nothing new. We saw Perplexities browser. We see that uh Microsoft Bing has a browser here. It's kind of like a browser. It's a little button that is enabled with your browser, but it's actually in the browser. So, it's very similar to what ChatGpt Atlas is all about. Now, going through here, let's take a look at what this does and why it's so important. This is what the ChatGBT Atlas browser looks like. Much like any other browser, you got your tabs up here. You got your search here. Now, what's happening again, this is where a lot of people are missing the boat is they are defaulting you to chat GPT search. This is a search play. They rushed it to market because they want the search traffic. While there's been a lot of people talking about chat GBT getting so many people searching and so many people using it, it is a small small small tiny fraction of the amount of searches Google gets. It's not even close. It's not even in
+
+---
+
+[5:06](https://youtube.com/watch?v=cAqEhy49ORg&t=306s)
+
+the same galaxy. And that's what the play is here. If they can capture search, they could get people to use chat GBT, they could get the advertising money and finally become a profitable company. Now, this is what it's going to look like here. So far, it is just on Mac. It is going to be rolled out to other stuff as well. Now, it looks like it might be on the Safari platform. I'm not sure what they used or if they have their own proprietary one. Now, going through, they said there's lots of features. We'll go through these, talk about what they are and if they're good. The first feature they mentioned is it can help you write emails. Big deal. Gmail does that. All of the emails do that. Even Outlook has that. It's nothing new. It's not that big of a deal. And when you look at this stuff, you have to weigh, is this actually worth the privacy concerns and the issues with a browser? Do I want an AI to know everything about me, including my passwords, my finance info, what I search, questions I
+
+---
+
+[6:06](https://youtube.com/watch?v=cAqEhy49ORg&t=366s)
+
+ask Google. Do we want all that in AI? Because if you give the browser access to one thing, it's going to have all of them because the browser is everything. That's what we need to pay attention to. Google Chrome is an extremely powerful browser. And I don't mean powerful like, oh wow, it can do a lot. I mean powerful in the amount of trust that we give it. It's an insane amount of trust. And just a couple months ago, let's not forget that Sam Alman's chat GPT leaked out all of the private chats from people on chat GPT, which was like, okay, any person who's been on the internet more than 5 minutes knows how that works and knows how Google does that stuff. So, if that level of oversight is there, do we want to trust this company with our personal data? More about that in just a minute. And for what? so we can have help with grammar in our email. Yeah, I'm not buying it yet. Next up, we have here they did an example where they went to all recipes and they said, "Hey, tell me
+
+---
+
+[7:07](https://youtube.com/watch?v=cAqEhy49ORg&t=427s)
+
+all the stuff that is in this recipe so that I can go buy it." This is the same thing that that Copilot has been doing for years. I did a video in 2023. Copilot's been doing this forever. We can go here and do the same thing where we can get a list of ingredients and it'll find them at public so that I can go buy them or whatever grocery store you like. And this is something that works alongside our browser. We don't have to give up a lot of privacy stuff. Now, if you do want to use this browser, which I think there is a time and a place for this. I think at some point I will use this. I'm not going to use it on my main computer. I'll probably use it on one that I just run Linux on or something like that. something just basic. So, it doesn't have all my pertinent info, but this is something where we need to really look at what the benefits are. Now, one of the big benefits was it'll actually go to the grocery store and order you the stuff up here. Again, I don't really think I need an AI to order me onions. I I think I'm
+
+---
+
+[8:07](https://youtube.com/watch?v=cAqEhy49ORg&t=487s)
+
+perfectly capable of doing that myself. Um, and then of course, you know, someone's got to go get the onions and everything like that. That wasn't a big selling point. Let me know what you think below. Was that is that something that you know you're willing to to get this tool for? You just got to have AI buy your groceries. For me, not so much. Another thing they had was the ability to edit documents, which I found funny. I think they were actually using Google Docs to show this, which like Google Docs does this on its own. It has its own Gemini AI. It'll do it without a browser. So, it's almost like they were showcasing things that weren't even theirs to begin with in a browser that doesn't even need to be installed to get the results they want. Interesting here. But again, this is a money play. It's about the search. It's not so much about the tool. Next up, we see they had the ability to have some aenic results. This is where we're seeing the pivot of the value proposition where yeah, an aenic
+
+---
+
+[9:08](https://youtube.com/watch?v=cAqEhy49ORg&t=548s)
+
+browser installed on a computer that I have nothing else on. That could be useful. However, Manis does that right now. I don't really need the Aenic browser on my actual browser. Manis can do that for me. However, in the long run, it would be nice to be able to have this run in the background. Maybe more about that in just a minute. Now, going through there, we can do that. Now, some of the things that they mentioned that I think we need to watch out for is one, tab memory. What is a tab? A tab is like these things here where we're going through and we can click from the different tabs. All right. Search atlas or chat GPD atlas has tab memory where it's going to remember what you're what you have open at the time. Also, chat GPT memory. This is where it gets into the creepiness. And I have this little image here because this is pretty reminiscent of what is going on if you were to look at this. It's basically like someone spying on your stuff because if we have chat
+
+---
+
+[10:10](https://youtube.com/watch?v=cAqEhy49ORg&t=610s)
+
+GPD memory where it's remembering what you say with chat GPT because let's face it, in order to use this browser to the full capacity, you're probably going to be needing to log into your chat GPT. Much like to get all the features of of Google Chrome, we need to log into our Gmail or our Google Same kind of thing here. Only the difference is chat GBT's memory is way more robust and AI enabled where Google's like, "Okay, yeah, based on the fact that you live over here, we're going to show you restaurants in your area versus something else." Or maybe because you like these websites, we'll show you more of this or something like that. Kind of like a feed where, you know, Facebook and Instagram and everything's going to have a feed and they're going to watch and say, "Okay, this is the content they like. let's feed this to them. Same kind of thing with chatgpt memory only with chat GPD memory oftent times people are a lot more personal with Google and chat GPT than they would be like with Facebook
+
+---
+
+[11:10](https://youtube.com/watch?v=cAqEhy49ORg&t=670s)
+
+right Google you go and you're like hey you know what's going on here I don't feel so hot or whatever right it'll tell you something and it'll remember that with chat GBT same kind of thing it's going to remember this and I've noticed with chat GBT we just did a video on it last week where we talked about chat GBT's memory getting stronger and stronger where it's starting to ask, "Hey, do you want me to make this recipe for those new pots you bought last week?" Oh, okay. Well, I didn't mention the pots, but thanks. This is something we're seeing that's big. And what I'm seeing here is there is a trend going on with Gemini, with ChatGBT Atlas, with the new agreement with ChatGBT and Walmart where it's consolidating. Like if ChatGBT controls this amount of the internet and Walmart is basically in their back pocket for financing, that's a little scary. That that's a lot scary because now you have something that is an open web completely controlled by billionaire
+
+---
+
+[12:11](https://youtube.com/watch?v=cAqEhy49ORg&t=731s)
+
+and trillionaire corporations with no oversight. Yeah, not sure I'm ready to sign on to that yet. And guys, I do this for a living. So, let's go through and take a look at some of the things that they say. First of all, the evolution from chatbot to integrated productivity engine. They are pitching this as a productivity engine that's going to help you. If you're going to use it, use it on a different computer or at best a different segment of your computer and don't save things you don't want it to know on there. Kind of toggle back and forth. Like I use Firefox when I don't want to use all of my stuff or I'll use Internet Explorer for a certain thing or I think it's called Edge now where Chrome is my main one. I'll use others for different situations. Okay. But yes, it is a productivity engine. However, I think we can get the same result with Bing. I think it's same thing with the Edge browser. Same kind of deal. Broadening the funnel, the strategic value of chat GPT's memory update. Now, pairing the memory update with the
+
+---
+
+[13:11](https://youtube.com/watch?v=cAqEhy49ORg&t=791s)
+
+browser is where we're getting into that creepy territory where it's like, okay, is this going to be an engine that literally just knows what we want before we want it? That is the dream of every corporation. That's kind of where they're heading. Next up, deep dive into Atlas, an AI native web browser. What does that mean? Well, when you have an AI native web browser, that's a web browser that is defaulting to AI rather than a static type thing like Chrome or something like that. Although, even Chrome does have the AI button here. Again, this is something where I'm not yet ready to turn it on in my main Chrome. I'll use it on a laptop I don't use for anything else without logging in. But you know looking at this it's very important to understand and the question they asked I I watched the live stream they said what if you could chat with your web browser okay well you can you could literally go to Google and chat with it but what if you could actually have chat GPT be your browser your window to the world and I think
+
+---
+
+[14:11](https://youtube.com/watch?v=cAqEhy49ORg&t=851s)
+
+this is important because if if someone controls your window like Facebook giving away the phones okay they're controlling your view of the internet your view of the world it's like Okay. Well, what if one political party controlled all the news and that's all you could watch? Well, that's not really fair democracy. That's control. And that's something where I think we're going to see a lot of things come up and a lot of regulations hopefully pop up around this. Next up, they're saying standard browser components. You have tabs, bookmarks, history, extensions, business value, low friction for adoption, minimal retraining cost. So, very easy to use. Conversational search. So that's where you would go up here, type something, it'll go to Google. You say, "Hey, you know, what are the best restaurants in my area or something like that?" Also, they have an ask chat GPT sidebar. Nothing new. Edge has been doing this for years. You just click here, you can ask it what you want. You can even go here and have programming help. Like I I go here and I asked it about programming. It made codes to fix
+
+---
+
+[15:13](https://youtube.com/watch?v=cAqEhy49ORg&t=913s)
+
+my page. So, it's pretty powerful as it is. I think that's important to look at. cursor chat, inline writing in browser editing. That's kind of cool. The ability to actually type on a web page and have AI be like, "Oh, hey, I want to get info on this." We see Google doing this with the circle and being able to rightclick and say, "What's this about? Learn more. Search this." Things like that where it's becoming more of a experience rather than a static, "Let me just browse the web." browser memories, remembers topics, pages, and user preferences, automates recurring tasks, compounds time savings. The pitch for this is kind of cool. I like the fact that it can remember certain things much like chat GBT does. But again, the vast majority of people using this a lot are talking to these AI bots in a personal way. That's kind of getting into a privacy area that I think can have some problems. Also, agent
+
+---
+
+[16:14](https://youtube.com/watch?v=cAqEhy49ORg&t=974s)
+
+mode. I think this is going to be the big cell. Having an agent in your browser that can do multi-step task execution. Go renew these domains. Go buy this stuff. Post these things on this website. Respond to my Facebook messages or whatever it is. That's something that could be very, very helpful. and then going through and having it do parallel processing, website interaction where it can fill out forms much like we see chat GBT agent and manis AI doing as well. So the combination of Atlas and agent mode delivers a complete AI productivity stack for organizations framework for value creation. Looking at this again it's all big on efficiency. Now where can you use this? If you have a free chat GBT account you can use Atlas but not agent. Everything else you get agent and the whole deal and then some kind of beta test if you're an enterprise user. All right. Now the initial one is MacOSS, Windows and all those are coming soon. Now looking at this we have to
+
+---
+
+[17:16](https://youtube.com/watch?v=cAqEhy49ORg&t=1036s)
+
+understand what's going on where they're pitching this as efficiency accelerated intelligence and strategy. We need to look at what's actually going on. What's really going on is they are looking for a way to monetize chat GBT in my opinion. Right? Looking at that obviously they want to make money with this and this is leading to the browser wars. I mean, let's face it. Chrome has made Google what Google is today. Without Chrome, it wouldn't be there. The court documents prove it because that is what made them the monopoly in the big way that they are. There's other things along the way as well. And we see chat GPT, OpenAI following along with these and the fact that like even Elon Musk is like, "Bro, I don't know if I trust them over there at the Open AI." kind of scary because it's like, okay, that's kind of a an interesting thing. At any rate, could be just, you know, a bunch of crazy talk, but we don't know. The bigger play here is monetization through productivity. Core income
+
+---
+
+[18:17](https://youtube.com/watch?v=cAqEhy49ORg&t=1097s)
+
+drivers in chat GPT. So, what we're seeing here with Atlas is first, it's a search play. Instead of having to go to Chat GPT and type something in, boom, it's there. When you open your browser, hi Marcus, welcome to Chat GPT. what's on your mind today or what do you want to search for instead of a search? It's kind of like having a buddy there. Now, looking at the income drivers, if you want to make money with this type of stuff, we talked about Perplexity, how they're paying a bounty for people to to get new users. Okay? Talked about that in yesterday's video. Also, going through if you want to make money with this type of stuff, again, I would highly urge don't use it as your main browser with all your data. like I'm not going to have it have all my financials so that I can order eggs. I'm going to have it do stuff that I actually want it to do. Going through and looking at this where we can use agent mode, which I think is the most powerful thing here, is being able to delegate repetitive tasks. Can I have it go and post things on Pinterest? Can I have it go do this? Can I have it do that? Can I have it do
+
+---
+
+[19:18](https://youtube.com/watch?v=cAqEhy49ORg&t=1158s)
+
+automated research and data gathering? This is something I use Manis for all the time and it is super super powerful. Chat GBT does not have the capabilities that Manis AI has just yet. I mean, it's not even on the same wavelength. So, if I'm looking for this, I'm going to use Manis AI, and I'll just, you know, maybe get the the 50th version of the of the Atlas browser. Streamlining ecom and supply chain workflow. It can complete purchasing logistics. Again, I don't think this is like a deal breakaker. How long does it take to do a supply chain workflow? probably not that long. And you want to make sure it's right. AI does make mistakes. And if my credit card's on the line, I mean, I don't want to order, you know, 500 grand worth of toilet paper when I just need a roll or two. Kind of important stuff to look at. Form filling, tax, task execution. This could be helpful. What I'm seeing is like a tool that would help me with my websites right there in the browser would be amazing where it could go
+
+---
+
+[20:20](https://youtube.com/watch?v=cAqEhy49ORg&t=1220s)
+
+through and fix code and stuff page by page, not as a whole yet. Um, I think that would be very important. Enhanced content creation. So, inline writing and editing, you can have it edit things. You can have it take pieces. You can have a sidebar. You can summarize a bunch of different pages much like you do in notebook LM but in real time where you're actually browsing it rather than notebook LM finding it or you having to find it and then put it in notebook LM. Technical coding support. This I really like but again I'm not going to download it. I'm just going to use um Microsoft Edge. It does that for us. It'll go through and say, "Hey, fix the code for this sidebar or whatever it is." It'll do that for you. I don't think we need the browser yet. personalization and contextual efficiency via memory. Where I see this going, which would be very effective for me, would be if I have a bunch of outsourcers, which I do. I have a bunch of writers that outsource. I have a bunch of Pinterest creators. I have a coder. They all outsource or I outsource to them, right? And they
+
+---
+
+[21:21](https://youtube.com/watch?v=cAqEhy49ORg&t=1281s)
+
+they're on staff here. I could see me sharing a browser with them where it's their chat GBT much like I share a chat GBT account with them. and and they are able to do things and see what I do. It's a team account. That would be something I would be interested in where it would give us personalized response based on the website. So like here's this one outsourcer that's working on this website about wedding invitations. It'll remember everything about that. That's helpful. Now remembering everything about me, not so helpful. But the task, yes, that's helpful. So, I think it comes down to like where is AI going to be helpful, useful, and actually needed. Where do we need this? Do we need a robot to, you know, close the drapes? I mean, I could go over there and close the drapes myself. That's not really a big thing. Do I need an AI to remember everything I search and everything I ask it? Not so much. But I can go through and maintain work context with a browser where it'll remember previously viewed pages and things like that. proactive assistance
+
+---
+
+[22:24](https://youtube.com/watch?v=cAqEhy49ORg&t=1344s)
+
+where it would understand my overall goal. That's like if I had a browser for an employee and it understood my goal and it kept them on task. Yes, that's good. So, what I would see is in the future there's probably going to be a big need for personalized browsers where this is generic. This is a generic browser. But would it be good to have a browser for people here at AI Profit Scoop to log in and it's AI enabled and it knows what they're supposed to do every day and it can help them and it could be like, "Oh, Marcus threw this idea in here. Here's where it would fit and here's what you should do with it." That's something that could be helpful. As for a generic browser, I think Atlas, I'm not ready to use it yet. There are some things that are kind of cool, but I think it's a big nothing burger in terms of the way that they promoted it, the way that they said it was going to be this great thing. And to me, I'm not convinced. Let me know your thoughts as a comment below. Smash the like button. Check out the videos in the description
+
+---
+
+[23:25](https://youtube.com/watch?v=cAqEhy49ORg&t=1405s)
+
+and over at apiprofitscoop.com if you want to follow how I use AI to make money here in my business every single day. That's what we do over there. We got a call here in just a couple of minutes where we're going to go through and help our students out with what they're struggling with with AI, different tools to use, and basically how to make money online with AI. So, if you're interested in that, smash a like button, head over to a profitscoop.com, check out the videos in the description. Thanks for watching and I'll see you in the next

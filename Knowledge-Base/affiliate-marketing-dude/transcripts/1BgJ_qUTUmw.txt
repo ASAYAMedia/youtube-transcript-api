@@ -1,0 +1,179 @@
+# Make Money Vlogging Pt. 1 - Setting Up Your Wordpress List Building Machine
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1BgJ_qUTUmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=1BgJ_qUTUmw&t=0s)
+
+hey guys it's Marcus here and today what I'm going to do is show you how to set up a simple lead page with WordPress this is super simple and I've used it to make lots of money the plug-in that we're going to show you is going to help you monetize your blog and put different sidebar elements where you want them because a lot of times people try to just put stuff in the sidebar widgets and you know AdSense on every page mailing list on every page not only is that against adset ads sense's to but it also is like totally making your blog not profitable and not convert and not get leads and everything like that so I'm going to show you a very simple way to get started building a list with your WordPress site so what I have here is I have the vide hacks.com website and I have a fresh install of Wordpress so what we're going to do is we're going to navigate to wp-admin so.com wp-admin this will be uh whatever your site is will be the same thing as well we're going to shrink this up so you guys can see it all uh so whatever your
+
+---
+
+[1:00](https://youtube.com/watch?v=1BgJ_qUTUmw&t=60s)
+
+site.com wp-admin we're going to go ahead and put our admin stuff here all right like this okay we're going to go ahead and log in I'm going to save the password because I have a habit of forgetting all my passwords all right now welcome to the regular WordPress admin panel now you're going to notice here uh you have your dashboard you have your customize your site everything like that what we're most interested in is this stuff here right there okay this is like our main settings column all right so what we're going to do first and foremost this is the first thing I do whenever I have a brand new blog first off what I want to do is I want to go to settings okay we're going to go to settings it's going to drop down the little tab here okay we have General we want to make sure that our keyword is our site title and our secondary keywords are our tagline now I set this up when I actually installed WordPress um if you have a different install or maybe you're using this uh tutorial on an old blog you can you know
+
+---
+
+[2:01](https://youtube.com/watch?v=1BgJ_qUTUmw&t=121s)
+
+tweak it as you find keywords and everything okay WordPress address vide hacks.com video hacks.com excellent email address okay membership yeah anyone can register that's fine default role is subscriber now we're going to go through excuse me we have the date and everything like that okay everything looks good here we're going to go ahead and save it next we're going to go to writing okay uncategorized standard okay excuse me I need some coffee right like this okay everything looks good if you want to post via email you can do that I never do that though go ahead and save that next we're going to go down to reading okay now this is the important one what I want to do is I want to take a look at my latest posts here okay and I want french page to display a static page now if you're doing this on a new blog you can just go ahead and click um right here and you can choose the sample p page okay if you're doing this on an old blog choose whatever you want your
+
+---
+
+[3:03](https://youtube.com/watch?v=1BgJ_qUTUmw&t=183s)
+
+welcome page to be when people come to your main site otherwise what it's going to do is just show all the posts which is kind of redundant I mean sometimes people use that if people are just visiting the blog all the time but for us marketers and people who want to build a list we're going to do it a little different so we're going to do sample page okay next we're going to go ahead and we always want to make sure search engine visibility uh make sure this is not checked okay we want the search engines to find us so don't check that all right right so we're going to hit save changes there next we have discussion that's all about your comments media okay good permal links um okay we're going to do custom structure I'm just going to do Post name here okay that way it's a shorter URL and it has the keywords in the title when I structure my blog posts and pages and we're going to hit save now what that did is it should have brought the homepage to be the sample page okay so see how this is sample page right when they go to video hacks.com very important that we do that okay so now what we want to do now that we have all
+
+---
+
+[4:04](https://youtube.com/watch?v=1BgJ_qUTUmw&t=244s)
+
+this stuff in the settings set is we're going to go up to pages right like this okay and I'm going to go all pages now again if you're doing this on an older blog um you can just choose whatever you want your homepage to be or leave it the same if you already have it so what I'm going to do is I'm going to click edit and I'm going to put welcome to video hacks or whatever okay um if you're going after search engine traffic which this one's not because the domain video hacks I don't think I'm going to rank for video hacks I might but I don't think that many people search for it just yet so I'm just going to put welcome to video hacks which also has the keyword so you can do like welcome to you know diabetes Solutions or something whatever your site is okay so we have welcome to video hacks I'm going to go ahead and delete all this stuff here okay the reason I'm going to delete it is because I am going to put a um if I can actually delete it let's see there we go I don't know why it's not letting me
+
+---
+
+[5:04](https://youtube.com/watch?v=1BgJ_qUTUmw&t=304s)
+
+delete being funny okay we're going to have to do it the old fashion way which is just hit the backspace all the way um and while we do this what I'm going to be doing is I'm putting a video here because the way that I want my blog to look is I want it to be a video and an opt-in box and that's it right that way the video is like hey welcome here's what you're going to get for signing up for my newsletter or putting your name and email in the Box you're going to get X Y and Z and you know then they'll opt in and I can take them to a thank you page now it's very important that you do it this way and I'm going to show you why because when we use the plugin it's actually going to let you create a thank you page in your blog which is cool so uh we want to we want to remember one thing pages are to put our opt-ins on good got it okay you can also sell stuff on them too all right posts are where we put our thank you page and our comments I know it's a little confusing because why would you call a page a post and everything just remember pages are static they are for visitors that we want to come into our site so we want them to opt in or buy something or whatever okay so static stuff posts are
+
+---
+
+[6:06](https://youtube.com/watch?v=1BgJ_qUTUmw&t=366s)
+
+like all your content and everything like that okay we're going to show you how this works because what you want to do is get in the habit of sending all your traffic to your posts after they've opted in through your pages and we're going to show you how that Loop works it's really cool um if you're generating YouTube traffic and everything it's a really cool way to boost your subscribers get a lot more traffic make your site really popular and get a lot of people back to it so they see your sales message and buy your stuffff okay so now we have deleted this here now what I what I'm going to do is I'm going to put a video so I'll show you how that works I'm just going to go to YouTube um let's see we'll just go to YouTube here and I'm going to find one of my videos um later I'll replace it with the actual video that I record for this so I'm going to go ahead and go to affiliate marketing and dude right like this okay um and I'm going to grab some kind of video from my channel just to show you how it works so we'll do uh this one here okay so we're going to take this video now what I'm going to do is I'm going to size it what I usually do for
+
+---
+
+[7:08](https://youtube.com/watch?v=1BgJ_qUTUmw&t=428s)
+
+my blogs is I size them 675 and I'll show you why in just a minute so we're going to go Ed and we're going to go like this we're going to tick no suggested no player controls no video title okay and we're going to go here and I'm going to do custom size 675 okay it'll automatically populate the other I'm going to copy this stuff up here okay right there I'm going to copy this and for those that didn't see uh that there there we go right you have um all that stuff here which is what I ticked off so make sure there's no check boxes checked there okay didn't know I was in your way okay so we're going to copy this here now another trick you can do if you want this video to autoplay when they come to your site is I can actually go here now when you're posting a video go to text okay so what I'm going to do is I'm going to post this here and I'll try to lean down so you can see it okay I'm going to post this here we got everything in text make sure it's text I can go in and I can do and
+
+---
+
+[8:10](https://youtube.com/watch?v=1BgJ_qUTUmw&t=490s)
+
+right after re equals I can do and autoplay equals 1 okay and I think that's it actually I'm just going to do question mark autoplay equals 1 and I'm going to put the and after it okay so right like that and I'll put some stuff uh below to show you how to do this as well but it's basically after the question mark and autoplay or I'm sorry after the question mark autoplay equals one and reel okay that should make it play automatically so we'll go like this and we'll see how it looks we should be able to reload and below our stupid Cactus we have welcome to video hacks and the video plays automatically cool looking pretty good all right now we can touch up the sizing of the video a little bit later cuz it looks kind of funny but we want to make sure it works with our theme okay so that's our next thing first of all we want to do this video blah blah blah second now that we have that first the second thing I'm going to do is I'm going to make a post go to all posts I'm going to go to Hello World if you're on a new blog if you're on an old one you can make a new one or you know
+
+---
+
+[9:11](https://youtube.com/watch?v=1BgJ_qUTUmw&t=551s)
+
+make a different post or something like that so we're going to go edit and I'm just going to call this thank you post okay I'm going to change it later that's just the title for now um we can change it to thank you right like this okay that way it's video hacks.com than you okay just going to save it as is we're going to edit this baby later uh so don't worry about it we'll get that fixed up in just a little bit okay so we're going to go right like that and let me see if I could see here unfortunately the camera has to be like right in my way um so there we go now we have that okay now we can go view the the post here and we could see see how it looks different there's a different header and stuff this is the difference between pages and post now normally your thank you post and all your posts are going to have all this sidebar junk here we don't want to do that okay so we're going to show you how to get rid of that as well okay page post very simple next what I want to do is I want to go to plugins add new okay we're going to add
+
+---
+
+[10:12](https://youtube.com/watch?v=1BgJ_qUTUmw&t=612s)
+
+a new plugin and the new plugin we are going to add we're going to hit upload okay this is a custom plugin that I actually developed I spent thousands of dollars developing this over the years to make it do what I want which is going to make these work it works for launches it works for optins building your list videos everything okay so we're going to go browse and we're going to go to the desktop and I think I called it live plug and we're going to use what's called Squeeze blogs Pro okay squeeze blogs Pro is a plugin it comes with uh most of my products uh including Simple Sites Big profits so you know if you get that at Simple Sites bonus.com you'll get all my plugins and everything as well okay activate plug-in after we've installed it okay and then once we activate it you're going to notice it here okay and then you're also going to notice it over here okay it shows up right there there we go right there right okay cool so there we have that and you'll notice when you click on it it actually has like a little uh drop
+
+---
+
+[11:14](https://youtube.com/watch?v=1BgJ_qUTUmw&t=674s)
+
+down and everything like that so here it is I need to update the ads because this is a brand new version but you'll notice you have squeeze blogs Pro custom search drop down Etc so what I'm going to do first and foremost is go to squeeze blogs Pro okay so what we want to do is we want to make an opt-in box on this page but not on the post okay very important so what I'm going to do is I'm going to go ahead and go here we have title if you want to have a title I'm going to have homepage right like this so I'm going to check that on okay I'm going to put just for a teaser copy get uh let's see enter your name and email to get Marcus's killer killer video hacks okay now I can fancy this up a bit um I can go in here I can do visual okay fancy it up Center it I could make it bold I can make it uh red if I want to make it red that usually attracts the attention Okay next what I want to do after I get my title or my
+
+---
+
+[12:15](https://youtube.com/watch?v=1BgJ_qUTUmw&t=735s)
+
+little uh content thing here I want to enter in my aweber list name now if you don't have aweber I would recommend getting aweber and using it with this if you don't have it just use one of these other tabs and use the HTML code okay very simple so we'll show you how that works when we get to the thank you page okay so homepage content got that aweber list name let's say it's called Uh simple larcus okay I'll probably make a video one but I know this one's active now thank you URL right here video hacks.com than you or whatever you created for yours okay and there we go bullet 123 these are like what you're giving them free video ranking PDF Killer Free plugins and video hacking tips or whatever video profit tips okay okay and uh we could go
+
+---
+
+[13:16](https://youtube.com/watch?v=1BgJ_qUTUmw&t=796s)
+
+through and finalize these later privacy policy is automatic um so I'm not going to enter anything in here I'm just going to use the automatic one okay then I'm going to choose my theme which is going to make the color different right so if I choose white like this I can edit it um and then I hit update okay so now once we update it should show up uh we have to do one more thing to make it show up and that is we're going to go to appearance widgets okay under widgets I'm going to take all these sidebar things okay we don't want these in our sidebar anymore because squeeze blogs Pro is going to handle that okay so we're going to take them all out then I'm going to find squeeze blogs Pro right here right there beep all right and we're going to drag this up here okay so we put it right over there got it save now assuming the default theme works with it we should be able to reload and see some kind of optin it might be weird looking but it
+
+---
+
+[14:16](https://youtube.com/watch?v=1BgJ_qUTUmw&t=856s)
+
+should be on there let's see if it's going here okay I know sometimes it's a little odd with the way that the themes work let's see if it does it this way okay might be a theme issue let's see okay might be a theme issue so let's try a different theme and see what happens here okay activate and see if that does the track there we go okay so notice how here with this theme we actually have the opin box let's get out of your way here the optin box right there okay so it's there um what we're going to do is we're going to edit our theme and make it better so if you don't get it working it's usually a theme issue okay so what we're going to
+
+---
+
+[15:18](https://youtube.com/watch?v=1BgJ_qUTUmw&t=918s)
+
+do is we're going to change that up now you'll notice there's two here that's because I have this checked twice okay so what I'm going to do is I'm just going to check off homepage okay so that'll just put it on all the pages now if I create a new page it'll also show on the new pages but it will not show anywhere but pages okay which is really cool and I'll show you why all right so there's how we have that next what I want to do is show you how I create a simple theme okay now when I create my WordPress themes obviously I don't want WordPress to look like this because this people aren't going to opt in that great so what I'm going to do is I'm going to use this program called artister artist Ste is a wonderful program if you go to my site uh Simple Sites bprs docomo docomo has detailed tutorials about how to use it as well so what we're going to do is it's basically like a what you see is what you get theme editor okay so we're going to go ahead and do file new and let's see let's see
+
+---
+
+[16:20](https://youtube.com/watch?v=1BgJ_qUTUmw&t=980s)
+
+about I'm just going to use this WP leads now again in Simple Sites bonus.com once you get my software uh we actually have these templat out for you so you get this so like you don't have to go through all the stuff and learn this whole program you could just go boom delete the image insert a new image right like this I'm going to put my video hacks logo uh let's see image and we'll do from file okay now I get to remember where I put this I think it's in 27 I hope right I have a habit of making everything everywhere which is a pain and then we're going to go video ha there it is there okay put our video hacks logo we can Center it we can put it off to the side okay I liked it centered better so let's let's insert it again so it centers it okay I like that okay good now what we want to do is we want to edit our colors we got red here for the title of
+
+---
+
+[17:21](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1041s)
+
+our page I like that this looks pretty good okay we can edit the links later all right let's see about our menu cuz I do want to have a menu okay which is where like all the pages are okay so we're going to do that below this I think should look good uh yeah do we below below should be good okay so we're going to do that I'm also going to take my menu okay and I'm going to try to center it if I remember how to do it align Center okay that's going to put them in the center now what I also want to do is I want to change up the font okay so active I'm going to do all these the same so I'm going to do Active blue okay I'm going to do um passive blue okay that way they always look like links cuz we want people to click on our stuff right and blue underline still gets like the best click through rate possible okay so cool that's how it works if you have sub Pages it'll do
+
+---
+
+[18:22](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1102s)
+
+that as well all right so those are blue they're small I like that because I want all my pages on one line I don't want them to be like stacked up so we don't want more than like three or four pages um sometimes five depending on what you have um but that's usually about it okay next we're going to go to sheet okay under sheet we're going to edit the width now I'm going to go see what the width is here looks like I have 1,000 now remember how I said like I like my videos um to be 675 that's because this part here okay where the content is is about 675 and then where the uh um where the sidebar is this V menu thing over here um the sidebar over there that way right is um usually about 375 okay so we're going to do this 1,000 okay then I'm going to do um what's it called sheet margin padding okay I think
+
+---
+
+[19:22](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1162s)
+
+it's under slider menu vertical menu layout there it is it's under layout okay so we're going to go sheet width we have that at 1,000 columns we're going to go like this and then I'm going to do column WID and I'm going to do custom and we're going to do 350 okay that way there's a little buffer between the two okay so 350 there and now once we have it the way we like which I'm kind of liking this right it's pretty cool that I made it in like 2 seconds uh a little bit longer than that we're going to export this as a WordPress theme now now this is how you create a WordPress theme it's really cool like a lot of people spend their whole life looking for a WordPress theme when you can create them in seconds with this program or you could uh download the ones in Simple Sites bonus.com if you are a Simple Sites member okay so we're going to go file name I'm just going to call this video hacks right like this and Export make sure you have zip archive okay now if you want to be able
+
+---
+
+[20:22](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1222s)
+
+to edit it later you can also include the artx file which is an option as well okay so there's our export done right that's it that's all we do in artist de now we're going to go back to our blog we are going to go to the dashboard here okay I'm going to go to appearance themes and let's see where that exported export okay it's exporting to documents okay that's fine documents artist de templates okay so we're going to go here we're going to go add new upload theme browse document ments artist to your templates and video hacks Super Simple install activate NOW Watch What Happens instead of having that Cactus looking thing now we are going to have our really cool video hacks thing right welcome to video hacks welcome there um now I'm noticing that this video is a little skewed so we might want to either
+
+---
+
+[21:23](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1283s)
+
+make our theme bigger or we might want to make the video smaller so in this case I'm just going to make the video a little bit smaller okay and I'm going to do that yeah today was kind of a weird day by had all kinds of customer problem click here kinds of employee okay there we go we should be able to pause it okay so we're going to go there and we're going to do 675 kind weird 650 customer problems ofer problems yeah got to be fun when you hear yourself over and over okay so we'll try 650 by um by 350 see how that looks cool looks good to me now remember when you're doing this now I'm also going to I'm going to make the 350 a little bit more because I'm getting those black things on the sidebar but remember when your viewer sees this they're not going to see the edit so it's going to be all nice and tight against the uh welcome to video hack so we're going to edit like this and I'm going to do let's try
+
+---
+
+[22:25](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1345s)
+
+370 okay this getting better right we could probably tighten it up a little and go like three 75 or something like that see how that looks and you can just kind of play with it until um until it's done okay so there we have that and good enough okay we'll we'll tighten it up a little but that's fine right we got our logo we got everything and then they'll opt in and of course the edit's going to be gone once we log out so it'll be all nice and tight up against the thing now you have a basic squeeze page right congratulations really easy um badass squeeze page done deal now when they opt in of course since you have your theme it's going to change on your posts and everything right everything WordPress is going to change uh now we have this now notice that we don't have any sidebar widgets yet on the thank you uh post okay again that's going to be controlled by your squeeze blogs Pro here okay so when you go in here you're going to notice that this
+
+---
+
+[23:25](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1405s)
+
+allows you to put everything everywhere Okay so like if I want to put thank you post stuff like let's say I have um a banner ad or something like that right I would go get the banner ad I would put the code here okay right like that code would be there and then I'd hit update and then it would show up on hopefully it'll show up let me see if I update it y not Pages posts there we go okay so when I have it on the posts uh we're going to upate up dat it and now we have see how that dsdf so if you had banners or AdSense or whatever now don't put AdSense on your thank you post ever um or your thank you Pages or anything like that because they don't like that so what you want to do is you want to just put it for banners and maybe other videos um I like to use other videos and stuff like that as well like you'll notice um on my blogs if I was to go to Simple Sites Big profit bprs dcom this is
+
+---
+
+[24:26](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1466s)
+
+exactly how I line up my blog right so I have a simple theme Here video opt-in box okay not a whole lot to do here except check out a couple pages and opt in right then once they opt in they're going to go to my other posts okay and I'll go to Google so you can see these now the cool thing about this too is they can't find your posts unless they opt in so if someone comes here from a video or from something right they can't find all my glorious wonderful content unless they opt in okay or or like a Super Genius at doing this stuff which most people aren't okay so we're going to go site colon just to find my other stuff uh so I could show you what it looks like uh let's see so like this right on this one you'll see I have um let's pause this I have my video I have comments I have recent posts I have other optins and I have my live chat right so different stuff um based on whether they're on a page or a post or
+
+---
+
+[25:26](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1526s)
+
+whatever it is so it's really easy easy to do it makes absolutely killer squeeze Pages um which will help you in any Niche right you can use this in any Niche uh to make your stuff really really work then when you're doing your thank you post you just do something like thank you welcome my name's Bob uh watch for my email bobbob whatever.com um by the way while you wait check out these things so that I can make some money obviously put your affiliate links and your sales stuff um on that and links to other things as well but once they're in your mailing list now I can send them to all my other stuff right like I can send people um from my mailing list to any of the posts like if I want to send them to how to generate leads online with YouTube I could just go copy link boom send them here they're back to my stuff it's like a big cycle it works wonderful this is a great way to start from Ground Zero build up your uh reputation in a market start to interact start to put content Out start to get search engine rankings boost your
+
+---
+
+[26:26](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1586s)
+
+videos and everything like that you always want to even if you're just doing YouTube or just doing Facebook or whatever you always want to create your own mailing list because you want the power to be able to send people where you want okay very important now you'll also notice we allow you to have four different optins so like if I find out that this how to generate leads with online video gets a ton of traffic right I could go copy the post number here okay or whatever the post number is here you'll see it um if you're using permal links or whatever right you're going to use that and then you can actually go and say well you know I want this optin to only show on page 122 or whatever okay or post 341 or whatnot okay and you could switch it up now you can also do comma another one comma another one comma whatever and you can have it wherever you want which is really cool the same thing works for the thank you the Affiliates the sales right like widgets for sales Pages uh recent posts very important I always put this
+
+---
+
+[27:28](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1648s)
+
+only on posts okay just like I did here where they show here so the search engine see them but when people are on my homepage they don't see them right that's the beauty of this it works for everything that's why I was so specific of not using uh one of those free plugins I actually wanted to pay money to get this thing built for me uh so I could use it with paperclick with video ads with everything like that so very simple um ad sense if you want to do AdSense you can post your code right in here in text and then you could show where you want it to very very simple to do okay awesome stuff um very easy right that's how you make a simple little video squeeze page with a custom WordPress theme and you're Off to the Races so now instead of people just going to a site or subscribing to my YouTube or whatever I can say subscribe to my YouTube and check out our site for more stuff or whatever right they go here they watch the video it says welcome you're going to get this this and this put your name and email in the box boom they join my list I send them back to my post I make lots of money the rest is history thanks again for watching watching I hope you enjoyed
+
+---
+
+[28:29](https://youtube.com/watch?v=1BgJ_qUTUmw&t=1709s)
+
+this video uh I hope you're enjoying the Simple Sites course at Simple Sites bonus.com it teaches all this stuff gives you all the tutorials gives you all the tools and everything like that and um yeah so awesome stuff thanks again for watching subscribe if you're watching this uh on YouTube and uh I'll see you in the next video thanks again Marcus from vide hacks.com over and out go to video haacks and put your name and email in so you can get my cool stuff thanks again for watching and I'll see you in the next video

@@ -1,0 +1,154 @@
+
+[0:00](https://youtube.com/watch?v=2sa687k_x70&t=0s)
+
+Chat GPT 5.2 just came out last night and at first glance it looks like not much has changed, but there's actually something more sinister going on here that I think leads to ChatGpt OpenAI future plans. This is huge in the world of making money online because it's going to change the way that we build, create content, create websites, and the whole nine yards. It's even going to impact coding. But a lot of people are missing the big picture. So today, we're going to dive in and show you everything that's new and the bigger level thinking that Sam Alman has that a lot of people aren't even paying attention to. So if you're excited, smash that like button. Let's fire up ChatGpt 5.2 and go to work. [music] All right, so let's go ahead and dive in. We can see here that there is definitely something bigger at play. Earlier this year, they hinted at these $20,000 a month specialized AI agents
+
+---
+
+[1:02](https://youtube.com/watch?v=2sa687k_x70&t=62s)
+
+for business. I think this has something to do with the updates that we're seeing with 5.2. Only a lot of people aren't putting this together. So, we're going to do that right here, right now. If we were to fire up 5.2 chat GPT, we could see that there's not a whole lot different. I did see that it does have deep thinking capability where it's going through and thinking a little bit differently than it did before. However, the output hasn't changed all that much. Although, we can see like some ad images and things like that. Now, behind the scenes, what we're seeing is a different level of thinking where I've actually found that the new chat GBT is actually a lot more ethical. So, it's going through and it's like, okay, how would this work in an ethical situation? How would this work if we wanted to do that? What are the pitfalls? What are the things that might not work? Or looking at something where they're talking about bikes or mountain bikes or something like this. It might talk about different safety things that you need to pay attention to. This is something new that we see happening with chat GPT 5.2 where it's going through and it does have a
+
+---
+
+[2:04](https://youtube.com/watch?v=2sa687k_x70&t=124s)
+
+different level of thought. Now looking at the options here, we can see it has 5.2 auto, instant, regular thinking and then of course we can get the legacy models as well. Now if we were to ask the same question to a couple of different ones here, we're going to see not a whole lot of difference. It's just basically giving the same input, same results, but it is thinking different about them. That's where the key lies with 5.2. We could see here again, the results are pretty much identical. It's almost like it's just spitting out the same thing over and over. However, there's a lot more going on at play. And what we're seeing with the changes is actually very big, even though you might not notice it. I went through and I typed it in to get like a slideshow created. The slideshow was completely lackluster. I could get a better result with Gemini or Manis going through and getting images with chat GPT. It does okay. 5.2. Not much improvement there. So, let's take a look at the improvements and see exactly what's
+
+---
+
+[3:05](https://youtube.com/watch?v=2sa687k_x70&t=185s)
+
+going on. OpenAI is saying that this is the most advanced AI model. This is hailed as the code red where Sam Alman is saying, "Oh my gosh, I need to follow up and and answer back to Google because Google's AI models are basically putting us in the dust. We are way behind." Now, looking at this, I think we need to understand the Verge here is saying something important. It's saying latest move in the aenic AI battle. There is something very big going on here. What we're seeing is behind the scenes of GPT 5.2, there's a shift in AI content creation and a shift in the way that it's remembering certain things. Put these together, you're going to have the same conclusion I did by the end of this training and you're going to see where this is going so that you can poise yourself to use this to make money faster than other people are going to be able to use this because you're learning how it works. Now, this is super important. Now going through looking at
+
+---
+
+[4:06](https://youtube.com/watch?v=2sa687k_x70&t=246s)
+
+this, Sam Alman has a bigger vision. It's a huge deal and it's going to change the world of making money online. Now going through here, it has different prompts. It has different ideas and different things that we can do. If we were to go through and look at the basics of what has changed, we can see the different model variants where we have instant. This one will go through and it'll do fast capable answers. Prioritizes low latency so speed fast responses. Going through in the next one we can see chat GBD 5.2 thinking flagship model ideal for complex multi-step problems where make this now turn it into this or research this now create an article now make it a blog post now make it social media. These are important because we're seeing threaded type thinking. again put this together thinking about okay on the surface it doesn't look that big but we do see they wanted to make $20,000 agents for
+
+---
+
+[5:08](https://youtube.com/watch?v=2sa687k_x70&t=308s)
+
+businesses they also introduced chat GPT memory which we have not seen in any other AI platform this is where it's not just remembering what you talked about it's remembering your entire history with chat GBT this is like you meet a new friend and they remember all this stuff they're like remember that story you told me where you went to with that person. That's what's going on here. Only it's remembering it in a business sense. So, it's remembering, oh, hey, Marcus has that blog about motorcycles. He talked about motorcycles. Do you want a new post about that? Important. Keep this for later. This is something I'm using right now in my business. Chat GPD 5.2 is doing this even more. 5.2 2 Pro goes through and it'll allow you to have research grade intelligence where they're saying it's like having doctor level thinking. Okay, is it going to replace a doctor? Probably not yet, but it is that level of thinking. It's very very smart. It's PhD level thought. Highest computing for difficult
+
+---
+
+[6:08](https://youtube.com/watch?v=2sa687k_x70&t=368s)
+
+questions. Smartest and most trustworthy option. This is important because when we go through and we look at something like let's say chat GBT thinking and let's do a new chat with chatgbt thinking and I say something like let's talk about ways to make money online with a blog. It'll actually go through and it'll start to think about the ethics of what's going on. This is super important because not a lot of other stuff does that. It just talks about what other people are saying online where a lot of them are are glorified, you know, compilers rather than actually thinking about the data. This is something that's actually thinking about it, which is really cool. And again, if we toggle down to pro and ask the same question, it'll give a whole different result as well. So seeing this is very cool. We can see the thinking over here in the sidebar. I definitely like this. This shows us insight into how the AI is thinking. And maybe it'll even go through and say, "Oh, Marcus talked
+
+---
+
+[7:09](https://youtube.com/watch?v=2sa687k_x70&t=429s)
+
+about, you know, this blog about fishing. Does this fit in here?" Again, looking at that memory is key. Looking at the fact that, oh, he wanted these $20,000 a month agents. How is that actually going to look? Is it going to be 20 grand? Probably not. But I think this is the first play to OpenAI being like it's time to stop charging $20 a month and time to move into the big leagues. Whereas like I don't even bat nigh paying for Gemini at $250 a month. I don't bat nigh paying $200 a month for Manis because they work in my business as employees. This is very important to look at because when you have something that's an employee one for me as a business owner it is like night and day. I can make so much more money having something that does tasks for me in a very straightforward way. And on Sam Alman's side, now you have something you can charge a lot for. Now, when we look at the notes for what's happening with the new chat GPT, we're seeing all kinds
+
+---
+
+[8:11](https://youtube.com/watch?v=2sa687k_x70&t=491s)
+
+of different things here. So, if we go through and we look at the patterns of what's going on, you're going to see that there's a different prompting pattern. Again, this follows the same trajectory of, "Oh my gosh, this thing is remembering, it's building, it's growing. Eventually having a chat GPT account, hopefully they separate them somehow, but for now, I just get a new account for 20 bucks. Use that one account for one business that I'm working in, and it'll start to learn and grow, and it'll become that agent." And you can even do this where you could train a chat GBT agent for a different business and do that and charge for it which is really cool. So going through here looking at the prompt patterns they have different patterns where they're talking about the output verbosity spec which controls the length and the structure. So it'll say okay I want a giant slideshow or an article. Prevent scope drift. This is do only what's asked. This is something very important. We talked about it in our JSON prompt video. I'll include in the description
+
+---
+
+[9:11](https://youtube.com/watch?v=2sa687k_x70&t=551s)
+
+where it's like, yes, do this, but don't do this stuff. So, it's kind of like having bumpers at the bowling alley where you're not going to fall into the gutter, which is where I often find myself when I try to do bowling, right? But this is going to go through and it's going to stay on point. Long context recall. This is important. Again, this is behindthe-scenes stuff you're not seeing. What's happening is a lot of AIs will go through I make a blog post then I create 10 social media post then I make a video thing or whatever it starts to lose some of the context of what we're talking about. So this video here when I set out to make this video I wanted to have the angle of chat GPT 5.2 to is a play for something bigger in the money-making industry, which is having an agent that knows your business and works in your business. If I give that to Chat GBT and I have it make it all these things along the way, it's going to lose that message. We want that message to be consistent,
+
+---
+
+[10:12](https://youtube.com/watch?v=2sa687k_x70&t=612s)
+
+straightforward, and used in everything we build. That is now in 5.2. It wasn't in the others. And you can use these prompts alongside what you're doing. What you do is you just open and close them. So you would start with this, say what the context is, and then close it out with a little slash like this or something like that. Or you could even say end or whatever because AI is pretty smart. It'll understand what's going on. Ambiguity and hallucination. We could do avoid guessing where we could say, you know, get this stuff out of there. Or we can even do a high-risk selfch check. So you could go through and have AI check up on itself and say, "Is this risky content? Is it bad? How can I change it?" Very, very important because a lot not a lot of marketers know that. And a lot of marketers, they don't even check up on the content they're making with AI, which in my opinion is detrimental. Now, this new thing that we're hearing for, for me is the first time is this idea of compaction,
+
+---
+
+[11:16](https://youtube.com/watch?v=2sa687k_x70&t=676s)
+
+compaction, something like that, some new word. This is to extend workflows past context limits. This is where you could go through and make something longer where you're not limited to 300 characters or 400 characters. Now, this looks like it is available in the API and there are some usage rules for how you can do that. Now, in the main scheme of things, if we go through and we ask chat GBT over here and say, tell me about Compaction, you're going to see how this works. tell me about this in chat GBT. When we go through here, what this will do is it'll tell us how it works, why it works, and why it's important. And what this has to do with is following through throughout the entire context length where I could be talking to this thing for a month, every day, updating it, or giving it new stuff every day, and it's going to keep that in the loop. It's going to keep the general idea of where I want to go or in
+
+---
+
+[12:16](https://youtube.com/watch?v=2sa687k_x70&t=736s)
+
+the other instance it'll keep the general idea of what my business is about which is very important. So we could see here it's giving the definition. We'll go back to that in just a minute. Going through here as well we can see the performance capabilities of chat GPT5 professional knowledge work where it's thinking like doctors and lawyers and stuff like that passing all the fancy tests coding and aenic task. This is where we're getting into some other changes where it could be the best model for coding. So it's smarter. It'll keep context. It'll remember what your software is about. So maybe we can start to build more lengthy scripts like something we build in bolt. Only I can build them piece by piece which is what I like to do. Very important. Improve production code and debugging so it won't forget stuff when it's debugging. Stronger front-end user interface, which is making it easier for us. state-of-the-art agenic tool calling reliability. So that's being able to show other tools
+
+---
+
+[13:16](https://youtube.com/watch?v=2sa687k_x70&t=796s)
+
+within what we're doing. Um shippable artifacts. This is big. We can make things that we can actually take to market where we can create a packaged software or a plugin or something like that. Very very very important because now we can do this in one go whereas before it would take a bunch. We'd have to compile it and everything like that. Massive context windows. Obviously, that's gotten bigger. Vision capabilities with multimodal. Strongest vision model. Cuts error rates in half on chart reasoning. This is great in my business. I like to take charts, turn them into content. Boom. Ready to go. Stronger grasp of spatial arrangement. This is where a lot of what they're talking about with the updates is coming to play. where factual stuff they don't want it to make errors which a lot of AIs do make errors because it's based on the internet training so it's not always completely accurate now going through there that's very important because that's the infrastructure and when you
+
+---
+
+[14:18](https://youtube.com/watch?v=2sa687k_x70&t=858s)
+
+have a new tool let's say Gemini comes out with some new image creator that's all fine good fun and cute but we need the infrastructure to change which makes the AI stronger which now lays the platform for what's humming which is an agent that we can go through and use for our business like we're talking about here or here. Now with this here compaction what it's doing is it's compacting the prompts and the the stuff that you give it. So think about it like soil compaction where it densifies it or whatever and now we're using that in AI where we're compacting the thing so it doesn't have to read the entire encyclopedia. it gets the idea of it and puts it into our next prompt. Very, very important there because now we can we can do things faster and more concise. Going through and looking at that, I think the biggest takeaway here is looking at the agenic updates, the tools, the extraction, you could do PDFs and things like that. And then the
+
+---
+
+[15:18](https://youtube.com/watch?v=2sa687k_x70&t=918s)
+
+search capabilities. Starting to understand this and see where we're going is absolutely key because if I can treat my chat GPT 5.2 to account like its own little AI business agent. That's where it's going right now. I just got a bunch of stuff in it. I do have other um other business accounts where we go through and keep it to one fine point or one fine niche or one fine area. That's kind of what we're seeing here. And I think as it learns more about you, that's going to be key. That's another thing that I see with with Sam Alman's vision here when we look at the ability to have the AI learn about you and make an algorithm that is literally like this is what this customer wants. This is what they do. This is what they engage with. This is what they click on. This is what they create. It's going to start to learn. And now like I think Manisai has a little version of this where it knows, hey, I know that you like this certain type of prompt package. Would you like me to take what you just asked
+
+---
+
+[16:18](https://youtube.com/watch?v=2sa687k_x70&t=978s)
+
+me and make a prompt package? Again, thinking like a business person. If I have an employee in here and they're like, "Okay, well, I know this is what you like. Do you want me to make more of these?" This is the gamechanging. Like you can look at all the other stuff and it's fun and it's cool and everything, but being able to have that AI that learns and knows about you and knows what you want gamechanging in the world of making money because now I can have something where I used to have to pay, you know, $2,500 a month, $3,000 a month for an employee or whatever it is. and now this is something that I can give to an employee and they can do the work of five people or I can use it and not have an employee or whatever it is. Thinking about that in a different way is really going to change business and this is where we're seeing the shift and I don't think that Sam Alman is behind the eightball. I think he has a different idea in mind and it it it's huge looking at these and saying okay what is the
+
+---
+
+[17:19](https://youtube.com/watch?v=2sa687k_x70&t=1039s)
+
+shift that's going on? Well, this is going to shift the content creation industry on its head. Why? Because now I can get more stuff done. Extended context, faster production, continuous workflow where we're not like, "Oh, let me start a new chat and ask about this. Let me start the No, it's like a person sitting next to you, right? I wouldn't have someone sitting next to me here and be like, hey, let's start making a PDF. Oh, by the way, you know, let's also do this other thing. I'm going to give them that one thing, wait till it's done. With chat GBT, it can multitask based on that one thread, which is super super big. Core behavioral improvements, looking at deliberate scaffolding, which is automatically building clearer plans and structures for complex tasks. Again, when it knows what we want and it's building in that, we are moving towards aenic AI super fast. Lower verbosity meaning I think that means it has like less struggles to get where it needs to
+
+---
+
+[18:20](https://youtube.com/watch?v=2sa687k_x70&t=1100s)
+
+go. Stronger instruction adherence where it's going through and remembering that prompt throughout what you're doing. Meaning the AI follows brand guidelines, style guides, negative constraints with high precision. Again, looking at that where it knows your instructions, it knows what you want. If I'm a coder and it's like I know that this guy codes stuff for local businesses, it'll know that. It'll know my logo. It'll know the parameters I want. It'll know that I don't want React. Like always, we always try to build stuff and it does React. I don't want that. It would be nice every time I fire up AI to have it know Marcus doesn't like using React. Let's build in PHP or whatever it is. enhanced tool efficiency where the tools that are embedded are getting even better. Uh conservative grounding where the hallucinations are less. Now looking at this compaction is the solution they made to context loss where it's compacting that data. Looking at this
+
+---
+
+[19:20](https://youtube.com/watch?v=2sa687k_x70&t=1160s)
+
+here where it says the impact of context loss versus compaction when you have quality articles all right without compaction the degraded pattern is pretty much perfect on articles 1 to 10. So, I'm writing for my blog. I got article 10. Once I start hitting like 61 or more, which I mean, if you're running a content business, this isn't far-fetched. Like 61 articles, I probably have 6100 articles in my chat GPT. It's going to start to contradict itself. It's going to be a 40% less quality and it's going to start to get repetitive and you're going to have a low conversion rate because it's bad content. What does that do? Makes our stuff not good, not traffic, makes it not make money. Now, with Compaion, we explain the strategy once. Boom. That's like the card. Like when I get here, like just this morning, Jana came in. We were making a dashboard. It's like, okay, step one, step two, step three.
+
+---
+
+[20:20](https://youtube.com/watch?v=2sa687k_x70&t=1220s)
+
+She follows the dashboard. There's very little room for error because that is the dashboard. That's how it works. And when we start to see that uh she was able to understand it in a much better way and the output is going to be consistently the same. It's going to know what we want. If you're flipping the market, if you're saying, "Okay, I have this mortgage calculator tool website, but at the end of the day, I want them to refi," it'll remember that with every article, every tool you make. Gamechanging stuff. Now, there are nine prompting patterns that I found in the data for ChatGpt 5.2 too that have changed. We're going to talk about them as we go through. Got to zoom out here. Apparently the AI camera thought this was important, right? And I'll also have the prompts over at AI Profit Scoop along with some new findings and some things that we have for you. The nine prompting patterns for content creators are the controlling verbosity where you can dictate how big it is and what you want it to look like, whether it's an email or whatever. Preventing the drift,
+
+---
+
+[21:21](https://youtube.com/watch?v=2sa687k_x70&t=1281s)
+
+where you're going to go through and put those guard rails up and say, "Don't go here. Don't go here. Stay here. Handling ambiguity. Instruct the AI to flag missing data instead of guessing. This is key where like AI likes to guess and make things up. It's going to do this in a better way. Compaction on the core pattern for extending memory and enabling massive projects. This is the big takeaway. Massive prog uh projects consistency. This is the biggest thing. Like look at the the video we did yesterday where we're talking about video and the video, you know, if you have one where the character is tall in one frame and short in the next, people are going to be like, "What the heck is this movie? Why did he why did he get shorter? What's going on here?" You got to have it consistent. The characters need to be the same, look the same. Same kind of thing with your content. Advanced workflow patterns where you have a genenic updates recent brief meaningful progress reports where it's giving you the progress reports and showing you what's going on. Tool parallelism
+
+---
+
+[22:23](https://youtube.com/watch?v=2sa687k_x70&t=1343s)
+
+command the AI to research multiple items. This is big. I use it all the time. I want to know what are the similarities between A and B. Then I want to write content based on that. This is big structured extraction where you can do JSON and pull data from different sources, all kinds of stuff like that. Obviously, make sure you have the rights to whatever you're pulling because the lawsuits with AI are going through the roof. So, make sure you do this ethical, follow the business rules and everything like that. Web research, create authorative long format context by instructing the AI to look at different uh data and stuff like that, much like notebook LM does. um which is where we got these notes over here, right? Very cool stuff. It synthesizes it in a different way. Also going through and looking that even deeper, we have um where did we go here? Had that open a second ago? It was on this one. Yeah. So, practical applications where we're going through,
+
+---
+
+[23:23](https://youtube.com/watch?v=2sa687k_x70&t=1403s)
+
+let's say you want to build an Amazon affiliate site. It'll remember your affiliate link structure, how you like to say it, what your disclaimer is, all of your links, and everything like that, which is really cool. The old workflow without this, it'd be like five reviews or blog posts a day. The new workflow, you could do 10 times faster. Going through and looking at this, we can create like multiple things based on one project. So, we start a project, open a new task, create the article. That's our pillar post. Then, we can do an email sequence about it. Then we could do 30 social medias, 50 ad variations, all kinds of different things. And it will keep that structure with you, which is important because if this is trained on how I want my blog, boom, game over, I win. Next, we could do like an implementation strategy where it'll go through with verbosity control and compact it down, right? Define your brand voice. It'll look at your site, understand what you want, and then boom, you're off to the races. Very, very important there. Then going through we want to look at this and see what the
+
+---
+
+[24:24](https://youtube.com/watch?v=2sa687k_x70&t=1464s)
+
+competitive advantage is. I think that for businesses that are making content or building things codes and stuff like that 5.2 to is a gamecher. Not so much in the output you're going to see, but in the way it gets that output, which is key, right? Like, we can get something pretty with Manis, and that's good. But if this thing's running the whole show, and I can come back every day, and it knows where I left off, that is night and day different. And for 20 bucks, I mean, come on. This is like the best tool on the planet for that. Key takeaways is compaction is the core in innovation enabling unlimited content scale with perfect consistency. That's the takeaway. AI now remembers your strategy from day one on day 100,000. The nine prompting patterns. Again, we will have those over at apiprofitscoop.com. And then also looking at the faster results. The bottom line, this thing remembers, it works faster. It keeps the flow. It keeps the context. That is the
+
+---
+
+[25:26](https://youtube.com/watch?v=2sa687k_x70&t=1526s)
+
+takeaway. That is what's happening bigger at play. And I think that is what chat GBT and Sam Alman are trying to do is get that market of I want an employee, not a tool. So hopefully you enjoyed this video. Get the notes and the prompts and the tools and how we're using it over at profitscoop.com. Check out the videos in description that go more into this, including the one I did on the $20,000 AI agent and some other cool stuff in the AI world. Thanks for watching and I'll see you in the next training.

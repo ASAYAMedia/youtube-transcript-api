@@ -1,0 +1,159 @@
+[0:00](https://youtube.com/watch?v=A9gRb5wCjcg&t=0s)
+
+The Honey app PayPal scandal. It's on us yet again. But what are the facts? How does it actually work? What are they actually doing behind the scenes? And more importantly, does this uncover a $25 billion industry sitting right in front of our noses? Smash the like button because that's what we're going to cover today. I'm going to show you exactly how the Honey app works, some of the ethical things and non-ethical things they're doing, how internet browser extensions and coupon websites work, how they make money, and what you need to know about the internet so you don't get scammed, and can actually start making money online with your own websites and businesses. And news flash, AI is going to make this whole honey PayPal drama a whole lot worse. So stay tuned as we uncover everything line by line, show you exactly what it means, how it affects you, and how to make money. Come on, let's go to work. [music] All right, so let's go ahead and dive in. About 5 years ago, I created this
+
+---
+
+[1:02](https://youtube.com/watch?v=A9gRb5wCjcg&t=62s)
+
+video about the Honey app, showing how it makes money and how coupon sites make money online. This was very important because I've known about coupon sites since back when Affiliate Summit first started in like 2003 and there was only like a hundred of us there. This is something that was very interesting where I met someone who was doing a coupon site getting a bunch of traffic for different keywords around coupons and coupon codes and discounts and things like that which is actually very popular. And this is kind of what the Honey app did only in an app format. They were making what's known as a Chrome browser extension, which is like this one here that does domains and stuff like that. Only mine's a private extension. Theirs is a public extension that they used with lots of people. It actually started out with a guy who was trying to find a discount on pizza and then later sold his business to PayPal for like $4 billion. Now, it was based around an honest blogging type of business, but then it got a little bit shady, and that's what we uncover in this video. I'll link to that video in the description. Very important to watch
+
+---
+
+[2:04](https://youtube.com/watch?v=A9gRb5wCjcg&t=124s)
+
+that video as part of your affiliate marketing make money online journey and also to understand how the internet works because while this video by mag came out last year and expose this as something new, this is something that's literally been going on forever. If you were to go and look on Google for something like coupon codes, you're going to find all these different coupon code sites, many of which are doing the exact same thing where you go through and you say, "Okay, this is a discount site down here." If I click the discount site, you're going to see they're doing the exact same process where when you click on show code, it's going to go through and load that site in a different browser here, thus dropping the cookie. Very common practice in affiliate marketing. not the most ethical, most honest practice, but it is a practice that has been done for many years. Now, where this gets a little shady was known as the last cookie wins. Which means in affiliate marketing, if I have an affiliate marketing website and I sell you something big, let's say I
+
+---
+
+[3:05](https://youtube.com/watch?v=A9gRb5wCjcg&t=185s)
+
+sell you a $20,000 computer on Amazon and you're ready to go, but you just haven't checked out yet. And upon checkout, if you click someone else's affiliate link, well, then they're going to get credit even though I did all the selling. It's kind of like the closer wins. The person who closes the deal. Now, when you have the Honey app, this is kind of done in a kind of nefarious way where a lot of people are saying, "Oh, they're replacing the cookie or they're taking the cookie and changing it." This isn't actually what's happening. What's happening is a new cookie drops and that's how it works. So, it's not like they're going in and replacing cookies as far as my knowledge, but they are using this to their advantage by kind of doing a cookie stuffing thing where they're going through and saying, "Our discount apps going to find you discounts. the more you click, the more you're going to be cooking. It's almost like if there was a website, like let's say the New York Times puts a link to Amazon and they're like, "Check the best deals." All right. All they literally did is say, "Check the best deals." If that's an affiliate link, because the New York
+
+---
+
+[4:05](https://youtube.com/watch?v=A9gRb5wCjcg&t=245s)
+
+Times gets so much traffic, they're going to make a fortune because a lot of people are going to buy on Amazon that day just by sheer numbers. Now, with that, there's not a lot of value provided. Whereas affiliate marketers, we want to focus on value, which is very important. Now, let's get into the nitty-gritty here. and what really happened and the $25 billion industry that I think is bigger at play here and I think where a lot of people are looking at Honey and PayPal and stuff like that which does have some in my opinion alleged nefarious practices what we're seeing is something bigger like there's a a big fish to fry here where we're looking at AI tools right like here we have Amazon Alexa working with Angie Expedia Square and Yelp where you're going through And you're saying, okay, these big companies with access to all this data are now using AI and they're working with companies which is doing AI inapp tracking. So where you have like the Honey app or other browser apps that are, you know, watching what's happening online behind the scenes, now
+
+---
+
+[5:07](https://youtube.com/watch?v=A9gRb5wCjcg&t=307s)
+
+you're having AI start to interpret it. And we look at things like uh the OpenAI browser, ChatGBT browser. We're looking at I believe Claude has a browser and other AIs that have browsers where like they they have their own browser. They're tracking everything that's done. This is something that gets into a gray area at best, probably worse than that where it's actually tracking customer behavior. That is the $25 billion market is behavior targeting. That's why Facebook is so obsessed with data and what you're doing online. And there was actually a study done where they say that Facebook knows more about you in 300 likes. If you click that like button 300 times, they know more about you than their spouse. Or that's at least what the famous people doing studies are saying. Which is kind of interesting. We look at browsers and we're like, okay, what does our internet search history say about us? What does it mean? Like you have chat GBT following all the history. What does this mean about us? Now, when you look at the PayPal app and you look at that as well, what they're
+
+---
+
+[6:07](https://youtube.com/watch?v=A9gRb5wCjcg&t=367s)
+
+doing is they're mining that data, saying, "Oh, this person is obsessed with buying shoes. Let's sell that to Nike or whoever." Right? This is all hypothetical. This is all example to show you how it works. But the problem here, and this is a huge problem, right? We look at a lot of people that are that are older in age that that fall for a lot of scams and things like that. I'm also seeing that this is affecting a lot of other people as well, not just the elderly, where we're going through and we're like, "Wait a minute." The problem is is people don't understand how the internet works. Where I went through and I had this video 5 years ago, we understood how affiliate marketing worked back in 2000, 1999, we understood how affiliate links worked, but the vast majority didn't. And that's why the FDC came out and said, "Hey, you need to disclose that you're an affiliate." Because most people don't know that. Most people think if I say, "Hey, this is my favorite coffee." And then you go buy it. Most people think I'm just a nice guy sharing my coffee, they don't understand that there's a transactional relationship. Much like back in the old
+
+---
+
+[7:09](https://youtube.com/watch?v=A9gRb5wCjcg&t=429s)
+
+days where you'd have people in movies smoking certain cigarettes and they talk about the brand like, "Oh, hey, we like Lucky Strike or whatever it is." Not knowing that they got paid to put that placement in there was something that consumers needed to know. So, this was kind of a shady area where they're like, "Hey, the consumer needs to know." I think that with the PayPal scandal, there's a lot of things going on here where the consumer had no idea how this worked. And unfortunately, the influencers are claiming that they didn't know either, which is kind of interesting because if we go through and we look at this, the influencer is saying, "Oh, they're taking affiliate commissions." But anyone who really knew how affiliate marketing worked and how the Honey app worked, you knew that that was going to go through and override affiliate commissions. That's how it worked. And that's why they paid those influencers. So I doubt any of them thought, "Oh, hey, you know what? This is just some altruistic wonderful coupon finder that has no money motive at all." I doubt it. So looking at that, they were paid to promote it. That was the end of the transaction. Just like if you
+
+---
+
+[8:10](https://youtube.com/watch?v=A9gRb5wCjcg&t=490s)
+
+were paid to promote something of mine and I now build a mailing list, well, it's up to me what I sell to that mailing list. Our transaction's done. You were already paid. That's something that's common in the affiliate marketing world. Now, with this, what we're seeing is something a little bit more nefarious where there's malware um and they have malware accusations, right? We don't know if it's actual malware where they're actually going through and looking at what's going on on sites, tracking data of coupons and things like that, which is, you know, that's kind of a scary thing cuz like just the other day I was getting my tickets for Podfest and since I'm going to be a speaker there, they gave me a coupon code that made my ticket cost nothing. Now, if I was using the Honey app, in theory, the Honey app can actually scrape that coupon and give it to other people, which is a difficult thing because not everyone's a speaker, and I doubt they want people to go there free. It costs a lot of money to go to a conference and to put on a conference. So, looking at that, scraping coupon codes is is if
+
+---
+
+[9:10](https://youtube.com/watch?v=A9gRb5wCjcg&t=550s)
+
+they are doing that, that's very bad. Now, looking at this in 2020, uh, right after they bought Honey for 4 billion, that's why I made my video, they actually were flagging it. Amazon was like, "Hey, this is a security risk." Which, okay, that's kind of interesting. Uh, there was a warning displayed on Amazon. And in reality, what happened was, you know, Honey existed for a long time. It was doing this where it was doing um cookie stuffing and stuff like that, if you want to call that cookie stuffing. kind of like you could argue that the Honey app was providing the value of finding the coupons. And if that's all it did, well then yes, in my opinion, if you have an app that legitimately finds good coupon codes that are real and actually work and are not damaging anyone, nothing wrong with that app. If you're using affiliate commissions and stuff legitimately, well, then that's something that's kind of, you know, that's known in the affiliate marketing world. It's nothing really bad going on there as long as you disclose it. Now,
+
+---
+
+[10:11](https://youtube.com/watch?v=A9gRb5wCjcg&t=611s)
+
+when we look at affiliate ethics with affiliate ethics, I mean, it's kind of like, you know, if I have a site or a pop-up or some kind of junk malware garbage, that's an affiliate ethics area that's actually bad. That's like what's known as launchjacking, where people would literally just send their link over and over to try to get as many sales as they could, which is bad. And a lot of affiliate networks will not pay on it. Don't do it. Also, keyword jacking. One of the things that a lot of people don't look at is the fact that sites like Honey rank for all kinds of things. Like if you look at this, it it goes a lot of it is branded traffic, but then it goes down to like this discount code, AliExpress. And what you're going to see is the Honey app by nature of the power of the site. It literally ranks for everything. Much like Retail Me Not, who also does the practice of having that backloading thing. If you were to go click here and see the code, boom, it loads AliExpress there with their affiliate link. This is something that's very common in the practice. However, it doesn't really disclose it. Like I can't
+
+---
+
+[11:11](https://youtube.com/watch?v=A9gRb5wCjcg&t=671s)
+
+see on this page, you know, there you go. It says when you buy through links, I would say when you click these links, that would be a more honest way to go. And you know, unfortunately, we are in the day and age where nobody reads their contracts, nobody reads the terms and services on things, which is why giant companies like Amazon and Chat GBT literally get away with anything because they have lawyers that write a agreement that's 5,000 miles long. In my opinion, this needs to be much clearer. It needs to show people what's going on and it needs to go in. And that's why on our videos and our trainings and our affiliate sites, we're saying, "Hey, this is how this works." Now, when we look at this, what you're seeing is that the Honey app is or the Join Honey website is actually ranking for like $300,000 keywords. And in its heyday, it was getting over a million dollars a month worth of free traffic just going for keywords that were about different coupon codes and things like that. This
+
+---
+
+[12:11](https://youtube.com/watch?v=A9gRb5wCjcg&t=731s)
+
+is something that a lot of people don't talk about, but these sites literally crush it by providing coupon codes and having stuff like this. This is something that's been around forever. Here's one with 300,000 different rankings. And it's really skim content. Like there's not a lot of content here other than here's some coupon codes you can try. The more you click, the more cookies they get. You know, kind of an interesting thing. Now, my question would be, could we do this with legit codes, legit reviews, and really help people out? This goes into the VAT or value added traffic. We want to be a value added affiliate where we're providing something of value that helps like maybe I can go through and I can make a browser extension that helps them find domain names or helps them create content with AI or evaluate content or keywords. like years ago there was a browser extension that found keywords and helped you find niches and things like that and it was a fantastic tool. Lots of people used it and it led to things that you know made them money
+
+---
+
+[13:13](https://youtube.com/watch?v=A9gRb5wCjcg&t=793s)
+
+like affiliate programs for keyword tools and web hosting and things that people would need. Understanding that is important because when we do tools and browser extensions, doing them the right way, the legit way can actually make good money. I've done that with my own tools where we go through like this one gets domain names and things like that. Other ones where I was showing this tool here that can actually find domains where you can do an ethical version of tracking. Just tell them, hey, we keep a a log of the responses that were done. Uh years ago, I did this on a tattoo website. I'll show you how that works in just a minute. But going through this and looking at legit ways to do customer tracking is pretty good because we can actually look at what people click on on our websites and use that data to make our websites better. Nothing wrong with that. If we're going through and we're tracking things nefariously in a weird way where they didn't agree to it or we're tracking, you know, sensitive data, that's where we want to get away from. And that's where a lot of people are saying that the Honey app does go into bad stuff where it's reading and
+
+---
+
+[14:15](https://youtube.com/watch?v=A9gRb5wCjcg&t=855s)
+
+changing data on websites. Now, this is a standard permission request, which is literally if you have a browser toolbar, that's pretty much going to be there right now. Looking at that, there are risks with this. That's why the uh Google Chrome store cracked down big time on a lot of these things because there were things that were showing what was on your screen, right? This is a dangerous thing. This was known as there was a scam where um people would manipulate websites and make you think things were different than they were. Maybe like a balance or money owed or something like that where it's like yeah that's a dangerous thing. You don't want to do that. And for all of you guys out there, you need to understand how the internet works and you need to be skeptical as hell. like you need to not trust anything until proven innocent because even a a a harmless link could be done maliciously. Um and when you look at this, what it does also is a DOM injection where it's actually injecting code into the website that you see. How
+
+---
+
+[15:17](https://youtube.com/watch?v=A9gRb5wCjcg&t=917s)
+
+is this done? Well, because what's happening is when you view a website, like if I'm viewing this website here or this website here, there is code that's locally on my on my computer. Right? So, what happens is your this page is downloaded onto my computer. If I change that code in the browser extension, what you see only you because it's on your computer is something different. So, I can make this say, "Oh, you're actually on Amazon." and it'll be fake. Obviously, don't want to do that. That's terrible, bad, but that can be done and you need to watch out for that. When you look at this and you start to understand the privacy implications where they're getting data for the discounts, they're looking at your shopping history, the ghost cart where they're tracking what you buy, what you almost bought, and what you thought about buying, what you searched, URL history. Browser extensions are way more powerful than people give them credit for. They can do
+
+---
+
+[16:18](https://youtube.com/watch?v=A9gRb5wCjcg&t=978s)
+
+a lot more than you might think. Also, images, links, there's a lot of things that can have embedded code that could be very dangerous for you. Even though you're out there thinking, "Oh, I'm just browsing the internet or whatever, like where they're changing URLs and things where it looks like a company, but it's not." These are things to watch out for. You got to look at that. Now, this is where I see the big change happening. When you look at the Honey app, the browsers, the things that people are like, "Oh my gosh, this is crazy." Times that by a thousand because now that we have AI, it's doing that at the speed of light. Literally, it could be like a personal AI designed to do something bad or whatever. And that's where we need to be very, very cautious and very upfront about what we're doing as affiliate marketers. make sure that everything you do is honest, upfront, and good. When we look at this, AI could literally go through and look at customer browsing data, look at things like that. That's like with chat GBT, everyone's talking
+
+---
+
+[17:19](https://youtube.com/watch?v=A9gRb5wCjcg&t=1039s)
+
+to it like it's their friend. It's just an AI built by a corporation that is for profofit and they're not profitable yet. So, they want to go and find how do we become profitable? That's why they're mining data. like it's literally making an AI profile of the people using it which is kind of scary. So going through and looking at the difference between like history versus psychology where like you look at AI right people are putting robots in their house and the robot can actually you know track what's going on and see what's going on. Alexa a lot of people have said oh hey this might be listening to us even when we don't want it to. looking at these things are kind of interesting because we are giving away so much data. It's scary and this is where you come in and you look at videos where they're talking about price discrimination where literally someone known to pay more for stuff will pay more for stuff. I was actually testing this out. There's a grocery store that's near me and a grocery store that's a little bit farther than me and that one's in a
+
+---
+
+[18:21](https://youtube.com/watch?v=A9gRb5wCjcg&t=1101s)
+
+lower area and I found that it's cheaper to go to that one even though it's the same exact uh the same exact grocery store. Right? This is going through and getting into the area of behavioral targeting. Behavioral targeting is projected to be a $30 billion industry in the next few years. Now, there's a lot of things that are going to happen with behavioral targeting and AI. There's going to be companies that pop up so quick the ethics can't even be questioned. Unfortunately, Congress and all the government is like back in the the stone age, like they're like, "Oh, hey, look at this new calculator and we got AI, right? Like, okay, your scientific calculator is fun and cool back in the 1980s, but it's a little outdated now." And what's happening is a lot of this stuff isn't coming into play. And unfortunately, the current administration is like cart blanch, go do what you want with AI. This is going to be scary. That's why you need to learn how the internet works. If the honey PayPal thing shocked you and you
+
+---
+
+[19:22](https://youtube.com/watch?v=A9gRb5wCjcg&t=1162s)
+
+were like, "Oh my gosh, this is so nefarious and bad." Then you might want to check your internet knowledge. you might want to check out what you know about the internet because with AI this is going to get a lot worse. It's already starting to and there's a lot of affiliate marketers that just don't care. There's a lot of people that just don't care like the Honey app and a lot of these where they'll skirt the issues and and try to get around things and that's really a bad way to do it. Completely unethical. There's plenty of money in doing this stuff ethically and good. And if you guys want I can do a video. Just let me know in the comments if you want me to do a how the internet works video. I'll show you how the internet works. We'll go through everything line by line and show you what I know about the backend. Like how does an affiliate link work? How does it work when an email happens? How do websites work? How do codes work and things like that? Very important. But going through here, we want to look at the ethical path and take a very ethical approach. Unlike like some of the stuff the PayPal Honey app's doing. I'm like,
+
+---
+
+[20:23](https://youtube.com/watch?v=A9gRb5wCjcg&t=1223s)
+
+"Yeah, I wouldn't touch that with a 49 1/2 ft pole or 39 1/2 ft, whatever the Grinch had." Right? Going through and looking at that, I wouldn't touch that with a a giant pole because it's not ethical. It's not good. Going through, there's a lot of deep fakes and all kinds of crazy stuff going on where people don't understand who's saying what, what influencers actually promoting something. This is like I mean the wild west is going to turn its head and be like damn right because the stuff that's going on now is literally crazy. Now the benefit of doing this stuff is that you you can get market research and you can do this in a good way. AI social listening. This is something where you know Facebook goes in and it listens to what's going on, learns from things kind of like how Google is is scraping uh Reddit. They're getting all the Reddit data of what people are saying and what they're thinking. Um, this is a good way to do it. Like Reddit and them have a partnership. They're going through, they're looking at data, saying, "Hey, what do people not like about the stock
+
+---
+
+[21:24](https://youtube.com/watch?v=A9gRb5wCjcg&t=1284s)
+
+market or whatever it is that's going on?" And they're getting data, which is cool. That's something we can do. Or like this where I can make a tool that searches domain names. If I do like dentist, what'll happen here? This will search domains with AI. So, it's like a little AI domain finder. And over here, it's going to keep track of what industries are there. So, I could go through and be like, "Oh, hey, 90% of our people are dentists." Boom. Let's let's make something for dentists to get help or maybe you could do like hosting or something like that and it'll go through and it'll track that in a harmless way. Now, would I do like, hey, you know, put something in that's sensitive data? Of course not. Not even going to go there. Now, one of the things I wanted to look at too was the advancement of zero party data where the shift is moving from inferring what people want to literally asking them. This is what made Google so huge is instead of going out there like the yellow pages and saying, "Okay, I'm going to find my my dentist, you know, whatever your dentist is called." Now,
+
+---
+
+[22:26](https://youtube.com/watch?v=A9gRb5wCjcg&t=1346s)
+
+we're going to like we go to AI and say, "My tooth hurts." Okay, that's learning what they want. And now we have a video coming up I think Thursday or Friday where I'm going to talk about AI overviews now having ads and the implication of this because what's happening is it's targeting where they're at. You're getting a customer where they're at where it's like okay tooth hurts. You need an emergency dentist. Emergency dentist is super expensive. And with that if you had an AI tool that helps them, you know, with something that can work. Now would I use it for dental stuff? No, cuz I'm not a dentist and I wouldn't want the AI to tell them what to do because again, you're on the hook for what your AI tools do. This is another thing that people are not paying attention to is like, hey, if this thing goes rogue, ChatGpt, Google, all these companies that have the AI APIs, they have disclaimerred the heck out of it to where they're like, we're not liable for anything. This is just a link. However you use it is up to you. Very important.
+
+---
+
+[23:26](https://youtube.com/watch?v=A9gRb5wCjcg&t=1406s)
+
+Now when we look at this also the zero party data is something that I think is cutting edge and works really good. Thinking about how you can do that with the tool here like maybe you can say now take what they say and give them marketing tips for that like if they're a dentist or something it'll go through and and say oh here's what you want for dentist or something like that. That's where you're really getting like the point of thought type marketing. Now, when I did this back in the day with some sites, showing you how it worked, we're using it with AI now. We'll have some follow-up videos on that, but I did this with my tattoo website where I learned what people wanted. So, I had a search box and people would type in like heart tattoo, fire tattoo, fairy tattoo. I took the top 10 tattoos, I put images of them. I knew that would increase clicks. Boom. 90% of the people clicked on it. or with mortgages, we had a little drop-own box, search boxes, choice boxes, different things like this to boost up engagement and also show me what was going on behind the scenes.
+
+---
+
+[24:27](https://youtube.com/watch?v=A9gRb5wCjcg&t=1467s)
+
+This was a lot like a funnel strategy Russell Brunson made popular where it would say, "How did you find us?" Right? And the idea was just to get them to answer a question, which would boost up the opt-in rate. I took it a step further and I said, you know, something like, "How much weight do you want to lose?" or "What's your current mortgage rate?" And I had it pass that data without their info. It was just data on what they clicked on. That's all it is, right? And I went through and I was like, "Oh, the average mortgage is 7%. I can adjust my copy this way." Or the average person wants to lose 26 pounds. I can adjust my copy. Knowing these things are very important. And this is something that you can do and you can use AI to do as we're doing here, right? We can go through and say, "What kind of tattoos do they want? What kind of things do they want?" obviously using it in an ethical way, not like some of the stuff that they are alleging Honey is doing. And I think some of the stuff, yeah, like there are some things where those different toolbarss are tracking
+
+---
+
+[25:28](https://youtube.com/watch?v=A9gRb5wCjcg&t=1528s)
+
+things I wouldn't touch no matter how much it paid me, right? Going through and looking at that, we want to do really ethical affiliate marketing. And what we can learn here is AI can help us. AI can help us learn about our customer. AI can help us make really cool tools that people would use. and have little trackers that would say, "Oh, hey, you know what? These are what the average mortgage guy wants to save or lose weight." Again, passive, harmless data that has no customer stuff attached to it. I'm literally just, "Oh, yep." You know, the uh dentist was typed in five times. Literally, that's the end of it. Starting to understand that's pretty cool. And when you start to understand that, okay, I can make little tools. I can make this work. I can learn how these companies are doing SEO because this is pretty easy traffic to get and then boom, everything fits together and we can build an ethical good business. Again, I think for 2026, you need to understand how the internet works because that's going to be key going forward. So, if you want to make
+
+---
+
+[26:30](https://youtube.com/watch?v=A9gRb5wCjcg&t=1590s)
+
+money with affiliate marketing, smash a like button, follow the videos in the description, and uh check out my other videos and tutorials. You can get the notes from this over at aiprofitscoop.com. Watch out. Be safe out there with online stuff because it's kind of a free-for-all and AI is making it worse.

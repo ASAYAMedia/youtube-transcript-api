@@ -1,0 +1,119 @@
+# How To Make Custom Mobile Links For Instagram Marketing To Make Money With Social Media
+
+*affiliatemarketingmc*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yky-d-77IKw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=Yky-d-77IKw&t=0s)
+
+hey guys it's Marcus here with social profit tools.com where you're gonna go to get all the tools that you need to make money with your social media now you'll notice right here I have a phone emulator with the social profit tools.com site open and you'll notice that it's pretty ugly it looks pretty terrible on a phone so what we want to do is we want to make something that's going to work for our Instagram links knowing that Instagram is mostly used on mobile which means they're gonna be looking at it on a phone and we want to be able to generate leads show videos we want to be able to have links they can click and get people to interact with our social media so that we can make lots of money and we want to have it honored to own and we want to have it on our own domain we want to make sure that everything is under our control and really easy for people to get to because they don't want to type in big long URLs on their phone and we're gonna make it completely user friendly so that you can start getting paid from your social media so let me show you how this works
+
+---
+
+[1:02](https://youtube.com/watch?v=Yky-d-77IKw&t=62s)
+
+with the social profit tools add-on theme and software so first of all what we're gonna do is we're gonna take this site this is a blog now if you haven't yet created a blog you can see here this is what it looks like on mobile all right if you haven't yet created a blog you can go over to go hub site.com and I'll teach you how to set up a blog with your own domain in about five minutes it's really really that easy and then once you do that you can do all the stuff that I'm going to show you so again that is go hub site.com now for your mobile stuff make sure that you choose a short URL for example affiliate dude calm because my normal domain affiliate marketing dude calm is a little bit long so I wanted it shorter so that shows up an Instagram and Facebook and everything like that and I can track everything so when you go through this at NGO hub site com they're gonna give you a free domain you sign up for hosting it's like six dollars a month which is dirt cheap and you're gonna be able to do all this stuff which is really cool okay so choose a short domain something that is easy to remember something that signifies you if
+
+---
+
+[2:04](https://youtube.com/watch?v=Yky-d-77IKw&t=124s)
+
+your name is like mine Marcus it could be like free stuff from Marcus or Marcus's tips or something short if you have a business name maybe use the adoration version of it so that it's really easy to go to I use this all the time like join Marcus comm affiliate dude calm things like that that are really easy to remember so we're gonna go ahead and do that or you could even do follow Marcus or whatever your name is follow whatever your name is okay so really easy you can follow these steps at NGO hub site comm it'll show you how to set up your domain your hosting and your WordPress once you're done with this again it takes like five minutes it's so easy go do it right now once you're done you are going to come to something like this and you will have a site that looks like this and if you want to see it on the regular screen it is social profit tools.com social profit tools comm you can see this is the basic WordPress again nothing fancy not what we want okay so what we're gonna do first and foremost
+
+---
+
+[3:04](https://youtube.com/watch?v=Yky-d-77IKw&t=184s)
+
+is we are going to install the social media theme that I created for you now you can get this theme for free at my site at social profit tools com you can get the theme you can use it make cool little Instagram things and all kinds of stuff which I'm gonna show you in this video okay first of all what you're gonna do is you're gonna download the theme so you go to social profit tools com put your name email in the box download the theme follow the instructions on go hub site comm and you'll be right where we are okay so we're gonna go here you have your theme you have your hosting and you have your blog we're gonna go into our blog we're gonna go into appearance themes we're gonna go to upload theme okay watch how easy this is we're gonna upload the theme right like this choose file and we're gonna find the file I think I had it on desktop and I called it social profit there we go we're gonna click install now watch what happens here it's so easy to set up it's not even funny we had like 50% there and here we go it should take another second
+
+---
+
+[4:07](https://youtube.com/watch?v=Yky-d-77IKw&t=247s)
+
+so again remember right now on social profit tools com we got an ugly blog we need something that's gonna work for mobile so we're gonna go here we're gonna click activate theme once we've installed it boom now check this out we're gonna reload this and we got a cool mobile theme this is cool right now I'm gonna show you why it's cool cuz right now it looks kind of lame doesn't it there's nothing to it but what's gonna happen is it's actually gonna go ahead and load on the phone like this any minute it should load in like a minute you know takes a minute or two right like this which makes it super easy and it makes it cool to look at okay so now we have this we could just go into our blog like this and we're gonna set up we're gonna go to Settings General and this is gonna give you complete control over everything you have like a little slogan here we'll put like social media tools for marketers right like this there's your stuff we're
+
+---
+
+[5:07](https://youtube.com/watch?v=Yky-d-77IKw&t=307s)
+
+gonna hit save we don't need to do anything else here we'll go Save Changes then we're gonna go into writing I believe it is yes a reading we're gonna go into reading and we're gonna choose instead of your latest pages we're gonna do static page then we're gonna do sample page okay or we could do social profit tools like that okay we're gonna hit save okay so now we got our home page set up what its gonna look like is boom right like that we got like a little Add to Cart button I was testing a thing that I can actually have people order right on my Instagram post which is really cool so if you want to get the social profit tools and the social profit training and learn how to make money with social profit stuff on social media go to social profit tools you can click the Add to Cart and boom you'll be able to sign up right there okay so really cool but that's an example of how you can do it and again when we look at that on the phone like if you were gonna sell something on Instagram boom it's easy you're done right you don't have to have any fancy stuff it's just like that you just copy and paste the HTML super easy right so that's what it looks like
+
+---
+
+[6:08](https://youtube.com/watch?v=Yky-d-77IKw&t=368s)
+
+on the phone very very easy okay but what we want to do is want to do something different because what I use for my social media is I use affiliate dude calm now affiliate dude calm my goal here is to have people check out new videos look at our Facebook group and follow us on Instagram right so it's really easy again if we were to take this and put this into the phone emulator we could see that boom it looks really good right it's super easy so when people come from Instagram on their phones and tablets it looks like this and it's really easy for them to follow so they could just go here check it and then BOOM they can click on the things and it's gonna take them to new links it's gonna take them to things and it all looks really good right it takes them right to write to my Instagram there and everything like that so super cool super easy it's got everything you need right there they can watch the video right there on their phone it'll load right there in perfect sizing and everything and all you have to do is copy the embed link which is super super easy to do okay really easy super simple okay we want
+
+---
+
+[7:08](https://youtube.com/watch?v=Yky-d-77IKw&t=428s)
+
+this to be easy for them easy for you everything like that so now once you're ready to get started you could just simply hit edit and then your WordPress dashboard allows you to edit whatever you want so if I go in here and I'm like oh hey you know what I want to put an image with a link or something like that I would just drag and drop it right like this it'll upload for me super easy I can choose my sizing here I always do full size and then shrink it down in here right like this but the the program will shrink it down for you okay so we just do this I could Center it I could say you know click here to follow me on social media or if your social media is about like getting him to sign up or something like that you can do that too and then of course if you want to link you just put your link to where they sign up let's say we want to send them to social profit tools not social profit fools tools.com right like this and then boom we're ready to go and now what its
+
+---
+
+[8:10](https://youtube.com/watch?v=Yky-d-77IKw&t=490s)
+
+gonna look like is we'll just go back to the phone thing and boom what its gonna look like is a very simple and very easy and the cool thing about this is you can change these things at the drop of a hat right so you're not like married to one thing and that's it you're you're gonna get things that are gonna work right so if we go here and we do social profit tools.com you can see what it's going to look like on a phone which makes it super super easy and of course it looks great on the web as well so really easy and you can see right there boom there we got it and of course the phone doesn't have this bar this is just so we can scroll but you can see how beautiful that looks right it's like boom there you go I can have this here I can change it right so if I have like a promo on my social media boom there we go if I get an advertiser that wants to advertise they can buy the link and boom I can set them up and then you know I can change it as I get new advertisers I can add new things all kinds of stuff it makes it really really really cool and really easy to use that's one of the ways you can use this as well you can
+
+---
+
+[9:11](https://youtube.com/watch?v=Yky-d-77IKw&t=551s)
+
+even do like if you want to have people join your mailing list all I would have to do to get them to join a mailing list is say opt-in here and I'll actually use this for you will do opt-in here for your free social profit tools WordPress theme okay boom there we go we'll Center this we can make it bold we can make it big we could make it red if we want to make it red and stand out like that and then all I got to do here is Center this put a little a and paste the code from my opt-in form and boom here we go we got this and now all I have to do is reload the page on our phone thing here and boom there you go obviously I'm filming this later I have a different shirt on but that's how it works and they can actually go in on their phone and usually their name and email is automatic on their phone they just put that there they click download or get
+
+---
+
+[10:11](https://youtube.com/watch?v=Yky-d-77IKw&t=611s)
+
+video or whatever you want to give them to get them to opt-in or join my list or whatever and there you go right you could build a list straight from your Instagram post in a really easy way making sure that people are not missing out if they're on mobile because we know that mobile gets a lot of traffic so really really cool now let me show you some other things that we have as well you could do advertisements you can actually sell ads and put them right on your Instagram link that goes to your site and boom you can make money right away you can put affiliate offers on your site you can put links to your YouTube channel and in a really cool way because there's a lot of link generators that are out there like link tree and several others that you know they're okay but they don't get the amount of views that my stuff gets right these are ads that are created based on user response and based on what people click on right and the more clicks you get more people are going to follow you the more money you're going to make the more famous you're gonna get in your market
+
+---
+
+[11:12](https://youtube.com/watch?v=Yky-d-77IKw&t=672s)
+
+and it's really cool and it's really easy to go through now let me show you one of the other tools we have as well after you get the theme we'll have some information on the other tools but one of the other tools is a plugin that I have which is called the social media monetize er and as you can see here what this does as I can like upload these images with links and it actually tracks them right so I could go in and at a glance say hey check this out you know we got these clicks how many are coming in how many people went to my site and it's gonna show you everything and you can actually take the ads or the images that are not getting traffic and you can you know swap them out for other ones and you can change it really easy let me show you how cool it is once we go in here we say okay we're gonna go here and we're gonna edit our ads so if I want to create a new ad here all I have to do is click on the little plus here and then go ahead and choose where I want these people to go so if I want them to go to let's say I want them to go to my order page or something I'll send them to
+
+---
+
+[12:13](https://youtube.com/watch?v=Yky-d-77IKw&t=733s)
+
+social profit tools.com and then if I want to put text below the image I just click this and I could say click here to get Marcus's social profit tools okay and then we're gonna go through we got a border I always make the border white and then I always make my text I like to have it in blue and then you can make it whatever size you want as well so we'll just choose this one here and then you can make it whatever size you want so I'll choose blue like that and then of course we could say oh hey you know what I want to underline I want the text to be you know 14 high or for size 14 or something like that and then when I'm ready I just choose my image to upload so I'll go in here I'll select a file okay let's say I want to put the social profit tools banner looking thing here and you can make them sized however you like and then we'll hit insert into post and then it looks like that and then boom here we
+
+---
+
+[13:14](https://youtube.com/watch?v=Yky-d-77IKw&t=794s)
+
+go now you can see that that ad is now added it's going to track the clicks and then of course on our mobile right like this here okay so you can see the social profit tools again when they click on it they're gonna go over to whatever website you want them to go to and boom you're ready to go right again mobile optimized really easy to use super simple so as you can see the social media monetize er is a great tool to have as well some of the others that we have is the squeeze blogs Pro the video server where you could actually have videos on your site we also have some other ones like trackers and everything so that you can see what people are doing what they're clicking on and as you can see this is a really good way to start utilizing the people that are coming from your social media to your site so that you can make some money right it's gonna be really cool and it's gonna work really well this is what I use on mine my first week I started with Instagram using this I made several thousand dollars and I only had five hundred followers on that account so it's really easy again results not typical I don't know what you'll make but if you follow the tools that we have
+
+---
+
+[14:16](https://youtube.com/watch?v=Yky-d-77IKw&t=856s)
+
+in the social media in the social profit tools it's going to show you exactly what you need to do to monetize your audience to be able to make a living off of social media because it's not that hard to do you just need to get people to go to the right things and of course if I had someone that said hey I want to run an ad I don't have to change everything on my profile I just say hey yeah okay give me your image boom I pop their image in here I put their text in here done when they're done with their ad I turn it off really easy and as you can see I can click it off at the drop of a hat I'm just like okay I don't want that one and boom it's gone and obviously the same thing happens on the phone too where that's gone and it'll track it it'll tell you exactly what's going on and you can get a lot more followers now one of the other cool things about using this method as opposed to like a link tree or something like that is the fact that your blog is designed to have several pages so I could actually go in and I could say well you know I'm gonna do a post about something specific for example every Friday I have a webinar and I do a post on Instagram
+
+---
+
+[15:17](https://youtube.com/watch?v=Yky-d-77IKw&t=917s)
+
+right like this where I say go to Affiliate do.com slash live it'll take them right to the page where they can sign up for the webinar and it's all on the same site it's all very easy it's all mobile optimized and I even have the opt-in box so that they can become part of my list to join the webinar and I even have like a live chat so they could click here and actually talk to me live on my site and I can sell stuff all day long which is really cool ok other pages that I have on this site is where you could go in and have them go to a video right you can have them go straight to a video with a link under the video and you can see this is how it works now on your actual phone it'll be bigger and you know they can resize it and everything like that so it's really easy I also have lots of other pages so if you want to create a page for this right like let's say you make an Instagram post and a lot of people are looking at it and you want to put in the description hey go to this site you just go to your main area here and you can click on and you can click on add new it'll add a new page and then whatever you want to name the page like if I want this to be you know maybe you have an
+
+---
+
+[16:20](https://youtube.com/watch?v=Yky-d-77IKw&t=980s)
+
+Instagram where you're talking about fashion and you're like hey you know we got a new dress and you want to call it like red dress or something like that ok all I have to do is hit publish and it's gonna give me the URL affiliate do.com slash red dress and then all I have to do is put whatever content in here I want super easy to do if you have like a video you could go through and add a video or you can add a picture or something like that let's say I want this picture here I just hit update and then boom on the phone when they go to affiliate dude comm slash red dress it's going to have a post for that and you know if you're selling it you can even put like your link to Etsy or your link to Shopify or whatever it is you're doing and boom you're off to the races you're ready to go so as you can see this stuff is super powerful you can control your audience again that's why I say you need to get a short domain name you can do that follow the instructions that go hub site com get your domain then go over to social profit tools com get the theme start messing around with
+
+---
+
+[17:21](https://youtube.com/watch?v=Yky-d-77IKw&t=1041s)
+
+it start watching my other videos on how to manage this and you will be in business as a social media king because now you can control where your traffic goes in a really really easy way I did this just last week with one of our posts using the affiliate marketing dude tracker where I track all my links and what this does is it creates links for you so if I want to create a link and send them to like an affiliate offer or some kind of page I can do that and you can see on this one here we sent 943 people to this link 543 to this one and this campaign actually made me I think we're at close to seven thousand dollars and it pays me residual so it's making a lot of money off a measly little 1,500 clicks so as you can see this stuff's gonna work extremely well if you do it the right way what I want you to do is go over to go hub site comm get your domain they give it to you free get your hosting they're gonna get your hosting and then you'll click a button and you'll have WordPress installed and then when you install the theme from social profit tools com you're ready to go you're off to the races you can now have a social media
+
+---
+
+[18:23](https://youtube.com/watch?v=Yky-d-77IKw&t=1103s)
+
+site that gets traffic gets clicks and make sales and gives you control over everything I hope you enjoyed this little video I hope you go and set this up because if you do you're gonna start taking charge of your social media traffic which is the name of the game if you want to make money thanks again for watching I'm Marcus from social profit tools.com and I'll see you in the next video and if you like this subscribe to my channel here so that you get more thanks again
