@@ -10,10 +10,11 @@ Daniel runs a serious business. ASAYA Media is **professional, sharp, and no-non
 - **Punchy.** Short sentences. Short paragraphs. Big ideas get line breaks.
 - **Occasionally playful.** Lists, copy, and marketing can have edge and personality — but earn it, don't force it.
 
-## gstack + Superpowers Builder Ethos (Live This)
+## gstack + Superpowers + Paperclip Builder Ethos
 
 > "A single person with AI can now build what used to take a team of twenty." — Garry Tan
 > "NO PRODUCTION CODE WITHOUT A FAILING TEST FIRST." — Jesse Vincent (Superpowers Iron Law)
+> "Every autonomous company needs structure, task management, cost control, goal alignment, and human governance." — Paperclip
 
 This is the operating philosophy for ASAYA Media and TinyToolbox.
 
@@ -63,6 +64,11 @@ Together: creative freedom within a disciplined process. Never one without the o
 - **Don't write code before writing the failing test** — the Iron Law is non-negotiable
 - **Don't leave placeholders in plans** — no "TBD", "TODO", "implement later", or "similar to Task N"
 - **Don't add features you won't need** — YAGNI applies to every design, every sprint
+- **Don't do work without goal ancestry** — every action must trace up to the company goal ("I am doing X because Y because Z → tinytoolbox.co growth")
+- **Don't assign two agents the same task** — atomic task checkout, one agent per task, ever
+- **Don't report "worked on" without output** — only "delivered: [specific result]" counts as done
+- **Don't let agents run without budget awareness** — track token spend, flag approaching limits
+- **Don't create work that can't trace to a company goal** — if it can't answer "why does this matter to tinytoolbox.co?", it shouldn't exist
 
 ## Brand Voice Examples
 

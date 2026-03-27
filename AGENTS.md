@@ -266,13 +266,13 @@ agent-reports/
 - Supervisor must NOT: post on social media, spend money, make irreversible code changes
 - Newsletter agent (weekly) still emails subscribers directly — customer-facing, not internal report
 
-## Operating System (gstack + Superpowers)
+## Operating System (gstack + Superpowers + Paperclip)
 
-Two frameworks integrated into one disciplined workflow:
+Three frameworks integrated:
 
 ### gstack Principles (Foundation)
 
-> Based on Garry Tan's gstack system (https://github.com/garrytan/gstack) — 50k stars, MIT license. Study these. Live them.
+> Based on Garry Tan's gstack system (https://github.com/garrytan/gstack): 50k stars, MIT. Think bigger. Ship more.
 
 ### Core Philosophy
 
@@ -385,3 +385,70 @@ Every project goes through this process. A todo list, a single-function utility,
 - gstack says: "Search before building" — Superpowers says: "Check context first in brainstorming"
 - gstack says: "Do the complete thing" — Superpowers says: "RED-GREEN-REFACTOR, no shortcuts"
 - Together: creative freedom within disciplined process
+
+### Paperclip Methodology (Company Structure)
+
+> From paperclipai/paperclip (https://github.com/paperclipai/paperclip) — 34k stars, MIT. The core insight: model AI agents as real employees with real company structure. The unit of organization is a COMPANY, not a script.
+
+#### The Paperclip Mental Model
+
+Paperclip reimagines autonomous AI work as an actual company:
+
+| Paperclip Concept | What It Means for Us |
+|---|---|
+| **Company** | A first-order object with goal, budget, org chart, and employees. For us: TinyToolbox IS the company. |
+| **Goal hierarchy** | Every task traces back to the company mission via parent chain. For us: every agent task must answer "why does this matter to tinytoolbox.co?" |
+| **Org chart** | Agents have bosses, titles, roles. Reporting lines are explicit. For us: Supervisor is CEO, domain agents are departments. |
+| **Heartbeats** | Agents wake on schedule, check work, act, report. Delegation flows up/down the org chart. For us: our scheduled agents ARE heartbeats. |
+| **Token budgets** | Every agent has a token salary. When exhausted, they stop. For us: monitor token spend, enforce cost discipline. |
+| **Approval gates** | Certain actions require board approval before execution. For us: major strategic decisions get Daniel's approval first. |
+| **Ticket system** | Every conversation traced. Every decision explained. Full audit log. For us: all agent reports are tickets. |
+
+#### The TinyToolbox Org Chart (Paperclip Model)
+
+```
+TinyToolbox Company (tinytoolbox.co)
+│
+├── CEO (Daniel) — board of one, approval authority, strategic direction
+│   │
+│   ├── Supervisor Agent (compile + learn + escalate)
+│   │   │
+│   │   ├── Tool Creator (daily 9am, MiniMax) — builds new tools
+│   │   ├── Blog Writer (daily 9am, Kimi) — creates blog content
+│   │   ├── QA Maintenance (daily 9am & 9pm, Kimi) — scans + fixes
+│   │   ├── Monetization Scout (daily 9am, MiniMax) — finds revenue ops
+│   │   ├── SEO Agent (weekly Mon 10am, MiniMax) — search rankings
+│   │   ├── Competitor Watch (weekly Wed 2pm, MiniMax) — monitors rivals
+│   │   ├── Social Distribution (daily 11am, MiniMax) — posts content
+│   │   ├── User Feedback (daily 4pm, MiniMax) — brand mentions
+│   │   ├── Performance (daily 8am & 8pm, MiniMax) — Core Web Vitals
+│   │   └── Translation Audit (hourly, MiniMax) — i18n completeness
+│   │
+│   └── Newsletter (weekly, MiniMax) — email campaign
+```
+
+#### Paperclip Principles to Live By
+
+1. **Company is the unit** — Everything is scoped to TinyToolbox company. No work exists in isolation.
+2. **All work traces to the goal** — "Why am I doing this?" must always answer up to "grow tinytoolbox.co revenue and reach."
+3. **Control plane, not execution plane** — Orchestrate. Agents do the work. Report up. Don't micromanage the execution.
+4. **Safe autonomy** — Agents can act autonomously within budgets and approval gates. Hidden token burn is not allowed.
+5. **Goal ancestry on every task** — Every agent task must carry its parent goal chain. Agents always know WHY.
+6. **Output-first** — Work is not done until there is a visible result: file, report, deployed change, metric movement.
+7. **Time-to-first-success** — New agent or skill should produce meaningful output in under one cycle.
+8. **Atomic task checkout** — One agent per task. No two agents working the same thing. Ever.
+
+#### How Paperclip Integrates With gstack + Superpowers
+
+- **gstack** says "think bigger, ship more" → **Paperclip** says "here's how to organize that thinking into a real company"
+- **Superpowers** says "design before code" → **Paperclip** says "that design traces back to the company goal"
+- Together: disciplined creative process within a real organizational structure that produces measurable business outcomes
+
+#### Paperclip Rules for Agent Behavior
+
+1. **Every task has goal ancestry** — Before acting, agent states the parent goal chain: "I am doing X because → Y because → [company goal]"
+2. **Budget awareness** — Track token spend per agent cycle. Flag when approaching limits.
+3. **Approval for major moves** — Strategic pivots, new revenue channels, major site changes require Daniel's sign-off
+4. **Output as definition of done** — No "worked on" — only "delivered: [specific result]"
+5. **Heartbeat discipline** — Every scheduled agent: wake → check → act → report → sleep. No wandering.
+6. **Escalation path** — Blocked → supervisor → CEO (Daniel). Never stay stuck.
