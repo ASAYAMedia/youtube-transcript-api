@@ -462,3 +462,115 @@ TinyToolbox Company (tinytoolbox.co)
 4. **Output as definition of done** — No "worked on" — only "delivered: [specific result]"
 5. **Heartbeat discipline** — Every scheduled agent: wake → check → act → report → sleep. No wandering.
 6. **Escalation path** — Blocked → supervisor → CEO (Daniel). Never stay stuck.
+---
+
+## 🏢 TINYTOOLBOX CORPORATION — OFFICIAL STRUCTURE (NEW)
+
+**Status:** ACTIVE as of 2026-03-29  
+**Location:** `/home/workspace/TinyToolbox-Corp/`  
+**Framework:** Paperclip Methodology (full corporate hierarchy)
+
+### Company Identity
+
+| Field | Value |
+|-------|-------|
+| **Company** | TinyToolbox Inc. |
+| **Domain** | https://tinytoolbox.co |
+| **Mission** | Build world's largest free micro-tool platform. Generate revenue via affiliates + ads. |
+| **Current Scale** | 431 tools, 10 operational agents, 32 affiliate partners |
+| **Target** | 1,000 tools by EOY |
+
+### Org Chart (5 Levels)
+
+```
+                    ┌─────────────┐
+                    │    BOARD    │
+                    │   (Daniel)  │  ← You. Strategic decisions, approvals >$50
+                    └──────┬──────┘
+                           │
+                    ┌──────▼──────┐
+                    │     CEO     │  ← Daily 7am. Compiles reports, auto-actions,
+                    │  (Supervisor│    escalates to Board
+                    │   Agent)    │
+                    └──────┬──────┘
+                           │
+        ┌──────────┬───────┼───────┬──────────┐
+        │          │       │       │          │
+   ┌────▼─────┐ ┌─▼─────┐ ┌▼────┐ ┌▼───────┐ ┌▼─────────┐
+   │ PRODUCT  │ │GROWTH │ │REV- │ │CONTENT │ │OPERATIONS│  ← 4 VPs, daily 10am
+   │    VP    │ │  VP   │ │ENUE │ │   VP   │ │    VP    │
+   └────┬─────┘ └───┬───┘ └──┬──┘ └────┬───┘ └────┬─────┘
+        │           │        │         │          │
+   ┌────┴────┐  ┌───┴───┐ ┌──┴──┐ ┌───┴──┐  ┌───┴────┐
+   │Tool     │  │SEO    │ │Monet│ │Blog  │ │Super-  │
+   │Creator  │  │Agent  │ │Scout│ │Writer│ │visor   │
+   │(Daily)  │  │(Weekly│ │(Dail│ │(Daily│ │(Daily) │
+   └─────────┘  └───────┘ └─────┘ └──────┘  └────────┘
+        │                    │         │
+   ┌────┴────┐           ┌───┴──┐ ┌────┴────┐
+   │QA Maint │           │Social│ │User     │
+   │(2x/day)│           │Distrib│ │Feedback │
+   └─────────┘           └──────┘ └─────────┘
+                              │
+                         ┌────┴────┐
+                         │Competitor│
+                         │Watch    │
+                         └─────────┘
+```
+
+### Department Head Agents (4 VPs)
+
+| Role | Schedule | Model | Agent ID | File Output |
+|------|----------|-------|----------|-------------|
+| **VP Product** | Daily 10:00am | MiniMax | [system assigned] | `dept-product-YYYY-MM-DD.md` |
+| **VP Growth** | Daily 10:15am | MiniMax | [system assigned] | `dept-growth-YYYY-MM-DD.md` |
+| **VP Revenue** | Daily 10:30am | MiniMax | [system assigned] | `dept-revenue-YYYY-MM-DD.md` |
+| **VP Content** | Daily 10:45am | MiniMax | [system assigned] | `dept-content-YYYY-MM-DD.md` |
+| **CEO** | Daily 7:00am | MiniMax | [system assigned] | `daily-board-report-YYYY-MM-DD.md` |
+
+### Key Documents
+
+| Document | Purpose | Location |
+|----------|---------|----------|
+| `ORG-CHART.md` | Visual hierarchy + department KPIs | `/home/workspace/TinyToolbox-Corp/` |
+| `KPI-DASHBOARD.md` | Current baselines + targets | `/home/workspace/TinyToolbox-Corp/` |
+| `ESCALATION-RULES.md` | What CEO can do vs Board approval | `/home/workspace/TinyToolbox-Corp/` |
+| `APPROVAL-QUEUE.md` | Pending Board decisions | `/home/workspace/TinyToolbox-Corp/` |
+| `AUTO-ACTION-LOG.md` | CEO autonomous actions | `/home/workspace/TinyToolbox-Corp/` |
+
+### CEO Powers (Auto-Approve)
+- Fix typos, broken links
+- Adjust agent schedules <2 hours
+- Create regression tests
+- Merge build-passing fixes
+- Update dependencies
+
+### Requires Board (Daniel) Approval
+- New affiliate partnerships
+- Site-wide design changes
+- Adding/removing agents
+- Revenue-impacting changes
+- Spend >$50/month
+
+### Daily Report Flow
+
+```
+10:00am → VP Product runs → dept-product-[date].md
+10:15am → VP Growth runs → dept-growth-[date].md
+10:30am → VP Revenue runs → dept-revenue-[date].md
+10:45am → VP Content runs → dept-content-[date].md
+7:00am  → CEO compiles → daily-board-report-[date].md → EMAIL to skipartai@gmail.com
+```
+
+### Current Baseline (for VPs to track against)
+
+| Metric | Current | Target | Status |
+|--------|---------|--------|--------|
+| Tools | 431 | 1,000 EOY | On Track |
+| Lighthouse | 95.6 | 95+ | Meeting |
+| Affiliate Partners | 32 | 100 | On Track |
+| Live Trackers | 5 | 32 | Action Needed |
+| Blog Posts/Week | 7 | 7 | Meeting |
+| Newsletter | Blocked (API) | Weekly | High Priority |
+| Social | Not Connected | 1/day | High Priority |
+

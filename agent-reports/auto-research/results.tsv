@@ -1,0 +1,8 @@
+commit	metric	score	status	description	timestamp
+f3f15bf	performance	78.9	keep	Establish baseline before modifications	2026-03-28T05:19:45.285357
+f3f15bf	performance	95.4	keep	Add font-display: swap to prevent layout shift	2026-03-28T05:21:07.540784
+f3f15bf	performance	77.6	discard	Add font-display: swap to prevent layout shift	2026-03-28T05:21:58.679665
+f3f15bf	performance	94.6	discard	Add loading=lazy to below-fold images in features	2026-03-28T05:23:13.493215
+f3f15bf	performance	95.5	keep	Add loading=lazy to below-fold images in features	2026-03-28T05:24:04.133304
+fbcace4	performance	95.6	keep	Defer Google Ads script to improve initial paint	2026-03-28T05:26:11.331871
+fbcace4	performance	95.5	neutral	Defer Google Ads script to improve initial paint	2026-03-28T05:26:59.301071
